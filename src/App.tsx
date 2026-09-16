@@ -12,6 +12,7 @@ import { LessonReviewPage } from "./features/lessons/LessonReviewPage";
 import { LessonDetailPage } from "./features/lessons/LessonDetailPage";
 import { KanaPage } from "./features/kana/KanaPage";
 import { MixedReviewPage } from "./features/review/MixedReviewPage";
+import { SearchPage } from "./features/search/SearchPage";
 import { WeakAreasPage } from "./features/review/WeakAreasPage";
 import { ProgressStatsPage } from "./features/progress/ProgressStatsPage";
 import { SettingsPage } from "./features/settings/SettingsPage";
@@ -32,6 +33,7 @@ export function App() {
           <Route path="lessons" element={<LessonReviewPage />} />
           <Route path="lessons/:lessonId" element={<LessonDetailPage />} />
           <Route path="kana" element={<KanaPage />} />
+          <Route path="search" element={<SearchPage />} />
           <Route path="review/mixed" element={<MixedReviewPage />} />
           <Route path="review/weak-areas" element={<WeakAreasPage />} />
           <Route path="progress" element={<ProgressStatsPage />} />

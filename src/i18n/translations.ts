@@ -49,6 +49,11 @@ export const translations = {
     pl: "Brak jeszcze materiału źródłowego dla tej sekcji.",
   },
 
+  "search.placeholder": { en: "Search kanji, words, grammar...", pl: "Szukaj kanji, słów, gramatyki..." },
+  "search.title": { en: "Search", pl: "Szukaj" },
+  "search.noResults": { en: "No matches found.", pl: "Nie znaleziono wyników." },
+  "search.viewIn": { en: "View in", pl: "Zobacz w" },
+
   "settings.uiLanguage": { en: "App language", pl: "Język aplikacji" },
   "settings.theme": { en: "Theme", pl: "Motyw" },
   "settings.themeLight": { en: "Light", pl: "Jasny" },

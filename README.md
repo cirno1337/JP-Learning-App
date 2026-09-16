@@ -16,6 +16,13 @@ material. Every fact in the app is traceable back to a specific PDF and page
   latter built from your own answer history (anything you've gotten wrong).
 - **Progress / Statistics** and **Dashboard** — local, Leitner-style spaced
   repetition tracking (streaks, due items, per-category accuracy).
+- **Grammar practice exercises** — multiple-choice particle-selection (fill
+  the blank in a real example sentence) and conjugation-choice questions,
+  generated live from real course vocabulary and grammar data rather than
+  stored as static content (see `src/features/grammar/exercises.ts`).
+- **Global search** — find kanji, vocabulary, grammar, numbers, kana, or a
+  lesson from a single search box (English, Polish, or Japanese input); see
+  `src/lib/search/`.
 - **Settings** — UI language (English/Polish) and theme.
 
 Course-original content is kept visibly distinct from supplementary JLPT
@@ -55,6 +62,10 @@ src/
     srs/           # Leitner-style spaced-repetition scheduling
     storage/       # localStorage-backed progress persistence
     testing/       # shared test-question helpers (e.g. splitting meanings into accepted answers)
+    conjugation/   # data-driven Japanese conjugation engine (godan/ichidan/i-adjective/
+                    # na-adjective rules + a hardcoded table for the irregulars だ/ある/来る/する),
+                    # built only from the forms actually taught in the course
+    search/        # global search across the whole content dataset
   i18n/            # English/Polish UI translations + content localisation helpers
 
 scripts/
