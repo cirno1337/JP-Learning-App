@@ -5,8 +5,8 @@
 }
 
 .app-nav {
-  background: linear-gradient(180deg, var(--color-indigo) 0%, var(--color-indigo-strong) 100%);
-  color: #f4f1e8;
+  background: linear-gradient(180deg, var(--color-brand-bg-start) 0%, var(--color-brand-bg-end) 100%);
+  color: var(--color-brand-text-strong);
   padding: var(--space-4);
   display: flex;
   flex-direction: column;
@@ -17,11 +17,11 @@
   align-items: center;
   gap: var(--space-2);
   margin-bottom: var(--space-4);
-  color: #fdfaf2;
+  color: var(--color-brand-text-strong);
 }
 
 .app-nav__brand-mark {
-  color: var(--color-sakura);
+  color: var(--color-brand-active-bg);
   flex-shrink: 0;
 }
 
@@ -53,15 +53,15 @@
   border-radius: 999px;
   border: 1px solid rgba(255, 255, 255, 0.18);
   background: rgba(255, 255, 255, 0.1);
-  color: #fdfaf2;
+  color: var(--color-brand-text-strong);
 }
 
 .app-nav__search input::placeholder {
-  color: rgba(244, 241, 232, 0.6);
+  color: var(--color-brand-text);
 }
 
 .app-nav__search input:focus-visible {
-  outline-color: var(--color-sakura);
+  outline-color: var(--color-brand-active-bg);
 }
 
 .app-nav ul {
@@ -88,7 +88,7 @@
   gap: var(--space-2);
   padding: var(--space-2) var(--space-3);
   border-radius: 999px;
-  color: rgba(244, 241, 232, 0.85);
+  color: var(--color-brand-text);
   text-decoration: none;
   font-size: 0.92rem;
   transition: background 0.15s ease, color 0.15s ease;
@@ -96,12 +96,12 @@
 
 .app-nav a:hover {
   background: rgba(255, 255, 255, 0.1);
-  color: #fdfaf2;
+  color: var(--color-brand-text-strong);
 }
 
 .app-nav a.active {
-  background: var(--color-sakura);
-  color: #3a1420;
+  background: var(--color-brand-active-bg);
+  color: var(--color-brand-active-text);
   font-weight: 600;
 }
 

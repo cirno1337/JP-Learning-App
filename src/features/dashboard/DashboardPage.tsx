@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
+import { PageHeader } from "../../components/PageHeader";
 import { EmptyState } from "../../components/EmptyState";
-import { SakuraPetals } from "../../components/SakuraPetals";
 import { useTranslation } from "../../i18n/useTranslation";
 import { useProgress } from "../progress/ProgressContext";
 import { dataset } from "../../data";
@@ -42,13 +42,7 @@ export function DashboardPage() {
 
   return (
     <div>
-      <div className="dashboard-hero">
-        <SakuraPetals className="dashboard-hero__petals" />
-        <div className="dashboard-hero__content">
-          <h1 className="dashboard-hero__title">{t("nav.dashboard")}</h1>
-          <p className="dashboard-hero__subtitle jp-text">頑張って！Keep your streak going today.</p>
-        </div>
-      </div>
+      <PageHeader title={t("nav.dashboard")} description={<span className="jp-text">頑張って！Keep your streak going today.</span>} />
 
       <section className="stat-grid">
         <div className="card stat-card">
