@@ -7,6 +7,7 @@ import { dataset } from "../../data";
 import { useProgress } from "../progress/ProgressContext";
 import { checkAnswer } from "../../lib/grading";
 import { meaningsToAcceptedAnswers } from "../../lib/testing/acceptedAnswers";
+import { illustrationForMeanings } from "../../lib/media/illustrations";
 import type { VocabularyEntry } from "../../data/types";
 import type { AnswerOutcome } from "../../lib/storage/types";
 import "../kanji/kanji.css";
@@ -240,6 +241,11 @@ export function VocabularyTestPage() {
               {result.outcome === "self-accepted" && `~ ${t("common.closeEnough")}`}
               {result.outcome === "wrong" && `✗ ${t("common.wrong")}`}
             </p>
+            {illustrationForMeanings(current.vocab.meanings) && (
+              <div className="illustration-badge" role="img" aria-label="Illustration">
+                {illustrationForMeanings(current.vocab.meanings)}
+              </div>
+            )}
             <p>
               Answer:{" "}
               <strong className="jp-text">

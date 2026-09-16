@@ -7,6 +7,7 @@ import { dataset } from "../../data";
 import { useProgress } from "../progress/ProgressContext";
 import { checkAnswer } from "../../lib/grading";
 import { meaningsToAcceptedAnswers } from "../../lib/testing/acceptedAnswers";
+import { illustrationForMeanings } from "../../lib/media/illustrations";
 import type { KanjiEntry } from "../../data/types";
 import type { AnswerOutcome } from "../../lib/storage/types";
 import "./kanji.css";
@@ -237,6 +238,11 @@ export function KanjiTestPage() {
               {result.outcome === "self-accepted" && `~ ${t("common.closeEnough")}`}
               {result.outcome === "wrong" && `✗ ${t("common.wrong")}`}
             </p>
+            {illustrationForMeanings(current.kanji.meanings) && (
+              <div className="illustration-badge" role="img" aria-label="Illustration">
+                {illustrationForMeanings(current.kanji.meanings)}
+              </div>
+            )}
             <p>
               Answer:{" "}
               <strong className="jp-text">

@@ -5,9 +5,9 @@
   --font-jp: "Noto Sans JP", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo",
     "MS Gothic", var(--font-ui);
 
-  --radius-sm: 6px;
-  --radius-md: 10px;
-  --radius-lg: 16px;
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 22px;
 
   --space-1: 4px;
   --space-2: 8px;
@@ -15,57 +15,87 @@
   --space-4: 16px;
   --space-5: 24px;
   --space-6: 32px;
+
+  --shadow-sm: 0 1px 2px rgba(30, 20, 10, 0.06), 0 1px 1px rgba(30, 20, 10, 0.04);
+  --shadow-md: 0 8px 24px rgba(30, 20, 10, 0.08), 0 2px 6px rgba(30, 20, 10, 0.05);
+  --shadow-lift: 0 14px 32px rgba(30, 20, 10, 0.12), 0 4px 10px rgba(30, 20, 10, 0.06);
 }
 
 :root,
 :root[data-theme="light"] {
-  --color-bg: #faf8f4;
-  --color-surface: #ffffff;
+  --color-bg: #fbf6ec;
+  --color-surface: #fffdf9;
   --color-surface-raised: #ffffff;
-  --color-border: #e4ddd0;
-  --color-text: #241f18;
-  --color-text-muted: #6b6153;
-  --color-accent: #a63d2f;
-  --color-accent-contrast: #ffffff;
+  --color-border: #e7dcc4;
+  --color-text: #2a231a;
+  --color-text-muted: #756a58;
+  --color-accent: #bd3b2e;
+  --color-accent-strong: #9c2e23;
+  --color-accent-contrast: #fffaf4;
+  --color-indigo: #274060;
+  --color-indigo-strong: #1b2e47;
+  --color-sakura: #e88fa3;
+  --color-sakura-soft: #fbe4e9;
   --color-success: #2f7a4f;
   --color-danger: #b3392a;
   --color-focus: #2f6fa6;
   --color-supplementary-bg: #eef2f6;
   --color-supplementary-border: #c6d3e0;
+
+  --pattern-opacity: 0.05;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --color-bg: #17140f;
-    --color-surface: #211d16;
-    --color-surface-raised: #2a251c;
-    --color-border: #3a342a;
-    --color-text: #f1ece1;
-    --color-text-muted: #b6ab98;
+    --color-bg: #14171f;
+    --color-surface: #1b1f2a;
+    --color-surface-raised: #222735;
+    --color-border: #333a4a;
+    --color-text: #f1ede3;
+    --color-text-muted: #a7a3b3;
     --color-accent: #e2836c;
-    --color-accent-contrast: #201009;
+    --color-accent-strong: #ef9c85;
+    --color-accent-contrast: #1c1108;
+    --color-indigo: #7fa0d6;
+    --color-indigo-strong: #a8c1ea;
+    --color-sakura: #f2a8bb;
+    --color-sakura-soft: #33202a;
     --color-success: #6fbf8b;
     --color-danger: #e08678;
     --color-focus: #7db4e0;
     --color-supplementary-bg: #1b232c;
     --color-supplementary-border: #33455a;
+
+    --pattern-opacity: 0.06;
   }
 }
 
+:root[data-theme="light"] {
+  color-scheme: light;
+}
+
 :root[data-theme="dark"] {
-  --color-bg: #17140f;
-  --color-surface: #211d16;
-  --color-surface-raised: #2a251c;
-  --color-border: #3a342a;
-  --color-text: #f1ece1;
-  --color-text-muted: #b6ab98;
+  color-scheme: dark;
+  --color-bg: #14171f;
+  --color-surface: #1b1f2a;
+  --color-surface-raised: #222735;
+  --color-border: #333a4a;
+  --color-text: #f1ede3;
+  --color-text-muted: #a7a3b3;
   --color-accent: #e2836c;
-  --color-accent-contrast: #201009;
+  --color-accent-strong: #ef9c85;
+  --color-accent-contrast: #1c1108;
+  --color-indigo: #7fa0d6;
+  --color-indigo-strong: #a8c1ea;
+  --color-sakura: #f2a8bb;
+  --color-sakura-soft: #33202a;
   --color-success: #6fbf8b;
   --color-danger: #e08678;
   --color-focus: #7db4e0;
   --color-supplementary-bg: #1b232c;
   --color-supplementary-border: #33455a;
+
+  --pattern-opacity: 0.06;
 }
 
 * {
@@ -86,6 +116,27 @@ body {
   line-height: 1.5;
 }
 
+/* Subtle seigaiha (overlapping-wave) motif, kept faint enough to read as
+   paper texture rather than decoration competing with content. */
+.app-shell {
+  position: relative;
+}
+
+.app-shell::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  opacity: var(--pattern-opacity);
+  background-color: var(--color-bg);
+  background-image:
+    radial-gradient(circle at 0 100%, transparent 23%, var(--color-indigo) 24%, var(--color-indigo) 27%, transparent 28%, transparent 100%),
+    radial-gradient(circle at 50% 100%, transparent 23%, var(--color-indigo) 24%, var(--color-indigo) 27%, transparent 28%, transparent 100%),
+    radial-gradient(circle at 100% 100%, transparent 23%, var(--color-indigo) 24%, var(--color-indigo) 27%, transparent 28%, transparent 100%);
+  background-size: 64px 32px;
+}
+
 a {
   color: var(--color-accent);
 }
@@ -97,6 +148,15 @@ textarea {
   font-family: inherit;
   font-size: inherit;
   color: inherit;
+}
+
+/* :where() keeps this at zero specificity so page-specific input/select
+   styling (e.g. .test-question__input) can still override it freely. */
+:where(select, input[type="text"], input[type="search"]) {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-1) var(--space-2);
 }
 
 :focus-visible {
@@ -113,12 +173,20 @@ textarea {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   padding: var(--space-4);
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.card--interactive:hover {
+  box-shadow: var(--shadow-lift);
+  transform: translateY(-2px);
+  border-color: var(--color-accent);
 }
 
 .badge {
   display: inline-block;
   font-size: 0.75rem;
-  padding: 2px 8px;
+  padding: 2px 10px;
   border-radius: 999px;
   border: 1px solid var(--color-border);
   color: var(--color-text-muted);
@@ -135,18 +203,35 @@ textarea {
   border: 1px solid var(--color-border);
   background: var(--color-surface);
   color: var(--color-text);
-  border-radius: var(--radius-sm);
+  border-radius: 999px;
   padding: var(--space-2) var(--space-4);
+  font-weight: 500;
+  transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
 }
 
-.btn:hover {
+.btn:hover:not(:disabled) {
   border-color: var(--color-accent);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.btn:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
 }
 
 .btn--primary {
-  background: var(--color-accent);
-  border-color: var(--color-accent);
+  background: linear-gradient(135deg, var(--color-accent), var(--color-accent-strong));
+  border-color: transparent;
   color: var(--color-accent-contrast);
+}
+
+.btn--primary:hover:not(:disabled) {
+  box-shadow: var(--shadow-md);
 }
 
 .visually-hidden {
@@ -156,4 +241,30 @@ textarea {
   overflow: hidden;
   clip: rect(0 0 0 0);
   white-space: nowrap;
+}
+
+/* Illustration emoji shown once an answer is revealed. */
+.illustration-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.5rem;
+  height: 3.5rem;
+  font-size: 1.9rem;
+  border-radius: 50%;
+  background: var(--color-sakura-soft);
+  border: 1px solid var(--color-border);
+  margin: 0 auto var(--space-3);
+  animation: illustration-pop 0.25s ease;
+}
+
+@keyframes illustration-pop {
+  from {
+    transform: scale(0.6);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
 }

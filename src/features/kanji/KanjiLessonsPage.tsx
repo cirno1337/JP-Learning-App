@@ -5,6 +5,7 @@ import { useTranslation } from "../../i18n/useTranslation";
 import { localizedText } from "../../i18n/content";
 import { dataset } from "../../data";
 import { useProgress } from "../progress/ProgressContext";
+import { illustrationForMeanings } from "../../lib/media/illustrations";
 import "./kanji.css";
 
 export function KanjiLessonsPage() {
@@ -98,6 +99,11 @@ export function KanjiLessonsPage() {
 
           {revealed && (
             <div className="kanji-card__details">
+              {illustrationForMeanings(current.meanings) && (
+                <div className="illustration-badge" role="img" aria-label="Illustration">
+                  {illustrationForMeanings(current.meanings)}
+                </div>
+              )}
               <p>
                 <strong>Meaning:</strong> {localizedText(current.meanings, language)}
               </p>

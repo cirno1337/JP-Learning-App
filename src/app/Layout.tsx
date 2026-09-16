@@ -2,6 +2,7 @@ import { NavLink, Outlet, useNavigate } from "react-router-dom";
 import { useTranslation } from "../i18n/useTranslation";
 import { NAV_ITEMS } from "./routes";
 import { useThemeEffect } from "./useThemeEffect";
+import { ToriiMark } from "../components/ToriiMark";
 import "./layout.css";
 
 export function Layout() {
@@ -23,14 +24,23 @@ export function Layout() {
         Skip to content
       </a>
       <nav className="app-nav" aria-label={t("app.title")}>
-        <div className="app-nav__title">{t("app.title")}</div>
+        <div className="app-nav__brand">
+          <ToriiMark className="app-nav__brand-mark" />
+          <span className="app-nav__title">{t("app.title")}</span>
+        </div>
         <form role="search" onSubmit={handleSearchSubmit} className="app-nav__search">
+          <span className="app-nav__search-icon" aria-hidden="true">
+            🔍
+          </span>
           <input type="search" name="q" placeholder={t("search.placeholder")} aria-label={t("search.title")} />
         </form>
         <ul>
           {NAV_ITEMS.map((item) => (
             <li key={item.path}>
               <NavLink to={item.path} end={item.path === "/"}>
+                <span className="app-nav__icon jp-text" aria-hidden="true">
+                  {item.icon}
+                </span>
                 {t(item.labelKey)}
               </NavLink>
             </li>

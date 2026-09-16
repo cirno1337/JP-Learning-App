@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
-import { PageHeader } from "../../components/PageHeader";
 import { EmptyState } from "../../components/EmptyState";
+import { SakuraPetals } from "../../components/SakuraPetals";
 import { useTranslation } from "../../i18n/useTranslation";
 import { useProgress } from "../progress/ProgressContext";
 import { dataset } from "../../data";
 import { isDue } from "../../lib/srs";
+import "./dashboard.css";
 
 function accuracyOf(automaticCorrect: number, selfAccepted: number, wrong: number) {
   const total = automaticCorrect + selfAccepted + wrong;
@@ -29,61 +30,82 @@ export function DashboardPage() {
 
   const dueCount = Object.values(state.itemStats).filter((s) => isDue(s)).length;
 
-  const contentTotals = {
-    kanji: dataset.kanji.length,
-    vocabulary: dataset.vocabulary.length,
-    grammar: dataset.grammar.length,
-    numbers: dataset.numbers.length,
-    lessons: dataset.lessons.length,
-  };
+  const contentTotals = [
+    { icon: "🈶", label: t("nav.kanjiLessons"), count: dataset.kanji.length },
+    { icon: "📖", label: t("nav.vocabularyLessons"), count: dataset.vocabulary.length },
+    { icon: "🧩", label: t("nav.grammar"), count: dataset.grammar.length },
+    { icon: "🔢", label: t("nav.numbers"), count: dataset.numbers.length },
+    { icon: "🗂️", label: t("nav.lessonReview"), count: dataset.lessons.length },
+  ];
 
-  const hasAnyContent = Object.values(contentTotals).some((n) => n > 0);
+  const hasAnyContent = contentTotals.some((c) => c.count > 0);
 
   return (
     <div>
-      <PageHeader title={t("nav.dashboard")} />
+      <div className="dashboard-hero">
+        <SakuraPetals className="dashboard-hero__petals" />
+        <div className="dashboard-hero__content">
+          <h1 className="dashboard-hero__title">{t("nav.dashboard")}</h1>
+          <p className="dashboard-hero__subtitle jp-text">頑張って！Keep your streak going today.</p>
+        </div>
+      </div>
 
-      <section style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))", gap: "var(--space-4)", marginBottom: "var(--space-5)" }}>
-        <div className="card">
-          <strong>{t("dashboard.streak")}</strong>
-          <p style={{ fontSize: "1.75rem", margin: "var(--space-2) 0 0" }}>{state.currentStreak ?? 0}</p>
+      <section className="stat-grid">
+        <div className="card stat-card">
+          <span className="stat-card__icon" aria-hidden="true">
+            🔥
+          </span>
+          <div>
+            <p className="stat-card__label">{t("dashboard.streak")}</p>
+            <p className="stat-card__value">{state.currentStreak ?? 0}</p>
+          </div>
         </div>
-        <div className="card">
-          <strong>{t("dashboard.dueToday")}</strong>
-          <p style={{ fontSize: "1.75rem", margin: "var(--space-2) 0 0" }}>{dueCount}</p>
+        <div className="card stat-card">
+          <span className="stat-card__icon" aria-hidden="true">
+            ⏰
+          </span>
+          <div>
+            <p className="stat-card__label">{t("dashboard.dueToday")}</p>
+            <p className="stat-card__value">{dueCount}</p>
+          </div>
         </div>
-        <div className="card">
-          <strong>{t("dashboard.recentAccuracy")}</strong>
-          {accuracy ? (
-            <p style={{ margin: "var(--space-2) 0 0" }}>
-              {accuracy.totalAcceptedPct}%{" "}
-              <span style={{ color: "var(--color-text-muted)", fontSize: "0.85rem" }}>
-                (auto {accuracy.autoPct}% + self {accuracy.selfPct}%)
-              </span>
-            </p>
-          ) : (
-            <p style={{ color: "var(--color-text-muted)", margin: "var(--space-2) 0 0" }}>{t("dashboard.noDataYet")}</p>
-          )}
+        <div className="card stat-card">
+          <span className="stat-card__icon" aria-hidden="true">
+            🎯
+          </span>
+          <div>
+            <p className="stat-card__label">{t("dashboard.recentAccuracy")}</p>
+            {accuracy ? (
+              <>
+                <p className="stat-card__value">{accuracy.totalAcceptedPct}%</p>
+                <p className="stat-card__hint">
+                  auto {accuracy.autoPct}% + self {accuracy.selfPct}%
+                </p>
+              </>
+            ) : (
+              <p className="stat-card__hint">{t("dashboard.noDataYet")}</p>
+            )}
+          </div>
         </div>
       </section>
 
       <section style={{ marginBottom: "var(--space-5)" }}>
         <h2 style={{ fontSize: "1.1rem" }}>{t("dashboard.quickStart")}</h2>
-        <div style={{ display: "flex", gap: "var(--space-3)", flexWrap: "wrap" }}>
+        <div className="quick-start__grid">
           <Link className="btn btn--primary" to="/kanji/test">
-            {t("nav.kanjiTest")}
+            <span aria-hidden="true">📝</span> {t("nav.kanjiTest")}
           </Link>
           <Link className="btn btn--primary" to="/vocabulary/test">
-            {t("nav.vocabularyTest")}
+            <span aria-hidden="true">✍️</span> {t("nav.vocabularyTest")}
           </Link>
           <Link className="btn" to="/grammar">
-            {t("nav.grammar")}
+            <span aria-hidden="true">🧩</span> {t("nav.grammar")}
           </Link>
           <Link className="btn" to="/numbers">
-            {t("nav.numbers")}
+            <span aria-hidden="true">🔢</span> {t("nav.numbers")}
           </Link>
           <Link className="btn" to="/review/mixed">
-            {t("nav.mixedReview")}
+            <span aria-hidden="true">🎲</span> {t("nav.mixedReview")}
           </Link>
         </div>
       </section>
@@ -91,22 +113,16 @@ export function DashboardPage() {
       <section>
         <h2 style={{ fontSize: "1.1rem" }}>{t("dashboard.overallProgress")}</h2>
         {hasAnyContent ? (
-          <ul>
-            <li>
-              {t("nav.kanjiLessons")}: {contentTotals.kanji}
-            </li>
-            <li>
-              {t("nav.vocabularyLessons")}: {contentTotals.vocabulary}
-            </li>
-            <li>
-              {t("nav.grammar")}: {contentTotals.grammar}
-            </li>
-            <li>
-              {t("nav.numbers")}: {contentTotals.numbers}
-            </li>
-            <li>
-              {t("nav.lessonReview")}: {contentTotals.lessons}
-            </li>
+          <ul className="progress-grid">
+            {contentTotals.map((c) => (
+              <li key={c.label}>
+                <span className="progress-grid__icon jp-text" aria-hidden="true">
+                  {c.icon}
+                </span>
+                {c.label}
+                <span className="progress-grid__count">{c.count}</span>
+              </li>
+            ))}
           </ul>
         ) : (
           <EmptyState message="No lesson content has been processed into the app yet — this will fill in as PDFs are extracted." />

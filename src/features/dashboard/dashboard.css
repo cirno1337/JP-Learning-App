@@ -1,0 +1,114 @@
+.dashboard-hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--color-indigo) 0%, var(--color-indigo-strong) 100%);
+  color: #fdfaf2;
+  padding: var(--space-5) var(--space-5);
+  margin-bottom: var(--space-5);
+}
+
+.dashboard-hero__petals {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+.dashboard-hero__content {
+  position: relative;
+}
+
+.dashboard-hero__title {
+  margin: 0;
+  font-size: 1.6rem;
+}
+
+.dashboard-hero__subtitle {
+  margin: var(--space-2) 0 0;
+  color: rgba(253, 250, 242, 0.8);
+  max-width: 46ch;
+}
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--space-4);
+  margin-bottom: var(--space-5);
+}
+
+.stat-card {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-3);
+}
+
+.stat-card__icon {
+  font-size: 1.6rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--color-sakura-soft);
+  flex-shrink: 0;
+}
+
+.stat-card__label {
+  margin: 0;
+  color: var(--color-text-muted);
+  font-size: 0.85rem;
+}
+
+.stat-card__value {
+  margin: var(--space-1) 0 0;
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.stat-card__hint {
+  color: var(--color-text-muted);
+  font-size: 0.8rem;
+}
+
+.quick-start__grid {
+  display: flex;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+}
+
+.quick-start__grid a {
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.progress-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--space-3);
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.progress-grid li {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--space-2) var(--space-3);
+}
+
+.progress-grid__icon {
+  font-size: 1.2rem;
+}
+
+.progress-grid__count {
+  margin-left: auto;
+  font-weight: 700;
+}
