@@ -1,0 +1,1137 @@
+[
+  {
+    "id": "class-05-grammar-001",
+    "pattern": "Question words",
+    "explanation": [
+      {
+        "en": "A question word takes the same position in the sentence that its answer would occupy in an affirmative sentence. Particles stay the same except は, which becomes が on the questioned element (it's now being emphasized/asked about). Question word inventory: 誰/どなた(formal) = who; 何(なに alone/with particles, なん elsewhere, also \"how much\" with a counter) = what; どこ = where; いつ = when; なぜ(formal)/どうして(oral)/なんで(casual) = why; どう/どうやって(emphasizing method) = how; どれ = which one; どの = which [+noun]; どんな = what kind of; どちら/どっち(casual) = where/which way (direction); いくつ/おいくつ(polite, also used for age) = how many; いくら = how much (price); どれくらい = how long."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-05-example-001",
+        "japanese": "あのひとは誰ですか。",
+        "meanings": [
+          {
+            "en": "Who is that person? [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-002",
+        "japanese": "あのひとは誰だの。",
+        "meanings": [
+          {
+            "en": "Who is that person? [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-003",
+        "japanese": "誰が来ますか。",
+        "meanings": [
+          {
+            "en": "Who is coming? [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-004",
+        "japanese": "誰が来るの。",
+        "meanings": [
+          {
+            "en": "Who is coming? [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-005",
+        "japanese": "君は誰を見るの。",
+        "meanings": [
+          {
+            "en": "Who are you looking at?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-006",
+        "japanese": "君は誰と話すの。",
+        "meanings": [
+          {
+            "en": "Who are you talking with?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-007",
+        "japanese": "君は何を食べるの。",
+        "meanings": [
+          {
+            "en": "What are you eating?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-008",
+        "japanese": "これは何ですか。",
+        "meanings": [
+          {
+            "en": "What is this? [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-009",
+        "japanese": "これは何だの。",
+        "meanings": [
+          {
+            "en": "What is this? [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-010",
+        "japanese": "何が好き？",
+        "meanings": [
+          {
+            "en": "What do you like?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-011",
+        "japanese": "彼は何歳ですか。",
+        "meanings": [
+          {
+            "en": "How old is he?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-012",
+        "japanese": "犬が何匹いますか。",
+        "meanings": [
+          {
+            "en": "How many dogs are there?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-013",
+        "japanese": "何曜日ですか。",
+        "meanings": [
+          {
+            "en": "What day of the week is it?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-014",
+        "japanese": "何時ですか。",
+        "meanings": [
+          {
+            "en": "What time is it?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-015",
+        "japanese": "犬はどこですか。",
+        "meanings": [
+          {
+            "en": "Where is the dog?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-016",
+        "japanese": "どこに住んでいるの。",
+        "meanings": [
+          {
+            "en": "Where do you live?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-017",
+        "japanese": "どこで勉強するの。",
+        "meanings": [
+          {
+            "en": "Where do you study?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-018",
+        "japanese": "いつ来るの。",
+        "meanings": [
+          {
+            "en": "When are you coming?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-019",
+        "japanese": "いつ日本へ行きますか。",
+        "meanings": [
+          {
+            "en": "When are you going to Japan?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-020",
+        "japanese": "なぜ日本語を話しますか。",
+        "meanings": [
+          {
+            "en": "Why do you speak Japanese? [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-021",
+        "japanese": "どうして本を読みますか。",
+        "meanings": [
+          {
+            "en": "Why do you read books? [oral]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-022",
+        "japanese": "なんでりんごを食べるの。",
+        "meanings": [
+          {
+            "en": "Why do you eat apples? [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-023",
+        "japanese": "どうラーメンを食べますか。",
+        "meanings": [
+          {
+            "en": "How do you eat ramen?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-024",
+        "japanese": "どうやって日本に行きましたか。",
+        "meanings": [
+          {
+            "en": "How (by what means) did you go to Japan?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-025",
+        "japanese": "君の本はどれですか。",
+        "meanings": [
+          {
+            "en": "Which one is your book?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-026",
+        "japanese": "どの本が赤いですか。",
+        "meanings": [
+          {
+            "en": "Which book is red?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-027",
+        "japanese": "どっちへ行くの。",
+        "meanings": [
+          {
+            "en": "Which way are you going? [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-028",
+        "japanese": "どちらへ行きますか。",
+        "meanings": [
+          {
+            "en": "Which way are you going? [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-029",
+        "japanese": "テーブルがいくつあるの。",
+        "meanings": [
+          {
+            "en": "How many tables are there?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-030",
+        "japanese": "おいくつですか。",
+        "meanings": [
+          {
+            "en": "How old are you? [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-031",
+        "japanese": "いくらですか。",
+        "meanings": [
+          {
+            "en": "How much does it cost?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-032",
+        "japanese": "この本はいくらですか。",
+        "meanings": [
+          {
+            "en": "How much does this book cost?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-033",
+        "japanese": "日本語をどれくらい勉強しましたか。",
+        "meanings": [
+          {
+            "en": "For how long have you been studying Japanese?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 9
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-05-grammar-002",
+    "pattern": "Indefinite pronouns (か / でも / も+negation)",
+    "explanation": [
+      {
+        "en": "Question words combine with か/でも/も to form indefinite pronouns: question-word + か = \"some-\" (誰か = somebody, 何か = something, どこか = somewhere, いつか = someday); question-word + でも = \"any-\" (誰でも = anybody, 何でも = anything, どこでも = anywhere, いつでも = anytime); question-word + も + negative verb = \"no-\" (誰も来ません = nobody came, 何も見ません = I see nothing, どこも行きません = I'm going nowhere); いつも without a negative instead means \"always\"."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-05-example-034",
+        "japanese": "誰か来ました。",
+        "meanings": [
+          {
+            "en": "Somebody came."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-035",
+        "japanese": "何か見ます。",
+        "meanings": [
+          {
+            "en": "I see something."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-036",
+        "japanese": "どこか行きます。",
+        "meanings": [
+          {
+            "en": "I am going somewhere."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-037",
+        "japanese": "いつか日本へ行きます。",
+        "meanings": [
+          {
+            "en": "One day, I'll go to Japan."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-038",
+        "japanese": "誰でもできます。",
+        "meanings": [
+          {
+            "en": "Anybody can do it."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-039",
+        "japanese": "何でも食べます。",
+        "meanings": [
+          {
+            "en": "I eat anything."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-040",
+        "japanese": "どこでもいいです。",
+        "meanings": [
+          {
+            "en": "I am fine with going anywhere."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-041",
+        "japanese": "いつでも来てください。",
+        "meanings": [
+          {
+            "en": "Feel free to come anytime."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-042",
+        "japanese": "誰も来ません。",
+        "meanings": [
+          {
+            "en": "Nobody came."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-043",
+        "japanese": "何も見ません。",
+        "meanings": [
+          {
+            "en": "I see nothing."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-044",
+        "japanese": "どこも行きません。",
+        "meanings": [
+          {
+            "en": "I am going nowhere."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-045",
+        "japanese": "いつも日本へ行きません。",
+        "meanings": [
+          {
+            "en": "I don't always go to Japan."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-046",
+        "japanese": "いつも牛乳を飲みます。",
+        "meanings": [
+          {
+            "en": "I always drink milk."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-05-grammar-003",
+    "pattern": "から (because)",
+    "explanation": [
+      {
+        "en": "\"Because\" is expressed with から, placed at the end of the reason clause. It answers なぜ/どうして/なんで questions. When both the reason and the main sentence are given together, the reason (with から) comes first: 赤いですから、この車を買いたいです = Because it is red, I want to buy this car."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-05-example-047",
+        "japanese": "学生だ。学生だから。",
+        "meanings": [
+          {
+            "en": "I am a student. Because I am a student."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-048",
+        "japanese": "赤いです。赤いですから。",
+        "meanings": [
+          {
+            "en": "It is red. Because it is red."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-049",
+        "japanese": "赤いですから、この車を買いたいです。",
+        "meanings": [
+          {
+            "en": "Because it is red, I want to buy this car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-05-grammar-004",
+    "pattern": "でも / しかし (but), 後で (after), 前に (before)",
+    "explanation": [
+      {
+        "en": "\"But\" is でも (casual) or its formal version しかし. \"After [noun]\" is [noun]+の後で; \"after [verb]\" is ta-form+後で. \"Before [noun]\" is [noun]+の前に; \"before [verb]\" is dictionary-form (u-stem)+前に — note 前に always takes the dictionary form regardless of tense, unlike 後で which takes the ta-form."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-05-example-050",
+        "japanese": "本を買いたいです。でも、お金がありません。",
+        "meanings": [
+          {
+            "en": "I want to buy books. But I don't have money."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-051",
+        "japanese": "日本に行きたいです。しかし、日本語を話しません。",
+        "meanings": [
+          {
+            "en": "I want to go to Japan. But I don't speak Japanese."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-052",
+        "japanese": "その後で食べます。",
+        "reading": "そのあとで",
+        "meanings": [
+          {
+            "en": "After that, I'll eat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-053",
+        "japanese": "学校の後でレストランに行く。",
+        "meanings": [
+          {
+            "en": "After school, I'll go to the restaurant."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-054",
+        "japanese": "食べた後で寝ます。",
+        "meanings": [
+          {
+            "en": "After eating, I'll sleep."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-055",
+        "japanese": "寝た後でレストランに行く。",
+        "meanings": [
+          {
+            "en": "After sleeping, I'll go to the restaurant."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-056",
+        "japanese": "その前に食べます。",
+        "reading": "そのまえに",
+        "meanings": [
+          {
+            "en": "Before that, I'll eat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-057",
+        "japanese": "学校の前にレストランに行く。",
+        "meanings": [
+          {
+            "en": "Before school, I'll go to the restaurant."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-058",
+        "japanese": "食べる前に寝ます。",
+        "meanings": [
+          {
+            "en": "Before eating, I'll sleep."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-059",
+        "japanese": "寝る前にレストランに行く。",
+        "meanings": [
+          {
+            "en": "Before sleeping, I'll go to the restaurant."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-05-grammar-005",
+    "pattern": "Adverbs of time/degree (一緒に, たくさん/とても, もう, まだ)",
+    "explanation": [
+      {
+        "en": "Adverbs are placed just before the verb they modify. 一緒に = together; たくさん/とても = very/a lot (don't confuse with たくさんの = \"a lot of\" [+noun]); もう = already; まだ = still, and まだ + negative = \"not yet\"."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-05-example-060",
+        "japanese": "月曜日に一緒に食べます。",
+        "meanings": [
+          {
+            "en": "On Mondays, we eat together."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-061",
+        "japanese": "この犬はとても小さいです。",
+        "meanings": [
+          {
+            "en": "This dog is very small."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-062",
+        "japanese": "もう食べました。",
+        "meanings": [
+          {
+            "en": "I already ate."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-063",
+        "japanese": "まだ食べます。",
+        "meanings": [
+          {
+            "en": "I am still eating."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-05-example-064",
+        "japanese": "まだ食べていません。",
+        "meanings": [
+          {
+            "en": "I didn't eat yet."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°05 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  }
+]

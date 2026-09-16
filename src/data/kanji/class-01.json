@@ -1,0 +1,715 @@
+[
+  {
+    "id": "class-01-kanji-001",
+    "character": "人",
+    "meanings": [
+      {
+        "en": "human being, person"
+      }
+    ],
+    "readings": [
+      "ひと"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 5
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-001",
+      "class-01-vocab-002",
+      "class-01-vocab-003"
+    ]
+  },
+  {
+    "id": "class-01-kanji-002",
+    "character": "一",
+    "meanings": [
+      {
+        "en": "one"
+      }
+    ],
+    "readings": [
+      "いち",
+      "ひと"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 6
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-004",
+      "class-01-vocab-005"
+    ]
+  },
+  {
+    "id": "class-01-kanji-003",
+    "character": "二",
+    "meanings": [
+      {
+        "en": "two"
+      }
+    ],
+    "readings": [
+      "に",
+      "ふた"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 7
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-006"
+    ]
+  },
+  {
+    "id": "class-01-kanji-004",
+    "character": "三",
+    "meanings": [
+      {
+        "en": "three"
+      }
+    ],
+    "readings": [
+      "さん",
+      "み"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 8
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-007"
+    ]
+  },
+  {
+    "id": "class-01-kanji-005",
+    "character": "四",
+    "meanings": [
+      {
+        "en": "four"
+      }
+    ],
+    "readings": [
+      "よん",
+      "よ"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 9
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-008"
+    ]
+  },
+  {
+    "id": "class-01-kanji-006",
+    "character": "五",
+    "meanings": [
+      {
+        "en": "five"
+      }
+    ],
+    "readings": [
+      "ご",
+      "いつ"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 13
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-009"
+    ]
+  },
+  {
+    "id": "class-01-kanji-007",
+    "character": "六",
+    "meanings": [
+      {
+        "en": "six"
+      }
+    ],
+    "readings": [
+      "ろく",
+      "む"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 14
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-010"
+    ]
+  },
+  {
+    "id": "class-01-kanji-008",
+    "character": "七",
+    "meanings": [
+      {
+        "en": "seven"
+      }
+    ],
+    "readings": [
+      "なな"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 15
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-011"
+    ]
+  },
+  {
+    "id": "class-01-kanji-009",
+    "character": "八",
+    "meanings": [
+      {
+        "en": "eight"
+      }
+    ],
+    "readings": [
+      "はち",
+      "や"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 16
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-012"
+    ]
+  },
+  {
+    "id": "class-01-kanji-010",
+    "character": "九",
+    "meanings": [
+      {
+        "en": "nine"
+      }
+    ],
+    "readings": [
+      "きゅう",
+      "ここの"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 17
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-013"
+    ]
+  },
+  {
+    "id": "class-01-kanji-011",
+    "character": "十",
+    "meanings": [
+      {
+        "en": "ten"
+      }
+    ],
+    "readings": [
+      "じゅう"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "id": "class-01-kanji-012",
+    "character": "日",
+    "meanings": [
+      {
+        "en": "day, sun"
+      }
+    ],
+    "readings": [
+      "ひ"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "id": "class-01-kanji-013",
+    "character": "百",
+    "meanings": [
+      {
+        "en": "one hundred"
+      }
+    ],
+    "readings": [
+      "ひゃく"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 23
+      }
+    ]
+  },
+  {
+    "id": "class-01-kanji-014",
+    "character": "千",
+    "meanings": [
+      {
+        "en": "one thousand"
+      }
+    ],
+    "readings": [
+      "せん"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "id": "class-01-kanji-015",
+    "character": "万",
+    "meanings": [
+      {
+        "en": "ten thousand"
+      }
+    ],
+    "readings": [
+      "まん"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 25
+      }
+    ]
+  },
+  {
+    "id": "class-01-kanji-016",
+    "character": "円",
+    "meanings": [
+      {
+        "en": "yen"
+      }
+    ],
+    "readings": [
+      "えん"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 29
+      }
+    ]
+  },
+  {
+    "id": "class-01-kanji-017",
+    "character": "月",
+    "meanings": [
+      {
+        "en": "month, moon"
+      }
+    ],
+    "readings": [
+      "つき"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 30
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-014"
+    ]
+  },
+  {
+    "id": "class-01-kanji-018",
+    "character": "明",
+    "meanings": [
+      {
+        "en": "bright, light, tomorrow"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 31
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"明るい\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-01-vocab-015",
+      "class-01-vocab-016"
+    ]
+  },
+  {
+    "id": "class-01-kanji-019",
+    "character": "曜",
+    "meanings": [
+      {
+        "en": "weekday"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 32
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"日曜日\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-01-vocab-017",
+      "class-01-vocab-018"
+    ]
+  },
+  {
+    "id": "class-01-kanji-020",
+    "character": "火",
+    "meanings": [
+      {
+        "en": "fire"
+      }
+    ],
+    "readings": [
+      "ひ"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 33
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-019"
+    ]
+  },
+  {
+    "id": "class-01-kanji-021",
+    "character": "水",
+    "meanings": [
+      {
+        "en": "water"
+      }
+    ],
+    "readings": [
+      "みず"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 37
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-020"
+    ]
+  },
+  {
+    "id": "class-01-kanji-022",
+    "character": "木",
+    "meanings": [
+      {
+        "en": "tree, wood"
+      }
+    ],
+    "readings": [
+      "き"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 38
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-021"
+    ]
+  },
+  {
+    "id": "class-01-kanji-023",
+    "character": "金",
+    "meanings": [
+      {
+        "en": "gold"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 39
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"お金\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-01-vocab-022",
+      "class-01-vocab-023"
+    ]
+  },
+  {
+    "id": "class-01-kanji-024",
+    "character": "土",
+    "meanings": [
+      {
+        "en": "soil"
+      }
+    ],
+    "readings": [
+      "つち"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 40
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-024"
+    ]
+  },
+  {
+    "id": "class-01-kanji-025",
+    "character": "本",
+    "meanings": [
+      {
+        "en": "book, origin"
+      }
+    ],
+    "readings": [
+      "ほん"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°01.pdf",
+        "page": 41
+      }
+    ],
+    "vocabularyIds": [
+      "class-01-vocab-025",
+      "class-01-vocab-026"
+    ]
+  }
+]

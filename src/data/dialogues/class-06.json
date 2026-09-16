@@ -1,0 +1,271 @@
+[
+  {
+    "id": "class-06-dialogue-001",
+    "title": "レオさん (Leo the butcher), part 2 — comprehensible input reading passage",
+    "lines": [
+      {
+        "japanese": "彼はレオさんです。",
+        "reading": "かれはレオさんです",
+        "meanings": [
+          {
+            "en": "He is Leo."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんは部屋にいました。",
+        "reading": "レオさんはへやにいました",
+        "meanings": [
+          {
+            "en": "Leo was in his room."
+          }
+        ]
+      },
+      {
+        "japanese": "朝でした。",
+        "reading": "あさでした",
+        "meanings": [
+          {
+            "en": "It was morning."
+          }
+        ]
+      },
+      {
+        "japanese": "明るかったです。",
+        "reading": "あかるかったです",
+        "meanings": [
+          {
+            "en": "It was bright."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんはちょっと病気でした。",
+        "reading": "レオさんはちょっとびょうきでした",
+        "meanings": [
+          {
+            "en": "Leo was a little sick."
+          }
+        ]
+      },
+      {
+        "japanese": "朝、彼は電話を使いました。",
+        "reading": "あさ、かれはでんわをつかいました",
+        "meanings": [
+          {
+            "en": "In the morning, he used his phone."
+          }
+        ]
+      },
+      {
+        "japanese": "電話でメッセージを読みました。",
+        "reading": "でんわでメッセージをよみました",
+        "meanings": [
+          {
+            "en": "He read messages on his phone."
+          }
+        ]
+      },
+      {
+        "japanese": "朝ご飯の前に手を洗いました。",
+        "reading": "あさごはんのまえにてをあらいました",
+        "meanings": [
+          {
+            "en": "He washed his hands before breakfast."
+          }
+        ]
+      },
+      {
+        "japanese": "その後で、朝ご飯を食べました。",
+        "reading": "そのあとで、あさごはんをたべました",
+        "meanings": [
+          {
+            "en": "After that, he ate breakfast."
+          }
+        ]
+      },
+      {
+        "japanese": "ヨーグルトを食べました。",
+        "reading": "ヨーグルトをたべました",
+        "meanings": [
+          {
+            "en": "He ate yogurt."
+          }
+        ]
+      },
+      {
+        "japanese": "食べた後で、電話を見つけませんでした。",
+        "reading": "たべたあとで、でんわをみつけませんでした",
+        "meanings": [
+          {
+            "en": "After eating, he couldn't find his phone."
+          }
+        ]
+      },
+      {
+        "japanese": "電話を無くしました。",
+        "reading": "でんわをなくしました",
+        "meanings": [
+          {
+            "en": "He lost his phone."
+          }
+        ]
+      },
+      {
+        "japanese": "リビングルームで電話を探しました。",
+        "reading": "リビングルームででんわをさがしました",
+        "meanings": [
+          {
+            "en": "He looked for his phone in the living room."
+          }
+        ]
+      },
+      {
+        "japanese": "でも、リビングルームに電話がありませんでした。",
+        "reading": "でも、リビングルームにでんわがありませんでした",
+        "meanings": [
+          {
+            "en": "But there was no phone in the living room."
+          }
+        ]
+      },
+      {
+        "japanese": "バスルームでも探したかったです。",
+        "reading": "バスルームでもさがしたかったです",
+        "meanings": [
+          {
+            "en": "He also wanted to look in the bathroom."
+          }
+        ]
+      },
+      {
+        "japanese": "しかし、お父さんはシャワーを浴びていました。",
+        "reading": "しかし、おとうさんはシャワーをあびていました",
+        "meanings": [
+          {
+            "en": "However, his father was taking a shower."
+          }
+        ]
+      },
+      {
+        "japanese": "ですから、キッチンで電話を探しました。",
+        "reading": "ですから、キッチンででんわをさがしました",
+        "meanings": [
+          {
+            "en": "So he looked for his phone in the kitchen."
+          }
+        ]
+      },
+      {
+        "japanese": "でも、キッチンにも電話がありませんでした。",
+        "reading": "でも、キッチンにもでんわがありませんでした",
+        "meanings": [
+          {
+            "en": "But there was no phone in the kitchen either."
+          }
+        ]
+      },
+      {
+        "japanese": "お母さんに「僕の電話はどこですか」と言いました。",
+        "reading": "おかあさんに「ぼくのでんわはどこですか」といいました",
+        "meanings": [
+          {
+            "en": "He said to his mother, \"Where is my phone?\""
+          }
+        ]
+      },
+      {
+        "japanese": "彼女は「知りません」と言いました。",
+        "reading": "かのじょは「しりません」といいました",
+        "meanings": [
+          {
+            "en": "She said, \"I don't know.\""
+          }
+        ]
+      },
+      {
+        "japanese": "しかし、お父さんがシャワーを浴びた後で、レオさんはバスルームで電話を探しました。",
+        "reading": "しかし、おとうさんがシャワーをあびたあとで、レオさんはバスルームででんわをさがしました",
+        "meanings": [
+          {
+            "en": "However, after his father finished showering, Leo looked for his phone in the bathroom."
+          }
+        ]
+      },
+      {
+        "japanese": "そして…電話を見つけました。",
+        "reading": "そして…でんわをみつけました",
+        "meanings": [
+          {
+            "en": "And... he found his phone."
+          }
+        ]
+      },
+      {
+        "japanese": "バスルームに電話がありました。",
+        "reading": "バスルームにでんわがありました",
+        "meanings": [
+          {
+            "en": "The phone was in the bathroom."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんは嬉しかったです。",
+        "reading": "レオさんはうれしかったです",
+        "meanings": [
+          {
+            "en": "Leo was happy."
+          }
+        ]
+      },
+      {
+        "japanese": "あの晩、彼はラーメンを食べました。",
+        "reading": "あのばん、かれはラーメンをたべました",
+        "meanings": [
+          {
+            "en": "That evening, he ate ramen."
+          }
+        ]
+      },
+      {
+        "japanese": "食べた後で、部屋に行きました。",
+        "reading": "たべたあとで、へやにいきました",
+        "meanings": [
+          {
+            "en": "After eating, he went to his room."
+          }
+        ]
+      },
+      {
+        "japanese": "その後で、寝ました。",
+        "reading": "そのあとで、ねました",
+        "meanings": [
+          {
+            "en": "Then he went to sleep."
+          }
+        ]
+      },
+      {
+        "japanese": "ピザを夢見ました。",
+        "reading": "ピザをゆめみました",
+        "meanings": [
+          {
+            "en": "He dreamed about pizza."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 6,
+        "note": "Reading passage spans pages 6-9"
+      }
+    ]
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "id": "class-10-kanji-001",
+    "character": "持",
+    "meanings": [
+      {
+        "en": "hold, have"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 5
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"持つ\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-001",
+      "class-10-vocab-002",
+      "class-10-vocab-003",
+      "class-10-vocab-004"
+    ]
+  },
+  {
+    "id": "class-10-kanji-002",
+    "character": "待",
+    "meanings": [
+      {
+        "en": "wait"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 6
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"待つ\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-005"
+    ]
+  },
+  {
+    "id": "class-10-kanji-003",
+    "character": "界",
+    "meanings": [
+      {
+        "en": "world"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 7
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"世界\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-006"
+    ]
+  },
+  {
+    "id": "class-10-kanji-004",
+    "character": "終",
+    "meanings": [
+      {
+        "en": "end, finish"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 8
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"終わる\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-007",
+      "class-10-vocab-008"
+    ]
+  },
+  {
+    "id": "class-10-kanji-005",
+    "character": "冬",
+    "meanings": [
+      {
+        "en": "winter"
+      }
+    ],
+    "readings": [
+      "ふゆ"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-10-kanji-006",
+    "character": "春",
+    "meanings": [
+      {
+        "en": "spring"
+      }
+    ],
+    "readings": [
+      "はる"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-10-kanji-007",
+    "character": "夏",
+    "meanings": [
+      {
+        "en": "summer"
+      }
+    ],
+    "readings": [
+      "なつ"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 14
+      }
+    ],
+    "vocabularyIds": [
+      "class-10-vocab-009"
+    ]
+  },
+  {
+    "id": "class-10-kanji-008",
+    "character": "秋",
+    "meanings": [
+      {
+        "en": "autumn"
+      }
+    ],
+    "readings": [
+      "あき"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-10-kanji-009",
+    "character": "朝",
+    "meanings": [
+      {
+        "en": "morning"
+      }
+    ],
+    "readings": [
+      "あさ"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 16
+      }
+    ],
+    "vocabularyIds": [
+      "class-10-vocab-010",
+      "class-10-vocab-011"
+    ]
+  },
+  {
+    "id": "class-10-kanji-010",
+    "character": "昼",
+    "meanings": [
+      {
+        "en": "noon, midday"
+      }
+    ],
+    "readings": [
+      "ひる"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 17
+      }
+    ],
+    "vocabularyIds": [
+      "class-10-vocab-012"
+    ]
+  },
+  {
+    "id": "class-10-kanji-011",
+    "character": "夜",
+    "meanings": [
+      {
+        "en": "night"
+      }
+    ],
+    "readings": [
+      "よる"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 21
+      }
+    ],
+    "vocabularyIds": [
+      "class-10-vocab-013",
+      "class-10-vocab-014"
+    ]
+  },
+  {
+    "id": "class-10-kanji-012",
+    "character": "止",
+    "meanings": [
+      {
+        "en": "stop"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 22
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"止まる\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-015",
+      "class-10-vocab-016",
+      "class-10-vocab-017"
+    ]
+  },
+  {
+    "id": "class-10-kanji-013",
+    "character": "始",
+    "meanings": [
+      {
+        "en": "begin"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 23
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"始まる\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-018",
+      "class-10-vocab-019"
+    ]
+  },
+  {
+    "id": "class-10-kanji-014",
+    "character": "堂",
+    "meanings": [
+      {
+        "en": "public chamber, hall"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 24
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"食堂\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-020"
+    ]
+  },
+  {
+    "id": "class-10-kanji-015",
+    "character": "試",
+    "meanings": [
+      {
+        "en": "test, try, experiment"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 25
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"試す\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-021",
+      "class-10-vocab-022",
+      "class-10-vocab-023",
+      "class-10-vocab-024"
+    ]
+  },
+  {
+    "id": "class-10-kanji-016",
+    "character": "写",
+    "meanings": [
+      {
+        "en": "copy, be photographed"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 29
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"写す\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-025",
+      "class-10-vocab-026"
+    ]
+  },
+  {
+    "id": "class-10-kanji-017",
+    "character": "漢",
+    "meanings": [
+      {
+        "en": "Sino-, China"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 30
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"漢字\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-027"
+    ]
+  },
+  {
+    "id": "class-10-kanji-018",
+    "character": "習",
+    "meanings": [
+      {
+        "en": "learn"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 31
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"習う\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-028"
+    ]
+  },
+  {
+    "id": "class-10-kanji-019",
+    "character": "院",
+    "meanings": [
+      {
+        "en": "institution"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 32
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"病院\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-029"
+    ]
+  },
+  {
+    "id": "class-10-kanji-020",
+    "character": "着",
+    "meanings": [
+      {
+        "en": "arrive, wear"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 33
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"着く\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-030",
+      "class-10-vocab-031",
+      "class-10-vocab-032",
+      "class-10-vocab-033",
+      "class-10-vocab-034"
+    ]
+  },
+  {
+    "id": "class-10-kanji-021",
+    "character": "服",
+    "meanings": [
+      {
+        "en": "clothing"
+      }
+    ],
+    "readings": [
+      "ふく"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 37
+      }
+    ]
+  },
+  {
+    "id": "class-10-kanji-022",
+    "character": "勉",
+    "meanings": [
+      {
+        "en": "effort"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 38
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"勉強\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-035",
+      "class-10-vocab-036"
+    ]
+  },
+  {
+    "id": "class-10-kanji-023",
+    "character": "晩",
+    "meanings": [
+      {
+        "en": "evening, night"
+      }
+    ],
+    "readings": [
+      "ばん"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 39
+      }
+    ],
+    "vocabularyIds": [
+      "class-10-vocab-037",
+      "class-10-vocab-038",
+      "class-10-vocab-039"
+    ]
+  },
+  {
+    "id": "class-10-kanji-024",
+    "character": "舌",
+    "meanings": [
+      {
+        "en": "tongue"
+      }
+    ],
+    "readings": [
+      "した"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°10 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "id": "class-10-kanji-025",
+    "character": "辛",
+    "meanings": [
+      {
+        "en": "spicy"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°10.pdf",
+        "page": 41
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"辛い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-10-vocab-040"
+    ]
+  }
+]

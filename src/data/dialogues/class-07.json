@@ -1,0 +1,127 @@
+[
+  {
+    "id": "class-07-dialogue-001",
+    "title": "レオさん (Leo at school) — comprehensible input reading passage",
+    "lines": [
+      {
+        "japanese": "レオさんは学校にいた。",
+        "reading": "レオさんは がっこう に いた。",
+        "meanings": [
+          {
+            "en": "Leo was at school."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんは英語を勉強した。",
+        "reading": "レオさんは えいご を べんきょう した。",
+        "meanings": [
+          {
+            "en": "Leo studied English."
+          }
+        ]
+      },
+      {
+        "japanese": "先生は英語を教えていた。",
+        "reading": "せんせい は えいご を おしえて いた。",
+        "meanings": [
+          {
+            "en": "The teacher was teaching English."
+          }
+        ]
+      },
+      {
+        "japanese": "先生は定規を持っていた。",
+        "reading": "せんせい は じょうぎ を もって いた。",
+        "meanings": [
+          {
+            "en": "The teacher was holding a ruler."
+          }
+        ]
+      },
+      {
+        "japanese": "学生は日本語から英語へ訳した。",
+        "reading": "がくせい は にほんご から えいご へ やくした。",
+        "meanings": [
+          {
+            "en": "The students translated from Japanese into English."
+          }
+        ]
+      },
+      {
+        "japanese": "でも、レオさんは皿を英語で何と言うか忘れた。",
+        "reading": "でも、レオさんはさらをえいごでなんというかわすれた。",
+        "meanings": [
+          {
+            "en": "However, Leo forgot how to say \"plate\" in English."
+          }
+        ]
+      },
+      {
+        "japanese": "友だちは「『皿』は英語で『plate』だ」と言った。",
+        "reading": "ともだち は「『さら』は えいご で『plate』だ」と いった。",
+        "meanings": [
+          {
+            "en": "His friend said, \"The English word for ‘皿’ is ‘plate.’\""
+          }
+        ]
+      },
+      {
+        "japanese": "今、レオさんは思い出した。",
+        "reading": "いま、レオさん は おもいだした。",
+        "meanings": [
+          {
+            "en": "Now, Leo remembered it."
+          }
+        ]
+      },
+      {
+        "japanese": "この単語を覚えた。",
+        "reading": "この たんご を おぼえた。",
+        "meanings": [
+          {
+            "en": "He memorized this word."
+          }
+        ]
+      },
+      {
+        "japanese": "先生はクラスに聞いた。「『皿』は英語で何ですか？」",
+        "reading": "せんせい は くらす に きいた。「『さら』は えいご で なん ですか？」",
+        "meanings": [
+          {
+            "en": "The teacher asked the class, \"What is ‘皿’ in English?\""
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんは「plate」と答えた。",
+        "reading": "レオさん は「plate」と こたえた。",
+        "meanings": [
+          {
+            "en": "Leo answered, \"Plate.\""
+          }
+        ]
+      },
+      {
+        "japanese": "先生は嬉しかった。でも、レオさんの友だちはイライラしていた。",
+        "reading": "せんせい は うれしかった。でも、レオさん の ともだち は いらいら していた。",
+        "meanings": [
+          {
+            "en": "The teacher was happy, but Leo's friend was irritated."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 5,
+        "note": "Reading passage spans pages 5-6"
+      }
+    ]
+  }
+]

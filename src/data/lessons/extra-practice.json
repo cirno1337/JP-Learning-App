@@ -1,0 +1,158 @@
+{
+  "id": "extra-practice",
+  "order": 999,
+  "title": [
+    {
+      "en": "Extra Practice"
+    }
+  ],
+  "sourceFiles": [],
+  "sections": [
+    {
+      "id": "extra-practice-section-vocabulary",
+      "title": [
+        {
+          "en": "Vocabulary"
+        }
+      ],
+      "kind": "vocabulary",
+      "itemIds": [
+        "extra-practice-vocab-001",
+        "extra-practice-vocab-003",
+        "extra-practice-vocab-005",
+        "extra-practice-vocab-008",
+        "extra-practice-vocab-010",
+        "extra-practice-vocab-013",
+        "extra-practice-vocab-014",
+        "extra-practice-vocab-018",
+        "extra-practice-vocab-020",
+        "extra-practice-vocab-021",
+        "extra-practice-vocab-022",
+        "extra-practice-vocab-024",
+        "extra-practice-vocab-033",
+        "extra-practice-vocab-034",
+        "extra-practice-vocab-035",
+        "extra-practice-vocab-036",
+        "extra-practice-vocab-041",
+        "extra-practice-vocab-044"
+      ]
+    },
+    {
+      "id": "extra-practice-section-examples",
+      "title": [
+        {
+          "en": "Example sentences"
+        }
+      ],
+      "kind": "examples",
+      "itemIds": [
+        "extra-practice-example-001",
+        "extra-practice-example-002",
+        "extra-practice-example-003",
+        "extra-practice-example-004",
+        "extra-practice-example-005",
+        "extra-practice-example-006",
+        "extra-practice-example-007",
+        "extra-practice-example-008",
+        "extra-practice-example-009",
+        "extra-practice-example-010",
+        "extra-practice-example-011",
+        "extra-practice-example-012",
+        "extra-practice-example-013",
+        "extra-practice-example-014",
+        "extra-practice-example-015",
+        "extra-practice-example-016",
+        "extra-practice-example-017",
+        "extra-practice-example-018",
+        "extra-practice-example-019",
+        "extra-practice-example-020",
+        "extra-practice-example-021",
+        "extra-practice-example-022",
+        "extra-practice-example-023",
+        "extra-practice-example-024",
+        "extra-practice-example-025",
+        "extra-practice-example-026",
+        "extra-practice-example-027",
+        "extra-practice-example-028",
+        "extra-practice-example-029",
+        "extra-practice-example-030",
+        "extra-practice-example-031",
+        "extra-practice-example-032",
+        "extra-practice-example-033",
+        "extra-practice-example-034",
+        "extra-practice-example-035",
+        "extra-practice-example-036",
+        "extra-practice-example-037",
+        "extra-practice-example-038",
+        "extra-practice-example-039",
+        "extra-practice-example-040",
+        "extra-practice-example-041",
+        "extra-practice-example-042",
+        "extra-practice-example-043",
+        "extra-practice-example-044",
+        "extra-practice-example-045",
+        "extra-practice-example-046",
+        "extra-practice-example-047",
+        "extra-practice-example-048",
+        "extra-practice-example-049",
+        "extra-practice-example-050",
+        "extra-practice-example-051",
+        "extra-practice-example-052",
+        "extra-practice-example-053",
+        "extra-practice-example-054",
+        "extra-practice-example-055",
+        "extra-practice-example-056",
+        "extra-practice-example-057",
+        "extra-practice-example-058",
+        "extra-practice-example-059",
+        "extra-practice-example-060",
+        "extra-practice-example-061",
+        "extra-practice-example-062",
+        "extra-practice-example-063",
+        "extra-practice-example-064",
+        "extra-practice-example-065",
+        "extra-practice-example-066",
+        "extra-practice-example-067",
+        "extra-practice-example-068",
+        "extra-practice-example-069",
+        "extra-practice-example-070",
+        "extra-practice-example-071",
+        "extra-practice-example-072",
+        "extra-practice-example-073",
+        "extra-practice-example-074",
+        "extra-practice-example-075",
+        "extra-practice-example-076",
+        "extra-practice-example-077",
+        "extra-practice-example-078",
+        "extra-practice-example-079",
+        "extra-practice-example-080",
+        "extra-practice-example-081",
+        "extra-practice-example-082",
+        "extra-practice-example-083",
+        "extra-practice-example-084",
+        "extra-practice-example-085",
+        "extra-practice-example-086",
+        "extra-practice-example-087"
+      ]
+    },
+    {
+      "id": "extra-practice-section-dialogue",
+      "title": [
+        {
+          "en": "Dialogue / reading"
+        }
+      ],
+      "kind": "dialogue",
+      "itemIds": [
+        "extra-practice-dialogue-001",
+        "extra-practice-dialogue-002",
+        "extra-practice-dialogue-003",
+        "extra-practice-dialogue-004",
+        "extra-practice-dialogue-005",
+        "extra-practice-dialogue-006",
+        "extra-practice-dialogue-007",
+        "extra-practice-dialogue-008"
+      ]
+    }
+  ]
+}

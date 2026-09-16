@@ -1,0 +1,236 @@
+[
+  {
+    "id": "class-08-example-001",
+    "japanese": "英語が話せますか。",
+    "meanings": [
+      {
+        "en": "Can you speak English?"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-002",
+    "japanese": "日本語が話せません。",
+    "meanings": [
+      {
+        "en": "I can't speak Japanese."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-003",
+    "japanese": "英語の歌が歌えます。",
+    "meanings": [
+      {
+        "en": "I can sing English songs."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-004",
+    "japanese": "日本語の歌が歌えません。",
+    "meanings": [
+      {
+        "en": "I can't sing Japanese songs."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-005",
+    "japanese": "テーブルの上",
+    "reading": "テーブルのうえ",
+    "meanings": [
+      {
+        "en": "on the table"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-006",
+    "japanese": "家の中",
+    "reading": "いえのなか",
+    "meanings": [
+      {
+        "en": "in the house"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-007",
+    "japanese": "水を飲みすぎる。",
+    "reading": "みずをのみすぎる。",
+    "meanings": [
+      {
+        "en": "I drink too much water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-008",
+    "japanese": "日本語を勉強しすぎる。",
+    "reading": "にほんごをべんきょうしすぎる。",
+    "meanings": [
+      {
+        "en": "I study Japanese too much."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-009",
+    "japanese": "この犬は大きすぎる。",
+    "reading": "このいぬはおおきすぎる。",
+    "meanings": [
+      {
+        "en": "This dog is too big."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-010",
+    "japanese": "彼の本はきれいすぎる。",
+    "reading": "かれのほんはきれいすぎる。",
+    "meanings": [
+      {
+        "en": "His book is too clean/beautiful."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-011",
+    "japanese": "水は十分あります。",
+    "reading": "みずはじゅうぶんあります。",
+    "meanings": [
+      {
+        "en": "There is enough water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-012",
+    "japanese": "お金が足りない。",
+    "reading": "おかねがたりない。",
+    "meanings": [
+      {
+        "en": "I don't have enough money."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-013",
+    "japanese": "水をたくさん飲みます。",
+    "reading": "みずをたくさんのみます。",
+    "meanings": [
+      {
+        "en": "I drink a lot of water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-08-example-014",
+    "japanese": "りんごがいくつかあります。",
+    "reading": "りんごがいくつかあります。",
+    "meanings": [
+      {
+        "en": "There are some apples."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  }
+]

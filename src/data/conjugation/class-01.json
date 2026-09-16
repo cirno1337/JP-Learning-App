@@ -1,0 +1,328 @@
+[
+  {
+    "id": "class-01-conjugation-001",
+    "appliesTo": "verb-godan",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "All Japanese verbs end in an -u sound (historically + the copula う, as in である). There are two main verb groups: godan verbs (5 possible stem forms) and ichidan verbs (1 stem form). Godan verbs end in one of 9 sounds: う、つ、る、く、ぐ、ぬ、む、ぶ、す. To form each of the 5 stems, replace the final -u sound with the corresponding sound from the same consonant row, across the a/i/u/e/o vowels (e.g. む row: ま/み/む/め/も) — watch out: う becomes わ for the A-stem, not あ. Example (飲む \"to drink\"): A=飲ま, I=飲み, U=飲む, E=飲め, O=飲も. Example (話す \"to speak\"): A=話さ, I=話し, U=話す, E=話せ, O=話そ. These 5 stems are the basis for every other conjugated form (ない, ます, etc. attach to specific stems)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "飲む",
+        "reading": "のむ"
+      },
+      {
+        "form": "dictionary",
+        "surface": "話す",
+        "reading": "はなす"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 90
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 91
+      }
+    ]
+  },
+  {
+    "id": "class-01-conjugation-002",
+    "appliesTo": "verb-ichidan",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "Ichidan verbs end in -eru or -iru (with few exceptions). Their stem is formed simply by removing the final る — this same stem is used for the A/I/E/O forms (only the U-form, the dictionary/infinitive form, keeps る). Example (食べる \"to eat\"): A=食べ, I=食べ, U=食べる, E=食べ, O=食べ. Example (見る \"to see\"): A=見, I=見, U=見る, E=見, O=見."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "食べる",
+        "reading": "たべる"
+      },
+      {
+        "form": "dictionary",
+        "surface": "見る",
+        "reading": "みる"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 92
+      }
+    ]
+  },
+  {
+    "id": "class-01-conjugation-003",
+    "appliesTo": "verb-irregular",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "Five verbs are irregular (though not in every tense): だ (to be, description), ある (to be located/to have/there is, for objects), 行く(いく, to go), 来る(くる, to come), する (to do — and any verb built as [noun]+する, e.g. 勉強する(べんきょうする) \"to study\"). Their 5-stem forms: だ → A:では(でわ)/じゃ, I:で, U:だ, E:であれ, O:だろ. ある → A:[empty], I:あり, U:ある, E:あれ, O:あろ. 行く → A:行か(いか), I:行き(いき), U:行く(いく), E:行け(いけ), O:行こ(いこ). 来る → A:来(こ), I:来(き), U:来る(くる), E:来(く), O:来(こ). する → A:し, I:し, U:する, E:すれ, O:しよう."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "だ"
+      },
+      {
+        "form": "dictionary",
+        "surface": "ある"
+      },
+      {
+        "form": "dictionary",
+        "surface": "行く",
+        "reading": "いく"
+      },
+      {
+        "form": "dictionary",
+        "surface": "来る",
+        "reading": "くる"
+      },
+      {
+        "form": "dictionary",
+        "surface": "する"
+      }
+    ],
+    "exceptions": [
+      "だ、ある、行く、来る、する are irregular and do not follow the regular godan/ichidan stem patterns"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "class-01-conjugation-004",
+    "appliesTo": "verb-godan",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "Present affirmative is simply the dictionary (-u/infinitive) form; verbs don't change based on the pronoun. Used for habits or the near future. Pronouns are often dropped once context makes them clear."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "私は水を飲む。"
+      },
+      {
+        "form": "dictionary",
+        "surface": "私はパンを食べる。"
+      },
+      {
+        "form": "dictionary",
+        "surface": "私は学生だ。"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 123
+      }
+    ]
+  },
+  {
+    "id": "class-01-conjugation-005",
+    "appliesTo": "verb-godan",
+    "form": "nai",
+    "explanation": [
+      {
+        "en": "Present negative: A-stem + ない. Godan: 飲む→飲ま→飲まない, 話す→話さ→話さない. Ichidan: 食べる→食べ→食べない, 見る→見→見ない, いる→い→いない. Four exceptions: だ→じゃ/では(でわ)→じゃない/ではない(でわない); ある→[empty]→ない; 来る→来(こ)→来ない(こない); する→し→しない."
+      }
+    ],
+    "examples": [
+      {
+        "form": "nai",
+        "surface": "飲まない",
+        "reading": "のまない"
+      },
+      {
+        "form": "nai",
+        "surface": "話さない",
+        "reading": "はなさない"
+      },
+      {
+        "form": "nai",
+        "surface": "食べない",
+        "reading": "たべない"
+      },
+      {
+        "form": "nai",
+        "surface": "見ない",
+        "reading": "みない"
+      },
+      {
+        "form": "nai",
+        "surface": "いない"
+      },
+      {
+        "form": "nai",
+        "surface": "じゃない"
+      },
+      {
+        "form": "nai",
+        "surface": "ない"
+      },
+      {
+        "form": "nai",
+        "surface": "来ない",
+        "reading": "こない"
+      },
+      {
+        "form": "nai",
+        "surface": "しない"
+      }
+    ],
+    "exceptions": [
+      "だ→じゃない/ではない, ある→ない, 来る→来ない(こない), する→しない"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 124
+      }
+    ]
+  },
+  {
+    "id": "class-01-conjugation-006",
+    "appliesTo": "verb-godan",
+    "form": "masu",
+    "explanation": [
+      {
+        "en": "Polite present: I-stem + ます. Godan: 飲む→飲み→飲みます, 話す→話し→話します. Ichidan: 食べる→食べ→食べます, 見る→見→見ます, いる→い→います. Three exceptions: だ→です; 来る→来(き)→来ます(きます); する→し→します."
+      }
+    ],
+    "examples": [
+      {
+        "form": "masu",
+        "surface": "飲みます",
+        "reading": "のみます"
+      },
+      {
+        "form": "masu",
+        "surface": "話します",
+        "reading": "はなします"
+      },
+      {
+        "form": "masu",
+        "surface": "食べます",
+        "reading": "たべます"
+      },
+      {
+        "form": "masu",
+        "surface": "見ます",
+        "reading": "みます"
+      },
+      {
+        "form": "masu",
+        "surface": "います"
+      },
+      {
+        "form": "masu",
+        "surface": "です"
+      },
+      {
+        "form": "masu",
+        "surface": "来ます",
+        "reading": "きます"
+      },
+      {
+        "form": "masu",
+        "surface": "します"
+      }
+    ],
+    "exceptions": [
+      "だ→です, 来る→来ます(きます), する→します"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 128
+      }
+    ]
+  },
+  {
+    "id": "class-01-conjugation-007",
+    "appliesTo": "verb-godan",
+    "form": "masu-negative",
+    "explanation": [
+      {
+        "en": "Polite present negative: I-stem + ません. Godan: 飲む→飲み→飲みません, 話す→話し→話しません. Ichidan: 食べる→食べ→食べません, 見る→見→見ません, いる→い→いません. Three exceptions: だ→ではありません(でわありません); 来る→来(き)→来ません(きません); する→し→しません."
+      }
+    ],
+    "examples": [
+      {
+        "form": "masu-negative",
+        "surface": "飲みません",
+        "reading": "のみません"
+      },
+      {
+        "form": "masu-negative",
+        "surface": "食べません",
+        "reading": "たべません"
+      },
+      {
+        "form": "masu-negative",
+        "surface": "ではありません",
+        "reading": "でわありません"
+      },
+      {
+        "form": "masu-negative",
+        "surface": "来ません",
+        "reading": "きません"
+      },
+      {
+        "form": "masu-negative",
+        "surface": "しません"
+      }
+    ],
+    "exceptions": [
+      "だ→ではありません, 来る→来ません(きません), する→しません"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 130
+      }
+    ]
+  }
+]

@@ -1,0 +1,487 @@
+[
+  {
+    "id": "extra-practice-vocab-001",
+    "kanji": "猫",
+    "kana": "ねこ",
+    "meanings": [
+      {
+        "en": "cat"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-003",
+    "kanji": "本",
+    "kana": "ほん",
+    "meanings": [
+      {
+        "en": "book"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 47
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-005",
+    "kanji": "犬",
+    "kana": "いぬ",
+    "meanings": [
+      {
+        "en": "dog"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-008",
+    "kana": "サッカー",
+    "meanings": [
+      {
+        "en": "football, soccer"
+      },
+      {
+        "en": "soccer"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-010",
+    "kana": "あげる",
+    "meanings": [
+      {
+        "en": "to give"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-013",
+    "kana": "ある",
+    "meanings": [
+      {
+        "en": "to have / there is [inanimate]"
+      },
+      {
+        "en": "to be / to have / there is [objects, irregular]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 101
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-014",
+    "kana": "いる",
+    "meanings": [
+      {
+        "en": "to have / there is [animate]"
+      },
+      {
+        "en": "to be / to have / there is [living things, ichidan]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 101
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-018",
+    "kanji": "牛乳",
+    "kana": "ぎゅうにゅう",
+    "meanings": [
+      {
+        "en": "milk"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-020",
+    "kanji": "山",
+    "kana": "やま",
+    "meanings": [
+      {
+        "en": "mountain"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-021",
+    "kanji": "母",
+    "kana": "はは",
+    "meanings": [
+      {
+        "en": "mother"
+      },
+      {
+        "en": "mother [own family, casual]"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-022",
+    "kanji": "遊ぶ",
+    "kana": "あそぶ",
+    "meanings": [
+      {
+        "en": "to play"
+      },
+      {
+        "en": "to play [godan]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 58
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-024",
+    "kana": "ラーメン",
+    "meanings": [
+      {
+        "en": "ramen"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-033",
+    "kanji": "弟",
+    "kana": "おとうと",
+    "meanings": [
+      {
+        "en": "younger brother"
+      },
+      {
+        "en": "younger brother [own family, casual]"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-034",
+    "kanji": "水",
+    "kana": "みず",
+    "meanings": [
+      {
+        "en": "water"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 68
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-035",
+    "kanji": "兄",
+    "kana": "あに",
+    "meanings": [
+      {
+        "en": "older brother"
+      },
+      {
+        "en": "older brother [own family, casual]"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Reading Session 1.pdf",
+        "page": 2
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-036",
+    "kanji": "妹",
+    "kana": "いもうと",
+    "meanings": [
+      {
+        "en": "younger sister"
+      },
+      {
+        "en": "younger sister [own family, casual]"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Reading Session 1.pdf",
+        "page": 1
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-041",
+    "kanji": "自然",
+    "kana": "しぜん",
+    "meanings": [
+      {
+        "en": "nature"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Reading Session 1.pdf",
+        "page": 8
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-vocab-044",
+    "kanji": "花",
+    "kana": "はな",
+    "meanings": [
+      {
+        "en": "flower"
+      }
+    ],
+    "lessonIds": [
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Reading Session 1.pdf",
+        "page": 10
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 47
+      }
+    ]
+  }
+]

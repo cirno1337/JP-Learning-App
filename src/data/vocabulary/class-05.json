@@ -1,0 +1,2300 @@
+[
+  {
+    "id": "class-05-vocab-001",
+    "kanji": "学校",
+    "kana": "がっこう",
+    "meanings": [
+      {
+        "en": "school"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 47
+      }
+    ],
+    "notes": "Example vocabulary for kanji 校."
+  },
+  {
+    "id": "class-05-vocab-002",
+    "kanji": "小学校",
+    "kana": "しょうがっこう",
+    "meanings": [
+      {
+        "en": "primary school, elementary school"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 校."
+  },
+  {
+    "id": "class-05-vocab-003",
+    "kanji": "中学校",
+    "kana": "ちゅうがっこう",
+    "meanings": [
+      {
+        "en": "middle school"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 校."
+  },
+  {
+    "id": "class-05-vocab-004",
+    "kanji": "校長",
+    "kana": "こうちょう",
+    "meanings": [
+      {
+        "en": "principal, head teacher, headmaster"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 校."
+  },
+  {
+    "id": "class-05-vocab-005",
+    "kanji": "毎年",
+    "kana": "まいねん",
+    "meanings": [
+      {
+        "en": "every year"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 毎."
+  },
+  {
+    "id": "class-05-vocab-006",
+    "kanji": "毎月",
+    "kana": "まいげつ",
+    "meanings": [
+      {
+        "en": "every month"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 毎."
+  },
+  {
+    "id": "class-05-vocab-007",
+    "kanji": "毎週",
+    "kana": "まいしゅう",
+    "meanings": [
+      {
+        "en": "every week"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 毎."
+  },
+  {
+    "id": "class-05-vocab-008",
+    "kanji": "毎日",
+    "kana": "まいにち",
+    "meanings": [
+      {
+        "en": "every day"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 毎."
+  },
+  {
+    "id": "class-05-vocab-009",
+    "kanji": "毎時",
+    "kana": "まいじ",
+    "meanings": [
+      {
+        "en": "every hour"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 毎."
+  },
+  {
+    "id": "class-05-vocab-010",
+    "kanji": "地下",
+    "kana": "ちか",
+    "meanings": [
+      {
+        "en": "underground"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 地."
+  },
+  {
+    "id": "class-05-vocab-011",
+    "kanji": "地方",
+    "kana": "ちほう",
+    "meanings": [
+      {
+        "en": "district, region, area, locality"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 地."
+  },
+  {
+    "id": "class-05-vocab-012",
+    "kanji": "立つ",
+    "kana": "たつ",
+    "meanings": [
+      {
+        "en": "to stand (up) [intransitive]"
+      },
+      {
+        "en": "to get up"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 立."
+  },
+  {
+    "id": "class-05-vocab-013",
+    "kanji": "立てる",
+    "kana": "たてる",
+    "meanings": [
+      {
+        "en": "to stand up, to set up, to erect [transitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 立."
+  },
+  {
+    "id": "class-05-vocab-014",
+    "kanji": "書く",
+    "kana": "かく",
+    "meanings": [
+      {
+        "en": "to write"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Example vocabulary for kanji 書."
+  },
+  {
+    "id": "class-05-vocab-015",
+    "kanji": "書き取り",
+    "kana": "かきとり",
+    "meanings": [
+      {
+        "en": "dictation"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 書."
+  },
+  {
+    "id": "class-05-vocab-016",
+    "kanji": "意見",
+    "kana": "いけん",
+    "meanings": [
+      {
+        "en": "opinion, view, comment"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 意."
+  },
+  {
+    "id": "class-05-vocab-017",
+    "kanji": "用意する",
+    "kana": "よういする",
+    "meanings": [
+      {
+        "en": "to prepare, to arrange"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 意."
+  },
+  {
+    "id": "class-05-vocab-018",
+    "kanji": "意外な",
+    "kana": "いがいな",
+    "meanings": [
+      {
+        "en": "unexpected"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 意."
+  },
+  {
+    "id": "class-05-vocab-019",
+    "kanji": "電車",
+    "kana": "でんしゃ",
+    "meanings": [
+      {
+        "en": "train"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 車."
+  },
+  {
+    "id": "class-05-vocab-020",
+    "kanji": "人気",
+    "kana": "にんき",
+    "meanings": [
+      {
+        "en": "popularity"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 気."
+  },
+  {
+    "id": "class-05-vocab-021",
+    "kanji": "人気のある",
+    "kana": "にんきのある",
+    "meanings": [
+      {
+        "en": "popular"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 気."
+  },
+  {
+    "id": "class-05-vocab-022",
+    "kanji": "電気",
+    "kana": "でんき",
+    "meanings": [
+      {
+        "en": "electricity"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 気."
+  },
+  {
+    "id": "class-05-vocab-023",
+    "kanji": "元気な",
+    "kana": "げんきな",
+    "meanings": [
+      {
+        "en": "healthy, well, fit, in good health"
+      },
+      {
+        "en": "healthy, well"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ],
+    "notes": "Example vocabulary for kanji 元."
+  },
+  {
+    "id": "class-05-vocab-024",
+    "kanji": "工学",
+    "kana": "こうがく",
+    "meanings": [
+      {
+        "en": "engineering"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 工."
+  },
+  {
+    "id": "class-05-vocab-025",
+    "kanji": "人工の",
+    "kana": "じんこうの",
+    "meanings": [
+      {
+        "en": "artificial, man-made"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 工."
+  },
+  {
+    "id": "class-05-vocab-026",
+    "kanji": "空気",
+    "kana": "くうき",
+    "meanings": [
+      {
+        "en": "air, atmosphere"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 空."
+  },
+  {
+    "id": "class-05-vocab-027",
+    "kanji": "空の",
+    "kana": "からの",
+    "meanings": [
+      {
+        "en": "empty"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Example vocabulary for kanji 空."
+  },
+  {
+    "id": "class-05-vocab-028",
+    "kanji": "空手",
+    "kana": "からて",
+    "meanings": [
+      {
+        "en": "karate"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 空."
+  },
+  {
+    "id": "class-05-vocab-029",
+    "kanji": "空く",
+    "kana": "あく",
+    "meanings": [
+      {
+        "en": "to get empty"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 空."
+  },
+  {
+    "id": "class-05-vocab-030",
+    "kanji": "空ける・空にする",
+    "kana": "あける・からにする",
+    "meanings": [
+      {
+        "en": "to empty, to remove, to make space, to make room [transitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 空."
+  },
+  {
+    "id": "class-05-vocab-031",
+    "kanji": "天気",
+    "kana": "てんき",
+    "meanings": [
+      {
+        "en": "weather"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 天."
+  },
+  {
+    "id": "class-05-vocab-032",
+    "kanji": "天国",
+    "kana": "てんごく",
+    "meanings": [
+      {
+        "en": "paradise, heaven"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 天."
+  },
+  {
+    "id": "class-05-vocab-033",
+    "kanji": "地理・地理学",
+    "kana": "ちり・ちりがく",
+    "meanings": [
+      {
+        "en": "geography"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 理."
+  },
+  {
+    "id": "class-05-vocab-034",
+    "kanji": "心理学",
+    "kana": "しんりがく",
+    "meanings": [
+      {
+        "en": "psychology"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 理."
+  },
+  {
+    "id": "class-05-vocab-035",
+    "kanji": "少し",
+    "kana": "すこし",
+    "meanings": [
+      {
+        "en": "a little, a bit, a few (for verbs & adjectives) [= ちょっと]"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 少."
+  },
+  {
+    "id": "class-05-vocab-036",
+    "kanji": "少ない",
+    "kana": "すくない",
+    "meanings": [
+      {
+        "en": "few, little (for nouns)"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 少."
+  },
+  {
+    "id": "class-05-vocab-037",
+    "kanji": "通る",
+    "kana": "とおる",
+    "meanings": [
+      {
+        "en": "to go by, to go past, to go along, to travel along, to pass through [intransitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 通."
+  },
+  {
+    "id": "class-05-vocab-038",
+    "kanji": "通す",
+    "kana": "とおす",
+    "meanings": [
+      {
+        "en": "to let pass, to allow through, to let through, to make way (for) [transitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 通."
+  },
+  {
+    "id": "class-05-vocab-039",
+    "kanji": "通う",
+    "kana": "かよう",
+    "meanings": [
+      {
+        "en": "to go to and from (a place), to commute, to go back and forth between"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 通."
+  },
+  {
+    "id": "class-05-vocab-040",
+    "kanji": "工場",
+    "kana": "こうじょう・こうば",
+    "meanings": [
+      {
+        "en": "factory"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 場."
+  },
+  {
+    "id": "class-05-vocab-041",
+    "kanji": "住む",
+    "kana": "すむ",
+    "meanings": [
+      {
+        "en": "to live, to reside"
+      },
+      {
+        "en": "to live"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 住."
+  },
+  {
+    "id": "class-05-vocab-042",
+    "kanji": "会う",
+    "kana": "あう",
+    "meanings": [
+      {
+        "en": "to meet, to encounter"
+      },
+      {
+        "en": "to meet"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 会."
+  },
+  {
+    "id": "class-05-vocab-043",
+    "kanji": "国会",
+    "kana": "こっかい",
+    "meanings": [
+      {
+        "en": "National Diet, legislative assembly of Japan (Japanese Parliament)"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 会."
+  },
+  {
+    "id": "class-05-vocab-044",
+    "kanji": "答え",
+    "kana": "こたえ",
+    "meanings": [
+      {
+        "en": "answer, solution"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 答."
+  },
+  {
+    "id": "class-05-vocab-045",
+    "kanji": "答える",
+    "kana": "こたえる",
+    "meanings": [
+      {
+        "en": "to answer, to reply"
+      },
+      {
+        "en": "to answer"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 答."
+  },
+  {
+    "id": "class-05-vocab-046",
+    "kanji": "工員",
+    "kana": "こういん",
+    "meanings": [
+      {
+        "en": "factory worker"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 員."
+  },
+  {
+    "id": "class-05-vocab-047",
+    "kanji": "好きな",
+    "kana": "すきな",
+    "meanings": [
+      {
+        "en": "to like, preferred, favourite"
+      },
+      {
+        "en": "liked, beloved"
+      },
+      {
+        "en": "liked, likeable"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-04",
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      }
+    ],
+    "notes": "Example vocabulary for kanji 好."
+  },
+  {
+    "id": "class-05-vocab-048",
+    "kanji": "大好きな",
+    "kana": "だいすきな",
+    "meanings": [
+      {
+        "en": "to love, to adore"
+      },
+      {
+        "en": "loved, much liked"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      }
+    ],
+    "notes": "Example vocabulary for kanji 好."
+  },
+  {
+    "id": "class-05-vocab-049",
+    "kanji": "好む",
+    "kana": "このむ",
+    "meanings": [
+      {
+        "en": "to prefer"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 好."
+  },
+  {
+    "id": "class-05-vocab-050",
+    "kanji": "駅",
+    "kana": "えき",
+    "meanings": [
+      {
+        "en": "train station"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-051",
+    "kana": "スーパー(マーケット)",
+    "meanings": [
+      {
+        "en": "supermarket"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-052",
+    "kanji": "薬局",
+    "kana": "やっきょく",
+    "meanings": [
+      {
+        "en": "pharmacy"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-053",
+    "kanji": "公園",
+    "kana": "こうえん",
+    "meanings": [
+      {
+        "en": "park"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-054",
+    "kana": "レストラン",
+    "meanings": [
+      {
+        "en": "restaurant"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-055",
+    "kanji": "店",
+    "kana": "みせ",
+    "meanings": [
+      {
+        "en": "shop / store"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-056",
+    "kana": "プール",
+    "meanings": [
+      {
+        "en": "swimming pool"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-057",
+    "kana": "ホテル",
+    "meanings": [
+      {
+        "en": "hotel"
+      }
+    ],
+    "lessonIds": [
+      "class-05",
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-058",
+    "kanji": "農場",
+    "kana": "のうじょう",
+    "meanings": [
+      {
+        "en": "farm"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-05-vocab-059",
+    "kanji": "客",
+    "kana": "きゃく",
+    "meanings": [
+      {
+        "en": "customer / client"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-060",
+    "kanji": "患者",
+    "kana": "かんじゃ",
+    "meanings": [
+      {
+        "en": "patient"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-061",
+    "kanji": "記者",
+    "kana": "きしゃ",
+    "meanings": [
+      {
+        "en": "journalist"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-062",
+    "kanji": "警察官",
+    "kana": "けいさつかん",
+    "meanings": [
+      {
+        "en": "police officer"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-063",
+    "kanji": "薬剤師",
+    "kana": "やくざいし",
+    "meanings": [
+      {
+        "en": "pharmacist"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-064",
+    "kanji": "俳優",
+    "kana": "はいゆう",
+    "meanings": [
+      {
+        "en": "actor"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-065",
+    "kana": "ウェイター",
+    "meanings": [
+      {
+        "en": "waiter / server"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-066",
+    "kanji": "看護師",
+    "kana": "かんごし",
+    "meanings": [
+      {
+        "en": "nurse"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-067",
+    "kanji": "獣医",
+    "kana": "じゅうい",
+    "meanings": [
+      {
+        "en": "veterinarian"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-068",
+    "kanji": "配管工",
+    "kana": "はいかんこう",
+    "meanings": [
+      {
+        "en": "plumber"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-069",
+    "kanji": "整備士",
+    "kana": "せいびし",
+    "meanings": [
+      {
+        "en": "mechanic"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-070",
+    "kanji": "石工",
+    "kana": "いしく",
+    "meanings": [
+      {
+        "en": "mason"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-071",
+    "kanji": "建築家",
+    "kana": "けんちくか",
+    "meanings": [
+      {
+        "en": "architect"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-072",
+    "kanji": "美容師",
+    "kana": "びようし",
+    "meanings": [
+      {
+        "en": "hairdresser"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-073",
+    "kanji": "郵便屋さん",
+    "kana": "ゆうびんやさん",
+    "meanings": [
+      {
+        "en": "postman / mail carrier"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-074",
+    "kana": "パイロット",
+    "meanings": [
+      {
+        "en": "pilot"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-075",
+    "kanji": "農家",
+    "kana": "のうか",
+    "meanings": [
+      {
+        "en": "farmer"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-076",
+    "kanji": "弁護士",
+    "kana": "べんごし",
+    "meanings": [
+      {
+        "en": "lawyer"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-077",
+    "kanji": "タクシーの運転手",
+    "kana": "タクシーのうんてんしゅ",
+    "meanings": [
+      {
+        "en": "taxi driver"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-078",
+    "kanji": "バスの運転手",
+    "kana": "バスのうんてんしゅ",
+    "meanings": [
+      {
+        "en": "bus driver"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-079",
+    "kana": "ガイド",
+    "meanings": [
+      {
+        "en": "guide"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: PROFESSIONS"
+  },
+  {
+    "id": "class-05-vocab-080",
+    "kanji": "羊",
+    "kana": "ひつじ",
+    "meanings": [
+      {
+        "en": "sheep"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: ANIMALS"
+  },
+  {
+    "id": "class-05-vocab-081",
+    "kanji": "山羊",
+    "kana": "やぎ",
+    "meanings": [
+      {
+        "en": "goat"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: ANIMALS"
+  },
+  {
+    "id": "class-05-vocab-082",
+    "kanji": "豚",
+    "kana": "ぶた",
+    "meanings": [
+      {
+        "en": "pig"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: ANIMALS"
+  },
+  {
+    "id": "class-05-vocab-083",
+    "kanji": "鶏",
+    "kana": "にわとり",
+    "meanings": [
+      {
+        "en": "hen"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: ANIMALS"
+  },
+  {
+    "id": "class-05-vocab-084",
+    "kana": "バス",
+    "meanings": [
+      {
+        "en": "bus"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: MEANS OF TRANSPORT"
+  },
+  {
+    "id": "class-05-vocab-085",
+    "kanji": "飛行機",
+    "kana": "ひこうき",
+    "meanings": [
+      {
+        "en": "plane"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: MEANS OF TRANSPORT"
+  },
+  {
+    "id": "class-05-vocab-086",
+    "kana": "バイク",
+    "meanings": [
+      {
+        "en": "motorbike"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: MEANS OF TRANSPORT"
+  },
+  {
+    "id": "class-05-vocab-087",
+    "kanji": "北",
+    "kana": "きた",
+    "meanings": [
+      {
+        "en": "North"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: CARDINAL DIRECTIONS"
+  },
+  {
+    "id": "class-05-vocab-088",
+    "kanji": "南",
+    "kana": "みなみ",
+    "meanings": [
+      {
+        "en": "South"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: CARDINAL DIRECTIONS"
+  },
+  {
+    "id": "class-05-vocab-089",
+    "kanji": "西",
+    "kana": "にし",
+    "meanings": [
+      {
+        "en": "West"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: CARDINAL DIRECTIONS"
+  },
+  {
+    "id": "class-05-vocab-090",
+    "kanji": "東",
+    "kana": "ひがし",
+    "meanings": [
+      {
+        "en": "East"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: CARDINAL DIRECTIONS"
+  },
+  {
+    "id": "class-05-vocab-091",
+    "kanji": "乗る",
+    "kana": "のる",
+    "meanings": [
+      {
+        "en": "to get in [tr.]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-05-vocab-092",
+    "kanji": "降りる",
+    "kana": "おりる",
+    "meanings": [
+      {
+        "en": "to get off [vehicle]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-05-vocab-093",
+    "kanji": "易しい",
+    "kana": "やさしい",
+    "meanings": [
+      {
+        "en": "easy"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-094",
+    "kanji": "難しい",
+    "kana": "むずかしい",
+    "meanings": [
+      {
+        "en": "difficult"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-095",
+    "kanji": "暑い",
+    "kana": "あつい",
+    "meanings": [
+      {
+        "en": "hot (weather)"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-096",
+    "kanji": "熱い",
+    "kana": "あつい",
+    "meanings": [
+      {
+        "en": "hot (touch)"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-097",
+    "kanji": "寒い",
+    "kana": "さむい",
+    "meanings": [
+      {
+        "en": "cold (weather)"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-098",
+    "kanji": "冷たい",
+    "kana": "つめたい",
+    "meanings": [
+      {
+        "en": "cold (touch)"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-099",
+    "kanji": "貧しい",
+    "kana": "まずしい",
+    "meanings": [
+      {
+        "en": "poor"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-100",
+    "kanji": "嬉しい",
+    "kana": "うれしい",
+    "meanings": [
+      {
+        "en": "happy"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-101",
+    "kanji": "悲しい",
+    "kana": "かなしい",
+    "meanings": [
+      {
+        "en": "sad"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-102",
+    "kanji": "若い",
+    "kana": "わかい",
+    "meanings": [
+      {
+        "en": "young"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I- ADJECTIVES"
+  },
+  {
+    "id": "class-05-vocab-103",
+    "kanji": "お金持ちの",
+    "kana": "おかねもちの",
+    "meanings": [
+      {
+        "en": "rich"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: NO- ADJECTIVES"
+  }
+]

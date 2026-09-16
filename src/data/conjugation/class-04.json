@@ -1,0 +1,314 @@
+[
+  {
+    "id": "class-04-conjugation-001",
+    "appliesTo": "verb-ichidan",
+    "form": "ta",
+    "explanation": [
+      {
+        "en": "The casual past affirmative (\"ta-form\") is derived from the te-form by changing the final え sound to あ: 食べて→食べた, 見て→見た, 寝て→寝た. Ichidan verbs simply swap て→た."
+      }
+    ],
+    "examples": [
+      {
+        "form": "ta",
+        "surface": "食べた",
+        "reading": "たべた"
+      },
+      {
+        "form": "ta",
+        "surface": "見た",
+        "reading": "みた"
+      },
+      {
+        "form": "ta",
+        "surface": "寝た",
+        "reading": "ねた"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-04-conjugation-002",
+    "appliesTo": "verb-godan",
+    "form": "ta",
+    "explanation": [
+      {
+        "en": "Godan ta-form follows the same te-form sound changes as usual: う/つ/る→った (言う→言った, 待つ→待った, 知る→知った); ぬ/む/ぶ→んだ (死ぬ→死んだ, 飲む→飲んだ, 遊ぶ→遊んだ); く→いた (聞く→聞いた); ぐ→いだ (泳ぐ→泳いだ); す→した (話す→話した). Exceptions: 行く→行った (not 行いた), 来る→来た(きた), する→した."
+      }
+    ],
+    "examples": [
+      {
+        "form": "ta",
+        "surface": "言った",
+        "reading": "いった"
+      },
+      {
+        "form": "ta",
+        "surface": "待った",
+        "reading": "まった"
+      },
+      {
+        "form": "ta",
+        "surface": "知った",
+        "reading": "しった"
+      },
+      {
+        "form": "ta",
+        "surface": "死んだ",
+        "reading": "しんだ"
+      },
+      {
+        "form": "ta",
+        "surface": "飲んだ",
+        "reading": "のんだ"
+      },
+      {
+        "form": "ta",
+        "surface": "遊んだ",
+        "reading": "あそんだ"
+      },
+      {
+        "form": "ta",
+        "surface": "聞いた",
+        "reading": "きいた"
+      },
+      {
+        "form": "ta",
+        "surface": "泳いだ",
+        "reading": "およいだ"
+      },
+      {
+        "form": "ta",
+        "surface": "話した",
+        "reading": "はなした"
+      }
+    ],
+    "exceptions": [
+      "行く (to go) → 行った, not the regular く→いた pattern"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-04-conjugation-003",
+    "appliesTo": "verb-irregular",
+    "form": "ta",
+    "explanation": [
+      {
+        "en": "来る (to come) and する (to do) have irregular ta-forms: 来る→来た(きた), する→した."
+      }
+    ],
+    "examples": [
+      {
+        "form": "ta",
+        "surface": "来た",
+        "reading": "きた"
+      },
+      {
+        "form": "ta",
+        "surface": "した",
+        "reading": "した"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-04-conjugation-004",
+    "appliesTo": "verb-ichidan",
+    "form": "masu-past",
+    "explanation": [
+      {
+        "en": "Past polite affirmative: take the present polite (ます) form and change ます→ました. 食べます→食べました, 見ます→見ました, します→しました, 来ます→来ました. です similarly becomes でした."
+      }
+    ],
+    "examples": [
+      {
+        "form": "masu-past",
+        "surface": "食べました",
+        "reading": "たべました"
+      },
+      {
+        "form": "masu-past",
+        "surface": "見ました",
+        "reading": "みました"
+      },
+      {
+        "form": "masu-past",
+        "surface": "しました"
+      },
+      {
+        "form": "masu-past",
+        "surface": "来ました",
+        "reading": "きました"
+      },
+      {
+        "form": "masu-past",
+        "surface": "でした"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-04-conjugation-005",
+    "appliesTo": "verb-ichidan",
+    "form": "nakatta",
+    "explanation": [
+      {
+        "en": "Past casual negative: take the present casual negative (-a stem + ない) and treat ない as an i-adjective, replacing い with かった. 話さない→話さなかった, 食べない→食べなかった, しない→しなかった, 寝ない→寝なかった. じゃない similarly becomes じゃなかった."
+      }
+    ],
+    "examples": [
+      {
+        "form": "nakatta",
+        "surface": "話さなかった",
+        "reading": "はなさなかった"
+      },
+      {
+        "form": "nakatta",
+        "surface": "食べなかった",
+        "reading": "たべなかった"
+      },
+      {
+        "form": "nakatta",
+        "surface": "しなかった"
+      },
+      {
+        "form": "nakatta",
+        "surface": "寝なかった",
+        "reading": "ねなかった"
+      },
+      {
+        "form": "nakatta",
+        "surface": "じゃなかった"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-04-conjugation-006",
+    "appliesTo": "verb-ichidan",
+    "form": "masu-past-negative",
+    "explanation": [
+      {
+        "en": "Past polite negative: take the present polite negative (-i stem + ません) and add the past polite suffix でした. 食べません→食べませんでした, 見ません→見ませんでした, しません→しませんでした, 来ません→来ませんでした."
+      }
+    ],
+    "examples": [
+      {
+        "form": "masu-past-negative",
+        "surface": "食べませんでした",
+        "reading": "たべませんでした"
+      },
+      {
+        "form": "masu-past-negative",
+        "surface": "見ませんでした",
+        "reading": "みませんでした"
+      },
+      {
+        "form": "masu-past-negative",
+        "surface": "しませんでした"
+      },
+      {
+        "form": "masu-past-negative",
+        "surface": "来ませんでした",
+        "reading": "きませんでした"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-04-conjugation-007",
+    "appliesTo": "na-adjective",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "NA- and NO-adjectives: before a noun, used as-is (緑の車 = green car, きれいな車 = beautiful car). As a predicate, the final element is replaced by the copula だ (which may be dropped for a more casual tone): 車は緑(だ), 車はきれい(だ). だ is then conjugated for tense/politeness/negation like any copula: だ/です (present), じゃない/ではありません (negative), だった/でした (past), じゃなかった/ではありませんでした (past negative)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "緑だ",
+        "reading": "みどりだ"
+      },
+      {
+        "form": "na-adjective-negative",
+        "surface": "緑じゃない",
+        "reading": "みどりじゃない"
+      },
+      {
+        "form": "na-adjective-past",
+        "surface": "緑だった",
+        "reading": "みどりだった"
+      },
+      {
+        "form": "na-adjective-past-negative",
+        "surface": "緑じゃなかった",
+        "reading": "みどりじゃなかった"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  }
+]

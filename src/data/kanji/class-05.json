@@ -1,0 +1,681 @@
+[
+  {
+    "id": "class-05-kanji-001",
+    "character": "校",
+    "meanings": [
+      {
+        "en": "school"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 5
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"学校\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-001",
+      "class-05-vocab-002",
+      "class-05-vocab-003",
+      "class-05-vocab-004"
+    ]
+  },
+  {
+    "id": "class-05-kanji-002",
+    "character": "毎",
+    "meanings": [
+      {
+        "en": "every"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 6
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"毎年\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-005",
+      "class-05-vocab-006",
+      "class-05-vocab-007",
+      "class-05-vocab-008",
+      "class-05-vocab-009"
+    ]
+  },
+  {
+    "id": "class-05-kanji-003",
+    "character": "地",
+    "meanings": [
+      {
+        "en": "ground, earth"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 7
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"地下\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-010",
+      "class-05-vocab-011"
+    ]
+  },
+  {
+    "id": "class-05-kanji-004",
+    "character": "立",
+    "meanings": [
+      {
+        "en": "stand up"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 8
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"立つ\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-012",
+      "class-05-vocab-013"
+    ]
+  },
+  {
+    "id": "class-05-kanji-005",
+    "character": "私",
+    "meanings": [
+      {
+        "en": "I"
+      }
+    ],
+    "readings": [
+      "わたし",
+      "わたくし"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-05-kanji-006",
+    "character": "公",
+    "meanings": [
+      {
+        "en": "public"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 13
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "This kanji is listed in the slide deck's kanji-of-the-week pages but never appears (standalone or in a compound) in the synthesis doc's vocabulary list, so no reading or example word is available from course material for it yet."
+    }
+  },
+  {
+    "id": "class-05-kanji-007",
+    "character": "書",
+    "meanings": [
+      {
+        "en": "to write"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 14
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"書く\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-014",
+      "class-05-vocab-015"
+    ]
+  },
+  {
+    "id": "class-05-kanji-008",
+    "character": "意",
+    "meanings": [
+      {
+        "en": "idea, mind"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 15
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"意見\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-016",
+      "class-05-vocab-017",
+      "class-05-vocab-018"
+    ]
+  },
+  {
+    "id": "class-05-kanji-009",
+    "character": "車",
+    "meanings": [
+      {
+        "en": "car"
+      }
+    ],
+    "readings": [
+      "くるま"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 16
+      }
+    ],
+    "vocabularyIds": [
+      "class-05-vocab-019"
+    ]
+  },
+  {
+    "id": "class-05-kanji-010",
+    "character": "気",
+    "meanings": [
+      {
+        "en": "spirit, air"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 17
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"人気\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-020",
+      "class-05-vocab-021",
+      "class-05-vocab-022"
+    ]
+  },
+  {
+    "id": "class-05-kanji-011",
+    "character": "元",
+    "meanings": [
+      {
+        "en": "beginning, origin"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 21
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"元気な\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-023"
+    ]
+  },
+  {
+    "id": "class-05-kanji-012",
+    "character": "工",
+    "meanings": [
+      {
+        "en": "craft, construction"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 22
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"工学\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-024",
+      "class-05-vocab-025"
+    ]
+  },
+  {
+    "id": "class-05-kanji-013",
+    "character": "空",
+    "meanings": [
+      {
+        "en": "sky, the air, the heavens"
+      }
+    ],
+    "readings": [
+      "そら"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 23
+      }
+    ],
+    "vocabularyIds": [
+      "class-05-vocab-026",
+      "class-05-vocab-027",
+      "class-05-vocab-028",
+      "class-05-vocab-029",
+      "class-05-vocab-030"
+    ]
+  },
+  {
+    "id": "class-05-kanji-014",
+    "character": "天",
+    "meanings": [
+      {
+        "en": "heavens, sky"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 24
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"天気\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-031",
+      "class-05-vocab-032"
+    ]
+  },
+  {
+    "id": "class-05-kanji-015",
+    "character": "理",
+    "meanings": [
+      {
+        "en": "logic, reason, justice"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 25
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"地理・地理学\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-033",
+      "class-05-vocab-034"
+    ]
+  },
+  {
+    "id": "class-05-kanji-016",
+    "character": "少",
+    "meanings": [
+      {
+        "en": "few, little"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 29
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"少し\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-035",
+      "class-05-vocab-036"
+    ]
+  },
+  {
+    "id": "class-05-kanji-017",
+    "character": "道",
+    "meanings": [
+      {
+        "en": "road"
+      }
+    ],
+    "readings": [
+      "みち"
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°05 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "class-05-kanji-018",
+    "character": "通",
+    "meanings": [
+      {
+        "en": "traffic, pass through"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 31
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"通る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-037",
+      "class-05-vocab-038",
+      "class-05-vocab-039"
+    ]
+  },
+  {
+    "id": "class-05-kanji-019",
+    "character": "場",
+    "meanings": [
+      {
+        "en": "location, place"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 32
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"工場\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-040"
+    ]
+  },
+  {
+    "id": "class-05-kanji-020",
+    "character": "住",
+    "meanings": [
+      {
+        "en": "dwell, reside, live, inhabit"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 33
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"住む\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-041"
+    ]
+  },
+  {
+    "id": "class-05-kanji-021",
+    "character": "会",
+    "meanings": [
+      {
+        "en": "meeting, meet, party"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 37
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"会う\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-042",
+      "class-05-vocab-043"
+    ]
+  },
+  {
+    "id": "class-05-kanji-022",
+    "character": "答",
+    "meanings": [
+      {
+        "en": "solution, answer"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 38
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"答え\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-044",
+      "class-05-vocab-045"
+    ]
+  },
+  {
+    "id": "class-05-kanji-023",
+    "character": "問",
+    "meanings": [
+      {
+        "en": "question, ask, problem"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 39
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "This kanji is listed in the slide deck's kanji-of-the-week pages but never appears (standalone or in a compound) in the synthesis doc's vocabulary list, so no reading or example word is available from course material for it yet."
+    }
+  },
+  {
+    "id": "class-05-kanji-024",
+    "character": "員",
+    "meanings": [
+      {
+        "en": "employee, member"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 40
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"工員\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-046"
+    ]
+  },
+  {
+    "id": "class-05-kanji-025",
+    "character": "好",
+    "meanings": [
+      {
+        "en": "pleasing, like"
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°05.pdf",
+        "page": 41
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"好きな\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-05-vocab-047",
+      "class-05-vocab-048",
+      "class-05-vocab-049"
+    ]
+  }
+]

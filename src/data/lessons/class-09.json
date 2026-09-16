@@ -1,0 +1,241 @@
+{
+  "id": "class-09",
+  "order": 10,
+  "title": [
+    {
+      "en": "Class N°09"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "file": "KANJI - SET N°09 - synthesis & assignments.pdf"
+    },
+    {
+      "file": "Class N°09 - synthesis & assignments.pdf"
+    }
+  ],
+  "sections": [
+    {
+      "id": "class-09-section-kanji",
+      "title": [
+        {
+          "en": "Kanji"
+        }
+      ],
+      "kind": "kanji",
+      "itemIds": [
+        "class-09-kanji-001",
+        "class-09-kanji-002",
+        "class-09-kanji-003",
+        "class-09-kanji-004",
+        "class-09-kanji-005",
+        "class-09-kanji-006",
+        "class-09-kanji-007",
+        "class-09-kanji-008",
+        "class-09-kanji-009",
+        "class-09-kanji-010",
+        "class-09-kanji-011",
+        "class-09-kanji-012",
+        "class-09-kanji-013",
+        "class-09-kanji-014",
+        "class-09-kanji-015",
+        "class-09-kanji-016",
+        "class-09-kanji-017",
+        "class-09-kanji-018",
+        "class-09-kanji-019",
+        "class-09-kanji-020",
+        "class-09-kanji-021",
+        "class-09-kanji-022",
+        "class-09-kanji-023",
+        "class-09-kanji-024",
+        "class-09-kanji-025"
+      ]
+    },
+    {
+      "id": "class-09-section-vocabulary",
+      "title": [
+        {
+          "en": "Vocabulary"
+        }
+      ],
+      "kind": "vocabulary",
+      "itemIds": [
+        "class-09-vocab-001",
+        "class-09-vocab-002",
+        "class-09-vocab-003",
+        "class-09-vocab-004",
+        "class-09-vocab-005",
+        "class-09-vocab-006",
+        "class-09-vocab-007",
+        "class-09-vocab-008",
+        "class-09-vocab-009",
+        "class-09-vocab-010",
+        "class-09-vocab-011",
+        "class-09-vocab-012",
+        "class-09-vocab-013",
+        "class-09-vocab-014",
+        "class-09-vocab-015",
+        "class-09-vocab-016",
+        "class-09-vocab-017",
+        "class-09-vocab-018",
+        "class-09-vocab-019",
+        "class-09-vocab-020",
+        "class-09-vocab-021",
+        "class-09-vocab-022",
+        "class-09-vocab-023",
+        "class-09-vocab-024",
+        "class-09-vocab-025",
+        "class-09-vocab-026",
+        "class-09-vocab-027",
+        "class-09-vocab-028",
+        "class-09-vocab-029",
+        "class-09-vocab-030",
+        "class-09-vocab-031",
+        "class-09-vocab-032",
+        "class-09-vocab-033",
+        "class-09-vocab-034",
+        "class-09-vocab-035",
+        "class-09-vocab-036",
+        "class-09-vocab-037",
+        "class-09-vocab-038",
+        "class-09-vocab-039",
+        "class-09-vocab-040",
+        "class-09-vocab-041",
+        "class-09-vocab-042",
+        "class-09-vocab-043",
+        "class-09-vocab-044",
+        "class-09-vocab-045",
+        "class-09-vocab-046",
+        "class-09-vocab-047",
+        "class-09-vocab-048",
+        "class-09-vocab-049",
+        "class-09-vocab-050",
+        "class-09-vocab-051",
+        "class-09-vocab-052",
+        "class-09-vocab-053",
+        "class-09-vocab-054",
+        "class-09-vocab-055",
+        "class-09-vocab-056",
+        "class-09-vocab-057",
+        "class-09-vocab-058",
+        "class-09-vocab-059",
+        "class-09-vocab-060",
+        "class-09-vocab-061",
+        "class-09-vocab-062",
+        "class-09-vocab-063",
+        "class-09-vocab-064",
+        "class-09-vocab-065",
+        "class-09-vocab-066",
+        "class-09-vocab-067",
+        "class-09-vocab-068",
+        "class-09-vocab-069",
+        "class-09-vocab-070",
+        "class-09-vocab-071",
+        "class-09-vocab-072",
+        "class-09-vocab-073",
+        "class-09-vocab-074",
+        "class-09-vocab-075"
+      ]
+    },
+    {
+      "id": "class-09-section-examples",
+      "title": [
+        {
+          "en": "Example sentences"
+        }
+      ],
+      "kind": "examples",
+      "itemIds": [
+        "class-09-example-001",
+        "class-09-example-002",
+        "class-09-example-003",
+        "class-09-example-004",
+        "class-09-example-005",
+        "class-09-example-006",
+        "class-09-example-007",
+        "class-09-example-008",
+        "class-09-example-009",
+        "class-09-example-010",
+        "class-09-example-011",
+        "class-09-example-012",
+        "class-09-example-013",
+        "class-09-example-014",
+        "class-09-example-015",
+        "class-09-example-016",
+        "class-09-example-017",
+        "class-09-example-018",
+        "class-09-example-019",
+        "class-09-example-020",
+        "class-09-example-021",
+        "class-09-example-022",
+        "class-09-example-023",
+        "class-09-example-024",
+        "class-09-example-025",
+        "class-09-example-026",
+        "class-09-example-027",
+        "class-09-example-028",
+        "class-09-example-029",
+        "class-09-example-030",
+        "class-09-example-031",
+        "class-09-example-032",
+        "class-09-example-033",
+        "class-09-example-034",
+        "class-09-example-035",
+        "class-09-example-036",
+        "class-09-example-037",
+        "class-09-example-038",
+        "class-09-example-039",
+        "class-09-example-040",
+        "class-09-example-041",
+        "class-09-example-042",
+        "class-09-example-043",
+        "class-09-example-044",
+        "class-09-example-045",
+        "class-09-example-046",
+        "class-09-example-047",
+        "class-09-example-048",
+        "class-09-example-049",
+        "class-09-example-050",
+        "class-09-example-051",
+        "class-09-example-052",
+        "class-09-example-053",
+        "class-09-example-054",
+        "class-09-example-055",
+        "class-09-example-056"
+      ]
+    },
+    {
+      "id": "class-09-section-grammar",
+      "title": [
+        {
+          "en": "Grammar"
+        }
+      ],
+      "kind": "grammar",
+      "itemIds": [
+        "class-09-grammar-001",
+        "class-09-grammar-002",
+        "class-09-grammar-003",
+        "class-09-grammar-004",
+        "class-09-grammar-005",
+        "class-09-grammar-006",
+        "class-09-grammar-007",
+        "class-09-grammar-008",
+        "class-09-grammar-009",
+        "class-09-grammar-010"
+      ]
+    },
+    {
+      "id": "class-09-section-dialogue",
+      "title": [
+        {
+          "en": "Dialogue / reading"
+        }
+      ],
+      "kind": "dialogue",
+      "itemIds": [
+        "class-09-dialogue-001"
+      ]
+    }
+  ]
+}

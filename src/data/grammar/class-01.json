@@ -1,0 +1,391 @@
+[
+  {
+    "id": "class-01-grammar-001",
+    "pattern": "Pronouns",
+    "explanation": [
+      {
+        "en": "Japanese has many pronouns for \"I\" and \"you\", chosen by formality/gender/register rather than being interchangeable. 1st person: 私(わたし, standard/feminine formal), 私(あたし, feminine), 私(わたくし, formal), 僕(ぼく, humble/masculine), 俺(おれ, virile/masculine), 自分(じぶん, disciplined/modest/athletic/military — \"myself\"). 2nd person: あなた (standard but too direct for common use), 君(きみ, casual), お前(おまえ, too direct/rude/provocative), 皆さん(みなさん, everyone/you all). 3rd person: 彼(かれ, he), 彼女(かのじょ, she), あの人(あのひと, formal he/she). Plurals mostly take +たち (彼+ら for 彼). Addressing someone by name uses an honorific suffix instead of a pronoun: -さん (standard), -ちゃん (cute/feminine), -くん (masculine), -様/さま (formal), -先生/せんせい (teacher)."
+      }
+    ],
+    "examples": [],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 89
+      }
+    ]
+  },
+  {
+    "id": "class-01-grammar-002",
+    "pattern": "Verb groups (godan / ichidan / irregular)",
+    "explanation": [
+      {
+        "en": "Verbs classify into godan (5 stem forms — replace the final -u sound with the a/i/u/e/o sound in the same consonant row), ichidan (1 stem form — drop the final る, used directly for most other conjugations), and 5 irregular verbs (だ, ある, 行く, 来る, する) whose stems don't follow either regular pattern. This 5-stem system (A/I/U/E/O) underlies every other conjugated form taught later (ない-form attaches to the A-stem, ます attaches to the I-stem, etc.)."
+      }
+    ],
+    "examples": [],
+    "relatedConjugationRuleIds": [
+      "class-01-conjugation-001",
+      "class-01-conjugation-002",
+      "class-01-conjugation-003"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 90
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 98
+      }
+    ]
+  },
+  {
+    "id": "class-01-grammar-003",
+    "pattern": "Essential particles (は, が, を, に, と, も, から, か, よ)",
+    "explanation": [
+      {
+        "en": "Particles follow each sentence element and mark its grammatical role; the verb is (almost) always last. は(わ) = topic; が = subject (often more emphatic/specific than は); を(お) = direct object; に = destination; と = \"and\" (between nouns); も = \"too, as well\"; から = \"from\"; か = question marker; よ = exclamation/assertion."
+      }
+    ],
+    "particles": [
+      {
+        "particle": "は",
+        "meaning": [
+          {
+            "en": "topic"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-001"
+      },
+      {
+        "particle": "が",
+        "meaning": [
+          {
+            "en": "subject"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-002"
+      },
+      {
+        "particle": "を",
+        "meaning": [
+          {
+            "en": "direct object"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-003"
+      },
+      {
+        "particle": "に",
+        "meaning": [
+          {
+            "en": "destination"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-004"
+      },
+      {
+        "particle": "と",
+        "meaning": [
+          {
+            "en": "and"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-005"
+      },
+      {
+        "particle": "も",
+        "meaning": [
+          {
+            "en": "too, as well"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-006"
+      },
+      {
+        "particle": "から",
+        "meaning": [
+          {
+            "en": "from"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-007"
+      },
+      {
+        "particle": "か",
+        "meaning": [
+          {
+            "en": "question"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-008"
+      },
+      {
+        "particle": "よ",
+        "meaning": [
+          {
+            "en": "exclamation"
+          }
+        ],
+        "exampleSentenceId": "class-01-example-009"
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-01-example-001",
+        "japanese": "私は学生だ。",
+        "reading": "わたしわがくせいだ。",
+        "meanings": [
+          {
+            "en": "I'm a student."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-002",
+        "japanese": "私が学生だ。",
+        "reading": "わたしががくせいだ。",
+        "meanings": [
+          {
+            "en": "I AM a student."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-003",
+        "japanese": "私は水を飲む。",
+        "reading": "わたしわみずおのむ。",
+        "meanings": [
+          {
+            "en": "I drink water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-004",
+        "japanese": "学校に行く。",
+        "reading": "がっこうにいく。",
+        "meanings": [
+          {
+            "en": "I go to school."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-005",
+        "japanese": "犬と猫は食べる。",
+        "reading": "いぬとねこわたべる。",
+        "meanings": [
+          {
+            "en": "The dog and the cat eat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-006",
+        "japanese": "君もパンを食べる。",
+        "reading": "きみもすしをたべる。",
+        "meanings": [
+          {
+            "en": "You also eat bread."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-007",
+        "japanese": "日本から来た。",
+        "reading": "にほんからきた。",
+        "meanings": [
+          {
+            "en": "I come from Japan."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-008",
+        "japanese": "先生ですか。",
+        "reading": "せんせいですか。",
+        "meanings": [
+          {
+            "en": "Are you a teacher?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-009",
+        "japanese": "学生ですよ。",
+        "reading": "がくせいですよ。",
+        "meanings": [
+          {
+            "en": "I am a student!"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 122
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-01-grammar-004",
+    "pattern": "Present tense (affirmative / negative / polite)",
+    "explanation": [
+      {
+        "en": "Present affirmative = dictionary form (no change for pronoun). Present negative (casual) = A-stem + ない. Polite present = I-stem + ます. Polite present negative = I-stem + ません. だ/ある/来る/する are irregular in each of these forms (see the linked conjugation rules for the exact irregular forms)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-01-example-010",
+        "japanese": "私は水を飲む。",
+        "meanings": [
+          {
+            "en": "I drink water. [habit/near future]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 123
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-011",
+        "japanese": "私はパンを食べる。",
+        "meanings": [
+          {
+            "en": "I eat bread."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 123
+          }
+        ]
+      },
+      {
+        "id": "class-01-example-012",
+        "japanese": "私は学生だ。",
+        "meanings": [
+          {
+            "en": "I am a student."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+            "page": 123
+          }
+        ]
+      }
+    ],
+    "relatedConjugationRuleIds": [
+      "class-01-conjugation-004",
+      "class-01-conjugation-005",
+      "class-01-conjugation-006",
+      "class-01-conjugation-007"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 123
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 130
+      }
+    ]
+  }
+]

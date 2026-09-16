@@ -1,0 +1,1695 @@
+[
+  {
+    "id": "class-04-example-001",
+    "japanese": "これは日本です。",
+    "reading": "これはにほんです。",
+    "meanings": [
+      {
+        "en": "This is Japan."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-002",
+    "japanese": "人々がいる。日本人がいる。",
+    "reading": "ひとびとがいる。にほんじんがいる。",
+    "meanings": [
+      {
+        "en": "There are people. There are Japanese people."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-003",
+    "japanese": "犬も二匹いる。一匹、二匹。",
+    "reading": "いぬもにひきいる。いっぴき、にひき。",
+    "meanings": [
+      {
+        "en": "There are also two dogs. One animal, two animals."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-004",
+    "japanese": "木とか花とか山とか虹がある。",
+    "reading": "きとかはなとかやまとかにじがある。",
+    "meanings": [
+      {
+        "en": "There are trees, flowers, mountains, rainbow…"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-005",
+    "japanese": "人々は歩いている。",
+    "reading": "ひとびとはあるいている。",
+    "meanings": [
+      {
+        "en": "The people are walking."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-006",
+    "japanese": "この男の人は日本に住んでいる。",
+    "reading": "このおとこのひとはにほんにすんでいる。",
+    "meanings": [
+      {
+        "en": "This man lives in Japan."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-007",
+    "japanese": "あの女の人は歌っている。きれいだ。きれいな女の人だ。",
+    "reading": "あのおんなのひとはうたっている。きれいだ。きれいなおんなのひとだ。",
+    "meanings": [
+      {
+        "en": "That woman is singing. She is beautiful. She is a beautiful woman."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-008",
+    "japanese": "あの男の人はミュージシャンだ。ギタリストだ。",
+    "reading": "あのおとこのひとはミュージシャンだ。ギタリストだ。",
+    "meanings": [
+      {
+        "en": "That man is a musician. He is a guitarist."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-009",
+    "japanese": "ハンサムだ。ハンサムな男の人だ。",
+    "reading": "ハンサムだ。ハンサムなおとこのひとだ。",
+    "meanings": [
+      {
+        "en": "He is handsome. He is a handsome man."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-010",
+    "japanese": "かっこいい。かっこいい男の人だ。",
+    "reading": "かっこいい。かっこいいおとこのひとだ。",
+    "meanings": [
+      {
+        "en": "He is cool. He is a cool man."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-011",
+    "japanese": "人々は音楽を聞いている。",
+    "reading": "ひとびとはおんがくをきいている。",
+    "meanings": [
+      {
+        "en": "The people are listening to music."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-012",
+    "japanese": "あの木は緑。この木はピンク。",
+    "reading": "あのきはみどり。このきはピンク。",
+    "meanings": [
+      {
+        "en": "That tree is green. This tree is pink."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-013",
+    "japanese": "緑の木だ。ピンクの木だ。",
+    "reading": "みどりのきだ。ピンクのきだ。",
+    "meanings": [
+      {
+        "en": "It is a green tree. It is a pink tree."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-014",
+    "japanese": "これは東京タワーだ。東京タワーは赤くて白い。",
+    "reading": "これはとうきょうタワーだ。とうきょうタワーはあかくてしろい。",
+    "meanings": [
+      {
+        "en": "This is Tokyo Tower. Tokyo Tower is blue and white."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-015",
+    "japanese": "雪も白い。白い雪だ。",
+    "reading": "ゆきもしろい。しろいゆきだ。",
+    "meanings": [
+      {
+        "en": "Snow is also white. It is white snow."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-016",
+    "japanese": "バラはピンク。ピンクのバラだ。",
+    "reading": "バラはピンク。ピンクのバラだ。",
+    "meanings": [
+      {
+        "en": "Roses are pink. It is a pink rose."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-017",
+    "japanese": "ラベンダーは紫。紫のラベンダーだ。",
+    "reading": "ラベンダーはむらさき。むらさきのラベンダーだ。",
+    "meanings": [
+      {
+        "en": "Lavender is purple. It is purple lavender."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-018",
+    "japanese": "これは犬だ。柴犬だ。",
+    "reading": "これはいぬだ。しばいぬだ。",
+    "meanings": [
+      {
+        "en": "This is a dog. It is a Shiba Inu."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-019",
+    "japanese": "この犬はオレンジ色。オレンジ色の犬だ。",
+    "reading": "このいぬはオレンジいろ。オレンジいろのいぬだ。",
+    "meanings": [
+      {
+        "en": "This dog is orange. It is an orange dog."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-020",
+    "japanese": "かわいい。かわいい犬だ。",
+    "reading": "かわいい。かわいいいぬだ。",
+    "meanings": [
+      {
+        "en": "It is cute. It is a cute dog."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-021",
+    "japanese": "この男の人は山へ行きたい。",
+    "reading": "このおとこのひとはやまへいきたい。",
+    "meanings": [
+      {
+        "en": "This man wants to go to the mountain."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-022",
+    "japanese": "山が好き。山が大好き。",
+    "reading": "やまがすき。やまがだいすき。",
+    "meanings": [
+      {
+        "en": "He likes mountains. He loves mountains."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-023",
+    "japanese": "「山はいい」と思う。",
+    "reading": "「やまはいい」とおもう。",
+    "meanings": [
+      {
+        "en": "He thinks, \"Mountains are nice.\""
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-024",
+    "japanese": "これは草だ。この草はきれい。きれいな草だ。",
+    "reading": "これはくさだ。このくさはきれい。きれいなくさだ。",
+    "meanings": [
+      {
+        "en": "This is grass. This grass is beautiful. It is beautiful grass."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-025",
+    "japanese": "でも、あの草は汚い。醜い。汚い草だ。醜い草だ。",
+    "reading": "でも、あのくさはきたない。みにくい。きたないくさだ。みにくいくさだ。",
+    "meanings": [
+      {
+        "en": "But that grass is dirty. It is ugly. It is dirty grass. It is ugly grass."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-026",
+    "japanese": "人々がいた。",
+    "reading": "ひとびとがいた。",
+    "meanings": [
+      {
+        "en": "There were people."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-027",
+    "japanese": "音楽を聞いた。",
+    "reading": "おんがくをきいた。",
+    "meanings": [
+      {
+        "en": "They listened to music."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-028",
+    "japanese": "人々が歩いた。",
+    "reading": "ひとびとがあるいた。",
+    "meanings": [
+      {
+        "en": "The people walked."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-029",
+    "japanese": "女の人は歌った。",
+    "reading": "おんなのひとはうたった。",
+    "meanings": [
+      {
+        "en": "The woman sang."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-030",
+    "japanese": "ギタリストだった。",
+    "reading": "ギタリストだった。",
+    "meanings": [
+      {
+        "en": "He was a guitarist."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-031",
+    "japanese": "山へ行った。",
+    "reading": "やまへいった。",
+    "meanings": [
+      {
+        "en": "He went to the mountain."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-032",
+    "japanese": "石は灰色。これは灰色の石だ。",
+    "reading": "いしははいいろ。これははいいろのいしだ。",
+    "meanings": [
+      {
+        "en": "The stone is gray. This is a gray stone."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-033",
+    "japanese": "森は緑。これは緑の森だ。",
+    "reading": "もりはみどり。これはみどりのもりだ。",
+    "meanings": [
+      {
+        "en": "The forest is green. This is a green forest."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-034",
+    "japanese": "砂は黄色い。これは黄色い砂だ。",
+    "reading": "すなはきいろい。これはきいろいすなだ。",
+    "meanings": [
+      {
+        "en": "The sand is yellow. This is yellow sand."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-035",
+    "japanese": "雷雨と雨がある。雨が好き。",
+    "reading": "らいうとあめがある。あめがすき。",
+    "meanings": [
+      {
+        "en": "There is thunderstorm and rain. I like rain."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-036",
+    "japanese": "私の好きな石だ。",
+    "reading": "わたしのすきないしだ。",
+    "meanings": [
+      {
+        "en": "It is my favorite stone."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-037",
+    "japanese": "朝ご飯が好き。",
+    "reading": "あさごはんがすき。",
+    "meanings": [
+      {
+        "en": "I like breakfast."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-038",
+    "japanese": "朝ご飯は私の好きな食事だ。",
+    "reading": "あさごはんはわたしのすきなしょくじだ。",
+    "meanings": [
+      {
+        "en": "Breakfast is my favorite meal."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-039",
+    "japanese": "デザートが大好き。",
+    "reading": "デザートがだいすき。",
+    "meanings": [
+      {
+        "en": "I love dessert."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-040",
+    "japanese": "ハムとサンドイッチを食べている。",
+    "reading": "ハムとサンドイッチをたべている。",
+    "meanings": [
+      {
+        "en": "I am eating ham and a sandwich."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-041",
+    "japanese": "パンケーキも食べている。",
+    "reading": "パンケーキもたべている。",
+    "meanings": [
+      {
+        "en": "I am also eating pancakes."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-042",
+    "japanese": "卵を食べた。",
+    "reading": "たまごをたべた。",
+    "meanings": [
+      {
+        "en": "I ate an egg."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-043",
+    "japanese": "ジャムは赤い。赤いジャムだ。",
+    "reading": "ジャムはあかい。あかいジャムだ。",
+    "meanings": [
+      {
+        "en": "The jam is red. It is red jam."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-044",
+    "japanese": "ハムはピンク。ピンクのハムだ。",
+    "reading": "ハムはピンク。ピンクのハムだ。",
+    "meanings": [
+      {
+        "en": "The ham is pink. It is pink ham."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-045",
+    "japanese": "サラダを取る。サラダを取っている。サラダを取った。",
+    "reading": "サラダをとる。サラダをとっている。サラダをとった。",
+    "meanings": [
+      {
+        "en": "He takes the salad. He is taking th salad. He took the salad."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-046",
+    "japanese": "フライドポテトを置く。フライドポテトを置いている。フライドポテトを置いた。",
+    "reading": "フライドポテトをおく。フライドポテトをおいている。フライドポテトをおいた。",
+    "meanings": [
+      {
+        "en": "He put down the French fries. He is putting down the French fries. He put down the"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-047",
+    "japanese": "サラダは緑。緑のサラダだ。",
+    "reading": "サラダはみどり。みどりのサラダだ。",
+    "meanings": [
+      {
+        "en": "The salad is green. It is a green salad."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-048",
+    "japanese": "ご飯を食べた。ご飯は白い。白いご飯だ。",
+    "reading": "ごはんをたべた。ごはんはしろい。しろいごはんだ。",
+    "meanings": [
+      {
+        "en": "He ate rice. Rice is white. It is white rice."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-049",
+    "japanese": "キノコを食べた。",
+    "reading": "キノコをたべた。",
+    "meanings": [
+      {
+        "en": "He ate mushrooms."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-050",
+    "japanese": "肉が好き。肉が大好き。",
+    "reading": "にくがすき。にくがだいすき。",
+    "meanings": [
+      {
+        "en": "He likes meat. He loves meat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-051",
+    "japanese": "鶏肉は茶色。茶色の鶏肉だ。",
+    "reading": "とりにくはちゃいろ。ちゃいろのとりにくだ。",
+    "meanings": [
+      {
+        "en": "Chicken is brown. It is brown chicken."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-052",
+    "japanese": "人参はオレンジ色。オレンジ色の人参だ。",
+    "reading": "にんじんはオレンジいろ。オレンジいろのにんじんだ。",
+    "meanings": [
+      {
+        "en": "Carrots are orange. It is an orange carrot."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-053",
+    "japanese": "ナスは紫。紫のナスだ。",
+    "reading": "ナスはむらさき。むらさきのナスだ。",
+    "meanings": [
+      {
+        "en": "The eggplant is purple. It is a purple eggplant."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-054",
+    "japanese": "ナスと人参は野菜だ。",
+    "reading": "ナスとにんじんはやさいだ。",
+    "meanings": [
+      {
+        "en": "Eggplants and carrots are vegetables."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-055",
+    "japanese": "男の子は元気。元気な男の子だ。",
+    "reading": "おとこのこはげんき。げんきなおとこのこだ。",
+    "meanings": [
+      {
+        "en": "The boy is healthy. He is a healthy boy."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-056",
+    "japanese": "窓を閉める。窓を閉めている。窓を閉めた。",
+    "reading": "まどをしめる。まどをしめている。まどをしめた。",
+    "meanings": [
+      {
+        "en": "She closes the window. She is closing the window. She closed the window."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-057",
+    "japanese": "ドアを開ける。ドアを開けている。ドアを開けた。",
+    "reading": "ドアをあける。ドアをあけている。ドアをあけた。",
+    "meanings": [
+      {
+        "en": "He opens the door. He is opening the door. He opened the door."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-058",
+    "japanese": "映画は始まる。映画は始まった。",
+    "reading": "えいがははじまる。えいがははじまった。",
+    "meanings": [
+      {
+        "en": "The movie starts. The movie started."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-059",
+    "japanese": "果物が好き。",
+    "reading": "くだものがすき。",
+    "meanings": [
+      {
+        "en": "I like fruit."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-060",
+    "japanese": "緑の車を買っている。",
+    "reading": "みどりのくるまをかっている。",
+    "meanings": [
+      {
+        "en": "I'm buying a green car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-061",
+    "japanese": "緑の車です。",
+    "meanings": [
+      {
+        "en": "It's a green car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-062",
+    "japanese": "きれいな車を買っている。",
+    "reading": "きれいなくるまをかっている。",
+    "meanings": [
+      {
+        "en": "I'm buying a beautiful car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-063",
+    "japanese": "きれいな車です。",
+    "meanings": [
+      {
+        "en": "It's a beautiful car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-064",
+    "japanese": "車は緑だ。",
+    "meanings": [
+      {
+        "en": "The car is green."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-065",
+    "japanese": "私の家は緑だ。",
+    "meanings": [
+      {
+        "en": "My house is green."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-066",
+    "japanese": "車はきれいだ。",
+    "meanings": [
+      {
+        "en": "The car is beautiful."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-067",
+    "japanese": "私の家はきれいだ。",
+    "meanings": [
+      {
+        "en": "My house is beautiful."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-068",
+    "japanese": "車は緑です。",
+    "meanings": [
+      {
+        "en": "The car is green. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-069",
+    "japanese": "車は緑じゃない。",
+    "meanings": [
+      {
+        "en": "The car is not green."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-070",
+    "japanese": "車は緑ではありません。",
+    "meanings": [
+      {
+        "en": "The car is not green. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-071",
+    "japanese": "車は緑だった。",
+    "meanings": [
+      {
+        "en": "The car was green."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-072",
+    "japanese": "車は緑でした。",
+    "meanings": [
+      {
+        "en": "The car was green. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-073",
+    "japanese": "車は緑じゃなかった。",
+    "meanings": [
+      {
+        "en": "The car wasn't green."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-074",
+    "japanese": "車は緑ではありませんでした。",
+    "meanings": [
+      {
+        "en": "The car wasn't green. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-075",
+    "japanese": "犬が好き。",
+    "meanings": [
+      {
+        "en": "I like dogs."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-076",
+    "japanese": "日本が好きです。",
+    "meanings": [
+      {
+        "en": "I like Japan. [formal]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-077",
+    "japanese": "ラーメンが好きじゃない。",
+    "meanings": [
+      {
+        "en": "I don't like ramen."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-078",
+    "japanese": "猫が好きではありません。",
+    "meanings": [
+      {
+        "en": "I don't like cats. [formal]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-079",
+    "japanese": "本が好きだった。",
+    "meanings": [
+      {
+        "en": "I liked / used to like books."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-080",
+    "japanese": "山が好きでした。",
+    "meanings": [
+      {
+        "en": "I liked / used to like mountains. [formal]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-081",
+    "japanese": "チーズが好きじゃなかった。",
+    "meanings": [
+      {
+        "en": "I didn't like / used to not like cheese."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-082",
+    "japanese": "魚が好きではありませんでした。",
+    "meanings": [
+      {
+        "en": "I didn't like / used to not like fish. [formal]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-083",
+    "japanese": "水を飲むのが好き。",
+    "meanings": [
+      {
+        "en": "I like to drink water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-084",
+    "japanese": "りんごを食べるのが好きです。",
+    "meanings": [
+      {
+        "en": "I like to eat apples. [formal]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-085",
+    "japanese": "ラーメンを食べるのが好きじゃない。",
+    "meanings": [
+      {
+        "en": "I don't like to eat ramen."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-086",
+    "japanese": "猫と遊ぶのが好きではありません。",
+    "meanings": [
+      {
+        "en": "I don't like to play with cats. [formal]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-087",
+    "japanese": "本を読むのが好きだった。",
+    "meanings": [
+      {
+        "en": "I liked / used to like to read books."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-088",
+    "japanese": "山へ行くのが好きでした。",
+    "meanings": [
+      {
+        "en": "I liked / used to like to go to the mountains. [formal]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-089",
+    "japanese": "チーズを食べるのが好きじゃなかった。",
+    "meanings": [
+      {
+        "en": "I didn't / used to not like to eat cheese."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-090",
+    "japanese": "魚を食べるのが好きではありませんでした。",
+    "meanings": [
+      {
+        "en": "I didn't / used to not like to eat fish. [formal]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-091",
+    "japanese": "これは犬だ。",
+    "meanings": [
+      {
+        "en": "This is a dog."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-092",
+    "japanese": "これは赤い。",
+    "meanings": [
+      {
+        "en": "This is red."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-093",
+    "japanese": "この犬は大きい。",
+    "meanings": [
+      {
+        "en": "This dog is big."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-094",
+    "japanese": "この学生は日本語を話す。",
+    "meanings": [
+      {
+        "en": "This student speaks Japanese."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-095",
+    "japanese": "ここにいます。",
+    "meanings": [
+      {
+        "en": "I am here."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-096",
+    "japanese": "ここで食べます。",
+    "meanings": [
+      {
+        "en": "I eat here."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-097",
+    "japanese": "ここに来て。",
+    "meanings": [
+      {
+        "en": "Come here."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-098",
+    "japanese": "こちらへ来てください。",
+    "meanings": [
+      {
+        "en": "Come here, please. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-099",
+    "japanese": "こっちへ来てください。",
+    "meanings": [
+      {
+        "en": "Come here, please. [casual]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-100",
+    "japanese": "こうしてください。",
+    "meanings": [
+      {
+        "en": "Do it like this, please."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-101",
+    "japanese": "こう食べます。",
+    "meanings": [
+      {
+        "en": "I eat like this."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-04-example-102",
+    "japanese": "こんな本が好き。",
+    "meanings": [
+      {
+        "en": "I like books like this / such books."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "class-01-note-001",
+    "kind": "other",
+    "text": [
+      {
+        "en": "Optional/bonus vocabulary: a full list of ~156 world country names in Japanese, explicitly marked optional by the teacher (not core vocabulary). Examples: アフガニスタン=Afghanistan, アメリカ/米国(べいこく)=America (USA), オーストラリア/濠洲(ごうしゅう)=Australia, 中国(ちゅうごく)=China, 英国(えいこく)/イギリス=Great Britain, 香港(ほんこん)=Hong Kong, 北朝鮮(きたちょうせん)=North Korea, 韓国(かんこく)=South Korea, 台湾(たいわん)=Taiwan, and many more — see the source PDF pages 13-27 for the complete list."
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 13,
+        "note": "Full list spans pages 13-27; not transcribed in full since the teacher marks it optional"
+      }
+    ]
+  },
+  {
+    "id": "class-01-note-002",
+    "kind": "teacher-note",
+    "text": [
+      {
+        "en": "Third-person plural (common way): [name] + たち = \"they\". Honorific address suffixes for 2nd/3rd person: [name]+さん = standard; [name]+ちゃん = cute/feminine; [name]+くん = masculine; [name]+様(さま) = respectful/polite/formal; [name]+先生(せんせい) = teacher."
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75,
+        "note": "Honorific forms of address"
+      }
+    ]
+  }
+]

@@ -1,0 +1,67 @@
+export type TranslationKey = keyof typeof translations;
+
+export const translations = {
+  "app.title": { en: "Japanese A2 Revision", pl: "Powtórki Japońskiego A2" },
+
+  "nav.dashboard": { en: "Dashboard", pl: "Panel główny" },
+  "nav.kanjiLessons": { en: "Kanji Lessons", pl: "Lekcje Kanji" },
+  "nav.kanjiTest": { en: "Kanji Test", pl: "Test Kanji" },
+  "nav.vocabularyLessons": { en: "Vocabulary Lessons", pl: "Lekcje Słownictwa" },
+  "nav.vocabularyTest": { en: "Vocabulary Test", pl: "Test Słownictwa" },
+  "nav.grammar": { en: "Grammar", pl: "Gramatyka" },
+  "nav.numbers": { en: "Numbers & Counters", pl: "Liczby i Liczniki" },
+  "nav.lessonReview": { en: "Lesson Review", pl: "Powtórka Lekcji" },
+  "nav.conjugation": { en: "Conjugation / Forms", pl: "Koniugacja / Formy" },
+  "nav.kana": { en: "Kana Review", pl: "Powtórka Kany" },
+  "nav.mixedReview": { en: "Mixed Review", pl: "Powtórka Mieszana" },
+  "nav.weakAreas": { en: "Weak Areas", pl: "Słabe Punkty" },
+  "nav.progress": { en: "Progress / Statistics", pl: "Postępy / Statystyki" },
+  "nav.settings": { en: "Settings", pl: "Ustawienia" },
+
+  "dashboard.continueSession": { en: "Continue last session", pl: "Kontynuuj ostatnią sesję" },
+  "dashboard.quickReview": { en: "Quick review", pl: "Szybka powtórka" },
+  "dashboard.dueToday": { en: "Due for review today", pl: "Do powtórki dzisiaj" },
+  "dashboard.weakestCategories": { en: "Weakest categories", pl: "Najsłabsze kategorie" },
+  "dashboard.recentAccuracy": { en: "Recent accuracy", pl: "Ostatnia skuteczność" },
+  "dashboard.lessonProgress": { en: "Lesson progress", pl: "Postęp lekcji" },
+  "dashboard.overallProgress": { en: "Overall progress", pl: "Postęp ogólny" },
+  "dashboard.streak": { en: "Current streak", pl: "Passa" },
+  "dashboard.quickStart": { en: "Quick start", pl: "Szybki start" },
+  "dashboard.noDataYet": {
+    en: "No study history yet — start a test to see your progress here.",
+    pl: "Brak jeszcze historii nauki — zacznij test, aby zobaczyć tu swoje postępy.",
+  },
+
+  "common.startTest": { en: "Start test", pl: "Rozpocznij test" },
+  "common.submit": { en: "Check answer", pl: "Sprawdź odpowiedź" },
+  "common.next": { en: "Next", pl: "Dalej" },
+  "common.showAnswer": { en: "Show answer", pl: "Pokaż odpowiedź" },
+  "common.closeEnough": { en: "I was close enough", pl: "Było wystarczająco blisko" },
+  "common.wrong": { en: "Wrong", pl: "Źle" },
+  "common.correct": { en: "Correct", pl: "Dobrze" },
+  "common.previous": { en: "Previous", pl: "Poprzedni" },
+  "common.filter": { en: "Filter", pl: "Filtr" },
+  "common.all": { en: "All", pl: "Wszystko" },
+  "common.source": { en: "Source", pl: "Źródło" },
+  "common.lesson": { en: "Lesson", pl: "Lekcja" },
+  "common.noContentYet": {
+    en: "There is no source material for this section yet.",
+    pl: "Brak jeszcze materiału źródłowego dla tej sekcji.",
+  },
+
+  "settings.uiLanguage": { en: "App language", pl: "Język aplikacji" },
+  "settings.theme": { en: "Theme", pl: "Motyw" },
+  "settings.themeLight": { en: "Light", pl: "Jasny" },
+  "settings.themeDark": { en: "Dark", pl: "Ciemny" },
+  "settings.themeSystem": { en: "System", pl: "Systemowy" },
+  "settings.exportProgress": { en: "Export progress", pl: "Eksportuj postępy" },
+  "settings.importProgress": { en: "Import progress", pl: "Importuj postępy" },
+  "settings.resetProgress": { en: "Reset progress", pl: "Zresetuj postępy" },
+  "settings.resetConfirm": {
+    en: "This will permanently delete all local progress. Continue?",
+    pl: "To trwale usunie wszystkie lokalne postępy. Kontynuować?",
+  },
+
+  "supplementary.badge": { en: "Supplementary (JLPT reference)", pl: "Uzupełniające (materiały JLPT)" },
+  "supplementary.fromLesson": { en: "From your lesson", pl: "Z twojej lekcji" },
+} satisfies Record<string, { en: string; pl: string }>;

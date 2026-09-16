@@ -1,0 +1,78 @@
+[
+  {
+    "id": "class-08-conjugation-001",
+    "appliesTo": "verb-godan",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "Potential form (\"can/be able to\"): godan verbs take the -e stem + る (飲む→飲め→飲める, 話す→話せ→話せる) and become ichidan verbs, conjugating like any other ichidan verb from then on. The direct object particle を is often replaced by が: 英語が話せますか (can you speak English?)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "飲める",
+        "reading": "のめる"
+      },
+      {
+        "form": "dictionary",
+        "surface": "話せる",
+        "reading": "はなせる"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-08-conjugation-002",
+    "appliesTo": "verb-ichidan",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "Potential form for ichidan verbs: -e stem + られる (食べる→食べ→食べられる, 見る→見→見られる). Irregular: 来る→来られる(こられる), する→できる (a wholly separate word, not a regular transformation)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "食べられる",
+        "reading": "たべられる"
+      },
+      {
+        "form": "dictionary",
+        "surface": "見られる",
+        "reading": "みられる"
+      },
+      {
+        "form": "dictionary",
+        "surface": "来られる",
+        "reading": "こられる"
+      },
+      {
+        "form": "dictionary",
+        "surface": "できる"
+      }
+    ],
+    "exceptions": [
+      "する → できる, a separate word rather than the regular -e+られる pattern"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  }
+]

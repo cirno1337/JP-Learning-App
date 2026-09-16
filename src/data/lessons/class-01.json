@@ -1,0 +1,195 @@
+{
+  "id": "class-01",
+  "order": 2,
+  "title": [
+    {
+      "en": "Class N°01"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "file": "KANJI - SET N°01 - synthesis & assignments.pdf"
+    },
+    {
+      "file": "CLASS N°01 — The Japanese Summer Challenge.pdf"
+    }
+  ],
+  "sections": [
+    {
+      "id": "class-01-section-kanji",
+      "title": [
+        {
+          "en": "Kanji"
+        }
+      ],
+      "kind": "kanji",
+      "itemIds": [
+        "class-01-kanji-001",
+        "class-01-kanji-002",
+        "class-01-kanji-003",
+        "class-01-kanji-004",
+        "class-01-kanji-005",
+        "class-01-kanji-006",
+        "class-01-kanji-007",
+        "class-01-kanji-008",
+        "class-01-kanji-009",
+        "class-01-kanji-010",
+        "class-01-kanji-011",
+        "class-01-kanji-012",
+        "class-01-kanji-013",
+        "class-01-kanji-014",
+        "class-01-kanji-015",
+        "class-01-kanji-016",
+        "class-01-kanji-017",
+        "class-01-kanji-018",
+        "class-01-kanji-019",
+        "class-01-kanji-020",
+        "class-01-kanji-021",
+        "class-01-kanji-022",
+        "class-01-kanji-023",
+        "class-01-kanji-024",
+        "class-01-kanji-025"
+      ]
+    },
+    {
+      "id": "class-01-section-vocabulary",
+      "title": [
+        {
+          "en": "Vocabulary"
+        }
+      ],
+      "kind": "vocabulary",
+      "itemIds": [
+        "class-01-vocab-001",
+        "class-01-vocab-002",
+        "class-01-vocab-003",
+        "class-01-vocab-004",
+        "class-01-vocab-005",
+        "class-01-vocab-006",
+        "class-01-vocab-007",
+        "class-01-vocab-008",
+        "class-01-vocab-009",
+        "class-01-vocab-010",
+        "class-01-vocab-011",
+        "class-01-vocab-012",
+        "class-01-vocab-013",
+        "class-01-vocab-014",
+        "class-01-vocab-015",
+        "class-01-vocab-016",
+        "class-01-vocab-017",
+        "class-01-vocab-018",
+        "class-01-vocab-019",
+        "class-01-vocab-020",
+        "class-01-vocab-021",
+        "class-01-vocab-022",
+        "class-01-vocab-023",
+        "class-01-vocab-024",
+        "class-01-vocab-025",
+        "class-01-vocab-026",
+        "class-01-vocab-028",
+        "class-01-vocab-029",
+        "class-01-vocab-030",
+        "class-01-vocab-031",
+        "class-01-vocab-032",
+        "class-01-vocab-033",
+        "class-01-vocab-034",
+        "class-01-vocab-035",
+        "class-01-vocab-038",
+        "class-01-vocab-039",
+        "class-01-vocab-040",
+        "class-01-vocab-041",
+        "class-01-vocab-044",
+        "class-01-vocab-045",
+        "class-01-vocab-047",
+        "class-01-vocab-048",
+        "class-01-vocab-049",
+        "class-01-vocab-050",
+        "class-01-vocab-051",
+        "class-01-vocab-052",
+        "class-01-vocab-053",
+        "class-01-vocab-054",
+        "class-01-vocab-056",
+        "class-01-vocab-057",
+        "class-01-vocab-068",
+        "class-01-vocab-073",
+        "class-01-vocab-076",
+        "class-01-vocab-077",
+        "class-01-vocab-078",
+        "class-01-vocab-079",
+        "class-01-vocab-081",
+        "class-01-vocab-084",
+        "class-01-vocab-088",
+        "class-01-vocab-089",
+        "class-01-vocab-090",
+        "class-01-vocab-091",
+        "class-01-vocab-092",
+        "class-01-vocab-094",
+        "class-01-vocab-095",
+        "class-01-vocab-096",
+        "class-01-vocab-097",
+        "class-01-vocab-098",
+        "class-01-vocab-109"
+      ]
+    },
+    {
+      "id": "class-01-section-examples",
+      "title": [
+        {
+          "en": "Example sentences"
+        }
+      ],
+      "kind": "examples",
+      "itemIds": [
+        "class-01-example-001",
+        "class-01-example-002",
+        "class-01-example-003",
+        "class-01-example-004",
+        "class-01-example-005",
+        "class-01-example-006",
+        "class-01-example-007",
+        "class-01-example-008",
+        "class-01-example-009",
+        "class-01-example-010",
+        "class-01-example-011",
+        "class-01-example-012"
+      ]
+    },
+    {
+      "id": "class-01-section-grammar",
+      "title": [
+        {
+          "en": "Grammar"
+        }
+      ],
+      "kind": "grammar",
+      "itemIds": [
+        "class-01-grammar-001",
+        "class-01-grammar-002",
+        "class-01-grammar-003",
+        "class-01-grammar-004"
+      ]
+    },
+    {
+      "id": "class-01-section-numbers",
+      "title": [
+        {
+          "en": "Numbers & Counters"
+        }
+      ],
+      "kind": "numbers",
+      "itemIds": [
+        "class-01-number-001",
+        "class-01-number-002",
+        "class-01-number-003",
+        "class-01-number-004",
+        "class-01-number-005",
+        "class-01-number-006",
+        "class-01-number-007",
+        "class-01-number-008",
+        "class-01-number-009",
+        "class-01-number-010",
+        "class-01-number-011"
+      ]
+    }
+  ]
+}

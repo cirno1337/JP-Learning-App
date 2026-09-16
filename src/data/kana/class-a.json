@@ -1,0 +1,1812 @@
+[
+  {
+    "id": "class-a-kana-001",
+    "character": "あ",
+    "chart": "hiragana",
+    "romaji": "a",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-002",
+    "character": "か",
+    "chart": "hiragana",
+    "romaji": "ka",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-003",
+    "character": "さ",
+    "chart": "hiragana",
+    "romaji": "sa",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-004",
+    "character": "た",
+    "chart": "hiragana",
+    "romaji": "ta",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-005",
+    "character": "な",
+    "chart": "hiragana",
+    "romaji": "na",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-006",
+    "character": "は",
+    "chart": "hiragana",
+    "romaji": "ha",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-007",
+    "character": "ま",
+    "chart": "hiragana",
+    "romaji": "ma",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-008",
+    "character": "や",
+    "chart": "hiragana",
+    "romaji": "ya",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-009",
+    "character": "ら",
+    "chart": "hiragana",
+    "romaji": "ra",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-010",
+    "character": "わ",
+    "chart": "hiragana",
+    "romaji": "wa",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-011",
+    "character": "い",
+    "chart": "hiragana",
+    "romaji": "i",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-012",
+    "character": "き",
+    "chart": "hiragana",
+    "romaji": "ki",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-013",
+    "character": "し",
+    "chart": "hiragana",
+    "romaji": "shi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-014",
+    "character": "ち",
+    "chart": "hiragana",
+    "romaji": "chi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-015",
+    "character": "に",
+    "chart": "hiragana",
+    "romaji": "ni",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-016",
+    "character": "ひ",
+    "chart": "hiragana",
+    "romaji": "hi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-017",
+    "character": "み",
+    "chart": "hiragana",
+    "romaji": "mi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-018",
+    "character": "り",
+    "chart": "hiragana",
+    "romaji": "ri",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-019",
+    "character": "う",
+    "chart": "hiragana",
+    "romaji": "u",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-020",
+    "character": "く",
+    "chart": "hiragana",
+    "romaji": "ku",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-021",
+    "character": "す",
+    "chart": "hiragana",
+    "romaji": "su",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-022",
+    "character": "つ",
+    "chart": "hiragana",
+    "romaji": "tsu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-023",
+    "character": "ぬ",
+    "chart": "hiragana",
+    "romaji": "nu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-024",
+    "character": "ふ",
+    "chart": "hiragana",
+    "romaji": "fu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-025",
+    "character": "む",
+    "chart": "hiragana",
+    "romaji": "mu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-026",
+    "character": "ゆ",
+    "chart": "hiragana",
+    "romaji": "yu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-027",
+    "character": "る",
+    "chart": "hiragana",
+    "romaji": "ru",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-028",
+    "character": "え",
+    "chart": "hiragana",
+    "romaji": "e",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-029",
+    "character": "け",
+    "chart": "hiragana",
+    "romaji": "ke",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-030",
+    "character": "せ",
+    "chart": "hiragana",
+    "romaji": "se",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-031",
+    "character": "て",
+    "chart": "hiragana",
+    "romaji": "te",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-032",
+    "character": "ね",
+    "chart": "hiragana",
+    "romaji": "ne",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-033",
+    "character": "へ",
+    "chart": "hiragana",
+    "romaji": "he",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-034",
+    "character": "め",
+    "chart": "hiragana",
+    "romaji": "me",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-035",
+    "character": "れ",
+    "chart": "hiragana",
+    "romaji": "re",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-036",
+    "character": "お",
+    "chart": "hiragana",
+    "romaji": "o",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-037",
+    "character": "こ",
+    "chart": "hiragana",
+    "romaji": "ko",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-038",
+    "character": "そ",
+    "chart": "hiragana",
+    "romaji": "so",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-039",
+    "character": "と",
+    "chart": "hiragana",
+    "romaji": "to",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-040",
+    "character": "の",
+    "chart": "hiragana",
+    "romaji": "no",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-041",
+    "character": "ほ",
+    "chart": "hiragana",
+    "romaji": "ho",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-042",
+    "character": "も",
+    "chart": "hiragana",
+    "romaji": "mo",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-043",
+    "character": "よ",
+    "chart": "hiragana",
+    "romaji": "yo",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-044",
+    "character": "ろ",
+    "chart": "hiragana",
+    "romaji": "ro",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-045",
+    "character": "を",
+    "chart": "hiragana",
+    "romaji": "wo",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-046",
+    "character": "ん",
+    "chart": "hiragana",
+    "romaji": "n",
+    "variantType": "base",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-047",
+    "character": "が",
+    "chart": "hiragana",
+    "romaji": "ga",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-002",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-048",
+    "character": "ぎ",
+    "chart": "hiragana",
+    "romaji": "gi",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-012",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-049",
+    "character": "ぐ",
+    "chart": "hiragana",
+    "romaji": "gu",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-020",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-050",
+    "character": "げ",
+    "chart": "hiragana",
+    "romaji": "ge",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-029",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-051",
+    "character": "ご",
+    "chart": "hiragana",
+    "romaji": "go",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-037",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-052",
+    "character": "ざ",
+    "chart": "hiragana",
+    "romaji": "za",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-003",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-053",
+    "character": "じ",
+    "chart": "hiragana",
+    "romaji": "ji",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-013",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-054",
+    "character": "ず",
+    "chart": "hiragana",
+    "romaji": "zu",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-021",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-055",
+    "character": "ぜ",
+    "chart": "hiragana",
+    "romaji": "ze",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-030",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-056",
+    "character": "ぞ",
+    "chart": "hiragana",
+    "romaji": "zo",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-038",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-057",
+    "character": "だ",
+    "chart": "hiragana",
+    "romaji": "da",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-004",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-058",
+    "character": "ぢ",
+    "chart": "hiragana",
+    "romaji": "ji",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-014",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-059",
+    "character": "づ",
+    "chart": "hiragana",
+    "romaji": "zu",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-022",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-060",
+    "character": "で",
+    "chart": "hiragana",
+    "romaji": "de",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-031",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-061",
+    "character": "ど",
+    "chart": "hiragana",
+    "romaji": "do",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-039",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-062",
+    "character": "ば",
+    "chart": "hiragana",
+    "romaji": "ba",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-006",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-063",
+    "character": "び",
+    "chart": "hiragana",
+    "romaji": "bi",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-016",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-064",
+    "character": "ぶ",
+    "chart": "hiragana",
+    "romaji": "bu",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-024",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-065",
+    "character": "べ",
+    "chart": "hiragana",
+    "romaji": "be",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-033",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-066",
+    "character": "ぼ",
+    "chart": "hiragana",
+    "romaji": "bo",
+    "variantType": "dakuten",
+    "baseCharacterId": "class-a-kana-041",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-067",
+    "character": "ぱ",
+    "chart": "hiragana",
+    "romaji": "pa",
+    "variantType": "handakuten",
+    "baseCharacterId": "class-a-kana-006",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-068",
+    "character": "ぴ",
+    "chart": "hiragana",
+    "romaji": "pi",
+    "variantType": "handakuten",
+    "baseCharacterId": "class-a-kana-016",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-069",
+    "character": "ぷ",
+    "chart": "hiragana",
+    "romaji": "pu",
+    "variantType": "handakuten",
+    "baseCharacterId": "class-a-kana-024",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-070",
+    "character": "ぺ",
+    "chart": "hiragana",
+    "romaji": "pe",
+    "variantType": "handakuten",
+    "baseCharacterId": "class-a-kana-033",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-071",
+    "character": "ぽ",
+    "chart": "hiragana",
+    "romaji": "po",
+    "variantType": "handakuten",
+    "baseCharacterId": "class-a-kana-041",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-072",
+    "character": "しゃ",
+    "chart": "hiragana",
+    "romaji": "sha",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-073",
+    "character": "しゅ",
+    "chart": "hiragana",
+    "romaji": "shu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-074",
+    "character": "じゃ",
+    "chart": "hiragana",
+    "romaji": "ja",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-075",
+    "character": "じゅ",
+    "chart": "hiragana",
+    "romaji": "ju",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-076",
+    "character": "ちゃ",
+    "chart": "hiragana",
+    "romaji": "cha",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-077",
+    "character": "ちゅ",
+    "chart": "hiragana",
+    "romaji": "chu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-078",
+    "character": "きゃ",
+    "chart": "hiragana",
+    "romaji": "kya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-079",
+    "character": "きゅ",
+    "chart": "hiragana",
+    "romaji": "kyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-080",
+    "character": "ぎゃ",
+    "chart": "hiragana",
+    "romaji": "gya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-081",
+    "character": "ぎゅ",
+    "chart": "hiragana",
+    "romaji": "gyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-082",
+    "character": "にゃ",
+    "chart": "hiragana",
+    "romaji": "nya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-083",
+    "character": "にゅ",
+    "chart": "hiragana",
+    "romaji": "nyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-084",
+    "character": "ひゃ",
+    "chart": "hiragana",
+    "romaji": "hya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-085",
+    "character": "ひゅ",
+    "chart": "hiragana",
+    "romaji": "hyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-086",
+    "character": "びゃ",
+    "chart": "hiragana",
+    "romaji": "bya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-087",
+    "character": "びゅ",
+    "chart": "hiragana",
+    "romaji": "byu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-088",
+    "character": "ぴゃ",
+    "chart": "hiragana",
+    "romaji": "pya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-089",
+    "character": "ぴゅ",
+    "chart": "hiragana",
+    "romaji": "pyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-090",
+    "character": "みゃ",
+    "chart": "hiragana",
+    "romaji": "mya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-091",
+    "character": "みゅ",
+    "chart": "hiragana",
+    "romaji": "myu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-092",
+    "character": "りゃ",
+    "chart": "hiragana",
+    "romaji": "rya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-093",
+    "character": "りゅ",
+    "chart": "hiragana",
+    "romaji": "ryu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-094",
+    "character": "しょ",
+    "chart": "hiragana",
+    "romaji": "sho",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-095",
+    "character": "じょ",
+    "chart": "hiragana",
+    "romaji": "jo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-096",
+    "character": "ちょ",
+    "chart": "hiragana",
+    "romaji": "cho",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-097",
+    "character": "きょ",
+    "chart": "hiragana",
+    "romaji": "kyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-098",
+    "character": "ぎょ",
+    "chart": "hiragana",
+    "romaji": "gyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-099",
+    "character": "にょ",
+    "chart": "hiragana",
+    "romaji": "nyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-100",
+    "character": "ひょ",
+    "chart": "hiragana",
+    "romaji": "hyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-101",
+    "character": "びょ",
+    "chart": "hiragana",
+    "romaji": "byo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-102",
+    "character": "ぴょ",
+    "chart": "hiragana",
+    "romaji": "pyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-103",
+    "character": "みょ",
+    "chart": "hiragana",
+    "romaji": "myo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-104",
+    "character": "りょ",
+    "chart": "hiragana",
+    "romaji": "ryo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-kana-105",
+    "character": "っ",
+    "chart": "hiragana",
+    "romaji": "[small tsu — doubles the following consonant]",
+    "variantType": "small",
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  }
+]

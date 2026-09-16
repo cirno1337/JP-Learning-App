@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "class-03-example-001",
+    "japanese": "田中さんはりんごを買っている。",
+    "reading": "たなかさんわりんごおかっている",
+    "meanings": [
+      {
+        "en": "Ms. Tanaka is buying apples."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-002",
+    "japanese": "田中さんは鈴木さんからバナナを買っている。",
+    "reading": "たなかさんわすずきさんからバナナおかっている",
+    "meanings": [
+      {
+        "en": "Ms. Tanaka is buying bananas from Mr. Suzuki."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-003",
+    "japanese": "田中さんは鈴木さんに百五十円を払っている。",
+    "reading": "たなかさんわすずきさんにひゃくごじゅうえんおはらっている",
+    "meanings": [
+      {
+        "en": "Ms. Tanaka is paying 150 yens to Mr Suzuki."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-004",
+    "japanese": "吉田さんはいちごを売っている。",
+    "reading": "よしださんわいちごおうっている",
+    "meanings": [
+      {
+        "en": "Ms. Yoshida is selling strawberries."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-005",
+    "japanese": "トマトは赤い。",
+    "reading": "トマトわあかい",
+    "meanings": [
+      {
+        "en": "Tomatoes are red."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-006",
+    "japanese": "赤いトマトを食べている。",
+    "reading": "あかいトマトおたべている",
+    "meanings": [
+      {
+        "en": "I am eating red tomatoes."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-007",
+    "japanese": "いちごは小さい。",
+    "reading": "いちごわちいさい",
+    "meanings": [
+      {
+        "en": "Strawberries are small."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-008",
+    "japanese": "バナナは黄色い。",
+    "reading": "バナナわきいろい",
+    "meanings": [
+      {
+        "en": "Bananas are yellow."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-009",
+    "japanese": "鈴木さんのりんごです。",
+    "reading": "すずきのりんごです",
+    "meanings": [
+      {
+        "en": "These are Mr. Suzuki’s apples."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-010",
+    "japanese": "私のいちごです。",
+    "reading": "わたしのいちごです",
+    "meanings": [
+      {
+        "en": "These are my strawberries."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-011",
+    "japanese": "山田さんは吉田のオレンジを買っている。",
+    "reading": "やまださんわよしだのオレンジおかっている",
+    "meanings": [
+      {
+        "en": "Mr. Yamada is buying Ms. Yoshida’s oranges."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-012",
+    "japanese": "鈴木さんは田中さんに赤いりんごをあげている。",
+    "reading": "すずきさんわたなかさんにあかいりんごおあげている",
+    "meanings": [
+      {
+        "en": "Mr. Suzuki is giving red apples to Ms. Tanaka."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-013",
+    "japanese": "日曜日に働く。",
+    "reading": "にちようびにはたらく",
+    "meanings": [
+      {
+        "en": "He works on Sunday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-014",
+    "japanese": "月曜日にオレンジジュースを飲む。",
+    "reading": "げつようびにオレンジジュースおのむ",
+    "meanings": [
+      {
+        "en": "He drinks orange juice on Monday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-015",
+    "japanese": "火曜日に韓国語を習う。",
+    "reading": "かようびにかんこくごおならう",
+    "meanings": [
+      {
+        "en": "He learns Korean on Tuesday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-016",
+    "japanese": "水曜日に書く。",
+    "reading": "すいようびにかく",
+    "meanings": [
+      {
+        "en": "He writes on Wednesday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-017",
+    "japanese": "木曜日にパスタを食べる。",
+    "reading": "もくようびにパスタおたべる",
+    "meanings": [
+      {
+        "en": "He eats pasta on Thursday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-018",
+    "japanese": "金曜日に山へ行く。",
+    "reading": "きんようびにやまえいく",
+    "meanings": [
+      {
+        "en": "He goes to the mountain on Friday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-019",
+    "japanese": "土曜日に寝る。",
+    "reading": "どようびにねる",
+    "meanings": [
+      {
+        "en": "He sleeps on Saturday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-020",
+    "japanese": "パソコンは黒い。",
+    "reading": "パソコンわくろい",
+    "meanings": [
+      {
+        "en": "The computer is black."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-021",
+    "japanese": "山は白い。",
+    "reading": "やまわしろい",
+    "meanings": [
+      {
+        "en": "The mountain is white."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-022",
+    "japanese": "一月に赤い本を読む。",
+    "reading": "いちがつにあかいほんおよむ",
+    "meanings": [
+      {
+        "en": "I read a red book in January."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-023",
+    "japanese": "二月にいい本を読む。",
+    "reading": "にがつにいいほんおよむ",
+    "meanings": [
+      {
+        "en": "I read a good book in February."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-024",
+    "japanese": "三月に悪い本を読む。",
+    "reading": "さんがつにわるいほんを読む",
+    "meanings": [
+      {
+        "en": "I read a bad book in March."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-025",
+    "japanese": "四月は悪い月だ。",
+    "reading": "しがつわわるいつきだ",
+    "meanings": [
+      {
+        "en": "April is a bad month."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-026",
+    "japanese": "山は十二月に白い。",
+    "reading": "やまはじゅうにがつにしろい",
+    "meanings": [
+      {
+        "en": "The mountain is white in December."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-027",
+    "japanese": "六月はいい月じゃない。",
+    "reading": "ろくがつわいいつきじゃない",
+    "meanings": [
+      {
+        "en": "June is not a good month."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-028",
+    "japanese": "春に山へ行く。",
+    "reading": "はるにやまえいく",
+    "meanings": [
+      {
+        "en": "I go to the mountain in the spring."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-029",
+    "japanese": "夏に海で泳ぐ。",
+    "reading": "なつにうみでおよぐ",
+    "meanings": [
+      {
+        "en": "I swim in the sea in the summer."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-030",
+    "japanese": "秋に学校へ行く。 (秋以後 『あきいご』 = from autumn on)",
+    "reading": "あきにがっこうえいく",
+    "meanings": [
+      {
+        "en": "I go to school in the autumn."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-031",
+    "japanese": "冬に家でいい本を読む。",
+    "reading": "ふゆにいえでいいよんおよむ",
+    "meanings": [
+      {
+        "en": "I read a good book at home in the winter ."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-032",
+    "japanese": "木は冬に白い。",
+    "reading": "きわふゆにしろい",
+    "meanings": [
+      {
+        "en": "The trees are white in the winter."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-033",
+    "japanese": "夫と妻は働いている。",
+    "reading": "おっととつまわはたらいている",
+    "meanings": [
+      {
+        "en": "The husband and the wife are working."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-034",
+    "japanese": "彼は私の彼氏だ。",
+    "reading": "かれわわたしのかれしだ",
+    "meanings": [
+      {
+        "en": "He is my boyfriend.."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-035",
+    "japanese": "叔父は中国人です。",
+    "reading": "おじわちゅうごくじんです",
+    "meanings": [
+      {
+        "en": "My uncle is Chinese."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-036",
+    "japanese": "叔母は猫がいる。",
+    "reading": "おばわねこがいる",
+    "meanings": [
+      {
+        "en": "My aunt has a cat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-037",
+    "japanese": "日本の家族は犬がいる。",
+    "reading": "にほんのかぞくわいぬがいる",
+    "meanings": [
+      {
+        "en": "The japanese family has a dog."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-038",
+    "japanese": "あなたのいとこはフランス語を話す。",
+    "reading": "あなたのいとこわフランスごおはなす",
+    "meanings": [
+      {
+        "en": "Your cousin speaks French."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-039",
+    "japanese": "大きい車を買っている。",
+    "meanings": [
+      {
+        "en": "I'm buying a big car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-040",
+    "japanese": "大きい車です。",
+    "meanings": [
+      {
+        "en": "It's a big car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-041",
+    "japanese": "小さい車を買っている。",
+    "meanings": [
+      {
+        "en": "I'm buying a small car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-042",
+    "japanese": "小さい車です。",
+    "meanings": [
+      {
+        "en": "It's a small car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-043",
+    "japanese": "車は大きい。",
+    "meanings": [
+      {
+        "en": "The car is big."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-044",
+    "japanese": "私の家は大きい。",
+    "meanings": [
+      {
+        "en": "My house is big."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-045",
+    "japanese": "車は小さい。",
+    "meanings": [
+      {
+        "en": "The car is small."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-046",
+    "japanese": "私の家は小さい。",
+    "meanings": [
+      {
+        "en": "My house is small."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-047",
+    "japanese": "車は大きいです。",
+    "meanings": [
+      {
+        "en": "The car is big. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-048",
+    "japanese": "車は大きくない。",
+    "meanings": [
+      {
+        "en": "The car is not big."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-049",
+    "japanese": "車は大きくないです。",
+    "meanings": [
+      {
+        "en": "The car is not big. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-050",
+    "japanese": "車は大きかった。",
+    "meanings": [
+      {
+        "en": "The car was big."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-051",
+    "japanese": "車は大きかったです。",
+    "meanings": [
+      {
+        "en": "The car was big. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-052",
+    "japanese": "車は大きくなかった。",
+    "meanings": [
+      {
+        "en": "The car wasn't big."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-053",
+    "japanese": "車は大きくなかったです。",
+    "meanings": [
+      {
+        "en": "The car wasn't big. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-054",
+    "japanese": "大きく書いてください。",
+    "meanings": [
+      {
+        "en": "Please write with bigger letters."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-055",
+    "japanese": "小さく切ります。",
+    "meanings": [
+      {
+        "en": "I cut it into small pieces."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-056",
+    "japanese": "車は大きくて赤い。",
+    "meanings": [
+      {
+        "en": "The car is big and red."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-057",
+    "japanese": "車は小さくて青い。",
+    "meanings": [
+      {
+        "en": "The car is small and blue."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-058",
+    "japanese": "水を飲みたい。",
+    "meanings": [
+      {
+        "en": "I want to drink water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-059",
+    "japanese": "水を飲みたくない。",
+    "meanings": [
+      {
+        "en": "I don't want to drink water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-060",
+    "japanese": "水を飲みたかった。",
+    "meanings": [
+      {
+        "en": "I wanted to drink water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-061",
+    "japanese": "水を飲みたくなかった。",
+    "meanings": [
+      {
+        "en": "I didn't want to drink water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-062",
+    "japanese": "友だちに本をあげる。",
+    "meanings": [
+      {
+        "en": "I give a book to my friend."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-063",
+    "japanese": "学生の本は青い。",
+    "meanings": [
+      {
+        "en": "The student's book is blue."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-064",
+    "japanese": "『こんにちは』と言う。",
+    "meanings": [
+      {
+        "en": "I say “hello”."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-065",
+    "japanese": "私の猫と寝る。",
+    "meanings": [
+      {
+        "en": "I sleep with my cat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-066",
+    "japanese": "学校で書く。",
+    "meanings": [
+      {
+        "en": "I write at school."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-067",
+    "japanese": "山へ行く。",
+    "meanings": [
+      {
+        "en": "I go to/towards the mountain."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-068",
+    "japanese": "日曜日にサッカーをする。",
+    "meanings": [
+      {
+        "en": "I play football on Sunday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-03-example-069",
+    "japanese": "お茶を飲むの。",
+    "meanings": [
+      {
+        "en": "Do you drink tea?"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  }
+]

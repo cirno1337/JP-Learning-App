@@ -1,0 +1,154 @@
+[
+  {
+    "id": "class-09-dialogue-001",
+    "title": "空港へ (To the airport) — comprehensible input reading passage",
+    "lines": [
+      {
+        "japanese": "今日はレオさんの誕生日です。",
+        "reading": "きょうはレオさんのたんじょうびです。",
+        "meanings": [
+          {
+            "en": "Today is Leo's birthday."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんと友だちは町でタクシーに乗っています。",
+        "reading": "レオさんとともだちはまちでタクシーにのっています。",
+        "meanings": [
+          {
+            "en": "Leo and his friends are getting into a taxi in the city."
+          }
+        ]
+      },
+      {
+        "japanese": "スーツケースがたくさんある。",
+        "reading": "スーツケースがたくさんある",
+        "meanings": [
+          {
+            "en": "They have a lot of suitcases."
+          }
+        ]
+      },
+      {
+        "japanese": "タクシーで空港へ行きます。",
+        "reading": "タクシーでくうこうへいきます。",
+        "meanings": [
+          {
+            "en": "They are going to the airport by taxi."
+          }
+        ]
+      },
+      {
+        "japanese": "タクシーの運転手は「どこへ旅行したいですか」と聞きます。",
+        "reading": "タクシーのうんてんしゅは「どこへりょこうしたいですか」とききます。",
+        "meanings": [
+          {
+            "en": "The taxi driver asks, \"Where do you want to travel?\""
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんは「韓国へ行きます」と答えます。",
+        "reading": "レオさんは「かんこくへいきます」とこたえます。",
+        "meanings": [
+          {
+            "en": "Leo answers, \"We are going to Korea.\""
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんと友だちは旅行するのが大好きです。",
+        "reading": "レオさんとともだちはりょこうするのがだいすきです。",
+        "meanings": [
+          {
+            "en": "Leo and his friends love traveling."
+          }
+        ]
+      },
+      {
+        "japanese": "羽田空港は近くないです。ちょっと遠いです。",
+        "reading": "はねだくうこうはちかくないです。ちょっととおいです。",
+        "meanings": [
+          {
+            "en": "Haneda Airport is not nearby. It is a little far away."
+          }
+        ]
+      },
+      {
+        "japanese": "その後で、銀行の前で男の人が電話を盗むのを見ます。",
+        "reading": "そのあとで、ぎんこうのまえでおとこのひとがでんわをぬすむのをみます。",
+        "meanings": [
+          {
+            "en": "On the way, they see a man stealing a mobile phone in front of a bank."
+          }
+        ]
+      },
+      {
+        "japanese": "タクシーが止まります。",
+        "reading": "タクシーがとまります。",
+        "meanings": [
+          {
+            "en": "The taxi stops."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんたちは警察官を見て、「だれかが銀行の前で電話を盗みました」と言います。",
+        "reading": "レオさんたちはけいさつかんをみて、「だれかがぎんこうのまえででんわをぬすみました」といいます。",
+        "meanings": [
+          {
+            "en": "Leo and his friends see a police officer and say, \"Someone stole a mobile phone in front of a bank.\""
+          }
+        ]
+      },
+      {
+        "japanese": "警察官はバイクに乗って、銀行へ行きます。",
+        "reading": "けいさつかんはバイクにのって、ぎんこうへいきます。",
+        "meanings": [
+          {
+            "en": "The police officer gets on a motorcycle and goes to the bank."
+          }
+        ]
+      },
+      {
+        "japanese": "そして、男の人を止めます。",
+        "reading": "そして、おとこのひとをとめます。",
+        "meanings": [
+          {
+            "en": "Then, the police officer stops the man."
+          }
+        ]
+      },
+      {
+        "japanese": "タクシーは空港に着きました。",
+        "reading": "タクシーはくうこうにつきました。",
+        "meanings": [
+          {
+            "en": "The taxi arrives at the airport."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんたちは韓国へ旅行します。",
+        "reading": "レオさんたちはかんこくへりょこうします。",
+        "meanings": [
+          {
+            "en": "Leo and his friends travel to Korea."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 4,
+        "note": "Reading passage spans pages 4-5"
+      }
+    ]
+  }
+]

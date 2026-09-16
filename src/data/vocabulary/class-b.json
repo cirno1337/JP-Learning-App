@@ -1,0 +1,531 @@
+[
+  {
+    "id": "class-b-vocab-001",
+    "kana": "エアー",
+    "meanings": [
+      {
+        "en": "air"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-002",
+    "kana": "ケーキ",
+    "meanings": [
+      {
+        "en": "cake"
+      }
+    ],
+    "lessonIds": [
+      "class-b",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-003",
+    "kana": "エコー",
+    "meanings": [
+      {
+        "en": "echo"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-004",
+    "kana": "ココア",
+    "meanings": [
+      {
+        "en": "cocoa"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-005",
+    "kana": "ソース",
+    "meanings": [
+      {
+        "en": "sauce"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-006",
+    "kana": "スイカ",
+    "meanings": [
+      {
+        "en": "watermelon"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-007",
+    "kana": "ソーセージ",
+    "meanings": [
+      {
+        "en": "sausage"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-008",
+    "kana": "ドア",
+    "meanings": [
+      {
+        "en": "door"
+      }
+    ],
+    "lessonIds": [
+      "class-b",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-009",
+    "kana": "チーズ",
+    "meanings": [
+      {
+        "en": "cheese"
+      }
+    ],
+    "lessonIds": [
+      "class-b",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-011",
+    "kana": "テニス",
+    "meanings": [
+      {
+        "en": "tennis"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-013",
+    "kana": "カジノ",
+    "meanings": [
+      {
+        "en": "casino"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-018",
+    "kana": "ゲーム",
+    "meanings": [
+      {
+        "en": "game"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-019",
+    "kana": "メイク",
+    "meanings": [
+      {
+        "en": "makeup"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-020",
+    "kana": "マヨネーズ",
+    "meanings": [
+      {
+        "en": "mayonnaise"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-022",
+    "kana": "ニューヨーク",
+    "meanings": [
+      {
+        "en": "New York"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-023",
+    "kana": "カメラ",
+    "meanings": [
+      {
+        "en": "camera"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-025",
+    "kana": "ラジオ",
+    "meanings": [
+      {
+        "en": "radio"
+      }
+    ],
+    "lessonIds": [
+      "class-b",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-028",
+    "kana": "パン",
+    "meanings": [
+      {
+        "en": "bread"
+      }
+    ],
+    "lessonIds": [
+      "class-b",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-029",
+    "kana": "チャレンジ",
+    "meanings": [
+      {
+        "en": "challenge"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-030",
+    "kana": "チューインガム",
+    "meanings": [
+      {
+        "en": "chewing gum"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-031",
+    "kana": "ミュージシャン",
+    "meanings": [
+      {
+        "en": "musician"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-032",
+    "kana": "ジュース",
+    "meanings": [
+      {
+        "en": "juice"
+      }
+    ],
+    "lessonIds": [
+      "class-b",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 68
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-033",
+    "kana": "チョコレート",
+    "meanings": [
+      {
+        "en": "chocolate"
+      }
+    ],
+    "lessonIds": [
+      "class-b",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-035",
+    "kana": "ファッション",
+    "meanings": [
+      {
+        "en": "fashion"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-036",
+    "kana": "ショック",
+    "meanings": [
+      {
+        "en": "shock"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-vocab-037",
+    "kana": "コンピューター",
+    "meanings": [
+      {
+        "en": "computer"
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  }
+]

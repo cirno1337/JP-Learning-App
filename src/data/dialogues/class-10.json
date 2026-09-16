@@ -1,0 +1,108 @@
+[
+  {
+    "id": "class-10-dialogue-001",
+    "title": "公園で (At the park) — comprehensible input reading passage",
+    "lines": [
+      {
+        "japanese": "レオさんと友だちは公園に行った。",
+        "reading": "レオさんとともだちはこうえんにいった。",
+        "meanings": [
+          {
+            "en": "Leo and his friend went to the park."
+          }
+        ]
+      },
+      {
+        "japanese": "二人は靴を脱いで、公園で座って休んだ。",
+        "reading": "ふたりはくつをぬいで、こうえんですわってやすんだ。",
+        "meanings": [
+          {
+            "en": "The two of them took off their shoes and sat down in the park to rest."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんは本を読んだ。",
+        "reading": "レオさんはほんをよんだ。",
+        "meanings": [
+          {
+            "en": "Leo read a book."
+          }
+        ]
+      },
+      {
+        "japanese": "友だちは公園で座っている男の人を描いた。",
+        "reading": "ともだちはこうえんですわっているおとこのひとをかいた。",
+        "meanings": [
+          {
+            "en": "His friend drew a man who was sitting in the park."
+          }
+        ]
+      },
+      {
+        "japanese": "その男の人は青いズボンと赤い Tシャツを着た。",
+        "reading": "そのおとこのひとはあおいズボンとあかいティーシャツをきた。",
+        "meanings": [
+          {
+            "en": "The man was wearing blue pants and a red T-shirt."
+          }
+        ]
+      },
+      {
+        "japanese": "茶髪の人だった。",
+        "reading": "ちゃぱつのひとだった。",
+        "meanings": [
+          {
+            "en": "He had brown hair."
+          }
+        ]
+      },
+      {
+        "japanese": "公園で踊ったり歌ったりしている人たちがいた。",
+        "reading": "こうえんでおどったりうたったりしているひとたちがいた。",
+        "meanings": [
+          {
+            "en": "There were people dancing and singing in the park."
+          }
+        ]
+      },
+      {
+        "japanese": "友だちは男の人に絵を見せるために立った。",
+        "reading": "ともだちはおとこのひとにえをみせるためにたった。",
+        "meanings": [
+          {
+            "en": "Leo's friend stood up to show the man the drawing."
+          }
+        ]
+      },
+      {
+        "japanese": "でも、転んだ。",
+        "reading": "でも、ころんだ。",
+        "meanings": [
+          {
+            "en": "But he fell down."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんは笑った。",
+        "reading": "レオさんはわらった。",
+        "meanings": [
+          {
+            "en": "Leo laughed."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ]
+  }
+]

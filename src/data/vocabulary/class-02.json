@@ -1,0 +1,1692 @@
+[
+  {
+    "id": "class-02-vocab-042",
+    "kanji": "生の",
+    "kana": "なまの",
+    "meanings": [
+      {
+        "en": "raw"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5,
+        "note": "Source line is \"生(の) (なま(の)) = raw\" — parentheses mark の as an attached/optional okurigana; normalised here to 生の / なまの for consistency with other entries."
+      }
+    ],
+    "notes": "Example vocabulary for kanji 生. Added manually: the parser's regex does not handle this line's nested parentheses."
+  },
+  {
+    "id": "class-02-vocab-001",
+    "kanji": "大きい",
+    "kana": "おおきい",
+    "meanings": [
+      {
+        "en": "big"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 大."
+  },
+  {
+    "id": "class-02-vocab-002",
+    "kanji": "大人",
+    "kana": "おとな",
+    "meanings": [
+      {
+        "en": "adult"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 大."
+  },
+  {
+    "id": "class-02-vocab-003",
+    "kanji": "小さい",
+    "kana": "ちいさい",
+    "meanings": [
+      {
+        "en": "small"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 小."
+  },
+  {
+    "id": "class-02-vocab-004",
+    "kanji": "日本中",
+    "kana": "にほんじゅう",
+    "meanings": [
+      {
+        "en": "throughout Japan"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 中."
+  },
+  {
+    "id": "class-02-vocab-005",
+    "kanji": "一日中",
+    "kana": "いちにちじゅう",
+    "meanings": [
+      {
+        "en": "all day long, all the day, throughout the day"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 中."
+  },
+  {
+    "id": "class-02-vocab-006",
+    "kanji": "下がる",
+    "kana": "さがる",
+    "meanings": [
+      {
+        "en": "to decrease [intransitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 下."
+  },
+  {
+    "id": "class-02-vocab-007",
+    "kanji": "下げる",
+    "kana": "さげる",
+    "meanings": [
+      {
+        "en": "to lower [transitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 下."
+  },
+  {
+    "id": "class-02-vocab-008",
+    "kanji": "上がる",
+    "kana": "あがる",
+    "meanings": [
+      {
+        "en": "to rise [intransitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 上."
+  },
+  {
+    "id": "class-02-vocab-009",
+    "kanji": "上げる",
+    "kana": "あげる",
+    "meanings": [
+      {
+        "en": "to raise [transitive]"
+      },
+      {
+        "en": "to give"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Example vocabulary for kanji 上."
+  },
+  {
+    "id": "class-02-vocab-010",
+    "kanji": "火山",
+    "kana": "かざん",
+    "meanings": [
+      {
+        "en": "volcano"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 山."
+  },
+  {
+    "id": "class-02-vocab-011",
+    "kanji": "山々",
+    "kana": "やまやま",
+    "meanings": [
+      {
+        "en": "mountains"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 山."
+  },
+  {
+    "id": "class-02-vocab-012",
+    "kanji": "分かる",
+    "kana": "わかる",
+    "meanings": [
+      {
+        "en": "to understand"
+      },
+      {
+        "en": "to understand [godan]"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 58
+      }
+    ],
+    "notes": "Example vocabulary for kanji 分."
+  },
+  {
+    "id": "class-02-vocab-013",
+    "kanji": "分ける",
+    "kana": "わける",
+    "meanings": [
+      {
+        "en": "to divide"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 分."
+  },
+  {
+    "id": "class-02-vocab-014",
+    "kanji": "切る",
+    "kana": "きる",
+    "meanings": [
+      {
+        "en": "to cut [godan]"
+      },
+      {
+        "en": "to cut"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 切."
+  },
+  {
+    "id": "class-02-vocab-015",
+    "kanji": "中国",
+    "kana": "ちゅうごく",
+    "meanings": [
+      {
+        "en": "China"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 国."
+  },
+  {
+    "id": "class-02-vocab-016",
+    "kanji": "時々",
+    "kana": "ときどき",
+    "meanings": [
+      {
+        "en": "sometimes, from time to time"
+      },
+      {
+        "en": "from time to time"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ],
+    "notes": "Example vocabulary for kanji 時."
+  },
+  {
+    "id": "class-02-vocab-017",
+    "kanji": "時間",
+    "kana": "じかん",
+    "meanings": [
+      {
+        "en": "time, hour [duration]"
+      },
+      {
+        "en": "hour [as a duration]"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 間."
+  },
+  {
+    "id": "class-02-vocab-018",
+    "kanji": "間もなく",
+    "kana": "まもなく",
+    "meanings": [
+      {
+        "en": "soon, in one moment"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 間."
+  },
+  {
+    "id": "class-02-vocab-019",
+    "kanji": "生きる",
+    "kana": "いきる",
+    "meanings": [
+      {
+        "en": "to live, to exist"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 生."
+  },
+  {
+    "id": "class-02-vocab-020",
+    "kanji": "生まれる",
+    "kana": "うまれる",
+    "meanings": [
+      {
+        "en": "to be born"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 生."
+  },
+  {
+    "id": "class-02-vocab-021",
+    "kanji": "生える",
+    "kana": "はえる",
+    "meanings": [
+      {
+        "en": "to grow [intransitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 生."
+  },
+  {
+    "id": "class-02-vocab-022",
+    "kanji": "生やす",
+    "kana": "はやす",
+    "meanings": [
+      {
+        "en": "to grow [transitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 生."
+  },
+  {
+    "id": "class-02-vocab-023",
+    "kanji": "以上",
+    "kana": "いじょう",
+    "meanings": [
+      {
+        "en": "more than"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 以."
+  },
+  {
+    "id": "class-02-vocab-024",
+    "kanji": "三時間以上",
+    "kana": "さんじかんいじょう",
+    "meanings": [
+      {
+        "en": "more than 3 hours"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 以."
+  },
+  {
+    "id": "class-02-vocab-025",
+    "kanji": "以下",
+    "kana": "いか",
+    "meanings": [
+      {
+        "en": "less than"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 以."
+  },
+  {
+    "id": "class-02-vocab-026",
+    "kanji": "三時間以下",
+    "kana": "さんじかんいか",
+    "meanings": [
+      {
+        "en": "less than 3 hours"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 以."
+  },
+  {
+    "id": "class-02-vocab-027",
+    "kanji": "以前",
+    "kana": "いぜん",
+    "meanings": [
+      {
+        "en": "before, prior to, ago"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 前."
+  },
+  {
+    "id": "class-02-vocab-028",
+    "kanji": "前もって",
+    "kana": "まえもって",
+    "meanings": [
+      {
+        "en": "in advance, beforehand"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 前."
+  },
+  {
+    "id": "class-02-vocab-029",
+    "kanji": "人前で",
+    "kana": "ひとまえで",
+    "meanings": [
+      {
+        "en": "in public"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 前."
+  },
+  {
+    "id": "class-02-vocab-030",
+    "kanji": "後ろ",
+    "kana": "うしろ",
+    "meanings": [
+      {
+        "en": "back, behind"
+      },
+      {
+        "en": "behind"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Example vocabulary for kanji 後."
+  },
+  {
+    "id": "class-02-vocab-031",
+    "kanji": "その後",
+    "kana": "そのご",
+    "meanings": [
+      {
+        "en": "after that, afterwards, thereafter"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 後."
+  },
+  {
+    "id": "class-02-vocab-032",
+    "kanji": "以後",
+    "kana": "いご",
+    "meanings": [
+      {
+        "en": "since then, after this, from now on"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 後."
+  },
+  {
+    "id": "class-02-vocab-033",
+    "kanji": "明後日",
+    "kana": "みょうごにち・あさって",
+    "meanings": [
+      {
+        "en": "day after tomorrow"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 後."
+  },
+  {
+    "id": "class-02-vocab-034",
+    "kanji": "午前",
+    "kana": "ごぜん",
+    "meanings": [
+      {
+        "en": "am (before noon)"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 午."
+  },
+  {
+    "id": "class-02-vocab-035",
+    "kanji": "午後",
+    "kana": "ごご",
+    "meanings": [
+      {
+        "en": "afternoon"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 午."
+  },
+  {
+    "id": "class-02-vocab-036",
+    "kanji": "午後中",
+    "kana": "ごごちゅう",
+    "meanings": [
+      {
+        "en": "throughout the afternoon"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 午."
+  },
+  {
+    "id": "class-02-vocab-037",
+    "kanji": "午前中",
+    "kana": "ごぜんちゅう",
+    "meanings": [
+      {
+        "en": "in the morning, during the morning"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 午."
+  },
+  {
+    "id": "class-02-vocab-038",
+    "kanji": "先日",
+    "kana": "せんじつ",
+    "meanings": [
+      {
+        "en": "the other day, a few days ago, recently"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 先."
+  },
+  {
+    "id": "class-02-vocab-039",
+    "kanji": "先月",
+    "kana": "せんげつ",
+    "meanings": [
+      {
+        "en": "last month"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 先."
+  },
+  {
+    "id": "class-02-vocab-040",
+    "kanji": "先々月",
+    "kana": "せんせんげつ",
+    "meanings": [
+      {
+        "en": "2 months ago"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 先."
+  },
+  {
+    "id": "class-02-vocab-041",
+    "kanji": "先生",
+    "kana": "せんせい",
+    "meanings": [
+      {
+        "en": "teacher"
+      }
+    ],
+    "lessonIds": [
+      "class-02",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 33
+      }
+    ],
+    "notes": "Example vocabulary for kanji 先."
+  },
+  {
+    "id": "class-02-vocab-048",
+    "kana": "バスケットボール",
+    "meanings": [
+      {
+        "en": "basketball"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-049",
+    "kanji": "車",
+    "kana": "くるま",
+    "meanings": [
+      {
+        "en": "car"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-054",
+    "kanji": "太陽",
+    "kana": "たいよう",
+    "meanings": [
+      {
+        "en": "sun"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-055",
+    "kanji": "雲",
+    "kana": "くも",
+    "meanings": [
+      {
+        "en": "cloud"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-057",
+    "kanji": "町",
+    "kana": "まち",
+    "meanings": [
+      {
+        "en": "town"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-058",
+    "kanji": "月",
+    "kana": "つき",
+    "meanings": [
+      {
+        "en": "moon"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-059",
+    "kanji": "星",
+    "kana": "ほし",
+    "meanings": [
+      {
+        "en": "star"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-060",
+    "kanji": "風景",
+    "kana": "ふうけい",
+    "meanings": [
+      {
+        "en": "scenery, landscape"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-061",
+    "kanji": "木",
+    "kana": "き",
+    "meanings": [
+      {
+        "en": "tree"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-062",
+    "kanji": "風",
+    "kana": "かぜ",
+    "meanings": [
+      {
+        "en": "wind"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-063",
+    "kanji": "国",
+    "kana": "くに",
+    "meanings": [
+      {
+        "en": "country"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-064",
+    "kanji": "海",
+    "kana": "うみ",
+    "meanings": [
+      {
+        "en": "sea"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-065",
+    "kanji": "通り",
+    "kana": "とおり",
+    "meanings": [
+      {
+        "en": "street, avenue"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-066",
+    "kanji": "部屋",
+    "kana": "へや",
+    "meanings": [
+      {
+        "en": "room"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-067",
+    "kanji": "寝室",
+    "kana": "しんしつ",
+    "meanings": [
+      {
+        "en": "bedroom"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-070",
+    "kanji": "椅子",
+    "kana": "いす",
+    "meanings": [
+      {
+        "en": "chair"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-071",
+    "kanji": "窓",
+    "kana": "まど",
+    "meanings": [
+      {
+        "en": "window"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 30
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-075",
+    "kanji": "朝",
+    "kana": "あさ",
+    "meanings": [
+      {
+        "en": "morning"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-076",
+    "kanji": "日",
+    "kana": "ひ",
+    "meanings": [
+      {
+        "en": "day, sun"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-077",
+    "kanji": "分",
+    "kana": "ふん",
+    "meanings": [
+      {
+        "en": "minute [as a concept/word, not the counter]"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-078",
+    "kanji": "時",
+    "kana": "とき",
+    "meanings": [
+      {
+        "en": "time, moment [as opposed to じ, the hour-counter reading]"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-079",
+    "kanji": "晩",
+    "kana": "ばん",
+    "meanings": [
+      {
+        "en": "evening"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-080",
+    "kanji": "夜",
+    "kana": "よる",
+    "meanings": [
+      {
+        "en": "night"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-082",
+    "kanji": "今",
+    "kana": "いま",
+    "meanings": [
+      {
+        "en": "now"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 41
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-083",
+    "kanji": "両親",
+    "kana": "りょうしん",
+    "meanings": [
+      {
+        "en": "parents"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-084",
+    "kanji": "祖父",
+    "kana": "そふ",
+    "meanings": [
+      {
+        "en": "grandfather"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-085",
+    "kanji": "祖父母",
+    "kana": "そふぼ",
+    "meanings": [
+      {
+        "en": "grandparents"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-086",
+    "kanji": "祖母",
+    "kana": "そぼ",
+    "meanings": [
+      {
+        "en": "grandmother"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-088",
+    "kanji": "息子",
+    "kana": "むすこ",
+    "meanings": [
+      {
+        "en": "son"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-089",
+    "kanji": "娘",
+    "kana": "むすめ",
+    "meanings": [
+      {
+        "en": "daughter"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 50
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-095",
+    "kanji": "泳ぐ",
+    "kana": "およぐ",
+    "meanings": [
+      {
+        "en": "to swim [godan]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 58
+      }
+    ]
+  },
+  {
+    "id": "class-02-vocab-098",
+    "kanji": "寝る",
+    "kana": "ねる",
+    "meanings": [
+      {
+        "en": "to sleep [ichidan]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 58
+      }
+    ]
+  }
+]

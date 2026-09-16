@@ -1,0 +1,1108 @@
+[
+  {
+    "id": "class-09-grammar-001",
+    "pattern": "Relative clauses (\"that/which...\")",
+    "explanation": [
+      {
+        "en": "A relative clause is simply a verb placed directly before the noun it modifies — no separate relative pronoun like English \"that\": 読む本 (the book that I read), from 本を読む. The verb can be any tense/form: 読んでいる本 (the book I'm reading), 食べた寿司 (the sushi I ate). Details (time, companions, etc.) can be added before the verb: 月曜日に読んだ本 (the book I read on Monday), 君と食べた寿司 (the sushi I ate with you) — these can stack: 君が月曜日に家で弟と食べた寿司 (the sushi you ate with my brother on Monday at home). The whole relative-clause+noun phrase then works as the subject/object/etc. of a main sentence like any noun phrase."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-001",
+        "japanese": "読む本",
+        "meanings": [
+          {
+            "en": "the book that I read"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-002",
+        "japanese": "食べる寿司",
+        "meanings": [
+          {
+            "en": "the sushi that I eat"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-003",
+        "japanese": "読んでいる本",
+        "meanings": [
+          {
+            "en": "the book that I am reading"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-004",
+        "japanese": "食べた寿司",
+        "meanings": [
+          {
+            "en": "the sushi that I ate"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-005",
+        "japanese": "月曜日に読んだ本",
+        "meanings": [
+          {
+            "en": "the book that I read on Monday"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-006",
+        "japanese": "君と食べた寿司",
+        "meanings": [
+          {
+            "en": "the sushi that I ate with you"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-007",
+        "japanese": "君が月曜日に家で弟と食べた寿司",
+        "meanings": [
+          {
+            "en": "the sushi that you ate with my brother on Monday at home"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-008",
+        "japanese": "月曜日に読んだ本は青い。",
+        "meanings": [
+          {
+            "en": "The book that I read on Monday is blue."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-009",
+        "japanese": "君と食べた寿司を買っている。",
+        "meanings": [
+          {
+            "en": "I am buying the sushi that I ate with you."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-010",
+        "japanese": "月曜日に読んだ本が好き。",
+        "meanings": [
+          {
+            "en": "I like the book that I read on Monday."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-011",
+        "japanese": "君が日本で見た学校へ行く。",
+        "meanings": [
+          {
+            "en": "I go to the school that you saw in Japan."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-002",
+    "pattern": "時に (when...)",
+    "explanation": [
+      {
+        "en": "\"When [verb]\" = verb + 時(に). The tense of the verb before 時 matters: dictionary form means the main action happens before/during that event (日本へ行く時に寿司を食べた = I ate sushi when [in the process of] going to Japan), while past (ta-form) means it had already happened (日本へ行った時に寿司を食べた = I ate sushi when I [had already] gone to Japan / after arriving)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-012",
+        "japanese": "自分のパンケーキを焼く時にやって見せてください。",
+        "meanings": [
+          {
+            "en": "Show us, when you'll cook your own pancake."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-013",
+        "japanese": "食べる時、話さないでください。",
+        "meanings": [
+          {
+            "en": "Don't talk, when you eat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-014",
+        "japanese": "日本へ行く時に寿司を食べた。",
+        "meanings": [
+          {
+            "en": "I ate sushi when I was going to Japan."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-015",
+        "japanese": "日本へ行った時に寿司を食べた。",
+        "meanings": [
+          {
+            "en": "I ate sushi when I went to Japan."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-003",
+    "pattern": "ために (for)",
+    "explanation": [
+      {
+        "en": "\"For [noun]\" = noun + の + ために: 家族のために (for my family), 学校のために (for school). Combines with a main sentence: 家族のために働く (I work for my family)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-016",
+        "japanese": "家族のために",
+        "meanings": [
+          {
+            "en": "for my family"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-017",
+        "japanese": "学校のために",
+        "meanings": [
+          {
+            "en": "for school"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-018",
+        "japanese": "君のために",
+        "meanings": [
+          {
+            "en": "for you"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-019",
+        "japanese": "家族のために働く。",
+        "meanings": [
+          {
+            "en": "I work for my family."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-020",
+        "japanese": "学校のためにパンケーキを作っている。",
+        "meanings": [
+          {
+            "en": "I am making pancakes for school."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-021",
+        "japanese": "君のために本を買った。",
+        "meanings": [
+          {
+            "en": "I bought a book for you."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-004",
+    "pattern": "ために vs ように (so that)",
+    "explanation": [
+      {
+        "en": "Both verb+ために and verb+ように mean \"so that\", but ために requires the subject to have full control over the action (volitional verbs; the subject of the purpose clause can differ from the main clause's), while ように is used when there's no full control over the action — with negative forms (食べないように), potential forms (食べられるように), or inherently non-volitional verbs (to understand, to be sunny, etc.), and typically shares its subject with the main clause (私は君が食べるように = lit. \"I, so that you eat\"). Example: 食べるためにピザを買った (I bought a pizza so that I [would] eat [it]) vs 食べられるようにピザを買った (I bought a pizza so that I could eat, i.e. so it would be possible)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-022",
+        "japanese": "食べるために",
+        "meanings": [
+          {
+            "en": "so I eat / so that I eat"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-023",
+        "japanese": "話すために",
+        "meanings": [
+          {
+            "en": "so I speak / so that I speak"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-024",
+        "japanese": "分かるように",
+        "meanings": [
+          {
+            "en": "so I understand / so that I understand"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-025",
+        "japanese": "私は君が食べるように",
+        "meanings": [
+          {
+            "en": "I ... so that you eat"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-026",
+        "japanese": "食べないように",
+        "meanings": [
+          {
+            "en": "so I don't eat"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-027",
+        "japanese": "食べられるように",
+        "meanings": [
+          {
+            "en": "so I can eat / so that I can eat"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-028",
+        "japanese": "食べるためにピザを買った。",
+        "meanings": [
+          {
+            "en": "I bought a pizza, so that I eat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-029",
+        "japanese": "私は君が食べるようにピザを買った。",
+        "meanings": [
+          {
+            "en": "I bought a pizza, so that you eat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-030",
+        "japanese": "食べられるようにピザを買った。",
+        "meanings": [
+          {
+            "en": "I bought a pizza, so that I can eat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-005",
+    "pattern": "ながら (while)",
+    "explanation": [
+      {
+        "en": "\"While [verb]-ing\" = -i (masu) stem + ながら: 飲みながら (while drinking), 食べながら (while eating). Both actions are done by the same subject at the same time: お茶を飲みながらテレビを見る (I watch TV while drinking tea)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-031",
+        "japanese": "飲みながら",
+        "meanings": [
+          {
+            "en": "while drinking"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-032",
+        "japanese": "食べながら",
+        "meanings": [
+          {
+            "en": "while eating"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-033",
+        "japanese": "お茶を飲みながら",
+        "meanings": [
+          {
+            "en": "while drinking tea"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-034",
+        "japanese": "ピザを食べながら",
+        "meanings": [
+          {
+            "en": "while eating pizza"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-035",
+        "japanese": "お茶を飲みながらテレビを見る。",
+        "meanings": [
+          {
+            "en": "I watch television while drinking tea."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-036",
+        "japanese": "ピザを食べながら本を読む。",
+        "meanings": [
+          {
+            "en": "I read a book while eating pizza."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-006",
+    "pattern": "か(どうか) (if / whether)",
+    "explanation": [
+      {
+        "en": "\"If/whether [verb]\" = plain-form verb + か (or +かどうか to emphasize \"or not\"). Useful with verbs like 知る (to know) and 言う (to say): 彼がお茶を飲んだか知りません (I don't know if he drank tea), 来るかどうか言って (tell me if you'll come or not)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-037",
+        "japanese": "飲むか",
+        "meanings": [
+          {
+            "en": "if I will drink?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-038",
+        "japanese": "飲んだかどうか",
+        "meanings": [
+          {
+            "en": "if I drank, or not"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-039",
+        "japanese": "彼がお茶を飲んだか知りません。",
+        "meanings": [
+          {
+            "en": "I don't know if he drank tea."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-040",
+        "japanese": "来るかどうか言って。",
+        "meanings": [
+          {
+            "en": "Tell me if you'll come or not."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-007",
+    "pattern": "Indirect questions",
+    "explanation": [
+      {
+        "en": "An indirect question embeds a question inside a larger sentence: question-word + ... + plain-form verb + か. Useful with 知る/言う/聞く etc.: いつ彼がお茶を飲んだか知りません (I don't know when he drank tea), どこで食べたいか言って (tell me where you want to eat)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-041",
+        "japanese": "いつ飲むか",
+        "meanings": [
+          {
+            "en": "when you drink"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-042",
+        "japanese": "いつ飲んだか",
+        "meanings": [
+          {
+            "en": "when you drank"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-043",
+        "japanese": "いつ彼がお茶を飲んだか知りません。",
+        "meanings": [
+          {
+            "en": "I don't know when he drank tea."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-044",
+        "japanese": "どこで食べたいか言って。",
+        "meanings": [
+          {
+            "en": "Tell me where you want to eat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-008",
+    "pattern": "Reported speech (と言う / と思う)",
+    "explanation": [
+      {
+        "en": "Reported speech = reported sentence (plain form) + と + a verb like 言う (to say) or 思う (to think): 彼が飲むと言った = he said that he drinks; 彼は私たちがお茶を飲むのが好きと思った = he thought that we like to drink tea."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-045",
+        "japanese": "彼が飲むと",
+        "meanings": [
+          {
+            "en": "that he drinks"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-046",
+        "japanese": "彼が飲んだと",
+        "meanings": [
+          {
+            "en": "that he drank"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-047",
+        "japanese": "彼は私の友達がお茶を飲みたいと言った。",
+        "meanings": [
+          {
+            "en": "He said that my friend wants to drink tea."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-048",
+        "japanese": "彼は私たちがお茶を飲むのが好きと思った。",
+        "meanings": [
+          {
+            "en": "He thought that we like to drink tea."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-009",
+    "pattern": "Comparative (より)",
+    "explanation": [
+      {
+        "en": "\"A is more [adjective] than B\" = A + は + B + より + adjective: ピザはパスタより美味しい (pizza is more delicious than pasta). \"A [verb]s more than B\" = A + は + B + より + たくさん + verb: 私は君よりたくさん働く (I work more than you)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-049",
+        "japanese": "ピザはパスタより美味しい。",
+        "meanings": [
+          {
+            "en": "Pizza is more delicious than pasta."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-050",
+        "japanese": "猫はクモよりかわいい。",
+        "meanings": [
+          {
+            "en": "Cats are cuter than spiders."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-051",
+        "japanese": "私は君よりたくさん働く。",
+        "meanings": [
+          {
+            "en": "I work more than you."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-052",
+        "japanese": "猫はクモよりたくさん寝る。",
+        "meanings": [
+          {
+            "en": "Cats sleep more than spiders."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-09-grammar-010",
+    "pattern": "Superlative (一番)",
+    "explanation": [
+      {
+        "en": "\"A is the most [adjective]\" = A + が + 一番(いちばん) + adjective: ピザが一番美味しい (pizza is the most delicious). \"A [verb]s the most\" = A + が + 一番 + よく + verb: 私が一番よく働く (I work the most)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-09-example-053",
+        "japanese": "ピザが一番美味しい。",
+        "meanings": [
+          {
+            "en": "Pizza is the most delicious."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-054",
+        "japanese": "猫が一番かわいい。",
+        "meanings": [
+          {
+            "en": "Cats are the cutest."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-055",
+        "japanese": "私が一番よく働く。",
+        "meanings": [
+          {
+            "en": "I work the most."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-09-example-056",
+        "japanese": "猫が一番よく寝る。",
+        "meanings": [
+          {
+            "en": "Cats sleep the most."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°09 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  }
+]

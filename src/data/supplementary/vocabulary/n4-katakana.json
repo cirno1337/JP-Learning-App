@@ -1,0 +1,762 @@
+[
+  {
+    "id": "supp-n4-katakana-001",
+    "kana": "アフリカ",
+    "meanings": [
+      {
+        "en": "Africa"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-002",
+    "kana": "アジア",
+    "meanings": [
+      {
+        "en": "Asia"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-003",
+    "kana": "アクセサリー",
+    "meanings": [
+      {
+        "en": "accessory"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-004",
+    "kana": "アメリカ",
+    "meanings": [
+      {
+        "en": "America"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-005",
+    "kana": "アナウンサー",
+    "meanings": [
+      {
+        "en": "announcer"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-006",
+    "kana": "アルバイト",
+    "meanings": [
+      {
+        "en": "part-time job"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-007",
+    "kana": "アルコール",
+    "meanings": [
+      {
+        "en": "alcohol"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-008",
+    "kana": "ベル",
+    "meanings": [
+      {
+        "en": "bell"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-009",
+    "kana": "ビル",
+    "meanings": [
+      {
+        "en": "building"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-010",
+    "kana": "チェック",
+    "meanings": [
+      {
+        "en": "to check"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-011",
+    "kana": "エスカレーター",
+    "meanings": [
+      {
+        "en": "escalator"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-012",
+    "kana": "ファックス",
+    "meanings": [
+      {
+        "en": "fax"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-013",
+    "kana": "ガラス",
+    "meanings": [
+      {
+        "en": "a glass"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-014",
+    "kana": "ガソリン",
+    "meanings": [
+      {
+        "en": "gasoline; petrol"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-015",
+    "kana": "ガソリンスタンド",
+    "meanings": [
+      {
+        "en": "petrol station"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-016",
+    "kana": "ガス",
+    "meanings": [
+      {
+        "en": "petrol"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-017",
+    "kana": "ごみ",
+    "meanings": [
+      {
+        "en": "rubbish"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-018",
+    "kana": "ハンドバッグ",
+    "meanings": [
+      {
+        "en": "handbag"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-019",
+    "kana": "ジャム",
+    "meanings": [
+      {
+        "en": "jam"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-020",
+    "kana": "カーテン",
+    "meanings": [
+      {
+        "en": "curtain"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-021",
+    "kana": "ケーキ",
+    "meanings": [
+      {
+        "en": "cake"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-022",
+    "kana": "コンピュータ",
+    "meanings": [
+      {
+        "en": "computer"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-023",
+    "kana": "コンサート",
+    "meanings": [
+      {
+        "en": "concert"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-024",
+    "kana": "オートバイ",
+    "meanings": [
+      {
+        "en": "motorcycle"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-025",
+    "kana": "パート",
+    "meanings": [
+      {
+        "en": "part; part time"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-026",
+    "kana": "ピアノ",
+    "meanings": [
+      {
+        "en": "piano"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-027",
+    "kana": "プレゼント",
+    "meanings": [
+      {
+        "en": "present; gift"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-028",
+    "kana": "レジ",
+    "meanings": [
+      {
+        "en": "cashier"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-029",
+    "kana": "サンダル",
+    "meanings": [
+      {
+        "en": "sandal"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-030",
+    "kana": "サンドイッチ",
+    "meanings": [
+      {
+        "en": "sandwich"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-031",
+    "kana": "サラダ",
+    "meanings": [
+      {
+        "en": "salad"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-032",
+    "kana": "ソフト",
+    "meanings": [
+      {
+        "en": "soft"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-033",
+    "kana": "スクリーン",
+    "meanings": [
+      {
+        "en": "screen"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-034",
+    "kana": "スーツケース",
+    "meanings": [
+      {
+        "en": "suitcase"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-035",
+    "kana": "ステーキ",
+    "meanings": [
+      {
+        "en": "steak"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-036",
+    "kana": "ステレオ",
+    "meanings": [
+      {
+        "en": "stereo"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-037",
+    "kana": "スーツ",
+    "meanings": [
+      {
+        "en": "suit"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-038",
+    "kana": "タイプ",
+    "meanings": [
+      {
+        "en": "type,style"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-039",
+    "kana": "テニス",
+    "meanings": [
+      {
+        "en": "tennis"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-katakana-040",
+    "kana": "ワープロ",
+    "meanings": [
+      {
+        "en": "word processor"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Katakana Words List - JLPTsensei.com.pdf"
+      }
+    ]
+  }
+]

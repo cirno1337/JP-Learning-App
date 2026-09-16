@@ -1,0 +1,284 @@
+{
+  "id": "class-07",
+  "order": 8,
+  "title": [
+    {
+      "en": "Class N°07"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "file": "KANJI - SET N°07 - synthesis & assignments.pdf"
+    },
+    {
+      "file": "Class N°07 - synthesis & assignments.pdf"
+    }
+  ],
+  "sections": [
+    {
+      "id": "class-07-section-kanji",
+      "title": [
+        {
+          "en": "Kanji"
+        }
+      ],
+      "kind": "kanji",
+      "itemIds": [
+        "class-07-kanji-001",
+        "class-07-kanji-002",
+        "class-07-kanji-003",
+        "class-07-kanji-004",
+        "class-07-kanji-005",
+        "class-07-kanji-006",
+        "class-07-kanji-007",
+        "class-07-kanji-008",
+        "class-07-kanji-009",
+        "class-07-kanji-010",
+        "class-07-kanji-011",
+        "class-07-kanji-012",
+        "class-07-kanji-013",
+        "class-07-kanji-014",
+        "class-07-kanji-015",
+        "class-07-kanji-016",
+        "class-07-kanji-017",
+        "class-07-kanji-018",
+        "class-07-kanji-019",
+        "class-07-kanji-020",
+        "class-07-kanji-021",
+        "class-07-kanji-022",
+        "class-07-kanji-023",
+        "class-07-kanji-024",
+        "class-07-kanji-025"
+      ]
+    },
+    {
+      "id": "class-07-section-vocabulary",
+      "title": [
+        {
+          "en": "Vocabulary"
+        }
+      ],
+      "kind": "vocabulary",
+      "itemIds": [
+        "class-07-vocab-001",
+        "class-07-vocab-002",
+        "class-07-vocab-003",
+        "class-07-vocab-004",
+        "class-07-vocab-005",
+        "class-07-vocab-006",
+        "class-07-vocab-007",
+        "class-07-vocab-008",
+        "class-07-vocab-009",
+        "class-07-vocab-010",
+        "class-07-vocab-011",
+        "class-07-vocab-012",
+        "class-07-vocab-013",
+        "class-07-vocab-014",
+        "class-07-vocab-015",
+        "class-07-vocab-016",
+        "class-07-vocab-017",
+        "class-07-vocab-018",
+        "class-07-vocab-019",
+        "class-07-vocab-020",
+        "class-07-vocab-021",
+        "class-07-vocab-022",
+        "class-07-vocab-023",
+        "class-07-vocab-024",
+        "class-07-vocab-025",
+        "class-07-vocab-026",
+        "class-07-vocab-027",
+        "class-07-vocab-028",
+        "class-07-vocab-029",
+        "class-07-vocab-030",
+        "class-07-vocab-031",
+        "class-07-vocab-032",
+        "class-07-vocab-033",
+        "class-07-vocab-034",
+        "class-07-vocab-035",
+        "class-07-vocab-036",
+        "class-07-vocab-037",
+        "class-07-vocab-038",
+        "class-07-vocab-039",
+        "class-07-vocab-040",
+        "class-07-vocab-041",
+        "class-07-vocab-042",
+        "class-07-vocab-043",
+        "class-07-vocab-044",
+        "class-07-vocab-045",
+        "class-07-vocab-046",
+        "class-07-vocab-047",
+        "class-07-vocab-048",
+        "class-07-vocab-049",
+        "class-07-vocab-050",
+        "class-07-vocab-051",
+        "class-07-vocab-052",
+        "class-07-vocab-053",
+        "class-07-vocab-054",
+        "class-07-vocab-055",
+        "class-07-vocab-056",
+        "class-07-vocab-057",
+        "class-07-vocab-058",
+        "class-07-vocab-059",
+        "class-07-vocab-060",
+        "class-07-vocab-061",
+        "class-07-vocab-062",
+        "class-07-vocab-063",
+        "class-07-vocab-064",
+        "class-07-vocab-065",
+        "class-07-vocab-066",
+        "class-07-vocab-067",
+        "class-07-vocab-068",
+        "class-07-vocab-069",
+        "class-07-vocab-070",
+        "class-07-vocab-071",
+        "class-07-vocab-072",
+        "class-07-vocab-073",
+        "class-07-vocab-074",
+        "class-07-vocab-075",
+        "class-07-vocab-076",
+        "class-07-vocab-077",
+        "class-07-vocab-078",
+        "class-07-vocab-079",
+        "class-07-vocab-080",
+        "class-07-vocab-081",
+        "class-07-vocab-082",
+        "class-07-vocab-083",
+        "class-07-vocab-084",
+        "class-07-vocab-085",
+        "class-07-vocab-086",
+        "class-07-vocab-087",
+        "class-07-vocab-088",
+        "class-07-vocab-089",
+        "class-07-vocab-090",
+        "class-07-vocab-091",
+        "class-07-vocab-092",
+        "class-07-vocab-093",
+        "class-07-vocab-094",
+        "class-07-vocab-095",
+        "class-07-vocab-096",
+        "class-07-vocab-097",
+        "class-07-vocab-098",
+        "class-07-vocab-099",
+        "class-07-vocab-100",
+        "class-07-vocab-101",
+        "class-07-vocab-102",
+        "class-07-vocab-103",
+        "class-07-vocab-104",
+        "class-07-vocab-105",
+        "class-07-vocab-106",
+        "class-07-vocab-107",
+        "class-07-vocab-108",
+        "class-07-vocab-109",
+        "class-07-vocab-110",
+        "class-07-vocab-111",
+        "class-07-vocab-112",
+        "class-07-vocab-113",
+        "class-07-vocab-114",
+        "class-07-vocab-115",
+        "class-07-vocab-116",
+        "class-07-vocab-117",
+        "class-07-vocab-118",
+        "class-07-vocab-119",
+        "class-07-vocab-120",
+        "class-07-vocab-121",
+        "class-07-vocab-122",
+        "class-07-vocab-123",
+        "class-07-vocab-133",
+        "class-07-vocab-134",
+        "class-07-vocab-135"
+      ]
+    },
+    {
+      "id": "class-07-section-examples",
+      "title": [
+        {
+          "en": "Example sentences"
+        }
+      ],
+      "kind": "examples",
+      "itemIds": [
+        "class-07-example-001",
+        "class-07-example-002",
+        "class-07-example-003",
+        "class-07-example-004",
+        "class-07-example-005",
+        "class-07-example-006",
+        "class-07-example-007",
+        "class-07-example-008",
+        "class-07-example-009",
+        "class-07-example-010",
+        "class-07-example-011",
+        "class-07-example-012",
+        "class-07-example-013",
+        "class-07-example-014",
+        "class-07-example-015",
+        "class-07-example-016",
+        "class-07-example-017",
+        "class-07-example-018",
+        "class-07-example-019",
+        "class-07-example-020",
+        "class-07-example-021",
+        "class-07-example-022",
+        "class-07-example-023"
+      ]
+    },
+    {
+      "id": "class-07-section-grammar",
+      "title": [
+        {
+          "en": "Grammar"
+        }
+      ],
+      "kind": "grammar",
+      "itemIds": [
+        "class-07-grammar-001",
+        "class-07-grammar-002",
+        "class-07-grammar-003",
+        "class-07-grammar-004"
+      ]
+    },
+    {
+      "id": "class-07-section-dialogue",
+      "title": [
+        {
+          "en": "Dialogue / reading"
+        }
+      ],
+      "kind": "dialogue",
+      "itemIds": [
+        "class-07-dialogue-001"
+      ]
+    },
+    {
+      "id": "class-07-section-numbers",
+      "title": [
+        {
+          "en": "Numbers & Counters"
+        }
+      ],
+      "kind": "numbers",
+      "itemIds": [
+        "class-07-number-001",
+        "class-07-number-002",
+        "class-07-number-003",
+        "class-07-number-004",
+        "class-07-number-005",
+        "class-07-number-006",
+        "class-07-number-007",
+        "class-07-number-008",
+        "class-07-number-009",
+        "class-07-number-010",
+        "class-07-number-011",
+        "class-07-number-012",
+        "class-07-number-013",
+        "class-07-number-014",
+        "class-07-number-015",
+        "class-07-number-016",
+        "class-07-number-017",
+        "class-07-number-018",
+        "class-07-number-019",
+        "class-07-number-020"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+[
+  {
+    "id": "class-01-example-001",
+    "japanese": "私は学生だ。",
+    "reading": "わたしわがくせいだ。",
+    "meanings": [
+      {
+        "en": "I'm a student."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-002",
+    "japanese": "私が学生だ。",
+    "reading": "わたしががくせいだ。",
+    "meanings": [
+      {
+        "en": "I AM a student."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-003",
+    "japanese": "私は水を飲む。",
+    "reading": "わたしわみずおのむ。",
+    "meanings": [
+      {
+        "en": "I drink water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-004",
+    "japanese": "学校に行く。",
+    "reading": "がっこうにいく。",
+    "meanings": [
+      {
+        "en": "I go to school."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-005",
+    "japanese": "犬と猫は食べる。",
+    "reading": "いぬとねこわたべる。",
+    "meanings": [
+      {
+        "en": "The dog and the cat eat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-006",
+    "japanese": "君もパンを食べる。",
+    "reading": "きみもすしをたべる。",
+    "meanings": [
+      {
+        "en": "You also eat bread."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-007",
+    "japanese": "日本から来た。",
+    "reading": "にほんからきた。",
+    "meanings": [
+      {
+        "en": "I come from Japan."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-008",
+    "japanese": "先生ですか。",
+    "reading": "せんせいですか。",
+    "meanings": [
+      {
+        "en": "Are you a teacher?"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-009",
+    "japanese": "学生ですよ。",
+    "reading": "がくせいですよ。",
+    "meanings": [
+      {
+        "en": "I am a student!"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 122
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-010",
+    "japanese": "私は水を飲む。",
+    "meanings": [
+      {
+        "en": "I drink water. [habit/near future]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 123
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-011",
+    "japanese": "私はパンを食べる。",
+    "meanings": [
+      {
+        "en": "I eat bread."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 123
+      }
+    ]
+  },
+  {
+    "id": "class-01-example-012",
+    "japanese": "私は学生だ。",
+    "meanings": [
+      {
+        "en": "I am a student."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 123
+      }
+    ]
+  }
+]

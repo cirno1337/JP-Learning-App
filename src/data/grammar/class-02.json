@@ -1,0 +1,746 @@
+[
+  {
+    "id": "class-02-grammar-001",
+    "pattern": "Te-form",
+    "explanation": [
+      {
+        "en": "The te-form is a connective conjugation used to build the present continuous, imperative, combined-verb sentences, and more. Ichidan verbs: drop る, add て. Godan verbs: 5 sound-change patterns depending on the dictionary ending (う/つ/る→って, ぬ/む/ぶ→んで, く→いて, ぐ→いで, す→して). Exceptions: だ→だって, 行く→行って, 来る→来て, する→して."
+      }
+    ],
+    "examples": [],
+    "relatedConjugationRuleIds": [
+      "class-02-conjugation-001",
+      "class-02-conjugation-002",
+      "class-02-conjugation-003"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 69
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 89
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-002",
+    "pattern": "Present continuous (て + いる)",
+    "explanation": [
+      {
+        "en": "The present continuous is formed with te-form + いる, which itself conjugates for politeness/negation (いる/いない/います/いません) exactly as taught for いる in Class N°01."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-02-example-001",
+        "japanese": "食べている。",
+        "reading": "たべている。",
+        "meanings": [
+          {
+            "en": "I am eating. [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 91
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-002",
+        "japanese": "食べていない。",
+        "reading": "たべていない。",
+        "meanings": [
+          {
+            "en": "I am not eating. [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 91
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-003",
+        "japanese": "食べています。",
+        "reading": "たべています。",
+        "meanings": [
+          {
+            "en": "I am eating. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 91
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-004",
+        "japanese": "食べていません。",
+        "reading": "たべていません。",
+        "meanings": [
+          {
+            "en": "I am not eating. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 91
+          }
+        ]
+      }
+    ],
+    "relatedConjugationRuleIds": [
+      "class-02-conjugation-004"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 91
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-003",
+    "pattern": "Other uses of the te-form",
+    "explanation": [
+      {
+        "en": "Beyond the present continuous, the te-form has several other uses. (1) Informal imperative: te-form alone (食べて = eat!); + ください for a polite order (食べてください); + くれ for a direct/familiar/masculine request (食べてくれ). (2) \"May I...?\": te-form + もいい (食べてもいい), + ですか for politeness (食べてもいいですか). (3) Combining verbs in sequence: every verb but the last takes the te-form (unchanged for tense), only the final verb is conjugated for the sentence's actual tense — 本を読んで、寝る = I read a book and [then] sleep."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-02-example-005",
+        "japanese": "食べて。",
+        "meanings": [
+          {
+            "en": "Eat!"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 100
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-006",
+        "japanese": "読んで。",
+        "reading": "よんで。",
+        "meanings": [
+          {
+            "en": "Read!"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 100
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-007",
+        "japanese": "聞いて。",
+        "reading": "きいて。",
+        "meanings": [
+          {
+            "en": "Listen!"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 100
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-008",
+        "japanese": "食べてください。",
+        "meanings": [
+          {
+            "en": "Eat, please. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 100
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-009",
+        "japanese": "読んでください。",
+        "reading": "よんでください。",
+        "meanings": [
+          {
+            "en": "Read, please. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 100
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-010",
+        "japanese": "食べてくれ。",
+        "meanings": [
+          {
+            "en": "Eat! [direct, masculine request]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 100
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-011",
+        "japanese": "食べてもいい。",
+        "meanings": [
+          {
+            "en": "May I eat?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 101
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-012",
+        "japanese": "読んでもいい。",
+        "reading": "よんでもいい。",
+        "meanings": [
+          {
+            "en": "May I read?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 101
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-013",
+        "japanese": "食べてもいいですか。",
+        "meanings": [
+          {
+            "en": "May I eat? [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 101
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-014",
+        "japanese": "本を読んで、寝る。",
+        "reading": "ほんをよんで、ねる。",
+        "meanings": [
+          {
+            "en": "I read a book and sleep."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 102
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-015",
+        "japanese": "パンを食べて、水を飲む。",
+        "reading": "パンをたべて、みずをのむ。",
+        "meanings": [
+          {
+            "en": "I eat bread and drink water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 102
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-016",
+        "japanese": "寿司を食べて、テレビを見ます。",
+        "reading": "すしをたべて、テレビをみます。",
+        "meanings": [
+          {
+            "en": "I eat sushi and watch TV."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 102
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-017",
+        "japanese": "本を読んで、お茶を飲んで、寝ます。",
+        "reading": "ほんをよんで、おちゃをのんで、ねます。",
+        "meanings": [
+          {
+            "en": "I read a book, drink tea, and go to bed."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 102
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 101
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 102
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-004",
+    "pattern": "Numbers from 11 to 10,000",
+    "explanation": [
+      {
+        "en": "11-19: 十(じゅう) + digit (十五=15). 20-99: [digit 2-9] + 十 (multiply by ten) + optional extra digit (六十三=63). 100-900: 百(ひゃく) with irregular sound changes at 300(さんびゃく), 600(ろっぴゃく), 800(はっぴゃく). 1000-9000: 千(せん) with irregular changes at 3000(さんぜん), 8000(はっせん). 10,000: 万(まん). Numbers combine the same way as English place values: 百二十三 = 百＋二×十＋三 = 123; 二千二十六 = 二×千＋二×十＋六 = 2026."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-02-example-018",
+        "japanese": "百二十三",
+        "reading": "ひゃくにじゅうさん",
+        "meanings": [
+          {
+            "en": "123 (百＋二×十＋三)"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 112
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-019",
+        "japanese": "三百六十五",
+        "reading": "さんびゃくろくじゅうご",
+        "meanings": [
+          {
+            "en": "365 (三×百＋六×十＋五)"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 112
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-020",
+        "japanese": "千五百八十二",
+        "reading": "せんごひゃくはちじゅうに",
+        "meanings": [
+          {
+            "en": "1582 (千＋五×百＋八×十＋二)"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 112
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-021",
+        "japanese": "二千二十六",
+        "reading": "にせんにじゅうろく",
+        "meanings": [
+          {
+            "en": "2026 (二×千＋二×十＋六)"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 112
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-005",
+    "pattern": "Counter: つ (general counter (use when unsure which counter applies))",
+    "explanation": [
+      {
+        "en": "general counter (use when unsure which counter applies): 一つ(ひとつ), 二つ(ふたつ), 三つ(みっつ), 四つ(よっつ), 五つ(いつつ), 六つ(むっつ), 七つ(ななつ), 八つ(やっつ), 九つ(ここのつ), 十つ(とう)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-02-example-022",
+        "japanese": "サンドイッチを二つ食べます。",
+        "meanings": [
+          {
+            "en": "I eat two sandwiches."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 117
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-023",
+        "japanese": "サンドイッチを一つください。",
+        "meanings": [
+          {
+            "en": "One sandwich, please."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 117
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-006",
+    "pattern": "Counter: 個 (counter for small, compact objects (apple, egg, candy, ball, stone, potato...))",
+    "explanation": [
+      {
+        "en": "counter for small, compact objects (apple, egg, candy, ball, stone, potato...): 一個(いっこ), 二個(にこ), 三個(さんこ), 四個(よんこ), 五個(ごこ), 六個(ろっこ), 七個(ななこ), 八個(はっこ), 九個(きゅうこ), 十個(じゅっこ)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-02-example-024",
+        "japanese": "りんごを二個食べます。",
+        "meanings": [
+          {
+            "en": "I eat two apples."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 118
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-025",
+        "japanese": "トマトが七個あります。",
+        "meanings": [
+          {
+            "en": "There are seven tomatoes."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 118
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-007",
+    "pattern": "Counter: 歳 (counter for age)",
+    "explanation": [
+      {
+        "en": "counter for age: 一歳(いっさい), 二歳(にさい), 三歳(さんさい), 四歳(よんさい), 五歳(ごさい), 六歳(ろくさい), 七歳(ななさい), 八歳(はっさい), 九歳(きゅうさい), 十歳(じゅっさい)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-02-example-026",
+        "japanese": "子どもは八歳です。",
+        "meanings": [
+          {
+            "en": "The child is 8 years old."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 119
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-027",
+        "japanese": "妹は五歳です。",
+        "meanings": [
+          {
+            "en": "My younger sister is 5 years old."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 119
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-008",
+    "pattern": "Counter: 人 (counter for people)",
+    "explanation": [
+      {
+        "en": "counter for people: 一人(ひとり), 二人(ふたり), 三人(さんにん), 四人(よにん), 五人(ごにん), 六人(ろくにん), 七人(ななにん), 八人(はちにん), 九人(きゅうにん), 十人(じゅうにん)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-02-example-028",
+        "japanese": "友達が二人います。",
+        "meanings": [
+          {
+            "en": "I have two friends."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 120
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-029",
+        "japanese": "日本人が一人います。",
+        "meanings": [
+          {
+            "en": "There is one Japanese person."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 120
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-009",
+    "pattern": "Counter: 匹 (counter for small animals (dogs, cats, fish...))",
+    "explanation": [
+      {
+        "en": "counter for small animals (dogs, cats, fish...): 一匹(いっぴき), 二匹(にひき), 三匹(さんびき), 四匹(よんひき), 五匹(ごひき), 六匹(ろっぴき), 七匹(ななひき), 八匹(はっぴき), 九匹(きゅうひき), 十匹(じゅっぴき)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-02-example-030",
+        "japanese": "猫が二匹います。",
+        "meanings": [
+          {
+            "en": "There are two cats."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 121
+          }
+        ]
+      },
+      {
+        "id": "class-02-example-031",
+        "japanese": "犬を五匹見ます。",
+        "meanings": [
+          {
+            "en": "I see five dogs."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+            "page": 121
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-grammar-010",
+    "pattern": "Counters (concept)",
+    "explanation": [
+      {
+        "en": "Japanese numbers are almost always followed by a counter word, chosen by the shape or category of what's being counted (similar to English \"two slices of toast\", \"three glasses of water\"). This week introduces 5 basic counters: つ (general, use when unsure), 個 (small compact objects), 歳 (age), 人 (people), 匹 (small animals). See KANJI - SET N°06's related counters (頭, 枚, 台, 本, 杯, 冊, 回, 番目) for more specialised ones taught later."
+      }
+    ],
+    "examples": [],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  }
+]

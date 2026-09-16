@@ -1,0 +1,384 @@
+[
+  {
+    "id": "class-07-example-001",
+    "japanese": "四時十分です。",
+    "reading": "よじじゅっぷんです。",
+    "meanings": [
+      {
+        "en": "It is 04:10."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-002",
+    "japanese": "四時十分に",
+    "reading": "よじじゅっぷんに",
+    "meanings": [
+      {
+        "en": "at 04:10"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-003",
+    "japanese": "午前五時三十五分です。",
+    "reading": "ごぜんごじさんじゅうごふんです。",
+    "meanings": [
+      {
+        "en": "It is 05:35 (am)."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-004",
+    "japanese": "午後十一時五十二分です。",
+    "reading": "ごごじゅういちじごじゅうにふんです。",
+    "meanings": [
+      {
+        "en": "It is 23:52 (11:52 pm)."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-005",
+    "japanese": "九時半です。",
+    "reading": "くじはんです。",
+    "meanings": [
+      {
+        "en": "It is 09:30."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-006",
+    "japanese": "何時ですか。",
+    "reading": "なんじですか。",
+    "meanings": [
+      {
+        "en": "What time is it?"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-007",
+    "japanese": "二時間前",
+    "reading": "にじかんまえ",
+    "meanings": [
+      {
+        "en": "two hours ago"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-008",
+    "japanese": "二年後",
+    "reading": "にねんご",
+    "meanings": [
+      {
+        "en": "in two years"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-009",
+    "japanese": "明日の朝",
+    "reading": "あしたのあさ",
+    "meanings": [
+      {
+        "en": "tomorrow morning"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-010",
+    "japanese": "昨日の夜",
+    "reading": "きのうのよる",
+    "meanings": [
+      {
+        "en": "last night"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-011",
+    "japanese": "読むのが好き。",
+    "reading": "よむのがすき。",
+    "meanings": [
+      {
+        "en": "I like reading."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-012",
+    "japanese": "読むことが好き。",
+    "reading": "よむことがすき。",
+    "meanings": [
+      {
+        "en": "I like reading."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-013",
+    "japanese": "玉ねぎを切るのは難しいです。",
+    "reading": "たまねぎをきるのはむずかしいです。",
+    "meanings": [
+      {
+        "en": "Cutting onions is difficult."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-014",
+    "japanese": "玉ねぎを切ることは難しいです。",
+    "reading": "たまねぎをきることはむずかしいです。",
+    "meanings": [
+      {
+        "en": "Cutting onions is difficult."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-015",
+    "japanese": "スプーンで食べる。",
+    "meanings": [
+      {
+        "en": "I eat with a spoon."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-016",
+    "japanese": "月曜日から金曜日まで働きます。",
+    "meanings": [
+      {
+        "en": "I work from Monday until Friday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-017",
+    "japanese": "りんごやバナナを食べます。",
+    "meanings": [
+      {
+        "en": "I eat apples, bananas, etc."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-018",
+    "japanese": "コーヒーかお茶を飲みます。",
+    "meanings": [
+      {
+        "en": "I drink coffee or tea."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-019",
+    "japanese": "今日は暑いですね。",
+    "meanings": [
+      {
+        "en": "It's hot today, isn't it? [feminine/neutral]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-020",
+    "japanese": "今日は暑いですな。",
+    "meanings": [
+      {
+        "en": "It's hot today, isn't it? [masculine]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-021",
+    "japanese": "このケーキ、おいしいね。",
+    "meanings": [
+      {
+        "en": "This cake is [indeed] delicious. [feminine/neutral]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-022",
+    "japanese": "このケーキ、おいしいな。",
+    "meanings": [
+      {
+        "en": "This cake is [indeed] delicious. [masculine]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-07-example-023",
+    "japanese": "明日行くのだ。",
+    "meanings": [
+      {
+        "en": "I am going tomorrow. [explanatory/emphatic]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  }
+]

@@ -1,0 +1,3584 @@
+[
+  {
+    "id": "supp-n4-verbs-001",
+    "kanji": "to rise",
+    "kana": "上がり",
+    "meanings": [
+      {
+        "en": "上がって 上がろう 上がれば 上がれる 上がられる 上がらせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-002",
+    "kanji": "to greet",
+    "kana": "挨拶し",
+    "meanings": [
+      {
+        "en": "挨拶して 挨拶しよう 挨拶すれば 挨拶できる 挨拶される 挨拶させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-003",
+    "kanji": "to guide",
+    "kana": "案内し",
+    "meanings": [
+      {
+        "en": "案内して 案内しよう 案内すれば 案内できる 案内される 案内させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-004",
+    "kanji": "安心し",
+    "kana": "安心して",
+    "meanings": [
+      {
+        "en": "安心しよう 安心すれば 安心できる 安心される 安心させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-005",
+    "kana": "アルバイトする",
+    "meanings": [
+      {
+        "en": "アルバイトし"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-006",
+    "kanji": "集まり",
+    "kana": "集まって",
+    "meanings": [
+      {
+        "en": "集まろう 集まれば 集まれる 集まられる 集まらせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-007",
+    "kanji": "集め",
+    "kana": "集めて",
+    "meanings": [
+      {
+        "en": "集めよう 集めれば 集められる 集められる 集めさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-008",
+    "kanji": "to apologize",
+    "kana": "謝り",
+    "meanings": [
+      {
+        "en": "謝って 謝ろう 謝れば 謝れる 謝られる 謝らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-009",
+    "kanji": "to trade",
+    "kana": "貿易し",
+    "meanings": [
+      {
+        "en": "貿易して 貿易しよう 貿易すれば 貿易できる 貿易される 貿易させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-010",
+    "kana": "チェックする",
+    "meanings": [
+      {
+        "en": "to check"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-011",
+    "kanji": "注意し",
+    "kana": "注意して",
+    "meanings": [
+      {
+        "en": "注意しよう 注意すれば 注意できる 注意される 注意させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-012",
+    "kanji": "to inject",
+    "kana": "注射し",
+    "meanings": [
+      {
+        "en": "注射して 注射しよう 注射すれば 注射できる 注射される 注射させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-013",
+    "kanji": "to heat",
+    "kana": "暖房し",
+    "meanings": [
+      {
+        "en": "暖房して 暖房しよう 暖房すれば 暖房できる 暖房される 暖房させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-014",
+    "kanji": "to be reserved",
+    "kana": "遠慮し",
+    "meanings": [
+      {
+        "en": "遠慮して 遠慮しよう 遠慮すれば 遠慮できる 遠慮される 遠慮させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-015",
+    "kanji": "to choose",
+    "kana": "選び",
+    "meanings": [
+      {
+        "en": "選んで 選ぼう 選べば 選べる 選ばれる 選ばせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-016",
+    "kana": "ファックスする",
+    "meanings": [
+      {
+        "en": "to fax"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-017",
+    "kanji": "to increase",
+    "kana": "増え",
+    "meanings": [
+      {
+        "en": "増えて 増えよう 増えれば 増えられる 増えられる 増えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-018",
+    "kanji": "to review",
+    "kana": "復習し",
+    "meanings": [
+      {
+        "en": "復習して 復習しよう 復習すれば 復習できる 復習される 復習させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-019",
+    "kanji": "to step on",
+    "kana": "踏み",
+    "meanings": [
+      {
+        "en": "踏んで 踏もう 踏めば 踏める 踏まれる 踏ませる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-020",
+    "kanji": "to start to rain",
+    "kana": "振り出し",
+    "meanings": [
+      {
+        "en": "振り出して 振り出そう 振り出せば 振り出せる 振り出される 振り出させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-021",
+    "kanji": "to become fat",
+    "kana": "太り",
+    "meanings": [
+      {
+        "en": "太って 太ろう 太れば 太れる 太られる 太らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-022",
+    "kanji": "原因し",
+    "kana": "原因して",
+    "meanings": [
+      {
+        "en": "原因しよう 原因すれば 原因できる 原因される 原因させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-023",
+    "kanji": "to lodge",
+    "kana": "下宿し",
+    "meanings": [
+      {
+        "en": "下宿して 下宿しよう 下宿すれば 下宿できる 下宿される 下宿させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-024",
+    "kana": "ごちそうする",
+    "meanings": [
+      {
+        "en": "to treat (meal)"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-025",
+    "kanji": "ご覧になり",
+    "kana": "ご覧になって",
+    "meanings": [
+      {
+        "en": "ご覧になろう ご覧になれば ご覧になれる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-026",
+    "kanji": "to see; look at​",
+    "kana": "拝見し",
+    "meanings": [
+      {
+        "en": "拝見して 拝見しよう 拝見すれば 拝見できる 拝見される 拝見させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-027",
+    "kanji": "to carry",
+    "kana": "運び",
+    "meanings": [
+      {
+        "en": "運んで 運ぼう 運べば 運べる 運ばれる 運ばせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-028",
+    "kanji": "花見し",
+    "kana": "花見して",
+    "meanings": [
+      {
+        "en": "花見しよう 花見すれば 花見できる 花見される 花見させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-029",
+    "kanji": "to oppose",
+    "kana": "反対し",
+    "meanings": [
+      {
+        "en": "反対して 反対しよう 反対すれば 反対できる 反対される 反対させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-030",
+    "kanji": "to pay",
+    "kana": "払い",
+    "meanings": [
+      {
+        "en": "払って 払おう 払えば 払える 払われる 払わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-031",
+    "kanji": "to pronounce",
+    "kana": "発音し",
+    "meanings": [
+      {
+        "en": "発音して 発音しよう 発音すれば 発音できる 発音される 発音させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-032",
+    "kanji": "返事し",
+    "kana": "返事して",
+    "meanings": [
+      {
+        "en": "返事しよう 返事すれば 返事できる 返事される 返事させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-033",
+    "kanji": "to grow cold",
+    "kana": "冷え",
+    "meanings": [
+      {
+        "en": "冷えて 冷えよう 冷えれば 冷えられる 冷えられる 冷えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-034",
+    "kanji": "to shine",
+    "kana": "光り",
+    "meanings": [
+      {
+        "en": "光って 光ろう 光れば 光れる 光られる 光らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-035",
+    "kanji": "to withdraw",
+    "kana": "引き出し",
+    "meanings": [
+      {
+        "en": "引き出して 引き出そう 引き出せば 引き出せる 引き出される 引き出させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-036",
+    "kanji": "to move house",
+    "kana": "引っ越し",
+    "meanings": [
+      {
+        "en": "引っ越して 引っ越そう 引っ越せば 引っ越せる 引っ越される 引っ越させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-037",
+    "kanji": "開き",
+    "kana": "開いて",
+    "meanings": [
+      {
+        "en": "開こう 開けば 開ける 開かれる 開かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-038",
+    "kanji": "to pick up",
+    "kana": "拾い",
+    "meanings": [
+      {
+        "en": "拾って 拾おう 拾えば 拾える 拾われる 拾わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-039",
+    "kanji": "to praise",
+    "kana": "褒め",
+    "meanings": [
+      {
+        "en": "褒めて 褒めよう 褒めれば 褒められる 褒められる 褒めさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-040",
+    "kanji": "to translate",
+    "kana": "翻訳し",
+    "meanings": [
+      {
+        "en": "翻訳して 翻訳しよう 翻訳すれば 翻訳できる 翻訳される 翻訳させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-041",
+    "kanji": "to broadcast",
+    "kana": "放送し",
+    "meanings": [
+      {
+        "en": "放送して 放送しよう 放送すれば 放送できる 放送される 放送させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-042",
+    "kana": "いじめる",
+    "meanings": [
+      {
+        "en": "to tease いじめ いじめて いじめよう いじめれば いじめられる いじめられる いじめさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-043",
+    "kanji": "to give opinion",
+    "kana": "意見し",
+    "meanings": [
+      {
+        "en": "意見して 意見しよう 意見すれば 意見できる 意見される 意見させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-044",
+    "kanji": "to pray",
+    "kana": "祈り",
+    "meanings": [
+      {
+        "en": "祈って 祈ろう 祈れば 祈れる 祈られる 祈らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-045",
+    "kanji": "急ぎ",
+    "kana": "急いで",
+    "meanings": [
+      {
+        "en": "急ごう 急げば 急げる 急がれる 急がせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-046",
+    "kanji": "頂き",
+    "kana": "頂いて",
+    "meanings": [
+      {
+        "en": "頂こう 頂けば 頂ける 頂かれる 頂かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-047",
+    "kanji": "致し",
+    "kana": "致して",
+    "meanings": [
+      {
+        "en": "致しよう 致せば 致せる 致される 致させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-048",
+    "kanji": "to prepare",
+    "kana": "準備し",
+    "meanings": [
+      {
+        "en": "準備して 準備しよう 準備すれば 準備できる 準備される 準備させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-049",
+    "kanji": "変え",
+    "kana": "変えて",
+    "meanings": [
+      {
+        "en": "変えよう 変えれば 変えられる 変えられる 変えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-050",
+    "kanji": "会議し",
+    "kana": "会議して",
+    "meanings": [
+      {
+        "en": "会議しよう 会議すれば 会議できる 会議される 会議させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-051",
+    "kanji": "conversation",
+    "kana": "会話し",
+    "meanings": [
+      {
+        "en": "会話して 会話しよう 会話すれば 会話できる 会話される 会話させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-052",
+    "kanji": "to mind",
+    "kana": "構い",
+    "meanings": [
+      {
+        "en": "構って 構おう 構えば 構える 構われる 構わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-053",
+    "kanji": "to bite; to chew 噛み",
+    "kana": "噛んで",
+    "meanings": [
+      {
+        "en": "噛もう 噛めば 噛める 噛まれる 噛ませる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-054",
+    "kanji": "to think",
+    "kana": "考え",
+    "meanings": [
+      {
+        "en": "考えて 考えよう 考えれば 考えられる 考えられる 考えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-055",
+    "kanji": "to be related to",
+    "kana": "関係し",
+    "meanings": [
+      {
+        "en": "関係して 関係しよう 関係すれば 関係できる 関係される 関係させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-056",
+    "kanji": "to tidy up",
+    "kana": "片付け",
+    "meanings": [
+      {
+        "en": "片付けて 片付けよう 片付ければ 片付けられる 片付けられる 片付けさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-057",
+    "kanji": "to win",
+    "kana": "勝ち",
+    "meanings": [
+      {
+        "en": "勝って 勝とう 勝てば 勝てる 勝たれる 勝たせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-058",
+    "kanji": "to get dry",
+    "kana": "乾き",
+    "meanings": [
+      {
+        "en": "乾いて 乾こう 乾けば 乾ける 乾かれる 乾かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-059",
+    "kanji": "to change",
+    "kana": "変わり",
+    "meanings": [
+      {
+        "en": "変わって 変わろう 変われば 変われる 変わられる 変わらせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-060",
+    "kanji": "to commute",
+    "kana": "通い",
+    "meanings": [
+      {
+        "en": "通って 通おう 通えば 通える 通われる 通わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-061",
+    "kanji": "to decorate",
+    "kana": "飾り",
+    "meanings": [
+      {
+        "en": "飾って 飾ろう 飾れば 飾れる 飾られる 飾らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-062",
+    "kanji": "to injure",
+    "kana": "怪我し",
+    "meanings": [
+      {
+        "en": "怪我して 怪我しよう 怪我すれば 怪我できる 怪我される 怪我させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-063",
+    "kanji": "to plan",
+    "kana": "計画し",
+    "meanings": [
+      {
+        "en": "計画して 計画しよう 計画すれば 計画できる 計画される 計画させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-064",
+    "kanji": "to experience",
+    "kana": "経験し",
+    "meanings": [
+      {
+        "en": "経験して 経験しよう 経験すれば 経験できる 経験される 経験させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-065",
+    "kanji": "見物し",
+    "kana": "見物して",
+    "meanings": [
+      {
+        "en": "見物しよう 見物すれば 見物できる 見物される 見物させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-066",
+    "kanji": "to quarrel",
+    "kana": "喧嘩し",
+    "meanings": [
+      {
+        "en": "喧嘩して 喧嘩しよう 喧嘩すれば 喧嘩できる 喧嘩される 喧嘩させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-067",
+    "kanji": "research",
+    "kana": "研究し",
+    "meanings": [
+      {
+        "en": "研究して 研究しよう 研究すれば 研究できる 研究される 研究させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-068",
+    "kanji": "聞こえ",
+    "kana": "聞こえて",
+    "meanings": [
+      {
+        "en": "聞こえよう 聞こえれば 聞こえられる 聞こえられる 聞こえさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-069",
+    "kanji": "to be decided",
+    "kana": "決まり",
+    "meanings": [
+      {
+        "en": "決まって 決まろう 決まれば 決まれる 決まられる 決まらせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-070",
+    "kanji": "to decide",
+    "kana": "決め",
+    "meanings": [
+      {
+        "en": "決めて 決めよう 決めれば 決められる 決められる 決めさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-071",
+    "kanji": "to be crowded",
+    "kana": "込み",
+    "meanings": [
+      {
+        "en": "込んで 込もう 込めば 込める 込まれる 込ませる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-072",
+    "kanji": "to break-down",
+    "kana": "故障し",
+    "meanings": [
+      {
+        "en": "故障して 故障しよう 故障すれば 故障できる 故障される 故障させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-073",
+    "kanji": "to lecture on",
+    "kana": "講義し",
+    "meanings": [
+      {
+        "en": "講義して 講義しよう 講義すれば 講義できる 講義される 講義させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-074",
+    "kanji": "to be broken",
+    "kana": "壊れ",
+    "meanings": [
+      {
+        "en": "壊れて 壊れよう 壊れれば 壊れられる 壊れられる 壊れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-075",
+    "kanji": "to break",
+    "kana": "壊し",
+    "meanings": [
+      {
+        "en": "壊して 壊そう 壊せば 壊せる 壊される 壊させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-076",
+    "kanji": "下さい",
+    "kana": "下さって",
+    "meanings": [
+      {
+        "en": "下さろう 下されば 下される 下さられる 下さらせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-077",
+    "kanji": "to compare",
+    "kana": "比べ",
+    "meanings": [
+      {
+        "en": "比べて 比べよう 比べれば 比べられる 比べられる 比べさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-078",
+    "kanji": "to get dark",
+    "kana": "暮れ",
+    "meanings": [
+      {
+        "en": "暮れて 暮れよう 暮れれば 暮れられる 暮れられる 暮れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-079",
+    "kanji": "to educate",
+    "kana": "教育し",
+    "meanings": [
+      {
+        "en": "教育して 教育しよう 教育すれば 教育できる 教育される 教育させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-080",
+    "kanji": "to compete",
+    "kana": "競争し",
+    "meanings": [
+      {
+        "en": "競争して 競争しよう 競争すれば 競争できる 競争される 競争させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-081",
+    "kanji": "to rush to",
+    "kana": "急行し",
+    "meanings": [
+      {
+        "en": "急行して 急行しよう 急行すれば 急行できる 急行される 急行させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-082",
+    "kanji": "間違い",
+    "kana": "間違えて",
+    "meanings": [
+      {
+        "en": "間違えよう 間違えれば 間違えられる 間違えられる 間違えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-083",
+    "kanji": "参り",
+    "kana": "参って",
+    "meanings": [
+      {
+        "en": "参ろう 参れば 参れる 参られる 参らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-084",
+    "kanji": "to lose",
+    "kana": "負け",
+    "meanings": [
+      {
+        "en": "負けて 負けよう 負ければ 負けられる 負けられる 負けさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-085",
+    "kanji": "間に合い",
+    "kana": "間に合って",
+    "meanings": [
+      {
+        "en": "間に合おう 間に合えば 間に合える 間に合われる 間に合わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-086",
+    "kanji": "to go around",
+    "kana": "回り",
+    "meanings": [
+      {
+        "en": "回って 回ろう 回れば 回れる 回られる 回らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-087",
+    "kanji": "召し上がり",
+    "kana": "召し上がって",
+    "meanings": [
+      {
+        "en": "召し上がろう 召し上がれば 召し上がれる 召し上がられる 召し上がらせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-088",
+    "kanji": "見え",
+    "kana": "見えて",
+    "meanings": [
+      {
+        "en": "見えよう 見えれば 見えられる 見えられる 見えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-089",
+    "kanji": "見つかり",
+    "kana": "見つかって",
+    "meanings": [
+      {
+        "en": "見つかろう 見つかれば 見つかれる 見つかられる 見つからせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-090",
+    "kanji": "見つけ",
+    "kana": "見つけて",
+    "meanings": [
+      {
+        "en": "見つけよう 見つければ 見つけられる 見つけられる 見つけさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-091",
+    "kanji": "to turn back",
+    "kana": "戻り",
+    "meanings": [
+      {
+        "en": "戻って 戻ろう 戻れば 戻れる 戻られる 戻らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-092",
+    "kanji": "to say; to offer",
+    "kana": "申し上げ",
+    "meanings": [
+      {
+        "en": "申し上げて 申し上げよう 申し上げれば 申し上げられる 申し上げられる 申し上げさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-093",
+    "kanji": "申し",
+    "kana": "申して",
+    "meanings": [
+      {
+        "en": "申そう 申せば 申せる 申される 申させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-094",
+    "kanji": "迎え",
+    "kana": "迎えて",
+    "meanings": [
+      {
+        "en": "迎えよう 迎えれば 迎えられる 迎えられる 迎えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-095",
+    "kanji": "向かい",
+    "kana": "向かって",
+    "meanings": [
+      {
+        "en": "向かおう 向かえば 向かえる 向かわれる 向かわせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-096",
+    "kanji": "無理し",
+    "kana": "無理して",
+    "meanings": [
+      {
+        "en": "無理しよう 無理すれば 無理できる 無理される 無理させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-097",
+    "kanji": "投げ",
+    "kana": "投げて",
+    "meanings": [
+      {
+        "en": "投げよう 投げれば 投げられる 投げられる 投げさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-098",
+    "kanji": "to weep",
+    "kana": "泣き",
+    "meanings": [
+      {
+        "en": "泣いて 泣こう 泣けば 泣ける 泣かれる 泣かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-099",
+    "kanji": "無くなり",
+    "kana": "無くなって",
+    "meanings": [
+      {
+        "en": "無くなろう 無くなれば 無くなれる 無くなられる 無くならせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-100",
+    "kanji": "to die",
+    "kana": "亡くなり",
+    "meanings": [
+      {
+        "en": "亡くなって 亡くなろう 亡くなれば 亡くなれる 亡くなられる 亡くならせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-101",
+    "kanji": "直り",
+    "kana": "直って",
+    "meanings": [
+      {
+        "en": "直ろう 直れば 直れる 直られる 直らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-102",
+    "kanji": "治り",
+    "kana": "治って",
+    "meanings": [
+      {
+        "en": "治ろう 治れば 治れる 治られる 治らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-103",
+    "kanji": "to get used to",
+    "kana": "慣れ",
+    "meanings": [
+      {
+        "en": "慣れて 慣れよう 慣れれば 慣れられる 慣れられる 慣れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-104",
+    "kanji": "鳴り",
+    "kana": "鳴って",
+    "meanings": [
+      {
+        "en": "鳴ろう 鳴れば 鳴れる 鳴られる 鳴らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-105",
+    "kanji": "to sleep in late",
+    "kana": "寝坊し",
+    "meanings": [
+      {
+        "en": "寝坊して 寝坊しよう 寝坊すれば 寝坊できる 寝坊される 寝坊させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-106",
+    "kanji": "to sleep",
+    "kana": "眠り",
+    "meanings": [
+      {
+        "en": "眠って 眠ろう 眠れば 眠れる 眠られる 眠らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-107",
+    "kanji": "to escape",
+    "kana": "逃げ",
+    "meanings": [
+      {
+        "en": "逃げて 逃げよう 逃げれば 逃げられる 逃げられる 逃げさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-108",
+    "kanji": "to be similar",
+    "kana": "似",
+    "meanings": [
+      {
+        "en": "似て 似よう 似れば 似られる 似られる 似させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-109",
+    "kanji": "to remain",
+    "kana": "残り",
+    "meanings": [
+      {
+        "en": "残って 残ろう 残れば 残れる 残られる 残らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-110",
+    "kanji": "乗り換え",
+    "kana": "乗り換えて",
+    "meanings": [
+      {
+        "en": "乗り換えよう 乗り換えれば 乗り換えられる 乗り換えられる 乗り換えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-111",
+    "kanji": "to get wet",
+    "kana": "濡れ",
+    "meanings": [
+      {
+        "en": "濡れて 濡れよう 濡れれば 濡れられる 濡れられる 濡れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-112",
+    "kanji": "塗り",
+    "kana": "塗って",
+    "meanings": [
+      {
+        "en": "塗ろう 塗れば 塗れる 塗られる 塗らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-113",
+    "kanji": "to steal",
+    "kana": "盗み",
+    "meanings": [
+      {
+        "en": "盗んで 盗もう 盗めば 盗める 盗まれる 盗ませる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-114",
+    "kanji": "入学し",
+    "kana": "入学して",
+    "meanings": [
+      {
+        "en": "入学しよう 入学すれば 入学できる 入学される 入学させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-115",
+    "kanji": "入院し",
+    "kana": "入院して",
+    "meanings": [
+      {
+        "en": "入院しよう 入院すれば 入院できる 入院される 入院させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-116",
+    "kanji": "to fall or drop",
+    "kana": "落ち",
+    "meanings": [
+      {
+        "en": "落ちて 落ちよう 落ちれば 落ちられる 落ちられる 落ちさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-117",
+    "kanji": "to be surprised",
+    "kana": "驚き",
+    "meanings": [
+      {
+        "en": "驚いて 驚こう 驚けば 驚ける 驚かれる 驚かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-118",
+    "kanji": "to dance",
+    "kana": "踊り",
+    "meanings": [
+      {
+        "en": "踊って 踊ろう 踊れば 踊れる 踊られる 踊らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-119",
+    "kanji": "お出でになり",
+    "kana": "お出でになって",
+    "meanings": [
+      {
+        "en": "お出でになろう お出でになれば お出でになれる お出でになられる お出でにならせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-120",
+    "kanji": "to celebrate",
+    "kana": "お祝いし",
+    "meanings": [
+      {
+        "en": "お祝いして お祝いしよう お祝いすれば お祝いできる お祝いされる お祝いさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-121",
+    "kanji": "行い",
+    "kana": "行って",
+    "meanings": [
+      {
+        "en": "行おう 行えば 行える 行われる 行わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-122",
+    "kanji": "to be angry",
+    "kana": "怒り",
+    "meanings": [
+      {
+        "en": "怒って 怒ろう 怒れば 怒れる 怒られる 怒らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-123",
+    "kanji": "to wake",
+    "kana": "起こし",
+    "meanings": [
+      {
+        "en": "起こして 起こそう 起こせば 起こせる 起こされる 起こさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-124",
+    "kanji": "to be late",
+    "kana": "遅れ",
+    "meanings": [
+      {
+        "en": "遅れて 遅れよう 遅れれば 遅れられる 遅れられる 遅れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-125",
+    "kanji": "to send",
+    "kana": "送り",
+    "meanings": [
+      {
+        "en": "送って 送ろう 送れば 送れる 送られる 送らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-126",
+    "kanji": "to remember",
+    "kana": "思い出し",
+    "meanings": [
+      {
+        "en": "思い出して 思い出そう 思い出せば 思い出せる 思い出される 思い出させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-127",
+    "kanji": "折れ",
+    "kana": "折れて",
+    "meanings": [
+      {
+        "en": "折れよう 折れれば 折れられる 折れられる 折れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-128",
+    "kanji": "to get off",
+    "kana": "下り",
+    "meanings": [
+      {
+        "en": "下りて 下りよう 下りれば 下りられる 下りられる 下りさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-129",
+    "kanji": "折り",
+    "kana": "折って",
+    "meanings": [
+      {
+        "en": "折ろう 折れば 折れる 折られる 折らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-130",
+    "kanji": "仰い",
+    "kana": "仰って",
+    "meanings": [
+      {
+        "en": "仰ろう 仰れば 仰れる 仰られる 仰らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-131",
+    "kanji": "to drop",
+    "kana": "落とし",
+    "meanings": [
+      {
+        "en": "落として 落とそう 落とせば 落とせる 落とされる 落とさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-132",
+    "kanji": "to cool (a.c.)",
+    "kana": "冷房し",
+    "meanings": [
+      {
+        "en": "冷房して 冷房しよう 冷房すれば 冷房できる 冷房される 冷房させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-133",
+    "kanji": "連絡し",
+    "kana": "連絡して",
+    "meanings": [
+      {
+        "en": "連絡しよう 連絡すれば 連絡できる 連絡される 連絡させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-134",
+    "kanji": "利用し",
+    "kana": "利用して",
+    "meanings": [
+      {
+        "en": "利用しよう 利用すれば 利用できる 利用される 利用させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-135",
+    "kanji": "to be absent",
+    "kana": "留守し",
+    "meanings": [
+      {
+        "en": "留守して 留守しよう 留守すれば 留守できる 留守される 留守させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-136",
+    "kanji": "to get down",
+    "kana": "下がり",
+    "meanings": [
+      {
+        "en": "下がって 下がろう 下がれば 下がれる 下がられる 下がらせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-137",
+    "kanji": "to look for",
+    "kana": "探し",
+    "meanings": [
+      {
+        "en": "探して 探そう 探せば 探せる 探される 探させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-138",
+    "kanji": "to lower",
+    "kana": "下げ",
+    "meanings": [
+      {
+        "en": "下げて 下げよう 下げれば 下げられる 下げられる 下げさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-139",
+    "kanji": "to give",
+    "kana": "差し上げ",
+    "meanings": [
+      {
+        "en": "差し上げて 差し上げよう 差し上げれば 差し上げられる 差し上げられる 差し上げさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-140",
+    "kanji": "騒ぎ",
+    "kana": "騒いで",
+    "meanings": [
+      {
+        "en": "騒ごう 騒げば 騒げる 騒がれる 騒がせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-141",
+    "kanji": "to touch",
+    "kana": "触り",
+    "meanings": [
+      {
+        "en": "触って 触ろう 触れば 触れる 触られる 触らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-142",
+    "kanji": "to live",
+    "kana": "生活し",
+    "meanings": [
+      {
+        "en": "生活して 生活しよう 生活すれば 生活できる 生活される 生活させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-143",
+    "kanji": "to produce",
+    "kana": "生産し",
+    "meanings": [
+      {
+        "en": "生産して 生産しよう 生産すれば 生産できる 生産される 生産させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-144",
+    "kanji": "to fight a war",
+    "kana": "戦争し",
+    "meanings": [
+      {
+        "en": "戦争して 戦争しよう 戦争すれば 戦争できる 戦争される 戦争させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-145",
+    "kanji": "to explain",
+    "kana": "説明し",
+    "meanings": [
+      {
+        "en": "説明して 説明しよう 説明すれば 説明できる 説明される 説明させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-146",
+    "kanji": "試合し",
+    "kana": "試合して",
+    "meanings": [
+      {
+        "en": "試合しよう 試合すれば 試合できる 試合される 試合させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-147",
+    "kanji": "to scold",
+    "kana": "叱り",
+    "meanings": [
+      {
+        "en": "叱って 叱ろう 叱れば 叱れる 叱られる 叱らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-148",
+    "kanji": "試験し",
+    "kana": "試験して",
+    "meanings": [
+      {
+        "en": "試験しよう 試験すれば 試験できる 試験される 試験させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-149",
+    "kanji": "to fail",
+    "kana": "失敗し",
+    "meanings": [
+      {
+        "en": "失敗して 失敗しよう 失敗すれば 失敗できる 失敗される 失敗させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-150",
+    "kanji": "to investigate",
+    "kana": "調べ",
+    "meanings": [
+      {
+        "en": "調べて 調べよう 調べれば 調べられる 調べられる 調べさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-151",
+    "kanji": "to notify",
+    "kana": "知らせ",
+    "meanings": [
+      {
+        "en": "知らせて 知らせよう 知らせれば 知らせられる 知らせられる 知らせさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-152",
+    "kanji": "to produce",
+    "kana": "生じ",
+    "meanings": [
+      {
+        "en": "生じて 生じよう 生じれば 生じられる 生じられる 生じさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-153",
+    "kanji": "to introduce",
+    "kana": "紹介し",
+    "meanings": [
+      {
+        "en": "紹介して 紹介しよう 紹介すれば 紹介できる 紹介される 紹介させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-154",
+    "kanji": "育て",
+    "kana": "育てて",
+    "meanings": [
+      {
+        "en": "育てよう 育てれば 育てられる 育てられる 育てさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-155",
+    "kanji": "to graduate",
+    "kana": "卒業し",
+    "meanings": [
+      {
+        "en": "卒業して 卒業しよう 卒業すれば 卒業できる 卒業される 卒業させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-156",
+    "kanji": "to discuss",
+    "kana": "相談し",
+    "meanings": [
+      {
+        "en": "相談して 相談しよう 相談すれば 相談できる 相談される 相談させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-157",
+    "kanji": "滑り",
+    "kana": "滑って",
+    "meanings": [
+      {
+        "en": "滑ろう 滑れば 滑れる 滑られる 滑らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-158",
+    "kanji": "to swim",
+    "kana": "水泳し",
+    "meanings": [
+      {
+        "en": "水泳して 水泳しよう 水泳すれば 水泳できる 水泳される 水泳させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-159",
+    "kanji": "to be hungry",
+    "kana": "空き",
+    "meanings": [
+      {
+        "en": "空いて 空こう 空けば 空ける 空かれる 空かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-160",
+    "kanji": "to finish",
+    "kana": "済み",
+    "meanings": [
+      {
+        "en": "済んで 済もう 済めば 済める 済まれる 済ませる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-161",
+    "kanji": "進み",
+    "kana": "進んで",
+    "meanings": [
+      {
+        "en": "進もう 進めば 進める 進まれる 進ませる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-162",
+    "kanji": "to throw away",
+    "kana": "捨て",
+    "meanings": [
+      {
+        "en": "捨てて 捨てよう 捨てれば 捨てられる 捨てられる 捨てさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-163",
+    "kanji": "退院し",
+    "kana": "退院して",
+    "meanings": [
+      {
+        "en": "退院しよう 退院すれば 退院できる 退院される 退院させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-164",
+    "kanji": "to be born",
+    "kana": "誕生し",
+    "meanings": [
+      {
+        "en": "誕生して 誕生しよう 誕生すれば 誕生できる 誕生される 誕生させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-165",
+    "kanji": "倒れ",
+    "kana": "倒れて",
+    "meanings": [
+      {
+        "en": "倒れよう 倒れれば 倒れられる 倒れられる 倒れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-166",
+    "kanji": "足り",
+    "kana": "足りて",
+    "meanings": [
+      {
+        "en": "足りよう 足りれば 足りられる 足りられる 足りさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-167",
+    "kanji": "足し",
+    "kana": "足して",
+    "meanings": [
+      {
+        "en": "足そう 足せば 足せる 足される 足させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-168",
+    "kanji": "to build",
+    "kana": "建て",
+    "meanings": [
+      {
+        "en": "建てて 建てよう 建てれば 建てられる 建てられる 建てさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-169",
+    "kanji": "to visit",
+    "kana": "訪ね",
+    "meanings": [
+      {
+        "en": "訪ねて 訪ねよう 訪ねれば 訪ねられる 訪ねられる 訪ねさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-170",
+    "kanji": "to ask",
+    "kana": "尋ね",
+    "meanings": [
+      {
+        "en": "尋ねて 尋ねよう 尋ねれば 尋ねられる 尋ねられる 尋ねさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-171",
+    "kanji": "手伝い",
+    "kana": "手伝って",
+    "meanings": [
+      {
+        "en": "手伝おう 手伝えば 手伝える 手伝われる 手伝わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-172",
+    "kanji": "to send​",
+    "kana": "届け",
+    "meanings": [
+      {
+        "en": "届けて 届けよう 届ければ 届けられる 届けられる 届けさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-173",
+    "kanji": "to stay at",
+    "kana": "泊まり",
+    "meanings": [
+      {
+        "en": "泊まって 泊まろう 泊まれば 泊まれる 泊まられる 泊まらせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-174",
+    "kanji": "止め",
+    "kana": "止めて",
+    "meanings": [
+      {
+        "en": "止めよう 止めれば 止められる 止められる 止めさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-175",
+    "kanji": "to go through",
+    "kana": "通り",
+    "meanings": [
+      {
+        "en": "通って 通ろう 通れば 通れる 通られる 通らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-176",
+    "kanji": "取り替え",
+    "kana": "取り替えて",
+    "meanings": [
+      {
+        "en": "取り替えよう 取り替えれば 取り替えられる 取り替えられる 取り替えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-177",
+    "kanji": "続け",
+    "kana": "続けて",
+    "meanings": [
+      {
+        "en": "続けよう 続ければ 続けられる 続けられる 続けさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-178",
+    "kanji": "to continue",
+    "kana": "続き",
+    "meanings": [
+      {
+        "en": "続いて 続こう 続けば 続ける 続かれる 続かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-179",
+    "kanji": "to catch",
+    "kana": "捕まえ",
+    "meanings": [
+      {
+        "en": "捕まえて 捕まえよう 捕まえれば 捕まえられる 捕まえられる 捕まえさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-180",
+    "kanji": "漬け",
+    "kana": "漬けて",
+    "meanings": [
+      {
+        "en": "漬けよう 漬ければ 漬けられる 漬けられる 漬けさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-181",
+    "kanji": "to be attached",
+    "kana": "付き",
+    "meanings": [
+      {
+        "en": "付いて 付こう 付けば 付ける 付かれる 付かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-182",
+    "kanji": "連れ",
+    "kana": "連れて",
+    "meanings": [
+      {
+        "en": "連れよう 連れれば 連れられる 連れられる 連れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-183",
+    "kanji": "to fish",
+    "kana": "釣り",
+    "meanings": [
+      {
+        "en": "釣って 釣ろう 釣れば 釣れる 釣られる 釣らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-184",
+    "kanji": "伝え",
+    "kana": "伝えて",
+    "meanings": [
+      {
+        "en": "伝えよう 伝えれば 伝えられる 伝えられる 伝えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-185",
+    "kanji": "to wrap",
+    "kana": "包み",
+    "meanings": [
+      {
+        "en": "包んで 包もう 包めば 包める 包まれる 包ませる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-186",
+    "kanji": "植え",
+    "kana": "植えて",
+    "meanings": [
+      {
+        "en": "植えよう 植えれば 植えられる 植えられる 植えさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-187",
+    "kanji": "to move",
+    "kana": "動き",
+    "meanings": [
+      {
+        "en": "動いて 動こう 動けば 動ける 動かれる 動かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-188",
+    "kanji": "to visit",
+    "kana": "伺い",
+    "meanings": [
+      {
+        "en": "伺って 伺おう 伺えば 伺える 伺われる 伺わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-189",
+    "kanji": "受け",
+    "kana": "受けて",
+    "meanings": [
+      {
+        "en": "受けよう 受ければ 受けられる 受けられる 受けさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-190",
+    "kanji": "to hit",
+    "kana": "打ち",
+    "meanings": [
+      {
+        "en": "打って 打とう 打てば 打てる 打たれる 打たせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-191",
+    "kanji": "移り",
+    "kana": "移って",
+    "meanings": [
+      {
+        "en": "移ろう 移れば 移れる 移られる 移らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-192",
+    "kanji": "写し",
+    "kana": "写して",
+    "meanings": [
+      {
+        "en": "写そう 写せば 写せる 写される 写させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-193",
+    "kanji": "to separate",
+    "kana": "別れ",
+    "meanings": [
+      {
+        "en": "別れて 別れよう 別れれば 別れられる 別れられる 別れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-194",
+    "kanji": "沸かし",
+    "kana": "沸かして",
+    "meanings": [
+      {
+        "en": "沸かそう 沸かせば 沸かせる 沸かされる 沸かさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-195",
+    "kanji": "to boil",
+    "kana": "沸き",
+    "meanings": [
+      {
+        "en": "沸いて 沸こう 沸けば 沸ける 沸かれる 沸かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-196",
+    "kanji": "笑い",
+    "kana": "笑って",
+    "meanings": [
+      {
+        "en": "笑おう 笑えば 笑える 笑われる 笑わせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-197",
+    "kanji": "to break",
+    "kana": "割れ",
+    "meanings": [
+      {
+        "en": "割れて 割れよう 割れれば 割れられる 割れられる 割れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-198",
+    "kanji": "焼け",
+    "kana": "焼けて",
+    "meanings": [
+      {
+        "en": "焼けよう 焼ければ 焼けられる 焼けられる 焼けさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-199",
+    "kanji": "焼き",
+    "kana": "焼いて",
+    "meanings": [
+      {
+        "en": "焼こう 焼けば 焼ける 焼かれる 焼かせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-200",
+    "kanji": "to be helpful",
+    "kana": "役に立ち",
+    "meanings": [
+      {
+        "en": "役に立って 役に立とう 役に立てば 役に立てる 役に立たれる 役に立たせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-201",
+    "kanji": "to promise",
+    "kana": "約束し",
+    "meanings": [
+      {
+        "en": "約束して 約束しよう 約束すれば 約束できる 約束される 約束させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-202",
+    "kanji": "to stop",
+    "kana": "止み",
+    "meanings": [
+      {
+        "en": "止んで 止もう 止めば 止める 止まれる 止ませる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-203",
+    "kanji": "to become thin",
+    "kana": "痩せ",
+    "meanings": [
+      {
+        "en": "痩せて 痩せよう 痩せれば 痩せられる 痩せられる 痩せさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-204",
+    "kanji": "to get dirty",
+    "kana": "汚れ",
+    "meanings": [
+      {
+        "en": "汚れて 汚れよう 汚れれば 汚れられる 汚れられる 汚れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-205",
+    "kanji": "to be delighted",
+    "kana": "喜び",
+    "meanings": [
+      {
+        "en": "喜んで 喜ぼう 喜べば 喜べる 喜ばれる 喜ばせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-206",
+    "kanji": "寄り",
+    "kana": "寄って",
+    "meanings": [
+      {
+        "en": "寄ろう 寄れば 寄れる 寄られる 寄らせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-207",
+    "kanji": "予習し",
+    "kana": "予習して",
+    "meanings": [
+      {
+        "en": "予習しよう 予習すれば 予習できる 予習される 予習させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-208",
+    "kanji": "plan",
+    "kana": "予定し",
+    "meanings": [
+      {
+        "en": "予定して 予定しよう 予定すれば 予定できる 予定される 予定させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-209",
+    "kanji": "to prepare",
+    "kana": "用意し",
+    "meanings": [
+      {
+        "en": "用意して 用意しよう 用意すれば 用意できる 用意される 用意させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-210",
+    "kanji": "予約し",
+    "kana": "予約して",
+    "meanings": [
+      {
+        "en": "予約しよう 予約すれば 予約できる 予約される 予約させる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-verbs-211",
+    "kanji": "to shake",
+    "kana": "揺れ",
+    "meanings": [
+      {
+        "en": "揺れて 揺れよう 揺れれば 揺れられる 揺れられる 揺れさせる"
+      }
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Verbs List - JLPT Sensei.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,686 @@
+[
+  {
+    "id": "class-09-kanji-001",
+    "character": "英",
+    "meanings": [
+      {
+        "en": "England, English"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 5
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"英語\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-001"
+    ]
+  },
+  {
+    "id": "class-09-kanji-002",
+    "character": "題",
+    "meanings": [
+      {
+        "en": "topic, subject"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 6
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"問題\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-002"
+    ]
+  },
+  {
+    "id": "class-09-kanji-003",
+    "character": "注",
+    "meanings": [
+      {
+        "en": "pour, notes, comment"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 7
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"注ぐ\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-003"
+    ]
+  },
+  {
+    "id": "class-09-kanji-004",
+    "character": "楽",
+    "meanings": [
+      {
+        "en": "music, comfort, ease"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 8
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"楽しい\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-004",
+      "class-09-vocab-005",
+      "class-09-vocab-006"
+    ]
+  },
+  {
+    "id": "class-09-kanji-005",
+    "character": "作",
+    "meanings": [
+      {
+        "en": "make, prepare"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 9
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"作る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-007",
+      "class-09-vocab-008",
+      "class-09-vocab-009"
+    ]
+  },
+  {
+    "id": "class-09-kanji-006",
+    "character": "起",
+    "meanings": [
+      {
+        "en": "wake up, get up"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 13
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"起きる\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-010",
+      "class-09-vocab-011",
+      "class-09-vocab-012"
+    ]
+  },
+  {
+    "id": "class-09-kanji-007",
+    "character": "度",
+    "meanings": [
+      {
+        "en": "occurrence, time"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 14
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"もう一度\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-013"
+    ]
+  },
+  {
+    "id": "class-09-kanji-008",
+    "character": "病",
+    "meanings": [
+      {
+        "en": "ill, sick"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 15
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"病む\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-014",
+      "class-09-vocab-015",
+      "class-09-vocab-016"
+    ]
+  },
+  {
+    "id": "class-09-kanji-009",
+    "character": "可",
+    "meanings": [
+      {
+        "en": "can, passable, approval"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 16
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "This kanji is listed in the slide deck's kanji-of-the-week pages but never appears (standalone or in a compound) in the synthesis doc's vocabulary list, so no reading or example word is available from course material for it yet."
+    }
+  },
+  {
+    "id": "class-09-kanji-010",
+    "character": "何",
+    "meanings": [
+      {
+        "en": "what"
+      }
+    ],
+    "readings": [
+      "なに"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 17
+      }
+    ],
+    "vocabularyIds": [
+      "class-09-vocab-017",
+      "class-09-vocab-018",
+      "class-09-vocab-019",
+      "class-09-vocab-020"
+    ]
+  },
+  {
+    "id": "class-09-kanji-011",
+    "character": "歌",
+    "meanings": [
+      {
+        "en": "song"
+      }
+    ],
+    "readings": [
+      "うた"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 21
+      }
+    ],
+    "vocabularyIds": [
+      "class-09-vocab-021",
+      "class-09-vocab-022",
+      "class-09-vocab-023"
+    ]
+  },
+  {
+    "id": "class-09-kanji-012",
+    "character": "開",
+    "meanings": [
+      {
+        "en": "open"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 22
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"開く\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-024",
+      "class-09-vocab-025"
+    ]
+  },
+  {
+    "id": "class-09-kanji-013",
+    "character": "弟",
+    "meanings": [
+      {
+        "en": "younger brother"
+      }
+    ],
+    "readings": [
+      "おとうと"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 23
+      }
+    ]
+  },
+  {
+    "id": "class-09-kanji-014",
+    "character": "兄",
+    "meanings": [
+      {
+        "en": "older brother, elder brother [casual]"
+      }
+    ],
+    "readings": [
+      "あに"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 24
+      }
+    ],
+    "vocabularyIds": [
+      "class-09-vocab-026",
+      "class-09-vocab-027"
+    ]
+  },
+  {
+    "id": "class-09-kanji-015",
+    "character": "姉",
+    "meanings": [
+      {
+        "en": "older sister, elder sister [casual]"
+      }
+    ],
+    "readings": [
+      "あね"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 25
+      }
+    ],
+    "vocabularyIds": [
+      "class-09-vocab-028"
+    ]
+  },
+  {
+    "id": "class-09-kanji-016",
+    "character": "妹",
+    "meanings": [
+      {
+        "en": "younger sister"
+      }
+    ],
+    "readings": [
+      "いもうと"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 29
+      }
+    ],
+    "vocabularyIds": [
+      "class-09-vocab-029"
+    ]
+  },
+  {
+    "id": "class-09-kanji-017",
+    "character": "去",
+    "meanings": [
+      {
+        "en": "gone, past, quit, leave"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 30
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"去年\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-030"
+    ]
+  },
+  {
+    "id": "class-09-kanji-018",
+    "character": "真",
+    "meanings": [
+      {
+        "en": "true, reality"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 31
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "This kanji is listed in the slide deck's kanji-of-the-week pages but never appears (standalone or in a compound) in the synthesis doc's vocabulary list, so no reading or example word is available from course material for it yet."
+    }
+  },
+  {
+    "id": "class-09-kanji-019",
+    "character": "走",
+    "meanings": [
+      {
+        "en": "run"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 32
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"走る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-031"
+    ]
+  },
+  {
+    "id": "class-09-kanji-020",
+    "character": "歩",
+    "meanings": [
+      {
+        "en": "walk"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 33
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"歩く\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-032",
+      "class-09-vocab-033",
+      "class-09-vocab-034"
+    ]
+  },
+  {
+    "id": "class-09-kanji-021",
+    "character": "転",
+    "meanings": [
+      {
+        "en": "roll, turn around"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 37
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"自転車\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-035"
+    ]
+  },
+  {
+    "id": "class-09-kanji-022",
+    "character": "集",
+    "meanings": [
+      {
+        "en": "gather, meet"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 38
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"集まる\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-036",
+      "class-09-vocab-037",
+      "class-09-vocab-038",
+      "class-09-vocab-039"
+    ]
+  },
+  {
+    "id": "class-09-kanji-023",
+    "character": "運",
+    "meanings": [
+      {
+        "en": "carry, transport, luck, fate"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 39
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"運ぶ\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-040",
+      "class-09-vocab-041",
+      "class-09-vocab-042",
+      "class-09-vocab-043"
+    ]
+  },
+  {
+    "id": "class-09-kanji-024",
+    "character": "送",
+    "meanings": [
+      {
+        "en": "escort, send"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 40
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"送る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-044",
+      "class-09-vocab-045",
+      "class-09-vocab-046"
+    ]
+  },
+  {
+    "id": "class-09-kanji-025",
+    "character": "近",
+    "meanings": [
+      {
+        "en": "near"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°09.pdf",
+        "page": 41
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"近い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-09-vocab-047"
+    ]
+  }
+]

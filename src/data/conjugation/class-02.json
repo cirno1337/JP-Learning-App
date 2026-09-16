@@ -1,0 +1,186 @@
+[
+  {
+    "id": "class-02-conjugation-001",
+    "appliesTo": "verb-ichidan",
+    "form": "te",
+    "explanation": [
+      {
+        "en": "The te-form is used to build tenses/sentences like present continuous, imperative, and combining verbs. Ichidan verbs have one single pattern: remove る, add て. 食べる→食べて, 見る→見て, 寝る→寝て."
+      }
+    ],
+    "examples": [
+      {
+        "form": "te",
+        "surface": "食べて",
+        "reading": "たべて"
+      },
+      {
+        "form": "te",
+        "surface": "見て",
+        "reading": "みて"
+      },
+      {
+        "form": "te",
+        "surface": "寝て",
+        "reading": "ねて"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 69
+      }
+    ]
+  },
+  {
+    "id": "class-02-conjugation-002",
+    "appliesTo": "verb-godan",
+    "form": "te",
+    "explanation": [
+      {
+        "en": "Godan verbs have 5 te-form sound-change patterns based on the dictionary-form ending: う/つ/る→って (言う→言って, 待つ→待って, 知る→知って); ぬ/む/ぶ→んで (死ぬ→死んで, 飲む→飲んで, 遊ぶ→遊んで); く→いて (聞く→聞いて); ぐ→いで (泳ぐ→泳いで); す→して (話す→話して). Mnemonic: ぬ/む/ぶ→んで sounds like \"Namibia\" / the sentence お前は死んでいる。なに！; す→して, think \"sushi\" (す→し)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "te",
+        "surface": "言って",
+        "reading": "いって"
+      },
+      {
+        "form": "te",
+        "surface": "待って",
+        "reading": "まって"
+      },
+      {
+        "form": "te",
+        "surface": "知って",
+        "reading": "しって"
+      },
+      {
+        "form": "te",
+        "surface": "死んで",
+        "reading": "しんで"
+      },
+      {
+        "form": "te",
+        "surface": "遊んで",
+        "reading": "あそんで"
+      },
+      {
+        "form": "te",
+        "surface": "聞いて",
+        "reading": "きいて"
+      },
+      {
+        "form": "te",
+        "surface": "泳いで",
+        "reading": "およいで"
+      },
+      {
+        "form": "te",
+        "surface": "話して",
+        "reading": "はなして"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 78
+      }
+    ]
+  },
+  {
+    "id": "class-02-conjugation-003",
+    "appliesTo": "verb-irregular",
+    "form": "te",
+    "explanation": [
+      {
+        "en": "Te-form exceptions: だ→だって, 行く(いく)→行って(いって) [not the regular く→いて pattern], 来る(くる)→来て(きて), する→して."
+      }
+    ],
+    "examples": [
+      {
+        "form": "te",
+        "surface": "だって"
+      },
+      {
+        "form": "te",
+        "surface": "行って",
+        "reading": "いって"
+      },
+      {
+        "form": "te",
+        "surface": "来て",
+        "reading": "きて"
+      },
+      {
+        "form": "te",
+        "surface": "して"
+      }
+    ],
+    "exceptions": [
+      "行く → 行って (not 行いて)"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 89
+      }
+    ]
+  },
+  {
+    "id": "class-02-conjugation-004",
+    "appliesTo": "verb-ichidan",
+    "form": "te",
+    "explanation": [
+      {
+        "en": "Present continuous (\"[verb]-ing\") = te-form + いる (itself an ichidan verb, conjugated as taught in Class N°01: いる/いない/います/いません). Example with 食べる: 食べている (casual affirmative), 食べていない (casual negative), 食べています (polite affirmative), 食べていません (polite negative)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "te",
+        "surface": "食べている",
+        "reading": "たべている"
+      },
+      {
+        "form": "te",
+        "surface": "食べていない",
+        "reading": "たべていない"
+      },
+      {
+        "form": "te",
+        "surface": "食べています",
+        "reading": "たべています"
+      },
+      {
+        "form": "te",
+        "surface": "食べていません",
+        "reading": "たべていません"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 91
+      }
+    ]
+  }
+]

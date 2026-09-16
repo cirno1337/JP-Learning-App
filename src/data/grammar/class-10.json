@@ -1,0 +1,371 @@
+[
+  {
+    "id": "class-10-grammar-001",
+    "pattern": "Conditional forms (と / たら / なら / ば・れば)",
+    "explanation": [
+      {
+        "en": "Japanese has four main conditional patterns, chosen by nuance rather than being interchangeable. と = general facts/habits, \"whenever X happens, Y always follows\" (スーパーに行くと、お水を買う). たら (ta-form+ら) = a hypothetical situation, wish, or request (時間があったら、勉強します = if I had time, I would study). なら = based on context already established, giving advice or making a request about it (雨なら行きません = since/if it's raining, I won't go). ば/れば (godan -e stem+ば, ichidan -e stem+れば; negative -a stem+なければ) emphasizes the condition itself (行けば、わかる = if you go, you'll understand)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-10-example-001",
+        "japanese": "スーパーに行くと、お水を買う。",
+        "meanings": [
+          {
+            "en": "When I go to the supermarket, I buy water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-002",
+        "japanese": "日本語を話したら、日本に住んでいる。",
+        "meanings": [
+          {
+            "en": "If I speak Japanese, I'd live in Japan."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-003",
+        "japanese": "時間があったら、勉強します。",
+        "meanings": [
+          {
+            "en": "If I had time, I would study."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-004",
+        "japanese": "出るなら、パンを買ってください。",
+        "meanings": [
+          {
+            "en": "If you're leaving/As you're leaving, buy some bread."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-005",
+        "japanese": "雨なら行きません。",
+        "meanings": [
+          {
+            "en": "If it's raining/As it is raining, I won't go."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 8
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-006",
+        "japanese": "行けば、わかる。",
+        "meanings": [
+          {
+            "en": "If you go, you'll understand."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-007",
+        "japanese": "見れば、わかる。",
+        "meanings": [
+          {
+            "en": "If you see it, you'll understand."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-008",
+        "japanese": "来なければ、わからない。",
+        "meanings": [
+          {
+            "en": "If you don't come, you won't understand."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-009",
+        "japanese": "私と遊ばなければ、嬉しくない。",
+        "meanings": [
+          {
+            "en": "If you don't play with me, I won't be happy."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 9
+          }
+        ]
+      }
+    ],
+    "relatedConjugationRuleIds": [
+      "class-10-conjugation-001",
+      "class-10-conjugation-002",
+      "class-10-conjugation-003",
+      "class-10-conjugation-004"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 8
+      },
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-10-grammar-002",
+    "pattern": "Must / have to (なければならない)",
+    "explanation": [
+      {
+        "en": "\"Must/have to [verb]\" = -a stem + なければならない, casually shortened to -a stem + なきゃ (ならない can be dropped in casual speech)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-10-example-010",
+        "japanese": "日本語を勉強しなければならない。",
+        "meanings": [
+          {
+            "en": "You have to study Japanese."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-011",
+        "japanese": "私と遊ばなきゃ。",
+        "meanings": [
+          {
+            "en": "You have to play with me. [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 10
+          }
+        ]
+      }
+    ],
+    "relatedConjugationRuleIds": [
+      "class-10-conjugation-005"
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-10-grammar-003",
+    "pattern": "Should (not) (ほうがいい)",
+    "explanation": [
+      {
+        "en": "\"Should [verb]\" = ta-form + ほうがいい(です): 飲んだほうがいい(です) = should drink. \"Should not [verb]\" = -a stem + ない + ほうがいい(です): 飲まないほうがいい(です) = should not drink."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-10-example-012",
+        "japanese": "水をたくさん飲んだほうがいいです。",
+        "meanings": [
+          {
+            "en": "You should drink a lot of water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-013",
+        "japanese": "早く寝たほうがいいです。",
+        "meanings": [
+          {
+            "en": "You should sleep early."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-014",
+        "japanese": "彼と話さないほうがいいです。",
+        "meanings": [
+          {
+            "en": "You should not speak with him."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-015",
+        "japanese": "今寝ないほうがいいです。",
+        "meanings": [
+          {
+            "en": "You should not sleep now."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "class-10-grammar-004",
+    "pattern": "Non-exhaustive list of actions (たり...たりする)",
+    "explanation": [
+      {
+        "en": "To list example actions non-exhaustively (\"do things like X, Y, Z, etc.\"): ta-form + り, repeated for each action, + する (conjugated for tense): パンを食べたり、水を飲んだり、本を読んだりする (I do things like eat bread, drink water, read a book)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-10-example-016",
+        "japanese": "今日、パンを食べたり、水を飲んだり、本を読んだりする。",
+        "meanings": [
+          {
+            "en": "Today, I will eat bread, drink water, read a book, etc."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      },
+      {
+        "id": "class-10-example-017",
+        "japanese": "今日、パンを食べたり、水を飲んだり、本を読んだりした。",
+        "meanings": [
+          {
+            "en": "Today, I ate bread, drank water, read a book, etc."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°10 - synthesis & assignments.pdf",
+            "page": 12
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  }
+]

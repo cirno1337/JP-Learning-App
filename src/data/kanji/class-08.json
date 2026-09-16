@@ -1,0 +1,694 @@
+[
+  {
+    "id": "class-08-kanji-001",
+    "character": "牛",
+    "meanings": [
+      {
+        "en": "cow"
+      }
+    ],
+    "readings": [
+      "うし"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 5
+      }
+    ],
+    "vocabularyIds": [
+      "class-08-vocab-001",
+      "class-08-vocab-002",
+      "class-08-vocab-003"
+    ]
+  },
+  {
+    "id": "class-08-kanji-002",
+    "character": "特",
+    "meanings": [
+      {
+        "en": "special"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 6
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"特別な\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-004"
+    ]
+  },
+  {
+    "id": "class-08-kanji-003",
+    "character": "馬",
+    "meanings": [
+      {
+        "en": "horse"
+      }
+    ],
+    "readings": [
+      "うま"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 7
+      }
+    ],
+    "vocabularyIds": [
+      "class-08-vocab-005",
+      "class-08-vocab-006"
+    ]
+  },
+  {
+    "id": "class-08-kanji-004",
+    "character": "駅",
+    "meanings": [
+      {
+        "en": "railway station, train station"
+      }
+    ],
+    "readings": [
+      "えき"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-08-kanji-005",
+    "character": "鳥",
+    "meanings": [
+      {
+        "en": "bird"
+      }
+    ],
+    "readings": [
+      "とり"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 9
+      }
+    ],
+    "vocabularyIds": [
+      "class-08-vocab-007"
+    ]
+  },
+  {
+    "id": "class-08-kanji-006",
+    "character": "洋",
+    "meanings": [
+      {
+        "en": "ocean"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 13
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"海洋\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-008"
+    ]
+  },
+  {
+    "id": "class-08-kanji-007",
+    "character": "魚",
+    "meanings": [
+      {
+        "en": "fish"
+      }
+    ],
+    "readings": [
+      "さかな"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 14
+      }
+    ],
+    "vocabularyIds": [
+      "class-08-vocab-009",
+      "class-08-vocab-010",
+      "class-08-vocab-011"
+    ]
+  },
+  {
+    "id": "class-08-kanji-008",
+    "character": "急",
+    "meanings": [
+      {
+        "en": "hurry, emergency, sudden"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 15
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"急な\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-012",
+      "class-08-vocab-013",
+      "class-08-vocab-014"
+    ]
+  },
+  {
+    "id": "class-08-kanji-009",
+    "character": "悪",
+    "meanings": [
+      {
+        "en": "bad"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 16
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"悪い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-015"
+    ]
+  },
+  {
+    "id": "class-08-kanji-010",
+    "character": "味",
+    "meanings": [
+      {
+        "en": "flavor, taste"
+      }
+    ],
+    "readings": [
+      "あじ"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 17
+      }
+    ],
+    "vocabularyIds": [
+      "class-08-vocab-016",
+      "class-08-vocab-017"
+    ]
+  },
+  {
+    "id": "class-08-kanji-011",
+    "character": "社",
+    "meanings": [
+      {
+        "en": "company, firm"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 21
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"社会\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-018",
+      "class-08-vocab-019",
+      "class-08-vocab-020",
+      "class-08-vocab-021"
+    ]
+  },
+  {
+    "id": "class-08-kanji-012",
+    "character": "銀",
+    "meanings": [
+      {
+        "en": "silver"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 22
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"銀行\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-022",
+      "class-08-vocab-023"
+    ]
+  },
+  {
+    "id": "class-08-kanji-013",
+    "character": "帰",
+    "meanings": [
+      {
+        "en": "homecoming, arrive at"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 23
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"帰る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-024"
+    ]
+  },
+  {
+    "id": "class-08-kanji-014",
+    "character": "料",
+    "meanings": [
+      {
+        "en": "fee, materials"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 24
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"料理\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-025",
+      "class-08-vocab-026",
+      "class-08-vocab-027",
+      "class-08-vocab-028",
+      "class-08-vocab-029"
+    ]
+  },
+  {
+    "id": "class-08-kanji-015",
+    "character": "食",
+    "meanings": [
+      {
+        "en": "eat, food"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 25
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"食べる\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-030",
+      "class-08-vocab-031",
+      "class-08-vocab-032"
+    ]
+  },
+  {
+    "id": "class-08-kanji-016",
+    "character": "飲",
+    "meanings": [
+      {
+        "en": "drink"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 29
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"飲む\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-033",
+      "class-08-vocab-034"
+    ]
+  },
+  {
+    "id": "class-08-kanji-017",
+    "character": "飯",
+    "meanings": [
+      {
+        "en": "meal, cooked rice"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 30
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"ご飯\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-035"
+    ]
+  },
+  {
+    "id": "class-08-kanji-018",
+    "character": "館",
+    "meanings": [
+      {
+        "en": "public building"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 31
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "This kanji is listed in the slide deck's kanji-of-the-week pages but never appears (standalone or in a compound) in the synthesis doc's vocabulary list, so no reading or example word is available from course material for it yet."
+    }
+  },
+  {
+    "id": "class-08-kanji-019",
+    "character": "使",
+    "meanings": [
+      {
+        "en": "use, messenger"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 32
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"使う\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-036"
+    ]
+  },
+  {
+    "id": "class-08-kanji-020",
+    "character": "仕",
+    "meanings": [
+      {
+        "en": "attend, doing, serve"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 33
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"仕える\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-037",
+      "class-08-vocab-038"
+    ]
+  },
+  {
+    "id": "class-08-kanji-021",
+    "character": "図",
+    "meanings": [
+      {
+        "en": "map, plan"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 37
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"図る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-039",
+      "class-08-vocab-040",
+      "class-08-vocab-041"
+    ]
+  },
+  {
+    "id": "class-08-kanji-022",
+    "character": "計",
+    "meanings": [
+      {
+        "en": "measure, plot, plan"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 38
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"計る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-042",
+      "class-08-vocab-043"
+    ]
+  },
+  {
+    "id": "class-08-kanji-023",
+    "character": "画",
+    "meanings": [
+      {
+        "en": "picture"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 39
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"画家\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-044"
+    ]
+  },
+  {
+    "id": "class-08-kanji-024",
+    "character": "音",
+    "meanings": [
+      {
+        "en": "sound, noise"
+      }
+    ],
+    "readings": [
+      "おと"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 40
+      }
+    ],
+    "vocabularyIds": [
+      "class-08-vocab-045",
+      "class-08-vocab-046",
+      "class-08-vocab-047"
+    ]
+  },
+  {
+    "id": "class-08-kanji-025",
+    "character": "映",
+    "meanings": [
+      {
+        "en": "reflect, projection"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°08.pdf",
+        "page": 41
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"映す\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-08-vocab-048",
+      "class-08-vocab-049",
+      "class-08-vocab-050"
+    ]
+  }
+]

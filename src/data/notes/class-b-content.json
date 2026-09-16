@@ -1,0 +1,61 @@
+[
+  {
+    "id": "class-b-note-001",
+    "kind": "other",
+    "text": [
+      {
+        "en": "Katakana follows the same break (ッ, doubles the following consonant) and long-vowel rules as hiragana, except the long vowel is always written with the dash ー rather than a repeated vowel kana."
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-note-002",
+    "kind": "useful-link",
+    "text": [
+      {
+        "en": "Jisho (Japanese-English dictionary): jisho.org. PlayPhrase.me (words/sentences in movies): playphrase.me. YouGlish (words/sentences in YouTube videos): youglish.com/japanese. Say-It-In-Your-Language Glossary (collaborative multilingual glossary). A collaborative Spotify playlist made by the course community."
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1,
+        "note": "Useful links section"
+      }
+    ]
+  },
+  {
+    "id": "class-b-note-003",
+    "kind": "other",
+    "text": [
+      {
+        "en": "Typing Japanese uses a QWERTY keyboard with romaji input, converted by the IME: type the romaji reading (e.g. \"arigatou\" for ありがとう) then press Enter to confirm. Punctuation: period → 。, comma → 、. Small kana (ゃゅょっ etc.) are typed by prefixing x or l (e.g. xya or lya → ゃ); a doubled consonant (っ) is typed by doubling the following consonant letter (e.g. \"kko\" → っこ). On Windows, F6/F7 convert the current input to hiragana/katakana; on Mac, control+J/control+K do the same. The long vowel mark ー is next to the \"0\" key. For kanji, type the reading and press the spacebar repeatedly to cycle through candidate kanji."
+      }
+    ],
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 5,
+        "note": "Japanese Keyboard section"
+      }
+    ]
+  }
+]

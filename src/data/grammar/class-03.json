@@ -1,0 +1,645 @@
+[
+  {
+    "id": "class-03-grammar-001",
+    "pattern": "I-adjectives",
+    "explanation": [
+      {
+        "en": "Japanese has two types of adjectives, I-adjectives and NA-adjectives (this course also distinguishes NO-adjectives, always learned with their I/NA/NO ending as part of the word, even though standard teaching doesn't mark this). I-adjectives: (1) placed directly before a noun to describe it — 大きい車 = big car; (2) placed at the end of a sentence as the predicate, with no need for a form of \"to be\" — 車は大きい = the car is big; (3) replace the final い with く to form an adverb, placed just before the verb — 大きく書いてください = please write with bigger letters; (4) to combine multiple adjectives, replace the final い with くて on every adjective except the last — 車は大きくて赤い = the car is big and red."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-03-example-039",
+        "japanese": "大きい車を買っている。",
+        "meanings": [
+          {
+            "en": "I'm buying a big car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-040",
+        "japanese": "大きい車です。",
+        "meanings": [
+          {
+            "en": "It's a big car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-041",
+        "japanese": "小さい車を買っている。",
+        "meanings": [
+          {
+            "en": "I'm buying a small car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-042",
+        "japanese": "小さい車です。",
+        "meanings": [
+          {
+            "en": "It's a small car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-043",
+        "japanese": "車は大きい。",
+        "meanings": [
+          {
+            "en": "The car is big."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-044",
+        "japanese": "私の家は大きい。",
+        "meanings": [
+          {
+            "en": "My house is big."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-045",
+        "japanese": "車は小さい。",
+        "meanings": [
+          {
+            "en": "The car is small."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-046",
+        "japanese": "私の家は小さい。",
+        "meanings": [
+          {
+            "en": "My house is small."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 13
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-047",
+        "japanese": "車は大きいです。",
+        "meanings": [
+          {
+            "en": "The car is big. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-048",
+        "japanese": "車は大きくない。",
+        "meanings": [
+          {
+            "en": "The car is not big."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-049",
+        "japanese": "車は大きくないです。",
+        "meanings": [
+          {
+            "en": "The car is not big. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-050",
+        "japanese": "車は大きかった。",
+        "meanings": [
+          {
+            "en": "The car was big."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-051",
+        "japanese": "車は大きかったです。",
+        "meanings": [
+          {
+            "en": "The car was big. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-052",
+        "japanese": "車は大きくなかった。",
+        "meanings": [
+          {
+            "en": "The car wasn't big."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-053",
+        "japanese": "車は大きくなかったです。",
+        "meanings": [
+          {
+            "en": "The car wasn't big. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 14
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-054",
+        "japanese": "大きく書いてください。",
+        "meanings": [
+          {
+            "en": "Please write with bigger letters."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 15
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-055",
+        "japanese": "小さく切ります。",
+        "meanings": [
+          {
+            "en": "I cut it into small pieces."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 15
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-056",
+        "japanese": "車は大きくて赤い。",
+        "meanings": [
+          {
+            "en": "The car is big and red."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 15
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-057",
+        "japanese": "車は小さくて青い。",
+        "meanings": [
+          {
+            "en": "The car is small and blue."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 15
+          }
+        ]
+      }
+    ],
+    "relatedConjugationRuleIds": [
+      "class-03-conjugation-001"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 13
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-03-grammar-002",
+    "pattern": "たい (want to)",
+    "explanation": [
+      {
+        "en": "Expresses wanting to do an action: verb -i (masu) stem + たい. Declines like an i-adjective for negative/past/polite."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-03-example-058",
+        "japanese": "水を飲みたい。",
+        "meanings": [
+          {
+            "en": "I want to drink water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-059",
+        "japanese": "水を飲みたくない。",
+        "meanings": [
+          {
+            "en": "I don't want to drink water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-060",
+        "japanese": "水を飲みたかった。",
+        "meanings": [
+          {
+            "en": "I wanted to drink water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-061",
+        "japanese": "水を飲みたくなかった。",
+        "meanings": [
+          {
+            "en": "I didn't want to drink water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      }
+    ],
+    "relatedConjugationRuleIds": [
+      "class-03-conjugation-002"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-03-grammar-003",
+    "pattern": "More particles (に, の, と, で, へ)",
+    "explanation": [
+      {
+        "en": "Further particle uses taught this week: に = indirect object/dative (friend in 友だちに本をあげる) or time-location (日曜日に); の = possessive/genitive ('s) — after pronouns forms possessives (私の, あなたの, 彼の, 彼女の = my/your/his/her) — and, casually, can mark a question (お茶を飲むの? = do you drink tea?); と = introduces a quotation (『こんにちは』と言う = I say \"hello\") or means \"with\" (私の猫と寝る = I sleep with my cat); で = marks the location where an action happens (学校で書く = I write at school); へ (pronounced え) = direction/\"towards\" (山へ行く = I go towards the mountain)."
+      }
+    ],
+    "particles": [
+      {
+        "particle": "に",
+        "meaning": [
+          {
+            "en": "indirect object, dative"
+          }
+        ],
+        "exampleSentenceId": "class-03-example-062"
+      },
+      {
+        "particle": "の",
+        "meaning": [
+          {
+            "en": "possessive, genitive ['s]"
+          }
+        ],
+        "exampleSentenceId": "class-03-example-063"
+      },
+      {
+        "particle": "と",
+        "meaning": [
+          {
+            "en": "quotes"
+          }
+        ],
+        "exampleSentenceId": "class-03-example-064"
+      },
+      {
+        "particle": "と",
+        "meaning": [
+          {
+            "en": "with"
+          }
+        ],
+        "exampleSentenceId": "class-03-example-065"
+      },
+      {
+        "particle": "で",
+        "meaning": [
+          {
+            "en": "location [action verbs]"
+          }
+        ],
+        "exampleSentenceId": "class-03-example-066"
+      },
+      {
+        "particle": "へ",
+        "meaning": [
+          {
+            "en": "direction, towards"
+          }
+        ],
+        "exampleSentenceId": "class-03-example-067"
+      },
+      {
+        "particle": "に",
+        "meaning": [
+          {
+            "en": "time-location"
+          }
+        ],
+        "exampleSentenceId": "class-03-example-068"
+      },
+      {
+        "particle": "の",
+        "meaning": [
+          {
+            "en": "question mark [casual]"
+          }
+        ],
+        "exampleSentenceId": "class-03-example-069"
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-03-example-062",
+        "japanese": "友だちに本をあげる。",
+        "meanings": [
+          {
+            "en": "I give a book to my friend."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-063",
+        "japanese": "学生の本は青い。",
+        "meanings": [
+          {
+            "en": "The student's book is blue."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-064",
+        "japanese": "『こんにちは』と言う。",
+        "meanings": [
+          {
+            "en": "I say “hello”."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-065",
+        "japanese": "私の猫と寝る。",
+        "meanings": [
+          {
+            "en": "I sleep with my cat."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-066",
+        "japanese": "学校で書く。",
+        "meanings": [
+          {
+            "en": "I write at school."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-067",
+        "japanese": "山へ行く。",
+        "meanings": [
+          {
+            "en": "I go to/towards the mountain."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-068",
+        "japanese": "日曜日にサッカーをする。",
+        "meanings": [
+          {
+            "en": "I play football on Sunday."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-03-example-069",
+        "japanese": "お茶を飲むの。",
+        "meanings": [
+          {
+            "en": "Do you drink tea?"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°03 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  }
+]

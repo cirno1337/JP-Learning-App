@@ -1,0 +1,2195 @@
+[
+  {
+    "id": "class-b-kana-001",
+    "character": "ア",
+    "chart": "katakana",
+    "romaji": "a",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-002",
+    "character": "カ",
+    "chart": "katakana",
+    "romaji": "ka",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-003",
+    "character": "ガ",
+    "chart": "katakana",
+    "romaji": "ga",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-004",
+    "character": "サ",
+    "chart": "katakana",
+    "romaji": "sa",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-005",
+    "character": "ザ",
+    "chart": "katakana",
+    "romaji": "za",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-006",
+    "character": "タ",
+    "chart": "katakana",
+    "romaji": "ta",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-007",
+    "character": "ダ",
+    "chart": "katakana",
+    "romaji": "da",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-008",
+    "character": "ナ",
+    "chart": "katakana",
+    "romaji": "na",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-009",
+    "character": "ハ",
+    "chart": "katakana",
+    "romaji": "ha",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-010",
+    "character": "バ",
+    "chart": "katakana",
+    "romaji": "ba",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-011",
+    "character": "パ",
+    "chart": "katakana",
+    "romaji": "pa",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-012",
+    "character": "マ",
+    "chart": "katakana",
+    "romaji": "ma",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-013",
+    "character": "ヤ",
+    "chart": "katakana",
+    "romaji": "ya",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-014",
+    "character": "ラ",
+    "chart": "katakana",
+    "romaji": "ra",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-015",
+    "character": "ワ",
+    "chart": "katakana",
+    "romaji": "wa",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-016",
+    "character": "イ",
+    "chart": "katakana",
+    "romaji": "i",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-017",
+    "character": "キ",
+    "chart": "katakana",
+    "romaji": "ki",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-018",
+    "character": "ギ",
+    "chart": "katakana",
+    "romaji": "gi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-019",
+    "character": "シ",
+    "chart": "katakana",
+    "romaji": "shi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-020",
+    "character": "ジ",
+    "chart": "katakana",
+    "romaji": "ji",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-021",
+    "character": "チ",
+    "chart": "katakana",
+    "romaji": "chi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-022",
+    "character": "ヂ",
+    "chart": "katakana",
+    "romaji": "ji",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-023",
+    "character": "ニ",
+    "chart": "katakana",
+    "romaji": "ni",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-024",
+    "character": "ヒ",
+    "chart": "katakana",
+    "romaji": "hi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-025",
+    "character": "ビ",
+    "chart": "katakana",
+    "romaji": "bi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-026",
+    "character": "ピ",
+    "chart": "katakana",
+    "romaji": "pi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-027",
+    "character": "ミ",
+    "chart": "katakana",
+    "romaji": "mi",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-028",
+    "character": "リ",
+    "chart": "katakana",
+    "romaji": "ri",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-029",
+    "character": "ウ",
+    "chart": "katakana",
+    "romaji": "u",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-030",
+    "character": "ク",
+    "chart": "katakana",
+    "romaji": "ku",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-031",
+    "character": "グ",
+    "chart": "katakana",
+    "romaji": "gu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-032",
+    "character": "ス",
+    "chart": "katakana",
+    "romaji": "su",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-033",
+    "character": "ズ",
+    "chart": "katakana",
+    "romaji": "zu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-034",
+    "character": "ツ",
+    "chart": "katakana",
+    "romaji": "tsu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-035",
+    "character": "ヅ",
+    "chart": "katakana",
+    "romaji": "zu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-036",
+    "character": "ヌ",
+    "chart": "katakana",
+    "romaji": "nu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-037",
+    "character": "フ",
+    "chart": "katakana",
+    "romaji": "fu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-038",
+    "character": "ブ",
+    "chart": "katakana",
+    "romaji": "bu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-039",
+    "character": "プ",
+    "chart": "katakana",
+    "romaji": "pu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-040",
+    "character": "ム",
+    "chart": "katakana",
+    "romaji": "mu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-041",
+    "character": "ユ",
+    "chart": "katakana",
+    "romaji": "yu",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-042",
+    "character": "ル",
+    "chart": "katakana",
+    "romaji": "ru",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-043",
+    "character": "エ",
+    "chart": "katakana",
+    "romaji": "e",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-044",
+    "character": "ケ",
+    "chart": "katakana",
+    "romaji": "ke",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-045",
+    "character": "ゲ",
+    "chart": "katakana",
+    "romaji": "ge",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-046",
+    "character": "セ",
+    "chart": "katakana",
+    "romaji": "se",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-047",
+    "character": "ゼ",
+    "chart": "katakana",
+    "romaji": "ze",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-048",
+    "character": "テ",
+    "chart": "katakana",
+    "romaji": "te",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-049",
+    "character": "デ",
+    "chart": "katakana",
+    "romaji": "de",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-050",
+    "character": "ネ",
+    "chart": "katakana",
+    "romaji": "ne",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-051",
+    "character": "ヘ",
+    "chart": "katakana",
+    "romaji": "he",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-052",
+    "character": "ベ",
+    "chart": "katakana",
+    "romaji": "be",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-053",
+    "character": "ペ",
+    "chart": "katakana",
+    "romaji": "pe",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-054",
+    "character": "メ",
+    "chart": "katakana",
+    "romaji": "me",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-055",
+    "character": "レ",
+    "chart": "katakana",
+    "romaji": "re",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-056",
+    "character": "オ",
+    "chart": "katakana",
+    "romaji": "o",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-057",
+    "character": "コ",
+    "chart": "katakana",
+    "romaji": "ko",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-058",
+    "character": "ゴ",
+    "chart": "katakana",
+    "romaji": "go",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-059",
+    "character": "ソ",
+    "chart": "katakana",
+    "romaji": "so",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-060",
+    "character": "ゾ",
+    "chart": "katakana",
+    "romaji": "zo",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-061",
+    "character": "ト",
+    "chart": "katakana",
+    "romaji": "to",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-062",
+    "character": "ド",
+    "chart": "katakana",
+    "romaji": "do",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-063",
+    "character": "ノ",
+    "chart": "katakana",
+    "romaji": "no",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-064",
+    "character": "ホ",
+    "chart": "katakana",
+    "romaji": "ho",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-065",
+    "character": "ボ",
+    "chart": "katakana",
+    "romaji": "bo",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-066",
+    "character": "ポ",
+    "chart": "katakana",
+    "romaji": "po",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-067",
+    "character": "モ",
+    "chart": "katakana",
+    "romaji": "mo",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-068",
+    "character": "ヨ",
+    "chart": "katakana",
+    "romaji": "yo",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-069",
+    "character": "ロ",
+    "chart": "katakana",
+    "romaji": "ro",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-070",
+    "character": "ヲ",
+    "chart": "katakana",
+    "romaji": "wo",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-071",
+    "character": "ン",
+    "chart": "katakana",
+    "romaji": "n",
+    "variantType": "base",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-072",
+    "character": "シャ",
+    "chart": "katakana",
+    "romaji": "sha",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-073",
+    "character": "ジャ",
+    "chart": "katakana",
+    "romaji": "ja",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-074",
+    "character": "チャ",
+    "chart": "katakana",
+    "romaji": "cha",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-075",
+    "character": "キャ",
+    "chart": "katakana",
+    "romaji": "kya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-076",
+    "character": "ギャ",
+    "chart": "katakana",
+    "romaji": "gya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-077",
+    "character": "ニャ",
+    "chart": "katakana",
+    "romaji": "nya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-078",
+    "character": "ヒャ",
+    "chart": "katakana",
+    "romaji": "hya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-079",
+    "character": "ビャ",
+    "chart": "katakana",
+    "romaji": "bya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-080",
+    "character": "ピャ",
+    "chart": "katakana",
+    "romaji": "pya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-081",
+    "character": "ミャ",
+    "chart": "katakana",
+    "romaji": "mya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-082",
+    "character": "リャ",
+    "chart": "katakana",
+    "romaji": "rya",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-083",
+    "character": "シュ",
+    "chart": "katakana",
+    "romaji": "shu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-084",
+    "character": "ジュ",
+    "chart": "katakana",
+    "romaji": "ju",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-085",
+    "character": "チュ",
+    "chart": "katakana",
+    "romaji": "chu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-086",
+    "character": "キュ",
+    "chart": "katakana",
+    "romaji": "kyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-087",
+    "character": "ギュ",
+    "chart": "katakana",
+    "romaji": "gyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-088",
+    "character": "ニュ",
+    "chart": "katakana",
+    "romaji": "nyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-089",
+    "character": "ヒュ",
+    "chart": "katakana",
+    "romaji": "hyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-090",
+    "character": "ビュ",
+    "chart": "katakana",
+    "romaji": "byu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-091",
+    "character": "ピュ",
+    "chart": "katakana",
+    "romaji": "pyu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-092",
+    "character": "ミュ",
+    "chart": "katakana",
+    "romaji": "myu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-093",
+    "character": "リュ",
+    "chart": "katakana",
+    "romaji": "ryu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-094",
+    "character": "ショ",
+    "chart": "katakana",
+    "romaji": "sho",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-095",
+    "character": "ジョ",
+    "chart": "katakana",
+    "romaji": "jo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-096",
+    "character": "チョ",
+    "chart": "katakana",
+    "romaji": "cho",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-097",
+    "character": "キョ",
+    "chart": "katakana",
+    "romaji": "kyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-098",
+    "character": "ギョ",
+    "chart": "katakana",
+    "romaji": "gyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-099",
+    "character": "ニョ",
+    "chart": "katakana",
+    "romaji": "nyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-100",
+    "character": "ヒョ",
+    "chart": "katakana",
+    "romaji": "hyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-101",
+    "character": "ビョ",
+    "chart": "katakana",
+    "romaji": "byo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-102",
+    "character": "ピョ",
+    "chart": "katakana",
+    "romaji": "pyo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-103",
+    "character": "ミョ",
+    "chart": "katakana",
+    "romaji": "myo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-104",
+    "character": "リョ",
+    "chart": "katakana",
+    "romaji": "ryo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-105",
+    "character": "シェ",
+    "chart": "katakana",
+    "romaji": "she",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-106",
+    "character": "ジェ",
+    "chart": "katakana",
+    "romaji": "je",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-107",
+    "character": "チェ",
+    "chart": "katakana",
+    "romaji": "che",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-108",
+    "character": "ファ",
+    "chart": "katakana",
+    "romaji": "fa",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-109",
+    "character": "フィ",
+    "chart": "katakana",
+    "romaji": "fi",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-110",
+    "character": "フェ",
+    "chart": "katakana",
+    "romaji": "fe",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-111",
+    "character": "フォ",
+    "chart": "katakana",
+    "romaji": "fo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-112",
+    "character": "ウィ",
+    "chart": "katakana",
+    "romaji": "wi",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-113",
+    "character": "ウェ",
+    "chart": "katakana",
+    "romaji": "we",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-114",
+    "character": "ウォ",
+    "chart": "katakana",
+    "romaji": "wo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-115",
+    "character": "ヴァ",
+    "chart": "katakana",
+    "romaji": "va",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-116",
+    "character": "ヴィ",
+    "chart": "katakana",
+    "romaji": "vi",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-117",
+    "character": "ヴ",
+    "chart": "katakana",
+    "romaji": "vu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-118",
+    "character": "ヴェ",
+    "chart": "katakana",
+    "romaji": "ve",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-119",
+    "character": "ヴォ",
+    "chart": "katakana",
+    "romaji": "vo",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-120",
+    "character": "ティ",
+    "chart": "katakana",
+    "romaji": "ti",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-121",
+    "character": "トゥ",
+    "chart": "katakana",
+    "romaji": "tu",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-122",
+    "character": "ディ",
+    "chart": "katakana",
+    "romaji": "di",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-123",
+    "character": "ドゥ",
+    "chart": "katakana",
+    "romaji": "du",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-124",
+    "character": "スィ",
+    "chart": "katakana",
+    "romaji": "si",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-125",
+    "character": "ズィ",
+    "chart": "katakana",
+    "romaji": "zi",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-126",
+    "character": "ツァ",
+    "chart": "katakana",
+    "romaji": "tsa",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-127",
+    "character": "ツィ",
+    "chart": "katakana",
+    "romaji": "tsi",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-128",
+    "character": "ツェ",
+    "chart": "katakana",
+    "romaji": "tse",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-b-kana-129",
+    "character": "ツォ",
+    "chart": "katakana",
+    "romaji": "tso",
+    "variantType": "digraph",
+    "lessonIds": [
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  }
+]

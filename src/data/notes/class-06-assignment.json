@@ -1,0 +1,59 @@
+[
+  {
+    "id": "class-06-note-001",
+    "kind": "teacher-note",
+    "text": [
+      {
+        "en": "Exercise 2 & 3 answer key (imperative / volitional forms of the week's regular verbs, derived from class-06's own conjugation rules, all regular — no exceptions apply to these six verbs): 食べる(たべる, to eat) → 食べてください / 食べないでください / 食べよう / 食べましょう. 遊ぶ(あそぶ, to play) → 遊んでください / 遊ばないでください / 遊ぼう / 遊びましょう. 話す(はなす, to speak) → 話してください / 話さないでください / 話そう / 話しましょう. 寝る(ねる, to sleep) → 寝てください / 寝ないでください / 寝よう / 寝ましょう. 聞く(きく, to listen) → 聞いてください / 聞かないでください / 聞こう / 聞きましょう. する(to do) → してください / しないでください / しよう / しましょう."
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "generated",
+    "source": [
+      {
+        "file": "ASSIGNMENT N°06.pdf",
+        "note": "Exercise 2 & 3 — answers derived from class-06's own imperative/volitional conjugation rules, not given in the source"
+      }
+    ]
+  },
+  {
+    "id": "class-06-note-002",
+    "kind": "other",
+    "text": [
+      {
+        "en": "Exercise 4 (translation practice) reuses sentences from this class's own comprehensible-input reading passage almost verbatim (see the class-06 dialogue for the confirmed Japanese/English pairs and readings): 朝でした (it was morning), 明るかったです (it was bright), 電話でメッセージを読みました (he read messages on his phone), その後で、朝ご飯を食べました (after that, he ate breakfast), 食べた後で、部屋に行きました (after eating, he went to his room), 朝ご飯の前に手を洗いました (he washed his hands before breakfast)."
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ASSIGNMENT N°06.pdf",
+        "note": "Exercise 4 — cross-referenced against src/data/dialogues/class-06.json"
+      }
+    ]
+  },
+  {
+    "id": "class-06-note-003",
+    "kind": "other",
+    "text": [
+      {
+        "en": "Exercise 1 (vocabulary) and Exercise 5 (kanji word-search grid, themed around \"wall\") in this assignment are largely fill-in-the-blank with the answer key only in Google Classroom — not extracted here to avoid inventing unconfirmed vocabulary/kanji pairings."
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ASSIGNMENT N°06.pdf",
+        "note": "Exercise 1 and 5 — left blank in source, not extracted"
+      }
+    ]
+  }
+]

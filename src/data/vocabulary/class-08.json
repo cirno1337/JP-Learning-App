@@ -1,0 +1,2627 @@
+[
+  {
+    "id": "class-08-vocab-001",
+    "kanji": "牛肉",
+    "kana": "ぎゅうにく",
+    "meanings": [
+      {
+        "en": "beef"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 牛."
+  },
+  {
+    "id": "class-08-vocab-002",
+    "kanji": "子牛",
+    "kana": "こうし",
+    "meanings": [
+      {
+        "en": "calf"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 牛."
+  },
+  {
+    "id": "class-08-vocab-003",
+    "kanji": "牛小屋",
+    "kana": "うしごや",
+    "meanings": [
+      {
+        "en": "cow shed"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 牛."
+  },
+  {
+    "id": "class-08-vocab-004",
+    "kanji": "特別な",
+    "kana": "とくべつな",
+    "meanings": [
+      {
+        "en": "special"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 特."
+  },
+  {
+    "id": "class-08-vocab-005",
+    "kanji": "子馬",
+    "kana": "こうま",
+    "meanings": [
+      {
+        "en": "pony, foal"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 馬."
+  },
+  {
+    "id": "class-08-vocab-006",
+    "kanji": "馬小屋",
+    "kana": "うまごや",
+    "meanings": [
+      {
+        "en": "stable"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 馬."
+  },
+  {
+    "id": "class-08-vocab-007",
+    "kanji": "白鳥",
+    "kana": "はくちょう",
+    "meanings": [
+      {
+        "en": "swan"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 鳥."
+  },
+  {
+    "id": "class-08-vocab-008",
+    "kanji": "海洋",
+    "kana": "かいよう",
+    "meanings": [
+      {
+        "en": "ocean"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 洋."
+  },
+  {
+    "id": "class-08-vocab-009",
+    "kanji": "魚屋",
+    "kana": "さかなや",
+    "meanings": [
+      {
+        "en": "fish market, fish shop"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 魚."
+  },
+  {
+    "id": "class-08-vocab-010",
+    "kanji": "金魚",
+    "kana": "きんぎょ",
+    "meanings": [
+      {
+        "en": "goldfish"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 魚."
+  },
+  {
+    "id": "class-08-vocab-011",
+    "kanji": "魚肉",
+    "kana": "ぎょにく",
+    "meanings": [
+      {
+        "en": "fish meat"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 魚."
+  },
+  {
+    "id": "class-08-vocab-012",
+    "kanji": "急な",
+    "kana": "きゅうな",
+    "meanings": [
+      {
+        "en": "sudden, urgent"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 急."
+  },
+  {
+    "id": "class-08-vocab-013",
+    "kanji": "急ぐ",
+    "kana": "いそぐ",
+    "meanings": [
+      {
+        "en": "to hurry"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 急."
+  },
+  {
+    "id": "class-08-vocab-014",
+    "kanji": "急行",
+    "kana": "きゅうこう",
+    "meanings": [
+      {
+        "en": "express (train)"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 急."
+  },
+  {
+    "id": "class-08-vocab-015",
+    "kanji": "悪い",
+    "kana": "わるい",
+    "meanings": [
+      {
+        "en": "bad"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 悪."
+  },
+  {
+    "id": "class-08-vocab-016",
+    "kanji": "味わう",
+    "kana": "あじわう",
+    "meanings": [
+      {
+        "en": "to taste, to savor"
+      },
+      {
+        "en": "to taste"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 味."
+  },
+  {
+    "id": "class-08-vocab-017",
+    "kanji": "意味",
+    "kana": "いみ",
+    "meanings": [
+      {
+        "en": "meaning, significance, sense"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 味."
+  },
+  {
+    "id": "class-08-vocab-018",
+    "kanji": "社会",
+    "kana": "しゃかい",
+    "meanings": [
+      {
+        "en": "society, public, community, the world"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 社."
+  },
+  {
+    "id": "class-08-vocab-019",
+    "kanji": "会社",
+    "kana": "かいしゃ",
+    "meanings": [
+      {
+        "en": "company"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 社."
+  },
+  {
+    "id": "class-08-vocab-020",
+    "kanji": "社長",
+    "kana": "しゃちょう",
+    "meanings": [
+      {
+        "en": "company president, manager, director"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 社."
+  },
+  {
+    "id": "class-08-vocab-021",
+    "kanji": "社員",
+    "kana": "しゃいん",
+    "meanings": [
+      {
+        "en": "company employee"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 社."
+  },
+  {
+    "id": "class-08-vocab-022",
+    "kanji": "銀行",
+    "kana": "ぎんこう",
+    "meanings": [
+      {
+        "en": "bank"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 銀."
+  },
+  {
+    "id": "class-08-vocab-023",
+    "kanji": "銀色の",
+    "kana": "ぎんいろの",
+    "meanings": [
+      {
+        "en": "silver (colour)"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 銀."
+  },
+  {
+    "id": "class-08-vocab-024",
+    "kanji": "帰る",
+    "kana": "かえる",
+    "meanings": [
+      {
+        "en": "to return, to come home, to go home, to go back"
+      },
+      {
+        "en": "to go back (home)"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 帰."
+  },
+  {
+    "id": "class-08-vocab-025",
+    "kanji": "料理",
+    "kana": "りょうり",
+    "meanings": [
+      {
+        "en": "dish, cooking"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 料."
+  },
+  {
+    "id": "class-08-vocab-026",
+    "kanji": "料理人",
+    "kana": "りょうりにん",
+    "meanings": [
+      {
+        "en": "cook, chef"
+      },
+      {
+        "en": "cook / chef"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 料."
+  },
+  {
+    "id": "class-08-vocab-027",
+    "kanji": "料理する",
+    "kana": "りょうりする",
+    "meanings": [
+      {
+        "en": "to cook"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 料."
+  },
+  {
+    "id": "class-08-vocab-028",
+    "kanji": "無料の",
+    "kana": "むりょうの",
+    "meanings": [
+      {
+        "en": "free"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 料."
+  },
+  {
+    "id": "class-08-vocab-029",
+    "kanji": "有料の",
+    "kana": "ゆうりょうの",
+    "meanings": [
+      {
+        "en": "paid, not free"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 料."
+  },
+  {
+    "id": "class-08-vocab-030",
+    "kanji": "食べる",
+    "kana": "たべる",
+    "meanings": [
+      {
+        "en": "to eat"
+      },
+      {
+        "en": "to eat [ichidan]"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 101
+      }
+    ],
+    "notes": "Example vocabulary for kanji 食."
+  },
+  {
+    "id": "class-08-vocab-031",
+    "kanji": "食事",
+    "kana": "しょくじ",
+    "meanings": [
+      {
+        "en": "meal (e.g. lunch, dinner)"
+      },
+      {
+        "en": "dish"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 食."
+  },
+  {
+    "id": "class-08-vocab-032",
+    "kanji": "食べ物",
+    "kana": "たべもの",
+    "meanings": [
+      {
+        "en": "food"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-04",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ],
+    "notes": "Example vocabulary for kanji 食."
+  },
+  {
+    "id": "class-08-vocab-033",
+    "kanji": "飲む",
+    "kana": "のむ",
+    "meanings": [
+      {
+        "en": "to drink"
+      },
+      {
+        "en": "to drink [godan]"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      }
+    ],
+    "notes": "Example vocabulary for kanji 飲."
+  },
+  {
+    "id": "class-08-vocab-034",
+    "kanji": "飲み物",
+    "kana": "のみもの",
+    "meanings": [
+      {
+        "en": "drink, beverage"
+      },
+      {
+        "en": "drink / beverage"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ],
+    "notes": "Example vocabulary for kanji 飲."
+  },
+  {
+    "id": "class-08-vocab-035",
+    "kanji": "ご飯",
+    "kana": "ごはん",
+    "meanings": [
+      {
+        "en": "cooked rice, meal"
+      },
+      {
+        "en": "cooked rice / meal"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 飯."
+  },
+  {
+    "id": "class-08-vocab-036",
+    "kanji": "使う",
+    "kana": "つかう",
+    "meanings": [
+      {
+        "en": "to use"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Example vocabulary for kanji 使."
+  },
+  {
+    "id": "class-08-vocab-037",
+    "kanji": "仕える",
+    "kana": "つかえる",
+    "meanings": [
+      {
+        "en": "to serve, to work for, to attend"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 仕."
+  },
+  {
+    "id": "class-08-vocab-038",
+    "kanji": "仕事",
+    "kana": "しごと",
+    "meanings": [
+      {
+        "en": "work, job"
+      },
+      {
+        "en": "work, profession"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 仕."
+  },
+  {
+    "id": "class-08-vocab-039",
+    "kanji": "図る",
+    "kana": "はかる",
+    "meanings": [
+      {
+        "en": "to plan"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 図."
+  },
+  {
+    "id": "class-08-vocab-040",
+    "kanji": "地図",
+    "kana": "ちず",
+    "meanings": [
+      {
+        "en": "map, atlas, plan"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 図."
+  },
+  {
+    "id": "class-08-vocab-041",
+    "kanji": "図書館",
+    "kana": "としょかん",
+    "meanings": [
+      {
+        "en": "library"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 図."
+  },
+  {
+    "id": "class-08-vocab-042",
+    "kanji": "計る",
+    "kana": "はかる",
+    "meanings": [
+      {
+        "en": "to measure, to weigh"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 計."
+  },
+  {
+    "id": "class-08-vocab-043",
+    "kanji": "時計",
+    "kana": "とけい",
+    "meanings": [
+      {
+        "en": "clock, watch"
+      },
+      {
+        "en": "watch"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 計."
+  },
+  {
+    "id": "class-08-vocab-044",
+    "kanji": "画家",
+    "kana": "がか",
+    "meanings": [
+      {
+        "en": "painter, artist"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 画."
+  },
+  {
+    "id": "class-08-vocab-045",
+    "kanji": "発音",
+    "kana": "はつおん",
+    "meanings": [
+      {
+        "en": "pronunciation"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 音."
+  },
+  {
+    "id": "class-08-vocab-046",
+    "kanji": "子音",
+    "kana": "しいん",
+    "meanings": [
+      {
+        "en": "consonant"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 音."
+  },
+  {
+    "id": "class-08-vocab-047",
+    "kanji": "母音",
+    "kana": "ぼいん",
+    "meanings": [
+      {
+        "en": "vowel"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 音."
+  },
+  {
+    "id": "class-08-vocab-048",
+    "kanji": "映す",
+    "kana": "うつす",
+    "meanings": [
+      {
+        "en": "to project, to reflect"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 映."
+  },
+  {
+    "id": "class-08-vocab-049",
+    "kanji": "映画",
+    "kana": "えいが",
+    "meanings": [
+      {
+        "en": "movie"
+      },
+      {
+        "en": "film, movie"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 映."
+  },
+  {
+    "id": "class-08-vocab-050",
+    "kanji": "映画館",
+    "kana": "えいがかん",
+    "meanings": [
+      {
+        "en": "cinema"
+      }
+    ],
+    "lessonIds": [
+      "class-08",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°08 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 映."
+  },
+  {
+    "id": "class-08-vocab-051",
+    "kana": "クマ",
+    "meanings": [
+      {
+        "en": "bear"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-052",
+    "kana": "キツネ",
+    "meanings": [
+      {
+        "en": "fox"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-053",
+    "kana": "キリン",
+    "meanings": [
+      {
+        "en": "giraffe"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-054",
+    "kana": "ハムスター",
+    "meanings": [
+      {
+        "en": "hamster"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-055",
+    "kana": "ハリネズミ",
+    "meanings": [
+      {
+        "en": "hedgehog"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-056",
+    "kana": "カバ",
+    "meanings": [
+      {
+        "en": "hippopotamus"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-057",
+    "kana": "ライオン",
+    "meanings": [
+      {
+        "en": "lion"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-058",
+    "kanji": "猿",
+    "kana": "さる",
+    "meanings": [
+      {
+        "en": "monkey"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-059",
+    "kana": "ネズミ",
+    "meanings": [
+      {
+        "en": "mouse"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-060",
+    "kana": "ウサギ",
+    "meanings": [
+      {
+        "en": "rabbit"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-061",
+    "kana": "サイ",
+    "meanings": [
+      {
+        "en": "rhinoceros"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-062",
+    "kana": "トラ",
+    "meanings": [
+      {
+        "en": "tiger"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-063",
+    "kana": "オオカミ",
+    "meanings": [
+      {
+        "en": "wolf"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-064",
+    "kana": "リス",
+    "meanings": [
+      {
+        "en": "squirrel"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-065",
+    "kanji": "象",
+    "kana": "ぞう",
+    "meanings": [
+      {
+        "en": "elephant"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-066",
+    "kana": "ロバ",
+    "meanings": [
+      {
+        "en": "donkey"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: LAND ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-067",
+    "kanji": "鳥",
+    "kana": "とり",
+    "meanings": [
+      {
+        "en": "bird"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-068",
+    "kana": "ワシ",
+    "meanings": [
+      {
+        "en": "eagle"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-069",
+    "kana": "ガチョウ",
+    "meanings": [
+      {
+        "en": "goose"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-070",
+    "kana": "フクロウ",
+    "meanings": [
+      {
+        "en": "owl"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-071",
+    "kana": "オウム",
+    "meanings": [
+      {
+        "en": "parrot"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-072",
+    "kana": "ハト",
+    "meanings": [
+      {
+        "en": "pigeon"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-073",
+    "kana": "カラス",
+    "meanings": [
+      {
+        "en": "crow"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-074",
+    "kana": "アヒル",
+    "meanings": [
+      {
+        "en": "duck"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-075",
+    "kana": "コウモリ",
+    "meanings": [
+      {
+        "en": "bat"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FLYING ANIMALS"
+  },
+  {
+    "id": "class-08-vocab-076",
+    "kanji": "泣く",
+    "kana": "なく",
+    "meanings": [
+      {
+        "en": "to cry"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-077",
+    "kanji": "選ぶ",
+    "kana": "えらぶ",
+    "meanings": [
+      {
+        "en": "to choose, select"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-078",
+    "kanji": "押す",
+    "kana": "おす",
+    "meanings": [
+      {
+        "en": "to push, press"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-079",
+    "kanji": "引く",
+    "kana": "ひく",
+    "meanings": [
+      {
+        "en": "to pull"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-080",
+    "kanji": "飛ぶ",
+    "kana": "とぶ",
+    "meanings": [
+      {
+        "en": "to jump, fly"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-081",
+    "kana": "なる",
+    "meanings": [
+      {
+        "en": "to become"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-082",
+    "kanji": "要る",
+    "kana": "いる",
+    "meanings": [
+      {
+        "en": "to need"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-083",
+    "kanji": "決める",
+    "kana": "きめる",
+    "meanings": [
+      {
+        "en": "to decide"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-084",
+    "kanji": "出来る",
+    "kana": "できる",
+    "meanings": [
+      {
+        "en": "to be able"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-08-vocab-085",
+    "kanji": "速い",
+    "kana": "はやい",
+    "meanings": [
+      {
+        "en": "fast"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I-ADJECTIVES"
+  },
+  {
+    "id": "class-08-vocab-086",
+    "kanji": "遅い",
+    "kana": "おそい",
+    "meanings": [
+      {
+        "en": "slow"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I-ADJECTIVES"
+  },
+  {
+    "id": "class-08-vocab-087",
+    "kanji": "弱い",
+    "kana": "よわい",
+    "meanings": [
+      {
+        "en": "weak"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: I-ADJECTIVES"
+  },
+  {
+    "id": "class-08-vocab-088",
+    "kanji": "無礼な",
+    "kana": "ぶれいな",
+    "meanings": [
+      {
+        "en": "rude, mean"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: NA- ADJECTIVES"
+  },
+  {
+    "id": "class-08-vocab-089",
+    "kanji": "最高の",
+    "kana": "さいこうの",
+    "meanings": [
+      {
+        "en": "best"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: NO- ADJECTIVES"
+  },
+  {
+    "id": "class-08-vocab-090",
+    "kanji": "最悪の",
+    "kana": "さいあくの",
+    "meanings": [
+      {
+        "en": "worst, horrible"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Category: NO- ADJECTIVES"
+  },
+  {
+    "id": "class-08-vocab-091",
+    "kana": "クラゲ",
+    "meanings": [
+      {
+        "en": "jellyfish"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-092",
+    "kana": "タコ",
+    "meanings": [
+      {
+        "en": "octopus"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-093",
+    "kana": "サメ",
+    "meanings": [
+      {
+        "en": "shark"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-094",
+    "kana": "クジラ",
+    "meanings": [
+      {
+        "en": "whale"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-095",
+    "kana": "イルカ",
+    "meanings": [
+      {
+        "en": "dolphin"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-096",
+    "kana": "カエル",
+    "meanings": [
+      {
+        "en": "frog"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-097",
+    "kana": "ワニ",
+    "meanings": [
+      {
+        "en": "crocodile"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-098",
+    "kana": "ヘビ",
+    "meanings": [
+      {
+        "en": "snake"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-099",
+    "kana": "カメ",
+    "meanings": [
+      {
+        "en": "turtle"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-100",
+    "kana": "アリ",
+    "meanings": [
+      {
+        "en": "ant"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-101",
+    "kana": "ハチ",
+    "meanings": [
+      {
+        "en": "bee"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-102",
+    "kanji": "蝶",
+    "kana": "ちょう",
+    "meanings": [
+      {
+        "en": "butterfly"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-103",
+    "kana": "クモ",
+    "meanings": [
+      {
+        "en": "spider"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-104",
+    "kana": "カタツムリ",
+    "meanings": [
+      {
+        "en": "snail"
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-105",
+    "kanji": "上",
+    "kana": "うえ",
+    "meanings": [
+      {
+        "en": "on, above, over"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-106",
+    "kanji": "下",
+    "kana": "した",
+    "meanings": [
+      {
+        "en": "under, below"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-107",
+    "kanji": "中",
+    "kana": "なか",
+    "meanings": [
+      {
+        "en": "in, inside"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-108",
+    "kanji": "外",
+    "kana": "そと",
+    "meanings": [
+      {
+        "en": "outside"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-109",
+    "kanji": "前",
+    "kana": "まえ",
+    "meanings": [
+      {
+        "en": "in front"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-111",
+    "kanji": "左",
+    "kana": "ひだり",
+    "meanings": [
+      {
+        "en": "left"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-112",
+    "kanji": "右",
+    "kana": "みぎ",
+    "meanings": [
+      {
+        "en": "right"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-113",
+    "kanji": "間",
+    "kana": "あいだ",
+    "meanings": [
+      {
+        "en": "between"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-114",
+    "kanji": "近く",
+    "kana": "ちかく",
+    "meanings": [
+      {
+        "en": "near"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-115",
+    "kanji": "十分",
+    "kana": "じゅうぶん",
+    "meanings": [
+      {
+        "en": "enough"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-116",
+    "kanji": "足りない",
+    "kana": "たりない",
+    "meanings": [
+      {
+        "en": "not enough"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-117",
+    "kana": "たくさん",
+    "meanings": [
+      {
+        "en": "a lot"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-08-vocab-118",
+    "kana": "いくつか",
+    "meanings": [
+      {
+        "en": "some"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  }
+]

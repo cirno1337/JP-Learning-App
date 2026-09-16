@@ -1,0 +1,694 @@
+[
+  {
+    "id": "class-06-kanji-001",
+    "character": "心",
+    "meanings": [
+      {
+        "en": "heart, mind, spirit"
+      }
+    ],
+    "readings": [
+      "こころ"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 5
+      }
+    ],
+    "vocabularyIds": [
+      "class-06-vocab-001"
+    ]
+  },
+  {
+    "id": "class-06-kanji-002",
+    "character": "海",
+    "meanings": [
+      {
+        "en": "sea, ocean, waters"
+      }
+    ],
+    "readings": [
+      "うみ"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-06-kanji-003",
+    "character": "主",
+    "meanings": [
+      {
+        "en": "lord, chief, master, main thing, principal"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 7
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"主語\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-002",
+      "class-06-vocab-003"
+    ]
+  },
+  {
+    "id": "class-06-kanji-004",
+    "character": "者",
+    "meanings": [
+      {
+        "en": "someone, person"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 8
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"学者\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-004"
+    ]
+  },
+  {
+    "id": "class-06-kanji-005",
+    "character": "家",
+    "meanings": [
+      {
+        "en": "house, residence, home"
+      }
+    ],
+    "readings": [
+      "いえ",
+      "うち"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 9
+      }
+    ],
+    "vocabularyIds": [
+      "class-06-vocab-005",
+      "class-06-vocab-006"
+    ]
+  },
+  {
+    "id": "class-06-kanji-006",
+    "character": "室",
+    "meanings": [
+      {
+        "en": "room, apartment, chamber"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 13
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "This kanji is listed in the slide deck's kanji-of-the-week pages but never appears (standalone or in a compound) in the synthesis doc's vocabulary list, so no reading or example word is available from course material for it yet."
+    }
+  },
+  {
+    "id": "class-06-kanji-007",
+    "character": "屋",
+    "meanings": [
+      {
+        "en": "roof, house, shop"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 14
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"八百屋\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-007",
+      "class-06-vocab-008",
+      "class-06-vocab-009",
+      "class-06-vocab-010"
+    ]
+  },
+  {
+    "id": "class-06-kanji-008",
+    "character": "店",
+    "meanings": [
+      {
+        "en": "store, shop"
+      }
+    ],
+    "readings": [
+      "みせ"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 15
+      }
+    ],
+    "vocabularyIds": [
+      "class-06-vocab-011"
+    ]
+  },
+  {
+    "id": "class-06-kanji-009",
+    "character": "古",
+    "meanings": [
+      {
+        "en": "old"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 16
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"古い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-012",
+      "class-06-vocab-013",
+      "class-06-vocab-014"
+    ]
+  },
+  {
+    "id": "class-06-kanji-010",
+    "character": "新",
+    "meanings": [
+      {
+        "en": "new"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 17
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"新しい\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-015",
+      "class-06-vocab-016",
+      "class-06-vocab-017"
+    ]
+  },
+  {
+    "id": "class-06-kanji-011",
+    "character": "親",
+    "meanings": [
+      {
+        "en": "parent, intimacy, familiarity"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 21
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"親しい\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-018",
+      "class-06-vocab-019"
+    ]
+  },
+  {
+    "id": "class-06-kanji-012",
+    "character": "質",
+    "meanings": [
+      {
+        "en": "substance, quality, hostage"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 22
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"質問\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-020",
+      "class-06-vocab-021",
+      "class-06-vocab-022"
+    ]
+  },
+  {
+    "id": "class-06-kanji-013",
+    "character": "紙",
+    "meanings": [
+      {
+        "en": "paper"
+      }
+    ],
+    "readings": [
+      "かみ"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 23
+      }
+    ],
+    "vocabularyIds": [
+      "class-06-vocab-023",
+      "class-06-vocab-024"
+    ]
+  },
+  {
+    "id": "class-06-kanji-014",
+    "character": "町",
+    "meanings": [
+      {
+        "en": "city, town"
+      }
+    ],
+    "readings": [
+      "まち"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "id": "class-06-kanji-015",
+    "character": "京",
+    "meanings": [
+      {
+        "en": "capital"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 25
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"東京\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-025",
+      "class-06-vocab-026"
+    ]
+  },
+  {
+    "id": "class-06-kanji-016",
+    "character": "高",
+    "meanings": [
+      {
+        "en": "tall, high, expensive"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 29
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"高い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-027",
+      "class-06-vocab-028"
+    ]
+  },
+  {
+    "id": "class-06-kanji-017",
+    "character": "同",
+    "meanings": [
+      {
+        "en": "same, agree, equal"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 30
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"同じ\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-029",
+      "class-06-vocab-030"
+    ]
+  },
+  {
+    "id": "class-06-kanji-018",
+    "character": "色",
+    "meanings": [
+      {
+        "en": "color, tint"
+      }
+    ],
+    "readings": [
+      "いろ"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 31
+      }
+    ],
+    "vocabularyIds": [
+      "class-06-vocab-031",
+      "class-06-vocab-032"
+    ]
+  },
+  {
+    "id": "class-06-kanji-019",
+    "character": "白",
+    "meanings": [
+      {
+        "en": "white"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 32
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"白い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-033"
+    ]
+  },
+  {
+    "id": "class-06-kanji-020",
+    "character": "黒",
+    "meanings": [
+      {
+        "en": "black"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 33
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"黒い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-034"
+    ]
+  },
+  {
+    "id": "class-06-kanji-021",
+    "character": "赤",
+    "meanings": [
+      {
+        "en": "red"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 37
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"赤い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-035",
+      "class-06-vocab-036",
+      "class-06-vocab-037",
+      "class-06-vocab-038"
+    ]
+  },
+  {
+    "id": "class-06-kanji-022",
+    "character": "青",
+    "meanings": [
+      {
+        "en": "blue"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 38
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"青い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-039",
+      "class-06-vocab-040"
+    ]
+  },
+  {
+    "id": "class-06-kanji-023",
+    "character": "的",
+    "meanings": [
+      {
+        "en": "target, mark"
+      }
+    ],
+    "readings": [
+      "まと"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 39
+      }
+    ],
+    "vocabularyIds": [
+      "class-06-vocab-041"
+    ]
+  },
+  {
+    "id": "class-06-kanji-024",
+    "character": "知",
+    "meanings": [
+      {
+        "en": "to know"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 40
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"知る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-042",
+      "class-06-vocab-043",
+      "class-06-vocab-044"
+    ]
+  },
+  {
+    "id": "class-06-kanji-025",
+    "character": "強",
+    "meanings": [
+      {
+        "en": "strong"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°06.pdf",
+        "page": 41
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"強い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-06-vocab-045",
+      "class-06-vocab-046",
+      "class-06-vocab-047",
+      "class-06-vocab-048"
+    ]
+  }
+]

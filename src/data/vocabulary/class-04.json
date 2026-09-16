@@ -1,0 +1,2479 @@
+[
+  {
+    "id": "class-04-vocab-001",
+    "kanji": "物語",
+    "kana": "ものがたり",
+    "meanings": [
+      {
+        "en": "story, tale"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 物."
+  },
+  {
+    "id": "class-04-vocab-002",
+    "kanji": "火事",
+    "kana": "かじ",
+    "meanings": [
+      {
+        "en": "fire (disaster)"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 事."
+  },
+  {
+    "id": "class-04-vocab-003",
+    "kanji": "名前",
+    "kana": "なまえ",
+    "meanings": [
+      {
+        "en": "name"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 名."
+  },
+  {
+    "id": "class-04-vocab-004",
+    "kanji": "外す",
+    "kana": "はずす",
+    "meanings": [
+      {
+        "en": "to remove, to miss, to take off"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 外."
+  },
+  {
+    "id": "class-04-vocab-005",
+    "kanji": "外国",
+    "kana": "がいこく",
+    "meanings": [
+      {
+        "en": "foreign country"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 外."
+  },
+  {
+    "id": "class-04-vocab-006",
+    "kanji": "外国人",
+    "kana": "がいこくじん",
+    "meanings": [
+      {
+        "en": "foreigner"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 外."
+  },
+  {
+    "id": "class-04-vocab-007",
+    "kanji": "死ぬ",
+    "kana": "しぬ",
+    "meanings": [
+      {
+        "en": "to die"
+      },
+      {
+        "en": "to die [godan]"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 58
+      }
+    ],
+    "notes": "Example vocabulary for kanji 死."
+  },
+  {
+    "id": "class-04-vocab-008",
+    "kanji": "死体",
+    "kana": "したい",
+    "meanings": [
+      {
+        "en": "corpse, dead body"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 死."
+  },
+  {
+    "id": "class-04-vocab-009",
+    "kanji": "半分",
+    "kana": "はんぶん",
+    "meanings": [
+      {
+        "en": "half"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 半."
+  },
+  {
+    "id": "class-04-vocab-010",
+    "kanji": "二週間",
+    "kana": "にしゅうかん",
+    "meanings": [
+      {
+        "en": "two weeks (duration)"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 週."
+  },
+  {
+    "id": "class-04-vocab-011",
+    "kanji": "先週",
+    "kana": "せんしゅう",
+    "meanings": [
+      {
+        "en": "last week"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 週."
+  },
+  {
+    "id": "class-04-vocab-012",
+    "kanji": "今週",
+    "kana": "こんしゅう",
+    "meanings": [
+      {
+        "en": "this week"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 週."
+  },
+  {
+    "id": "class-04-vocab-013",
+    "kanji": "来週",
+    "kana": "らいしゅう",
+    "meanings": [
+      {
+        "en": "next week"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 週."
+  },
+  {
+    "id": "class-04-vocab-014",
+    "kanji": "無い",
+    "kana": "ない",
+    "meanings": [
+      {
+        "en": "nonexistent, not being (there) [usually written in kana]"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 無."
+  },
+  {
+    "id": "class-04-vocab-015",
+    "kanji": "無言の",
+    "kana": "むごんの",
+    "meanings": [
+      {
+        "en": "silent (person), without saying a word"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 無."
+  },
+  {
+    "id": "class-04-vocab-016",
+    "kanji": "不足",
+    "kana": "ふそく",
+    "meanings": [
+      {
+        "en": "insufficiency, deficiency, shortage, lack"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 不."
+  },
+  {
+    "id": "class-04-vocab-017",
+    "kanji": "長い",
+    "kana": "ながい",
+    "meanings": [
+      {
+        "en": "long (distance, length)"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 長."
+  },
+  {
+    "id": "class-04-vocab-018",
+    "kanji": "長らく",
+    "kana": "ながらく",
+    "meanings": [
+      {
+        "en": "for a long time"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 長."
+  },
+  {
+    "id": "class-04-vocab-019",
+    "kanji": "身長",
+    "kana": "しんちょう",
+    "meanings": [
+      {
+        "en": "height"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 長."
+  },
+  {
+    "id": "class-04-vocab-020",
+    "kanji": "出発",
+    "kana": "しゅっぱつ",
+    "meanings": [
+      {
+        "en": "departure, leaving, setting off"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 発."
+  },
+  {
+    "id": "class-04-vocab-021",
+    "kanji": "発明",
+    "kana": "はつめい",
+    "meanings": [
+      {
+        "en": "invention"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 発."
+  },
+  {
+    "id": "class-04-vocab-022",
+    "kanji": "発見",
+    "kana": "はっけん",
+    "meanings": [
+      {
+        "en": "discovery"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 発."
+  },
+  {
+    "id": "class-04-vocab-023",
+    "kanji": "思う",
+    "kana": "おもう",
+    "meanings": [
+      {
+        "en": "to think"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 思."
+  },
+  {
+    "id": "class-04-vocab-024",
+    "kanji": "思い出",
+    "kana": "おもいで",
+    "meanings": [
+      {
+        "en": "memories"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 思."
+  },
+  {
+    "id": "class-04-vocab-025",
+    "kanji": "思い出す",
+    "kana": "おもいだす",
+    "meanings": [
+      {
+        "en": "to recall, to remember"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 思."
+  },
+  {
+    "id": "class-04-vocab-026",
+    "kanji": "男の人",
+    "kana": "おとこのひと",
+    "meanings": [
+      {
+        "en": "man"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 男."
+  },
+  {
+    "id": "class-04-vocab-027",
+    "kanji": "女の人",
+    "kana": "おんなのひと",
+    "meanings": [
+      {
+        "en": "woman"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 女."
+  },
+  {
+    "id": "class-04-vocab-028",
+    "kanji": "男の子",
+    "kana": "おとこのこ",
+    "meanings": [
+      {
+        "en": "boy"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 子."
+  },
+  {
+    "id": "class-04-vocab-029",
+    "kanji": "女の子",
+    "kana": "おんなのこ",
+    "meanings": [
+      {
+        "en": "girl"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 子."
+  },
+  {
+    "id": "class-04-vocab-030",
+    "kanji": "子ども",
+    "kana": "こども",
+    "meanings": [
+      {
+        "en": "child, children"
+      },
+      {
+        "en": "child"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 50
+      }
+    ],
+    "notes": "Example vocabulary for kanji 子."
+  },
+  {
+    "id": "class-04-vocab-031",
+    "kanji": "安い",
+    "kana": "やすい",
+    "meanings": [
+      {
+        "en": "cheap"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 安."
+  },
+  {
+    "id": "class-04-vocab-032",
+    "kanji": "不安",
+    "kana": "ふあん",
+    "meanings": [
+      {
+        "en": "anxiety"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 安."
+  },
+  {
+    "id": "class-04-vocab-033",
+    "kanji": "用いる",
+    "kana": "もちいる",
+    "meanings": [
+      {
+        "en": "to use"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 用."
+  },
+  {
+    "id": "class-04-vocab-034",
+    "kanji": "無用の",
+    "kana": "むようの",
+    "meanings": [
+      {
+        "en": "useless"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 用."
+  },
+  {
+    "id": "class-04-vocab-035",
+    "kanji": "電子",
+    "kana": "でんし",
+    "meanings": [
+      {
+        "en": "electron"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 電."
+  },
+  {
+    "id": "class-04-vocab-036",
+    "kanji": "電子レンジ",
+    "kana": "でんしレンジ",
+    "meanings": [
+      {
+        "en": "microwave oven"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 電."
+  },
+  {
+    "id": "class-04-vocab-037",
+    "kanji": "学ぶ",
+    "kana": "まなぶ",
+    "meanings": [
+      {
+        "en": "to learn"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 学."
+  },
+  {
+    "id": "class-04-vocab-038",
+    "kanji": "大学",
+    "kana": "だいがく",
+    "meanings": [
+      {
+        "en": "university"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 47
+      }
+    ],
+    "notes": "Example vocabulary for kanji 学."
+  },
+  {
+    "id": "class-04-vocab-039",
+    "kanji": "学生",
+    "kana": "がくせい",
+    "meanings": [
+      {
+        "en": "student"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 33
+      }
+    ],
+    "notes": "Example vocabulary for kanji 学."
+  },
+  {
+    "id": "class-04-vocab-040",
+    "kanji": "言語学",
+    "kana": "げんごがく",
+    "meanings": [
+      {
+        "en": "linguistics"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 学."
+  },
+  {
+    "id": "class-04-vocab-041",
+    "kanji": "ローマ字",
+    "kana": "ローマじ",
+    "meanings": [
+      {
+        "en": "romaji"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 字."
+  },
+  {
+    "id": "class-04-vocab-042",
+    "kanji": "文字",
+    "kana": "もじ・もんじ",
+    "meanings": [
+      {
+        "en": "letter (of an alphabet), character"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 文."
+  },
+  {
+    "id": "class-04-vocab-043",
+    "kanji": "文学",
+    "kana": "ぶんがく",
+    "meanings": [
+      {
+        "en": "literature"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 文."
+  },
+  {
+    "id": "class-04-vocab-044",
+    "kanji": "本文",
+    "kana": "ほんぶん",
+    "meanings": [
+      {
+        "en": "text"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 文."
+  },
+  {
+    "id": "class-04-vocab-045",
+    "kanji": "お母さん",
+    "kana": "おかあさん",
+    "meanings": [
+      {
+        "en": "mother [polite]"
+      },
+      {
+        "en": "mother [polite / someone else's]"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 32
+      }
+    ],
+    "notes": "Example vocabulary for kanji 母."
+  },
+  {
+    "id": "class-04-vocab-046",
+    "kanji": "母語",
+    "kana": "ぼご",
+    "meanings": [
+      {
+        "en": "mother tongue"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 母."
+  },
+  {
+    "id": "class-04-vocab-047",
+    "kanji": "お父さん",
+    "kana": "おとうさん",
+    "meanings": [
+      {
+        "en": "father [polite]"
+      },
+      {
+        "en": "father [polite / someone else's]"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 32
+      }
+    ],
+    "notes": "Example vocabulary for kanji 父."
+  },
+  {
+    "id": "class-04-vocab-048",
+    "kanji": "雪",
+    "kana": "ゆき",
+    "meanings": [
+      {
+        "en": "snow"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: WEATHER"
+  },
+  {
+    "id": "class-04-vocab-049",
+    "kanji": "雷雨",
+    "kana": "らいう",
+    "meanings": [
+      {
+        "en": "thunderstorm"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: WEATHER"
+  },
+  {
+    "id": "class-04-vocab-050",
+    "kanji": "雨",
+    "kana": "あめ",
+    "meanings": [
+      {
+        "en": "rain"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: WEATHER"
+  },
+  {
+    "id": "class-04-vocab-051",
+    "kanji": "虹",
+    "kana": "にじ",
+    "meanings": [
+      {
+        "en": "rainbow"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: WEATHER"
+  },
+  {
+    "id": "class-04-vocab-052",
+    "kanji": "草",
+    "kana": "くさ",
+    "meanings": [
+      {
+        "en": "grass"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: NATURE"
+  },
+  {
+    "id": "class-04-vocab-053",
+    "kana": "ラベンダー",
+    "meanings": [
+      {
+        "en": "lavender"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: NATURE"
+  },
+  {
+    "id": "class-04-vocab-054",
+    "kana": "バラ",
+    "meanings": [
+      {
+        "en": "rose"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: NATURE"
+  },
+  {
+    "id": "class-04-vocab-055",
+    "kanji": "石",
+    "kana": "いし",
+    "meanings": [
+      {
+        "en": "stone"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: NATURE"
+  },
+  {
+    "id": "class-04-vocab-056",
+    "kanji": "砂",
+    "kana": "すな",
+    "meanings": [
+      {
+        "en": "sand"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: NATURE"
+  },
+  {
+    "id": "class-04-vocab-057",
+    "kanji": "空",
+    "kana": "そら",
+    "meanings": [
+      {
+        "en": "sky"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: NATURE"
+  },
+  {
+    "id": "class-04-vocab-058",
+    "kanji": "森",
+    "kana": "もり",
+    "meanings": [
+      {
+        "en": "forest"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: NATURE"
+  },
+  {
+    "id": "class-04-vocab-059",
+    "kana": "デザート",
+    "meanings": [
+      {
+        "en": "dessert"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-060",
+    "kana": "ハム",
+    "meanings": [
+      {
+        "en": "ham"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-061",
+    "kana": "レモン",
+    "meanings": [
+      {
+        "en": "lemon"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-062",
+    "kanji": "肉",
+    "kana": "にく",
+    "meanings": [
+      {
+        "en": "meat"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-063",
+    "kana": "にんじん",
+    "meanings": [
+      {
+        "en": "carrot"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-064",
+    "kana": "なす",
+    "meanings": [
+      {
+        "en": "eggplant"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-065",
+    "kanji": "鶏肉",
+    "kana": "とりにく",
+    "meanings": [
+      {
+        "en": "chicken"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-066",
+    "kana": "サンドイッチ",
+    "meanings": [
+      {
+        "en": "sandwich"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-067",
+    "kana": "ヨーグルト",
+    "meanings": [
+      {
+        "en": "yogurt"
+      },
+      {
+        "en": "yoghurt"
+      }
+    ],
+    "lessonIds": [
+      "class-04",
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-068",
+    "kana": "ジャム",
+    "meanings": [
+      {
+        "en": "jam"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-069",
+    "kana": "パンケーキ",
+    "meanings": [
+      {
+        "en": "pancake"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-070",
+    "kana": "バター",
+    "meanings": [
+      {
+        "en": "butter"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-071",
+    "kanji": "卵",
+    "kana": "たまご",
+    "meanings": [
+      {
+        "en": "egg"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-072",
+    "kana": "はちみつ",
+    "meanings": [
+      {
+        "en": "honey"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-073",
+    "kana": "きのこ",
+    "meanings": [
+      {
+        "en": "mushroom"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-074",
+    "kana": "フライドポテト",
+    "meanings": [
+      {
+        "en": "fries"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-075",
+    "kana": "サラダ",
+    "meanings": [
+      {
+        "en": "salad"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-076",
+    "kanji": "油",
+    "kana": "あぶら",
+    "meanings": [
+      {
+        "en": "oil"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-077",
+    "kanji": "酢",
+    "kana": "す",
+    "meanings": [
+      {
+        "en": "vinegar"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-078",
+    "kanji": "塩",
+    "kana": "しお",
+    "meanings": [
+      {
+        "en": "salt"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-079",
+    "kana": "こしょう",
+    "meanings": [
+      {
+        "en": "pepper"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-080",
+    "kanji": "果物",
+    "kana": "くだもの",
+    "meanings": [
+      {
+        "en": "fruits"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-081",
+    "kanji": "野菜",
+    "kana": "やさい",
+    "meanings": [
+      {
+        "en": "vegetables"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-082",
+    "kanji": "小麦粉",
+    "kana": "こむぎこ",
+    "meanings": [
+      {
+        "en": "flour"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-083",
+    "kana": "クッキー",
+    "meanings": [
+      {
+        "en": "cookie / biscuit"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-084",
+    "kana": "アイスクリーム",
+    "meanings": [
+      {
+        "en": "ice cream"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-085",
+    "kanji": "砂糖",
+    "kana": "さとう",
+    "meanings": [
+      {
+        "en": "sugar"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-086",
+    "kanji": "唐辛子",
+    "kana": "とうがらし",
+    "meanings": [
+      {
+        "en": "chili pepper"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-087",
+    "kana": "にんにく",
+    "meanings": [
+      {
+        "en": "garlic"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-088",
+    "kanji": "玉ねぎ",
+    "kana": "たまねぎ",
+    "meanings": [
+      {
+        "en": "onion"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: FOOD"
+  },
+  {
+    "id": "class-04-vocab-089",
+    "kanji": "頭",
+    "kana": "あたま",
+    "meanings": [
+      {
+        "en": "head"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BODY PARTS"
+  },
+  {
+    "id": "class-04-vocab-090",
+    "kanji": "手",
+    "kana": "て",
+    "meanings": [
+      {
+        "en": "hand"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BODY PARTS"
+  },
+  {
+    "id": "class-04-vocab-091",
+    "kanji": "腕",
+    "kana": "うで",
+    "meanings": [
+      {
+        "en": "arm"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BODY PARTS"
+  },
+  {
+    "id": "class-04-vocab-092",
+    "kanji": "足",
+    "kana": "あし",
+    "meanings": [
+      {
+        "en": "foot"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BODY PARTS"
+  },
+  {
+    "id": "class-04-vocab-093",
+    "kanji": "脚",
+    "kana": "あし",
+    "meanings": [
+      {
+        "en": "leg"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BODY PARTS"
+  },
+  {
+    "id": "class-04-vocab-094",
+    "kanji": "心",
+    "kana": "こころ",
+    "meanings": [
+      {
+        "en": "heart"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BODY PARTS"
+  },
+  {
+    "id": "class-04-vocab-095",
+    "kanji": "心臓",
+    "kana": "しんぞう",
+    "meanings": [
+      {
+        "en": "heart (organ)"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BODY PARTS"
+  },
+  {
+    "id": "class-04-vocab-096",
+    "kanji": "取る",
+    "kana": "とる",
+    "meanings": [
+      {
+        "en": "to take"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-04-vocab-097",
+    "kanji": "置く",
+    "kana": "おく",
+    "meanings": [
+      {
+        "en": "to put"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-04-vocab-098",
+    "kanji": "閉まる",
+    "kana": "しまる",
+    "meanings": [
+      {
+        "en": "to close [intr.]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-04-vocab-099",
+    "kanji": "続く",
+    "kana": "つづく",
+    "meanings": [
+      {
+        "en": "to continue [intr.]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-04-vocab-100",
+    "kanji": "閉める",
+    "kana": "しめる",
+    "meanings": [
+      {
+        "en": "to close [tr.]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-04-vocab-102",
+    "kanji": "続ける",
+    "kana": "つづける",
+    "meanings": [
+      {
+        "en": "to continue [transitive]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-104",
+    "kana": "かっこいい",
+    "meanings": [
+      {
+        "en": "stylish, cool, handsome"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-105",
+    "kana": "かわいい",
+    "meanings": [
+      {
+        "en": "cute, adorable, sweet"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-106",
+    "kanji": "醜い",
+    "kana": "みにくい",
+    "meanings": [
+      {
+        "en": "ugly"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-107",
+    "kanji": "汚い",
+    "kana": "きたない",
+    "meanings": [
+      {
+        "en": "dirty"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-108",
+    "kana": "きれいな",
+    "meanings": [
+      {
+        "en": "beautiful, clean"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-109",
+    "kana": "ハンサムな",
+    "meanings": [
+      {
+        "en": "handsome"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-112",
+    "kanji": "緑の",
+    "kana": "みどりの",
+    "meanings": [
+      {
+        "en": "green"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-04",
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-113",
+    "kanji": "オレンジ色の",
+    "kana": "オレンジいろの",
+    "meanings": [
+      {
+        "en": "orange"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-114",
+    "kanji": "紫の",
+    "kana": "むらさきの",
+    "meanings": [
+      {
+        "en": "purple"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-115",
+    "kana": "ピンクの",
+    "meanings": [
+      {
+        "en": "pink"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-04-vocab-117",
+    "kanji": "灰色の",
+    "kana": "はいいろの",
+    "meanings": [
+      {
+        "en": "gray"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  }
+]

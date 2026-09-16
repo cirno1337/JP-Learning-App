@@ -1,0 +1,2669 @@
+[
+  {
+    "id": "class-06-vocab-001",
+    "kanji": "中心",
+    "kana": "ちゅうしん",
+    "meanings": [
+      {
+        "en": "center, centre, middle"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 心."
+  },
+  {
+    "id": "class-06-vocab-002",
+    "kanji": "主語",
+    "kana": "しゅご",
+    "meanings": [
+      {
+        "en": "subject [grammar]"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 主."
+  },
+  {
+    "id": "class-06-vocab-003",
+    "kanji": "自主",
+    "kana": "じしゅ",
+    "meanings": [
+      {
+        "en": "independence, autonomy, self-reliance"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 主."
+  },
+  {
+    "id": "class-06-vocab-004",
+    "kanji": "学者",
+    "kana": "がくしゃ",
+    "meanings": [
+      {
+        "en": "scholar, academic, scientist"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 者."
+  },
+  {
+    "id": "class-06-vocab-005",
+    "kanji": "国家",
+    "kana": "こっか",
+    "meanings": [
+      {
+        "en": "state, country, nation"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 家."
+  },
+  {
+    "id": "class-06-vocab-006",
+    "kanji": "家主",
+    "kana": "やぬし",
+    "meanings": [
+      {
+        "en": "house owner, landlord"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 家."
+  },
+  {
+    "id": "class-06-vocab-007",
+    "kanji": "八百屋",
+    "kana": "やおや",
+    "meanings": [
+      {
+        "en": "greengrocer, fruit and vegetable shop"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 屋."
+  },
+  {
+    "id": "class-06-vocab-008",
+    "kanji": "パン屋",
+    "kana": "パンや",
+    "meanings": [
+      {
+        "en": "bakery"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 屋."
+  },
+  {
+    "id": "class-06-vocab-009",
+    "kanji": "パン屋さん",
+    "kana": "パンやさん",
+    "meanings": [
+      {
+        "en": "baker"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 屋."
+  },
+  {
+    "id": "class-06-vocab-010",
+    "kanji": "本屋",
+    "kana": "ほんや",
+    "meanings": [
+      {
+        "en": "bookshop, bookstore"
+      },
+      {
+        "en": "bookstore"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 屋."
+  },
+  {
+    "id": "class-06-vocab-011",
+    "kanji": "店員",
+    "kana": "てんいん",
+    "meanings": [
+      {
+        "en": "employee (of a store), shop assistant"
+      },
+      {
+        "en": "salesperson"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 店."
+  },
+  {
+    "id": "class-06-vocab-012",
+    "kanji": "古い",
+    "kana": "ふるい",
+    "meanings": [
+      {
+        "en": "old, aged, ancient"
+      },
+      {
+        "en": "old (objects)"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 古."
+  },
+  {
+    "id": "class-06-vocab-013",
+    "kanji": "古風な",
+    "kana": "こふうな",
+    "meanings": [
+      {
+        "en": "old-fashioned, archaic, antique, antiquated"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 古."
+  },
+  {
+    "id": "class-06-vocab-014",
+    "kanji": "古本",
+    "kana": "ふるほん",
+    "meanings": [
+      {
+        "en": "secondhand book"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 古."
+  },
+  {
+    "id": "class-06-vocab-015",
+    "kanji": "新しい",
+    "kana": "あたらしい",
+    "meanings": [
+      {
+        "en": "new"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 新."
+  },
+  {
+    "id": "class-06-vocab-016",
+    "kanji": "新聞",
+    "kana": "しんぶん",
+    "meanings": [
+      {
+        "en": "newspaper"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "extra-practice",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Extra Activity - Reading Session 1.pdf",
+        "page": 9
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Example vocabulary for kanji 新."
+  },
+  {
+    "id": "class-06-vocab-017",
+    "kanji": "新年",
+    "kana": "しんねん",
+    "meanings": [
+      {
+        "en": "New Year"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 新."
+  },
+  {
+    "id": "class-06-vocab-018",
+    "kanji": "親しい",
+    "kana": "したしい",
+    "meanings": [
+      {
+        "en": "familiar, intimate"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 親."
+  },
+  {
+    "id": "class-06-vocab-019",
+    "kanji": "親切な",
+    "kana": "しんせつな",
+    "meanings": [
+      {
+        "en": "kind, gentle"
+      },
+      {
+        "en": "kind"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Example vocabulary for kanji 親."
+  },
+  {
+    "id": "class-06-vocab-020",
+    "kanji": "質問",
+    "kana": "しつもん",
+    "meanings": [
+      {
+        "en": "question"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 質."
+  },
+  {
+    "id": "class-06-vocab-021",
+    "kanji": "人質",
+    "kana": "ひとじち",
+    "meanings": [
+      {
+        "en": "hostage"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 質."
+  },
+  {
+    "id": "class-06-vocab-022",
+    "kanji": "質問をする",
+    "kana": "しつもんをする",
+    "meanings": [
+      {
+        "en": "to ask a question"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 質."
+  },
+  {
+    "id": "class-06-vocab-023",
+    "kanji": "質問用紙",
+    "kana": "しつもんようし",
+    "meanings": [
+      {
+        "en": "survey, questionnaire form"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 紙."
+  },
+  {
+    "id": "class-06-vocab-024",
+    "kanji": "手紙",
+    "kana": "てがみ",
+    "meanings": [
+      {
+        "en": "letter, note"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 紙."
+  },
+  {
+    "id": "class-06-vocab-025",
+    "kanji": "東京",
+    "kana": "とうきょう",
+    "meanings": [
+      {
+        "en": "Tokyo"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 京."
+  },
+  {
+    "id": "class-06-vocab-026",
+    "kanji": "北京",
+    "kana": "ぺきん",
+    "meanings": [
+      {
+        "en": "Beijing / Peking"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 京."
+  },
+  {
+    "id": "class-06-vocab-027",
+    "kanji": "高い",
+    "kana": "たかい",
+    "meanings": [
+      {
+        "en": "tall, high, expensive"
+      },
+      {
+        "en": "expensive"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 高."
+  },
+  {
+    "id": "class-06-vocab-028",
+    "kanji": "高校",
+    "kana": "こうこう",
+    "meanings": [
+      {
+        "en": "high school"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 高."
+  },
+  {
+    "id": "class-06-vocab-029",
+    "kanji": "同じ",
+    "kana": "おなじ",
+    "meanings": [
+      {
+        "en": "same, identical [irregular な-adjective]"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 同."
+  },
+  {
+    "id": "class-06-vocab-030",
+    "kanji": "同時に",
+    "kana": "どうじに",
+    "meanings": [
+      {
+        "en": "at the same time, simultaneously"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 同."
+  },
+  {
+    "id": "class-06-vocab-031",
+    "kanji": "色紙",
+    "kana": "いろがみ",
+    "meanings": [
+      {
+        "en": "coloured paper"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 色."
+  },
+  {
+    "id": "class-06-vocab-032",
+    "kanji": "金色の",
+    "kana": "きんいろの",
+    "meanings": [
+      {
+        "en": "gold colour, golden (colour)"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 色."
+  },
+  {
+    "id": "class-06-vocab-033",
+    "kanji": "白い",
+    "kana": "しろい",
+    "meanings": [
+      {
+        "en": "white"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 白."
+  },
+  {
+    "id": "class-06-vocab-034",
+    "kanji": "黒い",
+    "kana": "くろい",
+    "meanings": [
+      {
+        "en": "black"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-03",
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      }
+    ],
+    "notes": "Example vocabulary for kanji 黒."
+  },
+  {
+    "id": "class-06-vocab-035",
+    "kanji": "赤い",
+    "kana": "あかい",
+    "meanings": [
+      {
+        "en": "red"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 赤."
+  },
+  {
+    "id": "class-06-vocab-036",
+    "kanji": "赤らむ",
+    "kana": "あからむ",
+    "meanings": [
+      {
+        "en": "to become red, to blush [intransitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 赤."
+  },
+  {
+    "id": "class-06-vocab-037",
+    "kanji": "赤らめる",
+    "kana": "あからめる",
+    "meanings": [
+      {
+        "en": "to blush, to redden [transitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 赤."
+  },
+  {
+    "id": "class-06-vocab-038",
+    "kanji": "赤ちゃん",
+    "kana": "あかちゃん",
+    "meanings": [
+      {
+        "en": "baby"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 赤."
+  },
+  {
+    "id": "class-06-vocab-039",
+    "kanji": "青い",
+    "kana": "あおい",
+    "meanings": [
+      {
+        "en": "blue"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 青."
+  },
+  {
+    "id": "class-06-vocab-040",
+    "kanji": "青空",
+    "kana": "あおぞら",
+    "meanings": [
+      {
+        "en": "blue sky"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 青."
+  },
+  {
+    "id": "class-06-vocab-041",
+    "kanji": "目的",
+    "kana": "もくてき",
+    "meanings": [
+      {
+        "en": "purpose, goal, aim, objective, intention, motive"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 的."
+  },
+  {
+    "id": "class-06-vocab-042",
+    "kanji": "知る",
+    "kana": "しる",
+    "meanings": [
+      {
+        "en": "to know"
+      },
+      {
+        "en": "to know [godan]"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 58
+      }
+    ],
+    "notes": "Example vocabulary for kanji 知."
+  },
+  {
+    "id": "class-06-vocab-043",
+    "kanji": "知らせる",
+    "kana": "しらせる",
+    "meanings": [
+      {
+        "en": "to inform, to let someone know"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 知."
+  },
+  {
+    "id": "class-06-vocab-044",
+    "kanji": "知人",
+    "kana": "ちじん",
+    "meanings": [
+      {
+        "en": "friend, acquaintance"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 知."
+  },
+  {
+    "id": "class-06-vocab-045",
+    "kanji": "強い",
+    "kana": "つよい",
+    "meanings": [
+      {
+        "en": "strong"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Example vocabulary for kanji 強."
+  },
+  {
+    "id": "class-06-vocab-046",
+    "kanji": "強いる",
+    "kana": "しいる",
+    "meanings": [
+      {
+        "en": "to force"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 強."
+  },
+  {
+    "id": "class-06-vocab-047",
+    "kanji": "強まる",
+    "kana": "つよまる",
+    "meanings": [
+      {
+        "en": "to get strong, to gain strength [intransitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 強."
+  },
+  {
+    "id": "class-06-vocab-048",
+    "kanji": "強める",
+    "kana": "つよめる",
+    "meanings": [
+      {
+        "en": "to strengthen, to emphasize [transitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°06 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 強."
+  },
+  {
+    "id": "class-06-vocab-049",
+    "kana": "アパート",
+    "meanings": [
+      {
+        "en": "apartment building"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "ASSIGNMENT N°06.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-050",
+    "kanji": "階段",
+    "kana": "かいだん",
+    "meanings": [
+      {
+        "en": "stairs"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-051",
+    "kanji": "壁",
+    "kana": "かべ",
+    "meanings": [
+      {
+        "en": "wall"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-052",
+    "kanji": "床",
+    "kana": "ゆか",
+    "meanings": [
+      {
+        "en": "floor"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-053",
+    "kanji": "天井",
+    "kana": "てんじょう",
+    "meanings": [
+      {
+        "en": "ceiling"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-054",
+    "kanji": "廊下",
+    "kana": "ろうか",
+    "meanings": [
+      {
+        "en": "hallway"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-055",
+    "kanji": "地下室",
+    "kana": "ちかしつ",
+    "meanings": [
+      {
+        "en": "basement"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-056",
+    "kanji": "屋根",
+    "kana": "やね",
+    "meanings": [
+      {
+        "en": "roof"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-057",
+    "kanji": "住所",
+    "kana": "じゅうしょ",
+    "meanings": [
+      {
+        "en": "address"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOUSE STRUCTURE"
+  },
+  {
+    "id": "class-06-vocab-058",
+    "kana": "ダイニングルーム",
+    "meanings": [
+      {
+        "en": "dining room"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: ROOMS OF THE HOUSE"
+  },
+  {
+    "id": "class-06-vocab-059",
+    "kana": "トイレ",
+    "meanings": [
+      {
+        "en": "toilet"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: ROOMS OF THE HOUSE"
+  },
+  {
+    "id": "class-06-vocab-060",
+    "kana": "キッチン",
+    "meanings": [
+      {
+        "en": "kitchen"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: ROOMS OF THE HOUSE"
+  },
+  {
+    "id": "class-06-vocab-061",
+    "kana": "リビングルーム",
+    "meanings": [
+      {
+        "en": "living room"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: ROOMS OF THE HOUSE"
+  },
+  {
+    "id": "class-06-vocab-062",
+    "kana": "バスルーム",
+    "meanings": [
+      {
+        "en": "bathroom"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: ROOMS OF THE HOUSE"
+  },
+  {
+    "id": "class-06-vocab-063",
+    "kana": "バルコニー",
+    "meanings": [
+      {
+        "en": "balcony"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: ROOMS OF THE HOUSE"
+  },
+  {
+    "id": "class-06-vocab-064",
+    "kana": "ガレージ",
+    "meanings": [
+      {
+        "en": "garage"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: ROOMS OF THE HOUSE"
+  },
+  {
+    "id": "class-06-vocab-065",
+    "kanji": "庭",
+    "kana": "にわ",
+    "meanings": [
+      {
+        "en": "garden"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Extra Activity - Reading Session 1.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: ROOMS OF THE HOUSE"
+  },
+  {
+    "id": "class-06-vocab-066",
+    "kana": "オーブン",
+    "meanings": [
+      {
+        "en": "oven"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: KITCHEN"
+  },
+  {
+    "id": "class-06-vocab-067",
+    "kanji": "冷蔵庫",
+    "kana": "れいぞうこ",
+    "meanings": [
+      {
+        "en": "fridge"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: KITCHEN"
+  },
+  {
+    "id": "class-06-vocab-068",
+    "kanji": "冷凍庫",
+    "kana": "れいとうこ",
+    "meanings": [
+      {
+        "en": "freezer"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: KITCHEN"
+  },
+  {
+    "id": "class-06-vocab-069",
+    "kanji": "蛇口",
+    "kana": "じゃぐち",
+    "meanings": [
+      {
+        "en": "faucet"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: KITCHEN"
+  },
+  {
+    "id": "class-06-vocab-070",
+    "kanji": "家具",
+    "kana": "かぐ",
+    "meanings": [
+      {
+        "en": "furniture"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: LIVING ROOM"
+  },
+  {
+    "id": "class-06-vocab-071",
+    "kana": "テレビ",
+    "meanings": [
+      {
+        "en": "television"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: LIVING ROOM"
+  },
+  {
+    "id": "class-06-vocab-072",
+    "kana": "ソファ",
+    "meanings": [
+      {
+        "en": "sofa"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: LIVING ROOM"
+  },
+  {
+    "id": "class-06-vocab-073",
+    "kana": "ランプ",
+    "meanings": [
+      {
+        "en": "lamp"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: LIVING ROOM"
+  },
+  {
+    "id": "class-06-vocab-074",
+    "kana": "アームチェア",
+    "meanings": [
+      {
+        "en": "armchair"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: LIVING ROOM"
+  },
+  {
+    "id": "class-06-vocab-075",
+    "kanji": "暖炉",
+    "kana": "だんろ",
+    "meanings": [
+      {
+        "en": "fireplace"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: LIVING ROOM"
+  },
+  {
+    "id": "class-06-vocab-076",
+    "kana": "カーペット",
+    "meanings": [
+      {
+        "en": "carpet"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: LIVING ROOM"
+  },
+  {
+    "id": "class-06-vocab-077",
+    "kana": "カーテン",
+    "meanings": [
+      {
+        "en": "curtain"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: LIVING ROOM"
+  },
+  {
+    "id": "class-06-vocab-078",
+    "kana": "バスタブ",
+    "meanings": [
+      {
+        "en": "bathtub"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-079",
+    "kanji": "鏡",
+    "kana": "かがみ",
+    "meanings": [
+      {
+        "en": "mirror"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ASSIGNMENT N°06.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-080",
+    "kanji": "歯ブラシ",
+    "kana": "はブラシ",
+    "meanings": [
+      {
+        "en": "toothbrush"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-081",
+    "kana": "ヘアブラシ",
+    "meanings": [
+      {
+        "en": "hairbrush"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-082",
+    "kanji": "歯磨き",
+    "kana": "はみがき",
+    "meanings": [
+      {
+        "en": "toothpaste"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-083",
+    "kanji": "石鹸",
+    "kana": "せっけん",
+    "meanings": [
+      {
+        "en": "soap"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-084",
+    "kana": "くし",
+    "meanings": [
+      {
+        "en": "comb"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-085",
+    "kana": "ドライヤー",
+    "meanings": [
+      {
+        "en": "hair dryer"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-086",
+    "kana": "シャンプー",
+    "meanings": [
+      {
+        "en": "shampoo"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-087",
+    "kana": "ボディーソープ",
+    "meanings": [
+      {
+        "en": "shower gel"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-088",
+    "kana": "タオル",
+    "meanings": [
+      {
+        "en": "towel"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Category: BATHROOM"
+  },
+  {
+    "id": "class-06-vocab-089",
+    "kana": "ベッド",
+    "meanings": [
+      {
+        "en": "bed"
+      }
+    ],
+    "lessonIds": [
+      "class-06",
+      "class-b"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class B - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-090",
+    "kana": "ナイトテーブル",
+    "meanings": [
+      {
+        "en": "night table, bedside table"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-091",
+    "kana": "デスク",
+    "meanings": [
+      {
+        "en": "desk"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-092",
+    "kana": "チェスト",
+    "meanings": [
+      {
+        "en": "chest of drawers"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-093",
+    "kanji": "引き出し",
+    "kana": "ひきだし",
+    "meanings": [
+      {
+        "en": "drawer"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-094",
+    "kana": "クローゼット",
+    "meanings": [
+      {
+        "en": "wardrobe"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-095",
+    "kanji": "毛布",
+    "kana": "もうふ",
+    "meanings": [
+      {
+        "en": "blanket"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-096",
+    "kana": "マットレス",
+    "meanings": [
+      {
+        "en": "mattress"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-097",
+    "kanji": "本棚",
+    "kana": "ほんだな",
+    "meanings": [
+      {
+        "en": "bookshelf"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-098",
+    "kana": "プリンター",
+    "meanings": [
+      {
+        "en": "printer"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-099",
+    "kanji": "紙",
+    "kana": "かみ",
+    "meanings": [
+      {
+        "en": "paper"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-100",
+    "kanji": "枕",
+    "kana": "まくら",
+    "meanings": [
+      {
+        "en": "pillow"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-101",
+    "kana": "パソコン",
+    "meanings": [
+      {
+        "en": "computer"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Category: BEDROOM"
+  },
+  {
+    "id": "class-06-vocab-102",
+    "kanji": "洗う",
+    "kana": "あらう",
+    "meanings": [
+      {
+        "en": "to wash"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-103",
+    "kanji": "消す",
+    "kana": "けす",
+    "meanings": [
+      {
+        "en": "to turn off"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-104",
+    "kanji": "無くす",
+    "kana": "なくす",
+    "meanings": [
+      {
+        "en": "to lose"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-105",
+    "kanji": "探す",
+    "kana": "さがす",
+    "meanings": [
+      {
+        "en": "to search for"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-106",
+    "kanji": "浴びる",
+    "kana": "あびる",
+    "meanings": [
+      {
+        "en": "to take a shower/bath"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-107",
+    "kanji": "点ける",
+    "kana": "つける",
+    "meanings": [
+      {
+        "en": "to turn on"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-108",
+    "kanji": "晴れる",
+    "kana": "はれる",
+    "meanings": [
+      {
+        "en": "to clear up"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-109",
+    "kanji": "見つける",
+    "kana": "みつける",
+    "meanings": [
+      {
+        "en": "to find"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-110",
+    "kanji": "夢見る",
+    "kana": "ゆめみる",
+    "meanings": [
+      {
+        "en": "to dream"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-06-vocab-111",
+    "kanji": "暗い",
+    "kana": "くらい",
+    "meanings": [
+      {
+        "en": "dark"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Category: I-ADJECTIVES"
+  },
+  {
+    "id": "class-06-vocab-112",
+    "kanji": "忙しい",
+    "kana": "いそがしい",
+    "meanings": [
+      {
+        "en": "busy"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Category: I-ADJECTIVES"
+  },
+  {
+    "id": "class-06-vocab-113",
+    "kanji": "快適な",
+    "kana": "かいてきな",
+    "meanings": [
+      {
+        "en": "comfortable"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Category: NA- ADJECTIVES"
+  },
+  {
+    "id": "class-06-vocab-114",
+    "kanji": "不快な",
+    "kana": "ふかいな",
+    "meanings": [
+      {
+        "en": "uncomfortable"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Category: NA- ADJECTIVES"
+  },
+  {
+    "id": "class-06-vocab-115",
+    "kanji": "暇な",
+    "kana": "ひまな",
+    "meanings": [
+      {
+        "en": "free, not busy"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Category: NA- ADJECTIVES"
+  },
+  {
+    "id": "class-06-vocab-116",
+    "kanji": "病気の",
+    "kana": "びょうきの",
+    "meanings": [
+      {
+        "en": "sick, ill"
+      }
+    ],
+    "partOfSpeech": [
+      "no-adjective"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Category: NO- ADJECTIVES"
+  },
+  {
+    "id": "class-06-vocab-117",
+    "kana": "よく",
+    "meanings": [
+      {
+        "en": "often"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-06-vocab-119",
+    "kana": "あまり",
+    "meanings": [
+      {
+        "en": "not often [+ negation]"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-06-vocab-120",
+    "kanji": "全然",
+    "kana": "ぜんぜん",
+    "meanings": [
+      {
+        "en": "never / not at all [+ negation]"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-06-vocab-121",
+    "kana": "少し・ちょっと",
+    "meanings": [
+      {
+        "en": "a bit / a few"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  }
+]

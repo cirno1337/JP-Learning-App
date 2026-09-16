@@ -1,0 +1,306 @@
+[
+  {
+    "id": "class-06-example-001",
+    "japanese": "牛が一頭います。",
+    "meanings": [
+      {
+        "en": "There is one cow."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-002",
+    "japanese": "馬を二頭見ました。",
+    "meanings": [
+      {
+        "en": "I saw two horses."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-003",
+    "japanese": "カードが三枚あります。",
+    "meanings": [
+      {
+        "en": "There are three cards."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-004",
+    "japanese": "紙を四枚ください。",
+    "meanings": [
+      {
+        "en": "Four sheets of paper, please."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-005",
+    "japanese": "車が一台あります。",
+    "meanings": [
+      {
+        "en": "There is one car."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-006",
+    "japanese": "バスは四台来ました。",
+    "meanings": [
+      {
+        "en": "Four buses came."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-007",
+    "japanese": "ペンが一本あります。",
+    "meanings": [
+      {
+        "en": "There is one pen."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-008",
+    "japanese": "水を二本買いました。",
+    "meanings": [
+      {
+        "en": "I bought two bottles of water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-009",
+    "japanese": "コーヒーを一杯ください。",
+    "meanings": [
+      {
+        "en": "One cup of coffee, please."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-010",
+    "japanese": "ビールを三杯飲みます。",
+    "meanings": [
+      {
+        "en": "I drink three glasses of beer."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-011",
+    "japanese": "本が一冊あります。",
+    "meanings": [
+      {
+        "en": "There is one book."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-012",
+    "japanese": "この図書館に本が四冊あります。",
+    "meanings": [
+      {
+        "en": "There are four books in this library."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-013",
+    "japanese": "日本へ一回行きました。",
+    "meanings": [
+      {
+        "en": "I went to Japan once."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-014",
+    "japanese": "この映画を二回見ました。",
+    "meanings": [
+      {
+        "en": "I watched this movie twice."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-015",
+    "japanese": "私は一番目です。",
+    "meanings": [
+      {
+        "en": "I am first."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-016",
+    "japanese": "三番目の人は先生です。",
+    "meanings": [
+      {
+        "en": "The third person is the teacher."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-017",
+    "japanese": "いつもコーヒーを飲みます。",
+    "meanings": [
+      {
+        "en": "I always drink coffee."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-018",
+    "japanese": "私はよく映画を見ます。",
+    "meanings": [
+      {
+        "en": "I often watch movies."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "class-06-example-019",
+    "japanese": "私は全然お酒を飲みません。",
+    "meanings": [
+      {
+        "en": "I don't drink alcohol at all."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  }
+]

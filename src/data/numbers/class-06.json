@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "class-06-number-001",
+    "category": "counter-animals",
+    "value": 1,
+    "japanese": "一頭",
+    "reading": "いっとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-002",
+    "category": "counter-animals",
+    "value": 2,
+    "japanese": "二頭",
+    "reading": "にとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-003",
+    "category": "counter-animals",
+    "value": 3,
+    "japanese": "三頭",
+    "reading": "さんとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-004",
+    "category": "counter-animals",
+    "value": 4,
+    "japanese": "四頭",
+    "reading": "よんとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-005",
+    "category": "counter-animals",
+    "value": 5,
+    "japanese": "五頭",
+    "reading": "ごとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-006",
+    "category": "counter-animals",
+    "value": 6,
+    "japanese": "六頭",
+    "reading": "ろくとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-007",
+    "category": "counter-animals",
+    "value": 7,
+    "japanese": "七頭",
+    "reading": "ななとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-008",
+    "category": "counter-animals",
+    "value": 8,
+    "japanese": "八頭",
+    "reading": "はっとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-009",
+    "category": "counter-animals",
+    "value": 9,
+    "japanese": "九頭",
+    "reading": "きゅうとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-010",
+    "category": "counter-animals",
+    "value": 10,
+    "japanese": "十頭",
+    "reading": "じゅっとう",
+    "counter": "頭",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-011",
+    "category": "counter-flat-objects",
+    "value": 1,
+    "japanese": "一枚",
+    "reading": "いちまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-012",
+    "category": "counter-flat-objects",
+    "value": 2,
+    "japanese": "二枚",
+    "reading": "にまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-013",
+    "category": "counter-flat-objects",
+    "value": 3,
+    "japanese": "三枚",
+    "reading": "さんまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-014",
+    "category": "counter-flat-objects",
+    "value": 4,
+    "japanese": "四枚",
+    "reading": "よんまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-015",
+    "category": "counter-flat-objects",
+    "value": 5,
+    "japanese": "五枚",
+    "reading": "ごまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-016",
+    "category": "counter-flat-objects",
+    "value": 6,
+    "japanese": "六枚",
+    "reading": "ろくまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-017",
+    "category": "counter-flat-objects",
+    "value": 7,
+    "japanese": "七枚",
+    "reading": "ななまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-018",
+    "category": "counter-flat-objects",
+    "value": 8,
+    "japanese": "八枚",
+    "reading": "はちまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-019",
+    "category": "counter-flat-objects",
+    "value": 9,
+    "japanese": "九枚",
+    "reading": "きゅうまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-020",
+    "category": "counter-flat-objects",
+    "value": 10,
+    "japanese": "十枚",
+    "reading": "じゅうまい",
+    "counter": "枚",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-021",
+    "category": "counter-vehicles-devices",
+    "value": 1,
+    "japanese": "一台",
+    "reading": "いちだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-022",
+    "category": "counter-vehicles-devices",
+    "value": 2,
+    "japanese": "二台",
+    "reading": "にだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-023",
+    "category": "counter-vehicles-devices",
+    "value": 3,
+    "japanese": "三台",
+    "reading": "さんだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-024",
+    "category": "counter-vehicles-devices",
+    "value": 4,
+    "japanese": "四台",
+    "reading": "よんだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-025",
+    "category": "counter-vehicles-devices",
+    "value": 5,
+    "japanese": "五台",
+    "reading": "ごだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-026",
+    "category": "counter-vehicles-devices",
+    "value": 6,
+    "japanese": "六台",
+    "reading": "ろくだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-027",
+    "category": "counter-vehicles-devices",
+    "value": 7,
+    "japanese": "七台",
+    "reading": "ななだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-028",
+    "category": "counter-vehicles-devices",
+    "value": 8,
+    "japanese": "八台",
+    "reading": "はちだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-029",
+    "category": "counter-vehicles-devices",
+    "value": 9,
+    "japanese": "九台",
+    "reading": "きゅうだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-030",
+    "category": "counter-vehicles-devices",
+    "value": 10,
+    "japanese": "十台",
+    "reading": "じゅうだい",
+    "counter": "台",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-031",
+    "category": "counter-long-objects",
+    "value": 1,
+    "japanese": "一本",
+    "reading": "いっぽん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-032",
+    "category": "counter-long-objects",
+    "value": 2,
+    "japanese": "二本",
+    "reading": "にほん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-033",
+    "category": "counter-long-objects",
+    "value": 3,
+    "japanese": "三本",
+    "reading": "さんぼん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-034",
+    "category": "counter-long-objects",
+    "value": 4,
+    "japanese": "四本",
+    "reading": "よんほん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-035",
+    "category": "counter-long-objects",
+    "value": 5,
+    "japanese": "五本",
+    "reading": "ごほん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-036",
+    "category": "counter-long-objects",
+    "value": 6,
+    "japanese": "六本",
+    "reading": "ろっぽん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-037",
+    "category": "counter-long-objects",
+    "value": 7,
+    "japanese": "七本",
+    "reading": "ななほん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-038",
+    "category": "counter-long-objects",
+    "value": 8,
+    "japanese": "八本",
+    "reading": "はっぽん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-039",
+    "category": "counter-long-objects",
+    "value": 9,
+    "japanese": "九本",
+    "reading": "きゅうほん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-040",
+    "category": "counter-long-objects",
+    "value": 10,
+    "japanese": "十本",
+    "reading": "じゅっぽん",
+    "counter": "本",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-041",
+    "category": "counter-liquid-containers",
+    "value": 1,
+    "japanese": "一杯",
+    "reading": "いっぱい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-042",
+    "category": "counter-liquid-containers",
+    "value": 2,
+    "japanese": "二杯",
+    "reading": "にはい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-043",
+    "category": "counter-liquid-containers",
+    "value": 3,
+    "japanese": "三杯",
+    "reading": "さんばい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-044",
+    "category": "counter-liquid-containers",
+    "value": 4,
+    "japanese": "四杯",
+    "reading": "よんはい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-045",
+    "category": "counter-liquid-containers",
+    "value": 5,
+    "japanese": "五杯",
+    "reading": "ごはい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-046",
+    "category": "counter-liquid-containers",
+    "value": 6,
+    "japanese": "六杯",
+    "reading": "ろっぱい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-047",
+    "category": "counter-liquid-containers",
+    "value": 7,
+    "japanese": "七杯",
+    "reading": "ななはい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-048",
+    "category": "counter-liquid-containers",
+    "value": 8,
+    "japanese": "八杯",
+    "reading": "はっぱい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-049",
+    "category": "counter-liquid-containers",
+    "value": 9,
+    "japanese": "九杯",
+    "reading": "きゅうはい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-050",
+    "category": "counter-liquid-containers",
+    "value": 10,
+    "japanese": "十杯",
+    "reading": "じゅっぱい",
+    "counter": "杯",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-051",
+    "category": "counter-books",
+    "value": 1,
+    "japanese": "一冊",
+    "reading": "いっさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-052",
+    "category": "counter-books",
+    "value": 2,
+    "japanese": "二冊",
+    "reading": "にさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-053",
+    "category": "counter-books",
+    "value": 3,
+    "japanese": "三冊",
+    "reading": "さんさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-054",
+    "category": "counter-books",
+    "value": 4,
+    "japanese": "四冊",
+    "reading": "よんさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-055",
+    "category": "counter-books",
+    "value": 5,
+    "japanese": "五冊",
+    "reading": "ごさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-056",
+    "category": "counter-books",
+    "value": 6,
+    "japanese": "六冊",
+    "reading": "ろくさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-057",
+    "category": "counter-books",
+    "value": 7,
+    "japanese": "七冊",
+    "reading": "ななさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-058",
+    "category": "counter-books",
+    "value": 8,
+    "japanese": "八冊",
+    "reading": "はっさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-059",
+    "category": "counter-books",
+    "value": 9,
+    "japanese": "九冊",
+    "reading": "きゅうさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-060",
+    "category": "counter-books",
+    "value": 10,
+    "japanese": "十冊",
+    "reading": "じゅっさつ",
+    "counter": "冊",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-061",
+    "category": "counter-occurrences",
+    "value": 1,
+    "japanese": "一回",
+    "reading": "いっかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-062",
+    "category": "counter-occurrences",
+    "value": 2,
+    "japanese": "二回",
+    "reading": "にかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-063",
+    "category": "counter-occurrences",
+    "value": 3,
+    "japanese": "三回",
+    "reading": "さんかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-064",
+    "category": "counter-occurrences",
+    "value": 4,
+    "japanese": "四回",
+    "reading": "よんかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-065",
+    "category": "counter-occurrences",
+    "value": 5,
+    "japanese": "五回",
+    "reading": "ごかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-066",
+    "category": "counter-occurrences",
+    "value": 6,
+    "japanese": "六回",
+    "reading": "ろっかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-067",
+    "category": "counter-occurrences",
+    "value": 7,
+    "japanese": "七回",
+    "reading": "ななかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-068",
+    "category": "counter-occurrences",
+    "value": 8,
+    "japanese": "八回",
+    "reading": "はっかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-069",
+    "category": "counter-occurrences",
+    "value": 9,
+    "japanese": "九回",
+    "reading": "きゅうかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-070",
+    "category": "counter-occurrences",
+    "value": 10,
+    "japanese": "十回",
+    "reading": "じゅっかい",
+    "counter": "回",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-071",
+    "category": "counter-ordinal",
+    "value": 1,
+    "japanese": "一番目",
+    "reading": "いちばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-072",
+    "category": "counter-ordinal",
+    "value": 2,
+    "japanese": "二番目",
+    "reading": "にばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-073",
+    "category": "counter-ordinal",
+    "value": 3,
+    "japanese": "三番目",
+    "reading": "さんばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-074",
+    "category": "counter-ordinal",
+    "value": 4,
+    "japanese": "四番目",
+    "reading": "よんばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-075",
+    "category": "counter-ordinal",
+    "value": 5,
+    "japanese": "五番目",
+    "reading": "ごばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-076",
+    "category": "counter-ordinal",
+    "value": 6,
+    "japanese": "六番目",
+    "reading": "ろくばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-077",
+    "category": "counter-ordinal",
+    "value": 7,
+    "japanese": "七番目",
+    "reading": "ななばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-078",
+    "category": "counter-ordinal",
+    "value": 8,
+    "japanese": "八番目",
+    "reading": "はちばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-079",
+    "category": "counter-ordinal",
+    "value": 9,
+    "japanese": "九番目",
+    "reading": "きゅうばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-number-080",
+    "category": "counter-ordinal",
+    "value": 10,
+    "japanese": "十番目",
+    "reading": "じゅうばんめ",
+    "counter": "番目",
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  }
+]

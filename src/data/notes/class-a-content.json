@@ -1,0 +1,21 @@
+[
+  {
+    "id": "class-a-note-001",
+    "kind": "other",
+    "text": [
+      {
+        "en": "Long vowels: to lengthen a vowel sound, add あ after an -a syllable, い after -i or -e, う after -u or -o (e.g. おかあさん, おにいさん, せんせい, くうき, とおい). っ (small tsu) before a consonant doubles it, holding the consonant sound briefly (e.g. がっこう)."
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  }
+]

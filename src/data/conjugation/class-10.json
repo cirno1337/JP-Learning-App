@@ -1,0 +1,172 @@
+[
+  {
+    "id": "class-10-conjugation-001",
+    "appliesTo": "verb-godan",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "Conditional と (general facts/habits — \"whenever X, Y always happens\"): plain dictionary or negative form + と. 飲むと (if/when you drink), 書かないと (if/when you don't write)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "飲むと",
+        "reading": "のむと"
+      },
+      {
+        "form": "dictionary",
+        "surface": "書かないと",
+        "reading": "かかないと"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-10-conjugation-002",
+    "appliesTo": "verb-godan",
+    "form": "ta",
+    "explanation": [
+      {
+        "en": "Conditional たら (hypothetical situation, wish, will, request): ta-form + ら. 飲んだら (what if you drink), 食べたら (what if you eat), 書いたら (what if you write)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "ta",
+        "surface": "飲んだら",
+        "reading": "のんだら"
+      },
+      {
+        "form": "ta",
+        "surface": "書いたら",
+        "reading": "かいたら"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-10-conjugation-003",
+    "appliesTo": "verb-godan",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "Conditional なら (based on prior context/assumption, advice, request; also usable directly after a noun): verb + なら, noun + なら. 飲むなら (if/as you're drinking), 雨なら (if/as it's raining)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "飲むなら",
+        "reading": "のむなら"
+      },
+      {
+        "form": "dictionary",
+        "surface": "雨なら",
+        "reading": "あめなら"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-10-conjugation-004",
+    "appliesTo": "verb-godan",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "Conditional ば/れば (emphasizes the condition itself): godan -e stem + ば (飲む→飲め→飲めば, 書く→書け→書けば); ichidan -e stem + れば (食べる→食べ→食べれば). Negative: -a stem + なければ (飲まなければ = if you don't drink)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "飲めば",
+        "reading": "のめば"
+      },
+      {
+        "form": "dictionary",
+        "surface": "書けば",
+        "reading": "かけば"
+      },
+      {
+        "form": "dictionary",
+        "surface": "食べれば",
+        "reading": "たべれば"
+      },
+      {
+        "form": "nakatta",
+        "surface": "飲まなければ",
+        "reading": "のまなければ"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-10-conjugation-005",
+    "appliesTo": "verb-godan",
+    "form": "nakatta",
+    "explanation": [
+      {
+        "en": "\"Must/have to [verb]\": -a stem + なければ + ならない (casually shortened to -a stem + なきゃ, ならない optional). 飲まなければならない = have to drink."
+      }
+    ],
+    "examples": [
+      {
+        "form": "nakatta",
+        "surface": "飲まなければならない",
+        "reading": "のまなければならない"
+      },
+      {
+        "form": "nakatta",
+        "surface": "遊ばなきゃ",
+        "reading": "あそばなきゃ"
+      }
+    ],
+    "lessonIds": [
+      "class-10"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°10 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  }
+]

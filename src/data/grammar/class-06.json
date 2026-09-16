@@ -1,0 +1,532 @@
+[
+  {
+    "id": "class-06-grammar-001",
+    "pattern": "Imperative & volitional (\"let's\")",
+    "explanation": [
+      {
+        "en": "Japanese has several command forms of increasing politeness. Rude imperative: -e stem (godan) or -e stem+ろ (ichidan) — 飲め, 食べろ; rude negative: dictionary form+な for any verb — 飲むな. Neutral/polite imperative: te-form (+ください) — 飲んで(ください); polite negative: -a stem+ないで(ください) — 飲まないで(ください). \"Let's...\": casual -o stem+う/よう — 飲もう, 食べよう; polite -i stem+ましょう — 飲みましょう, 食べましょう. 来る/する are irregular throughout."
+      }
+    ],
+    "examples": [],
+    "relatedConjugationRuleIds": [
+      "class-06-conjugation-001",
+      "class-06-conjugation-002",
+      "class-06-conjugation-003",
+      "class-06-conjugation-004",
+      "class-06-conjugation-005",
+      "class-06-conjugation-006",
+      "class-06-conjugation-007"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 12
+      },
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 13
+      },
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-002",
+    "pattern": "Counter: 頭 (counter for large animals)",
+    "explanation": [
+      {
+        "en": "counter for large animals: 一頭(いっとう), 二頭(にとう), 三頭(さんとう), 四頭(よんとう), 五頭(ごとう), 六頭(ろくとう), 七頭(ななとう), 八頭(はっとう), 九頭(きゅうとう), 十頭(じゅっとう)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-001",
+        "japanese": "牛が一頭います。",
+        "meanings": [
+          {
+            "en": "There is one cow."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 15
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-002",
+        "japanese": "馬を二頭見ました。",
+        "meanings": [
+          {
+            "en": "I saw two horses."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 15
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-003",
+    "pattern": "Counter: 枚 (counter for flat objects)",
+    "explanation": [
+      {
+        "en": "counter for flat objects: 一枚(いちまい), 二枚(にまい), 三枚(さんまい), 四枚(よんまい), 五枚(ごまい), 六枚(ろくまい), 七枚(ななまい), 八枚(はちまい), 九枚(きゅうまい), 十枚(じゅうまい)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-003",
+        "japanese": "カードが三枚あります。",
+        "meanings": [
+          {
+            "en": "There are three cards."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 15
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-004",
+        "japanese": "紙を四枚ください。",
+        "meanings": [
+          {
+            "en": "Four sheets of paper, please."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 15
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-004",
+    "pattern": "Counter: 台 (counter for devices & vehicles)",
+    "explanation": [
+      {
+        "en": "counter for devices & vehicles: 一台(いちだい), 二台(にだい), 三台(さんだい), 四台(よんだい), 五台(ごだい), 六台(ろくだい), 七台(ななだい), 八台(はちだい), 九台(きゅうだい), 十台(じゅうだい)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-005",
+        "japanese": "車が一台あります。",
+        "meanings": [
+          {
+            "en": "There is one car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-006",
+        "japanese": "バスは四台来ました。",
+        "meanings": [
+          {
+            "en": "Four buses came."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-005",
+    "pattern": "Counter: 本 (counter for long, cylindrical objects)",
+    "explanation": [
+      {
+        "en": "counter for long, cylindrical objects: 一本(いっぽん), 二本(にほん), 三本(さんぼん), 四本(よんほん), 五本(ごほん), 六本(ろっぽん), 七本(ななほん), 八本(はっぽん), 九本(きゅうほん), 十本(じゅっぽん)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-007",
+        "japanese": "ペンが一本あります。",
+        "meanings": [
+          {
+            "en": "There is one pen."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-008",
+        "japanese": "水を二本買いました。",
+        "meanings": [
+          {
+            "en": "I bought two bottles of water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 16
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-006",
+    "pattern": "Counter: 杯 (counter for cups/glasses of liquid)",
+    "explanation": [
+      {
+        "en": "counter for cups/glasses of liquid: 一杯(いっぱい), 二杯(にはい), 三杯(さんばい), 四杯(よんはい), 五杯(ごはい), 六杯(ろっぱい), 七杯(ななはい), 八杯(はっぱい), 九杯(きゅうはい), 十杯(じゅっぱい)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-009",
+        "japanese": "コーヒーを一杯ください。",
+        "meanings": [
+          {
+            "en": "One cup of coffee, please."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-010",
+        "japanese": "ビールを三杯飲みます。",
+        "meanings": [
+          {
+            "en": "I drink three glasses of beer."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-007",
+    "pattern": "Counter: 冊 (counter for bound volumes (books))",
+    "explanation": [
+      {
+        "en": "counter for bound volumes (books): 一冊(いっさつ), 二冊(にさつ), 三冊(さんさつ), 四冊(よんさつ), 五冊(ごさつ), 六冊(ろくさつ), 七冊(ななさつ), 八冊(はっさつ), 九冊(きゅうさつ), 十冊(じゅっさつ)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-011",
+        "japanese": "本が一冊あります。",
+        "meanings": [
+          {
+            "en": "There is one book."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-012",
+        "japanese": "この図書館に本が四冊あります。",
+        "meanings": [
+          {
+            "en": "There are four books in this library."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-008",
+    "pattern": "Counter: 回 (counter for times/occurrences)",
+    "explanation": [
+      {
+        "en": "counter for times/occurrences: 一回(いっかい), 二回(にかい), 三回(さんかい), 四回(よんかい), 五回(ごかい), 六回(ろっかい), 七回(ななかい), 八回(はっかい), 九回(きゅうかい), 十回(じゅっかい)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-013",
+        "japanese": "日本へ一回行きました。",
+        "meanings": [
+          {
+            "en": "I went to Japan once."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-014",
+        "japanese": "この映画を二回見ました。",
+        "meanings": [
+          {
+            "en": "I watched this movie twice."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-009",
+    "pattern": "Counter: 番目 (ordinal number counter (1st, 2nd, ...))",
+    "explanation": [
+      {
+        "en": "ordinal number counter (1st, 2nd, ...): 一番目(いちばんめ), 二番目(にばんめ), 三番目(さんばんめ), 四番目(よんばんめ), 五番目(ごばんめ), 六番目(ろくばんめ), 七番目(ななばんめ), 八番目(はちばんめ), 九番目(きゅうばんめ), 十番目(じゅうばんめ)."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-015",
+        "japanese": "私は一番目です。",
+        "meanings": [
+          {
+            "en": "I am first."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-016",
+        "japanese": "三番目の人は先生です。",
+        "meanings": [
+          {
+            "en": "The third person is the teacher."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-06-grammar-010",
+    "pattern": "More adverbs of frequency",
+    "explanation": [
+      {
+        "en": "Frequency adverbs, placed before the verb (or fronted for emphasis): いつも = always; よく = often; ときどき = from time to time; あまり [+negation] = not often; 全然 [+negation] = never/not at all; 少し・ちょっと = a bit/a few."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-06-example-017",
+        "japanese": "いつもコーヒーを飲みます。",
+        "meanings": [
+          {
+            "en": "I always drink coffee."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-018",
+        "japanese": "私はよく映画を見ます。",
+        "meanings": [
+          {
+            "en": "I often watch movies."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-06-example-019",
+        "japanese": "私は全然お酒を飲みません。",
+        "meanings": [
+          {
+            "en": "I don't drink alcohol at all."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°06 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 19
+      }
+    ]
+  }
+]

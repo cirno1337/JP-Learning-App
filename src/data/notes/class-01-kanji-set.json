@@ -1,0 +1,40 @@
+[
+  {
+    "id": "class-01-note-assignments-kanji-set",
+    "kind": "teacher-note",
+    "text": [
+      {
+        "en": "as much as you can. The more you do, better will be the results. / Assignment Kanji Set n°01 (DM for feedback) / Revise the 25 kanji of the day / Revise the vocabulary of the day / Write down the 25 Kanji of the day / Read again the PDF called “Introduction to Kanji” / Keep practicing. If you need any help/support, send me / a private message on Discord (@black.moon_)."
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "note": "Assignments section"
+      }
+    ]
+  },
+  {
+    "id": "class-01-note-bonus-kanji-set",
+    "kind": "useful-link",
+    "text": [
+      {
+        "en": "• Youtube Video to learn/revise the characters system:\nhttps://www.youtube.com/watch?v=T5FNvW19GbA\n→ It is a video made for Chinese learners. But, as Kanji were borrowed from Chinese, the\nsystem is similar for Japanese. Except for 3/4 tiny things, all what is said in this video is valid\nfor Japanese Kanji.\n• Songs to learn/revise the days of the week:\n- https://www.youtube.com/watch?v=43NkcsgSe8g\n- https://www.youtube.com/watch?v=qnhdSl0jYSk\n• Japanese song played in today’s class:\n(Youtube)\nhttps://www.youtube.com/watch?v=sAuEeM_6zpk\n(Spotify)\nhttps://open.spotify.com/intl-de/track/5ptl2PXkiSth54HCuGO7vN?si\n=bd25a22cbeff4c9d\nGood luck\n頑張って\nNext Class: Class n°02\nFriday 3rd July 2026"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "note": "Bonus section"
+      }
+    ]
+  }
+]

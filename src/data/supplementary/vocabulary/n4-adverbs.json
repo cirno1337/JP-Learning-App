@@ -1,0 +1,871 @@
+[
+  {
+    "id": "supp-n4-adverbs-001",
+    "kana": "ああ",
+    "meanings": [
+      {
+        "en": "ah; yes"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-002",
+    "kanji": "間に",
+    "kana": "あいだに",
+    "meanings": [
+      {
+        "en": "while; during (the time when)"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-003",
+    "kana": "あまり～ない",
+    "meanings": [
+      {
+        "en": "not very, not much~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-004",
+    "kanji": "後で",
+    "kana": "あとで",
+    "meanings": [
+      {
+        "en": "after~; later"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-005",
+    "kana": "びっくり",
+    "meanings": [
+      {
+        "en": "to be surprised"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-006",
+    "kanji": "大分",
+    "kana": "だいぶ",
+    "meanings": [
+      {
+        "en": "considerably; greatly; a lot"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-007",
+    "kana": "できるだけ",
+    "meanings": [
+      {
+        "en": "as much as possible"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-008",
+    "kana": "どんどん",
+    "meanings": [
+      {
+        "en": "rapidly; more and more"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-009",
+    "kanji": "普通",
+    "kana": "ふつう",
+    "meanings": [
+      {
+        "en": "usually"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-010",
+    "kana": "はっきり",
+    "meanings": [
+      {
+        "en": "clearly"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-011",
+    "kanji": "非常に",
+    "kana": "ひじょうに",
+    "meanings": [
+      {
+        "en": "extremely"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-012",
+    "kana": "いっぱい",
+    "meanings": [
+      {
+        "en": "full"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-013",
+    "kanji": "十分",
+    "kana": "じゅうぶん",
+    "meanings": [
+      {
+        "en": "enough; sufficient; plenty"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-014",
+    "kana": "かどうか",
+    "meanings": [
+      {
+        "en": "whether or not~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-015",
+    "kanji": "必ず",
+    "kana": "かならず",
+    "meanings": [
+      {
+        "en": "always; certainly"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-016",
+    "kana": "きっと",
+    "meanings": [
+      {
+        "en": "surely; undoubtedly; most likely"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-017",
+    "kana": "こう",
+    "meanings": [
+      {
+        "en": "this way"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-018",
+    "kana": "くする",
+    "meanings": [
+      {
+        "en": "to make something ~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-019",
+    "kanji": "急に",
+    "kana": "きゅうに",
+    "meanings": [
+      {
+        "en": "quickly; immediately; abruptly"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-020",
+    "kana": "までに",
+    "meanings": [
+      {
+        "en": "by; by the time"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-021",
+    "kana": "まず",
+    "meanings": [
+      {
+        "en": "first of all"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-022",
+    "kana": "みたいに",
+    "meanings": [
+      {
+        "en": "like; similar to~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-023",
+    "kana": "もし",
+    "meanings": [
+      {
+        "en": "if; in case; supposing"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-024",
+    "kana": "もうすぐ",
+    "meanings": [
+      {
+        "en": "soon"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-025",
+    "kana": "なかなか～ない",
+    "meanings": [
+      {
+        "en": "not easy to; struggling to~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-026",
+    "kana": "なるほど",
+    "meanings": [
+      {
+        "en": "that’s right; indeed"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-027",
+    "kanji": "の中で",
+    "kana": "のなかで",
+    "meanings": [
+      {
+        "en": "in; among~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-028",
+    "kana": "さすが",
+    "meanings": [
+      {
+        "en": "as is to be expected; even~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-029",
+    "kana": "しっかり",
+    "meanings": [
+      {
+        "en": "firmly; steadily"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-030",
+    "kana": "そんなに",
+    "meanings": [
+      {
+        "en": "so much; so; like that"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-031",
+    "kana": "それほど",
+    "meanings": [
+      {
+        "en": "to that extent"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-032",
+    "kana": "そろそろ",
+    "meanings": [
+      {
+        "en": "gradually; soon"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-033",
+    "kana": "そうだ",
+    "meanings": [
+      {
+        "en": "looks like; appears like; seeming~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-034",
+    "kana": "すっかり",
+    "meanings": [
+      {
+        "en": "completely"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-035",
+    "kana": "たいてい",
+    "meanings": [
+      {
+        "en": "usually"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-036",
+    "kana": "たまに",
+    "meanings": [
+      {
+        "en": "occasionally"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-037",
+    "kanji": "特に",
+    "kana": "とくに",
+    "meanings": [
+      {
+        "en": "particularly; especially"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-038",
+    "kanji": "到頭",
+    "kana": "とうとう",
+    "meanings": [
+      {
+        "en": "finally, after all"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-039",
+    "kanji": "都合",
+    "kana": "つごう",
+    "meanings": [
+      {
+        "en": "convenience"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-040",
+    "kana": "やっぱり",
+    "meanings": [
+      {
+        "en": "as I thought"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-041",
+    "kana": "やっと",
+    "meanings": [
+      {
+        "en": "at last; finally; barely; narrowly~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-042",
+    "kana": "より",
+    "meanings": [
+      {
+        "en": "more"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-043",
+    "kana": "ぜひ",
+    "meanings": [
+      {
+        "en": "by all means; certainly; definitely~"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-044",
+    "kanji": "全然",
+    "kana": "ぜんぜん",
+    "meanings": [
+      {
+        "en": "not entirely (used in neg. sentence)"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-adverbs-045",
+    "kanji": "全然～ない",
+    "kana": "ぜんぜん～ない",
+    "meanings": [
+      {
+        "en": "(not) at all"
+      }
+    ],
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Vocabulary - Adverbs List - JLPTsensei.com.pdf"
+      }
+    ]
+  }
+]

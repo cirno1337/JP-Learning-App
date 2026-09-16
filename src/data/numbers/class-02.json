@@ -1,0 +1,1582 @@
+[
+  {
+    "id": "class-02-number-001",
+    "category": "cardinal",
+    "value": 11,
+    "japanese": "十一",
+    "reading": "じゅういち",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-002",
+    "category": "cardinal",
+    "value": 12,
+    "japanese": "十二",
+    "reading": "じゅうに",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-003",
+    "category": "cardinal",
+    "value": 13,
+    "japanese": "十三",
+    "reading": "じゅうさん",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-004",
+    "category": "cardinal",
+    "value": 14,
+    "japanese": "十四",
+    "reading": "じゅうよん",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-005",
+    "category": "cardinal",
+    "value": 15,
+    "japanese": "十五",
+    "reading": "じゅうご",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-006",
+    "category": "cardinal",
+    "value": 16,
+    "japanese": "十六",
+    "reading": "じゅうろく",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-007",
+    "category": "cardinal",
+    "value": 17,
+    "japanese": "十七",
+    "reading": "じゅうなな",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-008",
+    "category": "cardinal",
+    "value": 18,
+    "japanese": "十八",
+    "reading": "じゅうはち",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-009",
+    "category": "cardinal",
+    "value": 19,
+    "japanese": "十九",
+    "reading": "じゅうきゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 105
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-010",
+    "category": "cardinal",
+    "value": 20,
+    "japanese": "二十",
+    "reading": "にじゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-011",
+    "category": "cardinal",
+    "value": 30,
+    "japanese": "三十",
+    "reading": "さんじゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-012",
+    "category": "cardinal",
+    "value": 40,
+    "japanese": "四十",
+    "reading": "よんじゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-013",
+    "category": "cardinal",
+    "value": 50,
+    "japanese": "五十",
+    "reading": "ごじゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-014",
+    "category": "cardinal",
+    "value": 60,
+    "japanese": "六十",
+    "reading": "ろくじゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-015",
+    "category": "cardinal",
+    "value": 70,
+    "japanese": "七十",
+    "reading": "ななじゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-016",
+    "category": "cardinal",
+    "value": 80,
+    "japanese": "八十",
+    "reading": "はちじゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-017",
+    "category": "cardinal",
+    "value": 90,
+    "japanese": "九十",
+    "reading": "きゅうじゅう",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 106
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-018",
+    "category": "cardinal",
+    "value": 100,
+    "japanese": "百",
+    "reading": "ひゃく",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-019",
+    "category": "cardinal",
+    "value": 200,
+    "japanese": "二百",
+    "reading": "にひゃく",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-020",
+    "category": "cardinal",
+    "value": 300,
+    "japanese": "三百",
+    "reading": "さんびゃく",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-021",
+    "category": "cardinal",
+    "value": 400,
+    "japanese": "四百",
+    "reading": "よんひゃく",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-022",
+    "category": "cardinal",
+    "value": 500,
+    "japanese": "五百",
+    "reading": "ごひゃく",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-023",
+    "category": "cardinal",
+    "value": 600,
+    "japanese": "六百",
+    "reading": "ろっぴゃく",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-024",
+    "category": "cardinal",
+    "value": 700,
+    "japanese": "七百",
+    "reading": "ななひゃく",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-025",
+    "category": "cardinal",
+    "value": 800,
+    "japanese": "八百",
+    "reading": "はっぴゃく",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-026",
+    "category": "cardinal",
+    "value": 900,
+    "japanese": "九百",
+    "reading": "きゅうひゃく",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 109
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-027",
+    "category": "cardinal",
+    "value": 1000,
+    "japanese": "千",
+    "reading": "せん",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-028",
+    "category": "cardinal",
+    "value": 2000,
+    "japanese": "二千",
+    "reading": "にせん",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-029",
+    "category": "cardinal",
+    "value": 3000,
+    "japanese": "三千",
+    "reading": "さんぜん",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-030",
+    "category": "cardinal",
+    "value": 4000,
+    "japanese": "四千",
+    "reading": "よんせん",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-031",
+    "category": "cardinal",
+    "value": 5000,
+    "japanese": "五千",
+    "reading": "ごせん",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-032",
+    "category": "cardinal",
+    "value": 6000,
+    "japanese": "六千",
+    "reading": "ろくせん",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-033",
+    "category": "cardinal",
+    "value": 7000,
+    "japanese": "七千",
+    "reading": "ななせん",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-034",
+    "category": "cardinal",
+    "value": 8000,
+    "japanese": "八千",
+    "reading": "はっせん",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-035",
+    "category": "cardinal",
+    "value": 9000,
+    "japanese": "九千",
+    "reading": "きゅうせん",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-036",
+    "category": "cardinal",
+    "value": 10000,
+    "japanese": "万",
+    "reading": "まん",
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 110
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-037",
+    "category": "counter-objects",
+    "value": 1,
+    "japanese": "一つ",
+    "reading": "ひとつ",
+    "counter": "つ",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-038",
+    "category": "counter-objects",
+    "value": 2,
+    "japanese": "二つ",
+    "reading": "ふたつ",
+    "counter": "つ",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-039",
+    "category": "counter-objects",
+    "value": 3,
+    "japanese": "三つ",
+    "reading": "みっつ",
+    "counter": "つ",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-040",
+    "category": "counter-objects",
+    "value": 4,
+    "japanese": "四つ",
+    "reading": "よっつ",
+    "counter": "つ",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-041",
+    "category": "counter-objects",
+    "value": 5,
+    "japanese": "五つ",
+    "reading": "いつつ",
+    "counter": "つ",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-042",
+    "category": "counter-objects",
+    "value": 6,
+    "japanese": "六つ",
+    "reading": "むっつ",
+    "counter": "つ",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-043",
+    "category": "counter-objects",
+    "value": 7,
+    "japanese": "七つ",
+    "reading": "ななつ",
+    "counter": "つ",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-044",
+    "category": "counter-objects",
+    "value": 8,
+    "japanese": "八つ",
+    "reading": "やっつ",
+    "counter": "つ",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-045",
+    "category": "counter-objects",
+    "value": 9,
+    "japanese": "九つ",
+    "reading": "ここのつ",
+    "counter": "つ",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-046",
+    "category": "counter-objects",
+    "value": 10,
+    "japanese": "十つ",
+    "reading": "とう",
+    "counter": "つ",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-047",
+    "category": "counter-objects",
+    "value": 1,
+    "japanese": "一個",
+    "reading": "いっこ",
+    "counter": "個",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-048",
+    "category": "counter-objects",
+    "value": 2,
+    "japanese": "二個",
+    "reading": "にこ",
+    "counter": "個",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-049",
+    "category": "counter-objects",
+    "value": 3,
+    "japanese": "三個",
+    "reading": "さんこ",
+    "counter": "個",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-050",
+    "category": "counter-objects",
+    "value": 4,
+    "japanese": "四個",
+    "reading": "よんこ",
+    "counter": "個",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-051",
+    "category": "counter-objects",
+    "value": 5,
+    "japanese": "五個",
+    "reading": "ごこ",
+    "counter": "個",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-052",
+    "category": "counter-objects",
+    "value": 6,
+    "japanese": "六個",
+    "reading": "ろっこ",
+    "counter": "個",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-053",
+    "category": "counter-objects",
+    "value": 7,
+    "japanese": "七個",
+    "reading": "ななこ",
+    "counter": "個",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-054",
+    "category": "counter-objects",
+    "value": 8,
+    "japanese": "八個",
+    "reading": "はっこ",
+    "counter": "個",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-055",
+    "category": "counter-objects",
+    "value": 9,
+    "japanese": "九個",
+    "reading": "きゅうこ",
+    "counter": "個",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-056",
+    "category": "counter-objects",
+    "value": 10,
+    "japanese": "十個",
+    "reading": "じゅっこ",
+    "counter": "個",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-057",
+    "category": "age",
+    "value": 1,
+    "japanese": "一歳",
+    "reading": "いっさい",
+    "counter": "歳",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-058",
+    "category": "age",
+    "value": 2,
+    "japanese": "二歳",
+    "reading": "にさい",
+    "counter": "歳",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-059",
+    "category": "age",
+    "value": 3,
+    "japanese": "三歳",
+    "reading": "さんさい",
+    "counter": "歳",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-060",
+    "category": "age",
+    "value": 4,
+    "japanese": "四歳",
+    "reading": "よんさい",
+    "counter": "歳",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-061",
+    "category": "age",
+    "value": 5,
+    "japanese": "五歳",
+    "reading": "ごさい",
+    "counter": "歳",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-062",
+    "category": "age",
+    "value": 6,
+    "japanese": "六歳",
+    "reading": "ろくさい",
+    "counter": "歳",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-063",
+    "category": "age",
+    "value": 7,
+    "japanese": "七歳",
+    "reading": "ななさい",
+    "counter": "歳",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-064",
+    "category": "age",
+    "value": 8,
+    "japanese": "八歳",
+    "reading": "はっさい",
+    "counter": "歳",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-065",
+    "category": "age",
+    "value": 9,
+    "japanese": "九歳",
+    "reading": "きゅうさい",
+    "counter": "歳",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-066",
+    "category": "age",
+    "value": 10,
+    "japanese": "十歳",
+    "reading": "じゅっさい",
+    "counter": "歳",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-067",
+    "category": "counter-people",
+    "value": 1,
+    "japanese": "一人",
+    "reading": "ひとり",
+    "counter": "人",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-068",
+    "category": "counter-people",
+    "value": 2,
+    "japanese": "二人",
+    "reading": "ふたり",
+    "counter": "人",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-069",
+    "category": "counter-people",
+    "value": 3,
+    "japanese": "三人",
+    "reading": "さんにん",
+    "counter": "人",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-070",
+    "category": "counter-people",
+    "value": 4,
+    "japanese": "四人",
+    "reading": "よにん",
+    "counter": "人",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-071",
+    "category": "counter-people",
+    "value": 5,
+    "japanese": "五人",
+    "reading": "ごにん",
+    "counter": "人",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-072",
+    "category": "counter-people",
+    "value": 6,
+    "japanese": "六人",
+    "reading": "ろくにん",
+    "counter": "人",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-073",
+    "category": "counter-people",
+    "value": 7,
+    "japanese": "七人",
+    "reading": "ななにん",
+    "counter": "人",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-074",
+    "category": "counter-people",
+    "value": 8,
+    "japanese": "八人",
+    "reading": "はちにん",
+    "counter": "人",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-075",
+    "category": "counter-people",
+    "value": 9,
+    "japanese": "九人",
+    "reading": "きゅうにん",
+    "counter": "人",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-076",
+    "category": "counter-people",
+    "value": 10,
+    "japanese": "十人",
+    "reading": "じゅうにん",
+    "counter": "人",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-077",
+    "category": "counter-animals",
+    "value": 1,
+    "japanese": "一匹",
+    "reading": "いっぴき",
+    "counter": "匹",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-078",
+    "category": "counter-animals",
+    "value": 2,
+    "japanese": "二匹",
+    "reading": "にひき",
+    "counter": "匹",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-079",
+    "category": "counter-animals",
+    "value": 3,
+    "japanese": "三匹",
+    "reading": "さんびき",
+    "counter": "匹",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-080",
+    "category": "counter-animals",
+    "value": 4,
+    "japanese": "四匹",
+    "reading": "よんひき",
+    "counter": "匹",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-081",
+    "category": "counter-animals",
+    "value": 5,
+    "japanese": "五匹",
+    "reading": "ごひき",
+    "counter": "匹",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-082",
+    "category": "counter-animals",
+    "value": 6,
+    "japanese": "六匹",
+    "reading": "ろっぴき",
+    "counter": "匹",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-083",
+    "category": "counter-animals",
+    "value": 7,
+    "japanese": "七匹",
+    "reading": "ななひき",
+    "counter": "匹",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-084",
+    "category": "counter-animals",
+    "value": 8,
+    "japanese": "八匹",
+    "reading": "はっぴき",
+    "counter": "匹",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-085",
+    "category": "counter-animals",
+    "value": 9,
+    "japanese": "九匹",
+    "reading": "きゅうひき",
+    "counter": "匹",
+    "irregular": false,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-number-086",
+    "category": "counter-animals",
+    "value": 10,
+    "japanese": "十匹",
+    "reading": "じゅっぴき",
+    "counter": "匹",
+    "irregular": true,
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  }
+]

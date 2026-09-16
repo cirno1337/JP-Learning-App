@@ -1,0 +1,816 @@
+[
+  {
+    "id": "class-04-grammar-001",
+    "pattern": "Past tense (casual & polite)",
+    "explanation": [
+      {
+        "en": "Casual past affirmative uses the \"ta-form\", derived from the te-form by changing its final え-row sound to あ (godan verbs follow the same sound-change groups as the te-form; ichidan just swaps て→た; 行く/来る/する are irregular). Polite past affirmative changes ます→ました (です→でした). Casual past negative treats the -a stem + ない form as an i-adjective, replacing い with かった. Polite past negative adds でした after the polite negative ません form."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-04-example-059",
+        "japanese": "果物が好き。",
+        "reading": "くだものがすき。",
+        "meanings": [
+          {
+            "en": "I like fruit."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 11
+          }
+        ]
+      }
+    ],
+    "relatedConjugationRuleIds": [
+      "class-04-conjugation-001",
+      "class-04-conjugation-002",
+      "class-04-conjugation-003",
+      "class-04-conjugation-004",
+      "class-04-conjugation-005",
+      "class-04-conjugation-006"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 14
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 15
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "class-04-grammar-002",
+    "pattern": "NA-/NO-adjectives",
+    "explanation": [
+      {
+        "en": "NA- and NO-adjectives behave like nouns grammatically. Before a noun they're used exactly as taught (緑の車, きれいな車). As the sentence predicate, replace whatever came last with the copula だ, optionally dropped for casualness (車は緑(だ) = the car is green); だ then conjugates for tense/politeness/negation on its own (だ/です, じゃない/ではありません, だった/でした, じゃなかった/ではありませんでした) rather than the adjective itself changing form."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-04-example-060",
+        "japanese": "緑の車を買っている。",
+        "reading": "みどりのくるまをかっている。",
+        "meanings": [
+          {
+            "en": "I'm buying a green car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-061",
+        "japanese": "緑の車です。",
+        "meanings": [
+          {
+            "en": "It's a green car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-062",
+        "japanese": "きれいな車を買っている。",
+        "reading": "きれいなくるまをかっている。",
+        "meanings": [
+          {
+            "en": "I'm buying a beautiful car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-063",
+        "japanese": "きれいな車です。",
+        "meanings": [
+          {
+            "en": "It's a beautiful car."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-064",
+        "japanese": "車は緑だ。",
+        "meanings": [
+          {
+            "en": "The car is green."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-065",
+        "japanese": "私の家は緑だ。",
+        "meanings": [
+          {
+            "en": "My house is green."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-066",
+        "japanese": "車はきれいだ。",
+        "meanings": [
+          {
+            "en": "The car is beautiful."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-067",
+        "japanese": "私の家はきれいだ。",
+        "meanings": [
+          {
+            "en": "My house is beautiful."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-068",
+        "japanese": "車は緑です。",
+        "meanings": [
+          {
+            "en": "The car is green. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-069",
+        "japanese": "車は緑じゃない。",
+        "meanings": [
+          {
+            "en": "The car is not green."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-070",
+        "japanese": "車は緑ではありません。",
+        "meanings": [
+          {
+            "en": "The car is not green. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-071",
+        "japanese": "車は緑だった。",
+        "meanings": [
+          {
+            "en": "The car was green."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-072",
+        "japanese": "車は緑でした。",
+        "meanings": [
+          {
+            "en": "The car was green. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-073",
+        "japanese": "車は緑じゃなかった。",
+        "meanings": [
+          {
+            "en": "The car wasn't green."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-074",
+        "japanese": "車は緑ではありませんでした。",
+        "meanings": [
+          {
+            "en": "The car wasn't green. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 17
+          }
+        ]
+      }
+    ],
+    "relatedConjugationRuleIds": [
+      "class-04-conjugation-007"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-04-grammar-003",
+    "pattern": "好きな / 大好きな (to like / to love)",
+    "explanation": [
+      {
+        "en": "好きな (liked) and 大好きな (loved) express liking/loving. With a noun: noun + が + (大)好き + だ-conjugation (だ itself usually dropped as unnatural: 犬が好き = I like dogs). With a verb: dictionary-form verb + の + が + (大)好き + だ-conjugation (水を飲むのが好き = I like to drink water) — の nominalises the verb phrase so it can take が like a noun."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-04-example-075",
+        "japanese": "犬が好き。",
+        "meanings": [
+          {
+            "en": "I like dogs."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-076",
+        "japanese": "日本が好きです。",
+        "meanings": [
+          {
+            "en": "I like Japan. [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-077",
+        "japanese": "ラーメンが好きじゃない。",
+        "meanings": [
+          {
+            "en": "I don't like ramen."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-078",
+        "japanese": "猫が好きではありません。",
+        "meanings": [
+          {
+            "en": "I don't like cats. [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-079",
+        "japanese": "本が好きだった。",
+        "meanings": [
+          {
+            "en": "I liked / used to like books."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-080",
+        "japanese": "山が好きでした。",
+        "meanings": [
+          {
+            "en": "I liked / used to like mountains. [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-081",
+        "japanese": "チーズが好きじゃなかった。",
+        "meanings": [
+          {
+            "en": "I didn't like / used to not like cheese."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-082",
+        "japanese": "魚が好きではありませんでした。",
+        "meanings": [
+          {
+            "en": "I didn't like / used to not like fish. [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-083",
+        "japanese": "水を飲むのが好き。",
+        "meanings": [
+          {
+            "en": "I like to drink water."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-084",
+        "japanese": "りんごを食べるのが好きです。",
+        "meanings": [
+          {
+            "en": "I like to eat apples. [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-085",
+        "japanese": "ラーメンを食べるのが好きじゃない。",
+        "meanings": [
+          {
+            "en": "I don't like to eat ramen."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-086",
+        "japanese": "猫と遊ぶのが好きではありません。",
+        "meanings": [
+          {
+            "en": "I don't like to play with cats. [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-087",
+        "japanese": "本を読むのが好きだった。",
+        "meanings": [
+          {
+            "en": "I liked / used to like to read books."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-088",
+        "japanese": "山へ行くのが好きでした。",
+        "meanings": [
+          {
+            "en": "I liked / used to like to go to the mountains. [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-089",
+        "japanese": "チーズを食べるのが好きじゃなかった。",
+        "meanings": [
+          {
+            "en": "I didn't / used to not like to eat cheese."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-090",
+        "japanese": "魚を食べるのが好きではありませんでした。",
+        "meanings": [
+          {
+            "en": "I didn't / used to not like to eat fish. [formal]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 18
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "class-04-grammar-004",
+    "pattern": "こそあど demonstratives",
+    "explanation": [
+      {
+        "en": "The こ/そ/あ/ど demonstrative series covers pronouns, determiners, places, and directions, distinguished by proximity: こ- = near the speaker, そ- = near the listener, あ- = far from both, ど- = question form. Pronoun (\"this/that/which one\"): これ/それ/あれ/どれ. Determiner before a noun (\"this/that/which [noun]\"): この/その/あの/どの. Place (\"here/there/where\"): ここ/そこ/あそこ/どこ. Direction, polite (\"this/that way\"): こちら/そちら/あちら/どちら. Direction, casual: こっち/そっち/あっち/どっち. Manner (\"like this/how\"): こう/そう/ああ/どう. Kind (\"this kind of / what kind of\"): こんな/そんな/あんな/どんな."
+      }
+    ],
+    "examples": [
+      {
+        "id": "class-04-example-091",
+        "japanese": "これは犬だ。",
+        "meanings": [
+          {
+            "en": "This is a dog."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-092",
+        "japanese": "これは赤い。",
+        "meanings": [
+          {
+            "en": "This is red."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-093",
+        "japanese": "この犬は大きい。",
+        "meanings": [
+          {
+            "en": "This dog is big."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-094",
+        "japanese": "この学生は日本語を話す。",
+        "meanings": [
+          {
+            "en": "This student speaks Japanese."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-095",
+        "japanese": "ここにいます。",
+        "meanings": [
+          {
+            "en": "I am here."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-096",
+        "japanese": "ここで食べます。",
+        "meanings": [
+          {
+            "en": "I eat here."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-097",
+        "japanese": "ここに来て。",
+        "meanings": [
+          {
+            "en": "Come here."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-098",
+        "japanese": "こちらへ来てください。",
+        "meanings": [
+          {
+            "en": "Come here, please. [polite]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-099",
+        "japanese": "こっちへ来てください。",
+        "meanings": [
+          {
+            "en": "Come here, please. [casual]"
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-100",
+        "japanese": "こうしてください。",
+        "meanings": [
+          {
+            "en": "Do it like this, please."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-101",
+        "japanese": "こう食べます。",
+        "meanings": [
+          {
+            "en": "I eat like this."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      },
+      {
+        "id": "class-04-example-102",
+        "japanese": "こんな本が好き。",
+        "meanings": [
+          {
+            "en": "I like books like this / such books."
+          }
+        ],
+        "origin": "course",
+        "source": [
+          {
+            "file": "Class N°04 - synthesis & assignments.pdf",
+            "page": 19
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 19
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 20
+      }
+    ]
+  }
+]

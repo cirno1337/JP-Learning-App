@@ -1,0 +1,1709 @@
+[
+  {
+    "id": "class-09-vocab-001",
+    "kanji": "英語",
+    "kana": "えいご",
+    "meanings": [
+      {
+        "en": "English (language)"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 9
+      }
+    ],
+    "notes": "Example vocabulary for kanji 英."
+  },
+  {
+    "id": "class-09-vocab-002",
+    "kanji": "問題",
+    "kana": "もんだい",
+    "meanings": [
+      {
+        "en": "question (e.g. on a test), problem"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 題."
+  },
+  {
+    "id": "class-09-vocab-003",
+    "kanji": "注ぐ",
+    "kana": "そそぐ",
+    "meanings": [
+      {
+        "en": "to pour (into)"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 注."
+  },
+  {
+    "id": "class-09-vocab-004",
+    "kanji": "楽しい",
+    "kana": "たのしい",
+    "meanings": [
+      {
+        "en": "enjoyable, fun, pleasant"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 楽."
+  },
+  {
+    "id": "class-09-vocab-005",
+    "kanji": "楽しむ",
+    "kana": "たのしむ",
+    "meanings": [
+      {
+        "en": "to enjoy"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 楽."
+  },
+  {
+    "id": "class-09-vocab-006",
+    "kanji": "音楽",
+    "kana": "おんがく",
+    "meanings": [
+      {
+        "en": "music"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "extra-practice",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Extra Activity - Reading Session 1.pdf",
+        "page": 9
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 30
+      }
+    ],
+    "notes": "Example vocabulary for kanji 楽."
+  },
+  {
+    "id": "class-09-vocab-007",
+    "kanji": "作る",
+    "kana": "つくる",
+    "meanings": [
+      {
+        "en": "to make, to produce, to prepare (food)"
+      },
+      {
+        "en": "to make, build, create"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 作."
+  },
+  {
+    "id": "class-09-vocab-008",
+    "kanji": "作家",
+    "kana": "さっか",
+    "meanings": [
+      {
+        "en": "author, writer"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 作."
+  },
+  {
+    "id": "class-09-vocab-009",
+    "kanji": "手作りの",
+    "kana": "てづくりの",
+    "meanings": [
+      {
+        "en": "handmade, handcrafted, homemade"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 作."
+  },
+  {
+    "id": "class-09-vocab-010",
+    "kanji": "起きる",
+    "kana": "おきる",
+    "meanings": [
+      {
+        "en": "to wake up [intransitive]"
+      },
+      {
+        "en": "to wake up [intr.]"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 起."
+  },
+  {
+    "id": "class-09-vocab-011",
+    "kanji": "起こす",
+    "kana": "おこす",
+    "meanings": [
+      {
+        "en": "to wake up [transitive]"
+      },
+      {
+        "en": "to wake up [tr.]"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 起."
+  },
+  {
+    "id": "class-09-vocab-012",
+    "kanji": "起こる",
+    "kana": "おこる",
+    "meanings": [
+      {
+        "en": "to happen, to occur"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 起."
+  },
+  {
+    "id": "class-09-vocab-013",
+    "kanji": "もう一度",
+    "kana": "もういちど",
+    "meanings": [
+      {
+        "en": "once more, again"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 度."
+  },
+  {
+    "id": "class-09-vocab-014",
+    "kanji": "病む",
+    "kana": "やむ",
+    "meanings": [
+      {
+        "en": "to fall ill"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 病."
+  },
+  {
+    "id": "class-09-vocab-015",
+    "kanji": "病気",
+    "kana": "びょうき",
+    "meanings": [
+      {
+        "en": "illness, disease"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 病."
+  },
+  {
+    "id": "class-09-vocab-016",
+    "kanji": "病人",
+    "kana": "びょうにん",
+    "meanings": [
+      {
+        "en": "sick person, patient"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 病."
+  },
+  {
+    "id": "class-09-vocab-017",
+    "kanji": "何事",
+    "kana": "なにごと",
+    "meanings": [
+      {
+        "en": "everything, anything"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 何."
+  },
+  {
+    "id": "class-09-vocab-018",
+    "kanji": "何日",
+    "kana": "なんにち",
+    "meanings": [
+      {
+        "en": "what day, how many days"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 何."
+  },
+  {
+    "id": "class-09-vocab-019",
+    "kanji": "何時",
+    "kana": "なんじ",
+    "meanings": [
+      {
+        "en": "what time"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 何."
+  },
+  {
+    "id": "class-09-vocab-020",
+    "kanji": "何時間",
+    "kana": "なんじかん",
+    "meanings": [
+      {
+        "en": "how many hours"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 何."
+  },
+  {
+    "id": "class-09-vocab-021",
+    "kanji": "歌う",
+    "kana": "うたう",
+    "meanings": [
+      {
+        "en": "to sing"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 歌."
+  },
+  {
+    "id": "class-09-vocab-022",
+    "kanji": "歌手",
+    "kana": "かしゅ",
+    "meanings": [
+      {
+        "en": "singer"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 歌."
+  },
+  {
+    "id": "class-09-vocab-023",
+    "kanji": "国歌",
+    "kana": "こっか",
+    "meanings": [
+      {
+        "en": "national anthem"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 歌."
+  },
+  {
+    "id": "class-09-vocab-024",
+    "kanji": "開く",
+    "kana": "あく",
+    "meanings": [
+      {
+        "en": "to open [intransitive]"
+      },
+      {
+        "en": "to open [intr.]"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 開."
+  },
+  {
+    "id": "class-09-vocab-025",
+    "kanji": "開ける",
+    "kana": "あける",
+    "meanings": [
+      {
+        "en": "to open [transitive]"
+      },
+      {
+        "en": "to open [tr.]"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 開."
+  },
+  {
+    "id": "class-09-vocab-026",
+    "kanji": "お兄さん",
+    "kana": "おにいさん",
+    "meanings": [
+      {
+        "en": "older brother, elder brother [polite]"
+      },
+      {
+        "en": "older brother [polite / someone else's]"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 32
+      }
+    ],
+    "notes": "Example vocabulary for kanji 兄."
+  },
+  {
+    "id": "class-09-vocab-027",
+    "kanji": "兄弟",
+    "kana": "きょうだい",
+    "meanings": [
+      {
+        "en": "siblings"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 兄."
+  },
+  {
+    "id": "class-09-vocab-028",
+    "kanji": "お姉さん",
+    "kana": "おねえさん",
+    "meanings": [
+      {
+        "en": "older sister, elder sister [polite]"
+      },
+      {
+        "en": "older sister [polite / someone else's]"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 32
+      }
+    ],
+    "notes": "Example vocabulary for kanji 姉."
+  },
+  {
+    "id": "class-09-vocab-029",
+    "kanji": "姉妹",
+    "kana": "しまい",
+    "meanings": [
+      {
+        "en": "sisters"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 妹."
+  },
+  {
+    "id": "class-09-vocab-030",
+    "kanji": "去年",
+    "kana": "きょねん",
+    "meanings": [
+      {
+        "en": "last year"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 去."
+  },
+  {
+    "id": "class-09-vocab-031",
+    "kanji": "走る",
+    "kana": "はしる",
+    "meanings": [
+      {
+        "en": "to run"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 走."
+  },
+  {
+    "id": "class-09-vocab-032",
+    "kanji": "歩く",
+    "kana": "あるく",
+    "meanings": [
+      {
+        "en": "to walk"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°04 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ],
+    "notes": "Example vocabulary for kanji 歩."
+  },
+  {
+    "id": "class-09-vocab-033",
+    "kanji": "歩道",
+    "kana": "ほどう",
+    "meanings": [
+      {
+        "en": "footpath, walkway, sidewalk"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 歩."
+  },
+  {
+    "id": "class-09-vocab-034",
+    "kanji": "歩行者",
+    "kana": "ほこうしゃ",
+    "meanings": [
+      {
+        "en": "pedestrian"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 歩."
+  },
+  {
+    "id": "class-09-vocab-035",
+    "kanji": "自転車",
+    "kana": "じてんしゃ",
+    "meanings": [
+      {
+        "en": "bicycle, bike"
+      },
+      {
+        "en": "bike"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 転."
+  },
+  {
+    "id": "class-09-vocab-036",
+    "kanji": "集まる",
+    "kana": "あつまる",
+    "meanings": [
+      {
+        "en": "to gather [intransitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 集."
+  },
+  {
+    "id": "class-09-vocab-037",
+    "kanji": "集める",
+    "kana": "あつめる",
+    "meanings": [
+      {
+        "en": "to gather, to collect [transitive]"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 集."
+  },
+  {
+    "id": "class-09-vocab-038",
+    "kanji": "集中",
+    "kana": "しゅうちゅう",
+    "meanings": [
+      {
+        "en": "concentration"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 集."
+  },
+  {
+    "id": "class-09-vocab-039",
+    "kanji": "集中する",
+    "kana": "しゅうちゅうする",
+    "meanings": [
+      {
+        "en": "to concentrate, to focus"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 集."
+  },
+  {
+    "id": "class-09-vocab-040",
+    "kanji": "運ぶ",
+    "kana": "はこぶ",
+    "meanings": [
+      {
+        "en": "to carry, to transport"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 運."
+  },
+  {
+    "id": "class-09-vocab-041",
+    "kanji": "運転手",
+    "kana": "うんてんしゅ",
+    "meanings": [
+      {
+        "en": "driver"
+      }
+    ],
+    "lessonIds": [
+      "class-09",
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 運."
+  },
+  {
+    "id": "class-09-vocab-042",
+    "kanji": "運",
+    "kana": "うん",
+    "meanings": [
+      {
+        "en": "fortune, luck"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 運."
+  },
+  {
+    "id": "class-09-vocab-043",
+    "kanji": "不運",
+    "kana": "ふうん",
+    "meanings": [
+      {
+        "en": "misfortune, bad luck"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 運."
+  },
+  {
+    "id": "class-09-vocab-044",
+    "kanji": "送る",
+    "kana": "おくる",
+    "meanings": [
+      {
+        "en": "to send"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 送."
+  },
+  {
+    "id": "class-09-vocab-045",
+    "kanji": "送金",
+    "kana": "そうきん",
+    "meanings": [
+      {
+        "en": "sending money, transferring money"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 送."
+  },
+  {
+    "id": "class-09-vocab-046",
+    "kanji": "送金する",
+    "kana": "そうきんする",
+    "meanings": [
+      {
+        "en": "to send money, to transfer money"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 送."
+  },
+  {
+    "id": "class-09-vocab-047",
+    "kanji": "近い",
+    "kana": "ちかい",
+    "meanings": [
+      {
+        "en": "near, close"
+      },
+      {
+        "en": "near"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°09 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Example vocabulary for kanji 近."
+  },
+  {
+    "id": "class-09-vocab-048",
+    "kana": "ガソリンスタンド",
+    "meanings": [
+      {
+        "en": "gas station"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-09-vocab-049",
+    "kanji": "郵便局",
+    "kana": "ゆうびんきょく",
+    "meanings": [
+      {
+        "en": "post office"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-09-vocab-050",
+    "kanji": "空港",
+    "kana": "くうこう",
+    "meanings": [
+      {
+        "en": "airport"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-09-vocab-051",
+    "kanji": "田舎",
+    "kana": "いなか",
+    "meanings": [
+      {
+        "en": "countryside"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-09-vocab-052",
+    "kanji": "湖",
+    "kana": "みずうみ",
+    "meanings": [
+      {
+        "en": "lake"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-09-vocab-053",
+    "kana": "ビーチ",
+    "meanings": [
+      {
+        "en": "beach"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-09-vocab-054",
+    "kanji": "村",
+    "kana": "むら",
+    "meanings": [
+      {
+        "en": "village"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: PLACES"
+  },
+  {
+    "id": "class-09-vocab-055",
+    "kanji": "乗り物",
+    "kana": "のりもの",
+    "meanings": [
+      {
+        "en": "vehicle"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: TRAFFIC"
+  },
+  {
+    "id": "class-09-vocab-056",
+    "kana": "タクシー",
+    "meanings": [
+      {
+        "en": "taxi"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: TRAFFIC"
+  },
+  {
+    "id": "class-09-vocab-057",
+    "kana": "トラム",
+    "meanings": [
+      {
+        "en": "tram"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: TRAFFIC"
+  },
+  {
+    "id": "class-09-vocab-058",
+    "kanji": "地下鉄",
+    "kana": "ちかてつ",
+    "meanings": [
+      {
+        "en": "subway, metro"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: TRAFFIC"
+  },
+  {
+    "id": "class-09-vocab-059",
+    "kanji": "船",
+    "kana": "ふね",
+    "meanings": [
+      {
+        "en": "boat"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: TRAFFIC"
+  },
+  {
+    "id": "class-09-vocab-060",
+    "kanji": "徒歩で",
+    "kana": "とほで",
+    "meanings": [
+      {
+        "en": "on foot"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: TRAFFIC"
+  },
+  {
+    "id": "class-09-vocab-061",
+    "kana": "スーツケース",
+    "meanings": [
+      {
+        "en": "suitcase"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: TRAFFIC"
+  },
+  {
+    "id": "class-09-vocab-062",
+    "kanji": "運転免許",
+    "kana": "うんてんめんきょ",
+    "meanings": [
+      {
+        "en": "driver's license"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: TRAFFIC"
+  },
+  {
+    "id": "class-09-vocab-063",
+    "kanji": "散歩",
+    "kana": "さんぽ",
+    "meanings": [
+      {
+        "en": "walk, stroll"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOBBYS"
+  },
+  {
+    "id": "class-09-vocab-064",
+    "kana": "スポーツ",
+    "meanings": [
+      {
+        "en": "sport, sports"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: HOBBYS"
+  },
+  {
+    "id": "class-09-vocab-065",
+    "kanji": "誕生日",
+    "kana": "たんじょうび",
+    "meanings": [
+      {
+        "en": "birthday"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: CELEBRATION"
+  },
+  {
+    "id": "class-09-vocab-066",
+    "kanji": "正月",
+    "kana": "しょうがつ",
+    "meanings": [
+      {
+        "en": "New Year"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: CELEBRATION"
+  },
+  {
+    "id": "class-09-vocab-067",
+    "kana": "クリスマス",
+    "meanings": [
+      {
+        "en": "Christmas"
+      }
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Category: CELEBRATION"
+  },
+  {
+    "id": "class-09-vocab-068",
+    "kanji": "曲がる",
+    "kana": "まがる",
+    "meanings": [
+      {
+        "en": "to turn, bend"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-09-vocab-069",
+    "kanji": "盗む",
+    "kana": "ぬすむ",
+    "meanings": [
+      {
+        "en": "to steal"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Category: GODAN VERBS"
+  },
+  {
+    "id": "class-09-vocab-070",
+    "kanji": "捨てる",
+    "kana": "すてる",
+    "meanings": [
+      {
+        "en": "to throw away"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-09-vocab-071",
+    "kanji": "建てる",
+    "kana": "たてる",
+    "meanings": [
+      {
+        "en": "to build"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Category: ICHIDAN VERBS"
+  },
+  {
+    "id": "class-09-vocab-072",
+    "kanji": "散歩する",
+    "kana": "さんぽする",
+    "meanings": [
+      {
+        "en": "to stroll, to go for a walk"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-irregular"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Category: VERBS WITH SURU"
+  },
+  {
+    "id": "class-09-vocab-073",
+    "kanji": "遠い",
+    "kana": "とおい",
+    "meanings": [
+      {
+        "en": "far"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: I-ADJECTIVES"
+  },
+  {
+    "id": "class-09-vocab-074",
+    "kanji": "軽い",
+    "kana": "かるい",
+    "meanings": [
+      {
+        "en": "light"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: I-ADJECTIVES"
+  },
+  {
+    "id": "class-09-vocab-075",
+    "kanji": "素晴らしい",
+    "kana": "すばらしい",
+    "meanings": [
+      {
+        "en": "excellent"
+      }
+    ],
+    "partOfSpeech": [
+      "i-adjective"
+    ],
+    "lessonIds": [
+      "class-09"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°09 - synthesis & assignments.pdf",
+        "page": 7
+      }
+    ],
+    "notes": "Category: I-ADJECTIVES"
+  }
+]

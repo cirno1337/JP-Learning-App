@@ -1,0 +1,3669 @@
+[
+  {
+    "id": "supp-n4-kanji-001",
+    "character": "会",
+    "meanings": [
+      {
+        "en": "meeting; meet"
+      }
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "あ(う)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-002",
+    "character": "同",
+    "meanings": [
+      {
+        "en": "same, agree, equal"
+      }
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "おな(じ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-003",
+    "character": "事",
+    "meanings": [
+      {
+        "en": "matter, thing, fact, business, reason, possibly"
+      }
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "こと"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-004",
+    "character": "自",
+    "meanings": [
+      {
+        "en": "oneself"
+      }
+    ],
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "みずか(ら)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-005",
+    "character": "社",
+    "meanings": [
+      {
+        "en": "company, firm, office, association, shrine"
+      }
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "やしろ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-006",
+    "character": "発",
+    "meanings": [
+      {
+        "en": "departure, discharge, emit, start from"
+      }
+    ],
+    "onyomi": [
+      "ハツ",
+      "ホツ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-007",
+    "character": "者",
+    "meanings": [
+      {
+        "en": "someone, person"
+      }
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "もの"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-008",
+    "character": "地",
+    "meanings": [
+      {
+        "en": "ground, earth"
+      }
+    ],
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-009",
+    "character": "業",
+    "meanings": [
+      {
+        "en": "business, vocation, arts, performance"
+      }
+    ],
+    "onyomi": [
+      "ギョウ"
+    ],
+    "kunyomi": [
+      "わざ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-010",
+    "character": "方",
+    "meanings": [
+      {
+        "en": "direction, person, alternative"
+      }
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "かた"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-011",
+    "character": "新",
+    "meanings": [
+      {
+        "en": "new"
+      }
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "あたら(しい)",
+      "あら(た)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-012",
+    "character": "場",
+    "meanings": [
+      {
+        "en": "location, place"
+      }
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "ば"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-013",
+    "character": "員",
+    "meanings": [
+      {
+        "en": "employee, member, number, the one in charge"
+      }
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-014",
+    "character": "立",
+    "meanings": [
+      {
+        "en": "stand up, rise"
+      }
+    ],
+    "onyomi": [
+      "リツ"
+    ],
+    "kunyomi": [
+      "た(つ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-015",
+    "character": "開",
+    "meanings": [
+      {
+        "en": "open, unfold, unseal"
+      }
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "ひら(く)",
+      "あ(ける)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-016",
+    "character": "手",
+    "meanings": [
+      {
+        "en": "hand"
+      }
+    ],
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "て"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-017",
+    "character": "力",
+    "meanings": [
+      {
+        "en": "power, strength, strong, strain, bear up, exert"
+      }
+    ],
+    "onyomi": [
+      "リョク",
+      "リキ"
+    ],
+    "kunyomi": [
+      "ちから"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-018",
+    "character": "問",
+    "meanings": [
+      {
+        "en": "question, ask, problem"
+      }
+    ],
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "と(う)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-019",
+    "character": "代",
+    "meanings": [
+      {
+        "en": "substitute, change, convert, replace, period"
+      }
+    ],
+    "onyomi": [
+      "ダイ"
+    ],
+    "kunyomi": [
+      "か(わり)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-020",
+    "character": "明",
+    "meanings": [
+      {
+        "en": "bright, light"
+      }
+    ],
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "あか(るい)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-021",
+    "character": "動",
+    "meanings": [
+      {
+        "en": "move, motion, change"
+      }
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "うご(く)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-022",
+    "character": "京",
+    "meanings": [
+      {
+        "en": "capital ン"
+      }
+    ],
+    "onyomi": [
+      "キョウ",
+      "ケイ",
+      "キ"
+    ],
+    "kunyomi": [
+      "みやこ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-023",
+    "character": "目",
+    "meanings": [
+      {
+        "en": "eye, class, look, insight, experience"
+      }
+    ],
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "め"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-024",
+    "character": "通",
+    "meanings": [
+      {
+        "en": "traffic, pass through, avenue, commute"
+      }
+    ],
+    "onyomi": [
+      "ツウ"
+    ],
+    "kunyomi": [
+      "とお(る)",
+      "かよ(う)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-025",
+    "character": "言",
+    "meanings": [
+      {
+        "en": "say, word"
+      }
+    ],
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "い（う）",
+      "こと"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-026",
+    "character": "理",
+    "meanings": [
+      {
+        "en": "logic, arrangement, reason, justice, truth"
+      }
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-027",
+    "character": "体",
+    "meanings": [
+      {
+        "en": "body, substance, object, reality"
+      }
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "からだ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-028",
+    "character": "田",
+    "meanings": [
+      {
+        "en": "rice field, rice paddy"
+      }
+    ],
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [
+      "た"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-029",
+    "character": "主",
+    "meanings": [
+      {
+        "en": "lord, chief, master, main thing, principal"
+      }
+    ],
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "ぬし",
+      "おも"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-030",
+    "character": "題",
+    "meanings": [
+      {
+        "en": "topic, subject"
+      }
+    ],
+    "onyomi": [
+      "ダイ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-031",
+    "character": "意",
+    "meanings": [
+      {
+        "en": "idea, mind, heart, taste, thought"
+      }
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-032",
+    "character": "不",
+    "meanings": [
+      {
+        "en": "negative, non-, bad"
+      }
+    ],
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-033",
+    "character": "作",
+    "meanings": [
+      {
+        "en": "make, production, prepare, build"
+      }
+    ],
+    "onyomi": [
+      "サク",
+      "サ"
+    ],
+    "kunyomi": [
+      "つく(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-034",
+    "character": "用",
+    "meanings": [
+      {
+        "en": "utilize, business, service, use, employ"
+      }
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "もち(いる)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-035",
+    "character": "度",
+    "meanings": [
+      {
+        "en": "degrees, occurrence, time, counter for occurrences"
+      }
+    ],
+    "onyomi": [
+      "ド",
+      "タク"
+    ],
+    "kunyomi": [
+      "たび",
+      "た(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-036",
+    "character": "強",
+    "meanings": [
+      {
+        "en": "strong"
+      }
+    ],
+    "onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "つよ(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-037",
+    "character": "公",
+    "meanings": [
+      {
+        "en": "public, prince, official, governmental"
+      }
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-038",
+    "character": "持",
+    "meanings": [
+      {
+        "en": "hold, have"
+      }
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "も(つ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-039",
+    "character": "野",
+    "meanings": [
+      {
+        "en": "plains, field, rustic, civilian life"
+      }
+    ],
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "の"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-040",
+    "character": "以",
+    "meanings": [
+      {
+        "en": "by means of, because, in view of, compared with"
+      }
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "もっ(て)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-041",
+    "character": "思",
+    "meanings": [
+      {
+        "en": "think"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "おも(う)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-042",
+    "character": "家",
+    "meanings": [
+      {
+        "en": "house, home, family, professional, expert"
+      }
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-043",
+    "character": "世",
+    "meanings": [
+      {
+        "en": "generation, world, society, public"
+      }
+    ],
+    "onyomi": [
+      "セイ",
+      "セ"
+    ],
+    "kunyomi": [
+      "よ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-044",
+    "character": "多",
+    "meanings": [
+      {
+        "en": "many, frequent, much"
+      }
+    ],
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "おお(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-045",
+    "character": "正",
+    "meanings": [
+      {
+        "en": "correct, justice, righteous"
+      }
+    ],
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ただ(しい)",
+      "まさ(に)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-046",
+    "character": "安",
+    "meanings": [
+      {
+        "en": "safe, peaceful, cheap"
+      }
+    ],
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "やす(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-047",
+    "character": "院",
+    "meanings": [
+      {
+        "en": "institution, temple, mansion, school"
+      }
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-048",
+    "character": "心",
+    "meanings": [
+      {
+        "en": "heart, mind, spirit"
+      }
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "こころ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-049",
+    "character": "界",
+    "meanings": [
+      {
+        "en": "world, boundary"
+      }
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-050",
+    "character": "教",
+    "meanings": [
+      {
+        "en": "teach, faith, doctrine"
+      }
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おし(える)",
+      "おそ(わる)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-051",
+    "character": "文",
+    "meanings": [
+      {
+        "en": "sentence, literature, style, art"
+      }
+    ],
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [
+      "ふみ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-052",
+    "character": "元",
+    "meanings": [
+      {
+        "en": "beginning, former time, origin"
+      }
+    ],
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-053",
+    "character": "重",
+    "meanings": [
+      {
+        "en": "heavy, important, esteem, respect"
+      }
+    ],
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "おも(い)",
+      "かさ(ねる)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-054",
+    "character": "近",
+    "meanings": [
+      {
+        "en": "near, early, akin, tantamount"
+      }
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [
+      "ちか(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-055",
+    "character": "考",
+    "meanings": [
+      {
+        "en": "consider, think over"
+      }
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かんが(える)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-056",
+    "character": "画",
+    "meanings": [
+      {
+        "en": "brush-stroke, picture"
+      }
+    ],
+    "onyomi": [
+      "ガ",
+      "カク"
+    ],
+    "kunyomi": [
+      "かく(する)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-057",
+    "character": "海",
+    "meanings": [
+      {
+        "en": "sea, ocean"
+      }
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "うみ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-058",
+    "character": "売",
+    "meanings": [
+      {
+        "en": "Sell"
+      }
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "う(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-059",
+    "character": "知",
+    "meanings": [
+      {
+        "en": "know, wisdom"
+      }
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "し(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-060",
+    "character": "道",
+    "meanings": [
+      {
+        "en": "road-way, street, district, journey, course"
+      }
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "みち"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-061",
+    "character": "集",
+    "meanings": [
+      {
+        "en": "gather, meet"
+      }
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あつ(める)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-062",
+    "character": "別",
+    "meanings": [
+      {
+        "en": "separate, branch off, diverge"
+      }
+    ],
+    "onyomi": [
+      "ベツ"
+    ],
+    "kunyomi": [
+      "わか(れる)",
+      "わ(ける)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-063",
+    "character": "物",
+    "meanings": [
+      {
+        "en": "thing, object, matter"
+      }
+    ],
+    "onyomi": [
+      "ブツ",
+      "モツ"
+    ],
+    "kunyomi": [
+      "もの"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-064",
+    "character": "使",
+    "meanings": [
+      {
+        "en": "use, order, messenger, ambassador"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "つか(う)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-065",
+    "character": "品",
+    "meanings": [
+      {
+        "en": "goods, refinement, dignity, article"
+      }
+    ],
+    "onyomi": [
+      "ヒン"
+    ],
+    "kunyomi": [
+      "しな"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-066",
+    "character": "計",
+    "meanings": [
+      {
+        "en": "plot, plan, scheme, measure"
+      }
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "はか(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-067",
+    "character": "死",
+    "meanings": [
+      {
+        "en": "death, die"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "し(ぬ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-068",
+    "character": "特",
+    "meanings": [
+      {
+        "en": "special"
+      }
+    ],
+    "onyomi": [
+      "トク"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-069",
+    "character": "私",
+    "meanings": [
+      {
+        "en": "private, I, me"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "わたくし",
+      "わたし"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-070",
+    "character": "始",
+    "meanings": [
+      {
+        "en": "commence, begin"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "はじ(める)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-071",
+    "character": "朝",
+    "meanings": [
+      {
+        "en": "morning"
+      }
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あさ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-072",
+    "character": "運",
+    "meanings": [
+      {
+        "en": "carry, luck, destiny, fate, transport"
+      }
+    ],
+    "onyomi": [
+      "ウン"
+    ],
+    "kunyomi": [
+      "はこ(ぶ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-073",
+    "character": "終",
+    "meanings": [
+      {
+        "en": "end, finish"
+      }
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "お(わる)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-074",
+    "character": "台",
+    "meanings": [
+      {
+        "en": "pedestal, a stand, counter for machines and vehicles"
+      }
+    ],
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "うてな"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-075",
+    "character": "広",
+    "meanings": [
+      {
+        "en": "wide, broad, spacious"
+      }
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろ(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-076",
+    "character": "住",
+    "meanings": [
+      {
+        "en": "dwell, reside, live, inhabit"
+      }
+    ],
+    "onyomi": [
+      "ジュウ",
+      "チュウ"
+    ],
+    "kunyomi": [
+      "す(む)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-077",
+    "character": "無",
+    "meanings": [
+      {
+        "en": "nothingness, none, ain't, nothing, nil, not"
+      }
+    ],
+    "onyomi": [
+      "ム",
+      "ブ"
+    ],
+    "kunyomi": [
+      "な(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-078",
+    "character": "真",
+    "meanings": [
+      {
+        "en": "true, reality, Buddhist sect"
+      }
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ま",
+      "まこと"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-079",
+    "character": "有",
+    "meanings": [
+      {
+        "en": "possess, have, exist, happen"
+      }
+    ],
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "kunyomi": [
+      "あ(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-080",
+    "character": "口",
+    "meanings": [
+      {
+        "en": "mouth"
+      }
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "くち"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-081",
+    "character": "少",
+    "meanings": [
+      {
+        "en": "few, little"
+      }
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すく(ない)",
+      "すこ(し)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-082",
+    "character": "町",
+    "meanings": [
+      {
+        "en": "town, village, block, street"
+      }
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "まち"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-083",
+    "character": "料",
+    "meanings": [
+      {
+        "en": "fee, materials"
+      }
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-084",
+    "character": "工",
+    "meanings": [
+      {
+        "en": "craft, construction"
+      }
+    ],
+    "onyomi": [
+      "コウ",
+      "ク",
+      "グ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-085",
+    "character": "建",
+    "meanings": [
+      {
+        "en": "build"
+      }
+    ],
+    "onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "kunyomi": [
+      "た(てる)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-086",
+    "character": "空",
+    "meanings": [
+      {
+        "en": "vacuum"
+      }
+    ],
+    "onyomi": [
+      "クウ"
+    ],
+    "kunyomi": [
+      "そら",
+      "から",
+      "あ(く)",
+      "す(く)",
+      "むな(しい)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-087",
+    "character": "急",
+    "meanings": [
+      {
+        "en": "hurry, emergency, sudden, steep"
+      }
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "いそ(ぐ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-088",
+    "character": "止",
+    "meanings": [
+      {
+        "en": "stop, halt"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "と(まる)",
+      "とど(まる)",
+      "や(め る)",
+      "よ(す)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-089",
+    "character": "送",
+    "meanings": [
+      {
+        "en": "escort, send"
+      }
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "おく(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-090",
+    "character": "切",
+    "meanings": [
+      {
+        "en": "cut, cutoff, be sharp"
+      }
+    ],
+    "onyomi": [
+      "セツ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "き(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-091",
+    "character": "転",
+    "meanings": [
+      {
+        "en": "revolve, turn around, change"
+      }
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "ころ(がる)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-092",
+    "character": "研",
+    "meanings": [
+      {
+        "en": "polish, study of, sharpen"
+      }
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "と(ぐ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-093",
+    "character": "足",
+    "meanings": [
+      {
+        "en": "leg, foot, be sufficient"
+      }
+    ],
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "あし",
+      "た(りる)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-094",
+    "character": "究",
+    "meanings": [
+      {
+        "en": "research, study"
+      }
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-095",
+    "character": "楽",
+    "meanings": [
+      {
+        "en": "music, comfort, ease"
+      }
+    ],
+    "onyomi": [
+      "ガク",
+      "ラク"
+    ],
+    "kunyomi": [
+      "たの(しい)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-096",
+    "character": "起",
+    "meanings": [
+      {
+        "en": "wake up, get up; rouse"
+      }
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "お(きる)",
+      "おこ(す)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-097",
+    "character": "着",
+    "meanings": [
+      {
+        "en": "arrive, wear, counter for suits of clothing"
+      }
+    ],
+    "onyomi": [
+      "チャク"
+    ],
+    "kunyomi": [
+      "き(る)",
+      "つ(く)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-098",
+    "character": "店",
+    "meanings": [
+      {
+        "en": "store, shop"
+      }
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "みせ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-099",
+    "character": "病",
+    "meanings": [
+      {
+        "en": "ill, sick"
+      }
+    ],
+    "onyomi": [
+      "ビョウ"
+    ],
+    "kunyomi": [
+      "や(む)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-100",
+    "character": "質",
+    "meanings": [
+      {
+        "en": "substance, quality, matter, temperament"
+      }
+    ],
+    "onyomi": [
+      "シツ",
+      "シチ"
+    ],
+    "kunyomi": [
+      "たち",
+      "ただ(す)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-101",
+    "character": "待",
+    "meanings": [
+      {
+        "en": "wait, depend on"
+      }
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "ま(つ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-102",
+    "character": "試",
+    "meanings": [
+      {
+        "en": "test, try, attempt, experiment"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "こころ(みる)",
+      "ため(す)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-103",
+    "character": "族",
+    "meanings": [
+      {
+        "en": "tribe, family"
+      }
+    ],
+    "onyomi": [
+      "ゾク"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-104",
+    "character": "銀",
+    "meanings": [
+      {
+        "en": "silver"
+      }
+    ],
+    "onyomi": [
+      "ギン"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-105",
+    "character": "早",
+    "meanings": [
+      {
+        "en": "early, fast"
+      }
+    ],
+    "onyomi": [
+      "ソウ",
+      "サッ"
+    ],
+    "kunyomi": [
+      "はや(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-106",
+    "character": "映",
+    "meanings": [
+      {
+        "en": "reflect, reflection, projection"
+      }
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "うつ(る)",
+      "は(える)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-107",
+    "character": "親",
+    "meanings": [
+      {
+        "en": "parent, intimacy, relative, familiarity"
+      }
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "おや",
+      "した(しい)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-108",
+    "character": "験",
+    "meanings": [
+      {
+        "en": "verification, effect, testing"
+      }
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-109",
+    "character": "英",
+    "meanings": [
+      {
+        "en": "England, English, hero, outstanding"
+      }
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-110",
+    "character": "医",
+    "meanings": [
+      {
+        "en": "doctor, medicine"
+      }
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-111",
+    "character": "仕",
+    "meanings": [
+      {
+        "en": "attend, doing, official, serve"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-112",
+    "character": "去",
+    "meanings": [
+      {
+        "en": "gone, past, quit, leave, elapse, eliminate"
+      }
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "kunyomi": [
+      "さ(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-113",
+    "character": "味",
+    "meanings": [
+      {
+        "en": "flavor, taste"
+      }
+    ],
+    "onyomi": [
+      "ミ"
+    ],
+    "kunyomi": [
+      "あじ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-114",
+    "character": "写",
+    "meanings": [
+      {
+        "en": "copy, be photographed, describe"
+      }
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "うつ(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-115",
+    "character": "字",
+    "meanings": [
+      {
+        "en": "character, letter, word"
+      }
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-116",
+    "character": "答",
+    "meanings": [
+      {
+        "en": "solution, answer"
+      }
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "こた(える)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-117",
+    "character": "夜",
+    "meanings": [
+      {
+        "en": "night, evening"
+      }
+    ],
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よる"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-118",
+    "character": "音",
+    "meanings": [
+      {
+        "en": "sound, noise"
+      }
+    ],
+    "onyomi": [
+      "オン"
+    ],
+    "kunyomi": [
+      "おと",
+      "ね"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-119",
+    "character": "注",
+    "meanings": [
+      {
+        "en": "pour, irrigate, shed (tears), flow into, concentrate on"
+      }
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "そそ(ぐ)",
+      "さ(す)",
+      "つ(ぐ)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-120",
+    "character": "帰",
+    "meanings": [
+      {
+        "en": "homecoming, arrive at, lead to, result in"
+      }
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "かえ(る)",
+      "かえ(す)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-121",
+    "character": "古",
+    "meanings": [
+      {
+        "en": "old"
+      }
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "ふる(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-122",
+    "character": "歌",
+    "meanings": [
+      {
+        "en": "song, sing"
+      }
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "うた",
+      "うた(う)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-123",
+    "character": "買",
+    "meanings": [
+      {
+        "en": "buy"
+      }
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "か(う)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-124",
+    "character": "悪",
+    "meanings": [
+      {
+        "en": "bad, evil, wrong"
+      }
+    ],
+    "onyomi": [
+      "アク"
+    ],
+    "kunyomi": [
+      "わる(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-125",
+    "character": "図",
+    "meanings": [
+      {
+        "en": "map, drawing, plan, extraordinary"
+      }
+    ],
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "はか(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-126",
+    "character": "週",
+    "meanings": [
+      {
+        "en": "week"
+      }
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-127",
+    "character": "室",
+    "meanings": [
+      {
+        "en": "room, apartment, chamber, cellar"
+      }
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "むろ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-128",
+    "character": "歩",
+    "meanings": [
+      {
+        "en": "walk, counter for steps"
+      }
+    ],
+    "onyomi": [
+      "ホ",
+      "ブ"
+    ],
+    "kunyomi": [
+      "ある(く)",
+      "あゆ(む)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-129",
+    "character": "風",
+    "meanings": [
+      {
+        "en": "wind, air, style, manner"
+      }
+    ],
+    "onyomi": [
+      "フウ",
+      "フ"
+    ],
+    "kunyomi": [
+      "かぜ",
+      "かざ-"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-130",
+    "character": "紙",
+    "meanings": [
+      {
+        "en": "paper"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-131",
+    "character": "黒",
+    "meanings": [
+      {
+        "en": "black"
+      }
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くろ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-132",
+    "character": "花",
+    "meanings": [
+      {
+        "en": "flower"
+      }
+    ],
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-133",
+    "character": "春",
+    "meanings": [
+      {
+        "en": "spring"
+      }
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "kunyomi": [
+      "はる"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-134",
+    "character": "赤",
+    "meanings": [
+      {
+        "en": "red"
+      }
+    ],
+    "onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "kunyomi": [
+      "あか(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-135",
+    "character": "青",
+    "meanings": [
+      {
+        "en": "blue"
+      }
+    ],
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あお(い)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-136",
+    "character": "館",
+    "meanings": [
+      {
+        "en": "building, mansion, large building, palace"
+      }
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "やかた"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-137",
+    "character": "屋",
+    "meanings": [
+      {
+        "en": "roof, house, shop, dealer, seller"
+      }
+    ],
+    "onyomi": [
+      "オク"
+    ],
+    "kunyomi": [
+      "や"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-138",
+    "character": "色",
+    "meanings": [
+      {
+        "en": "color"
+      }
+    ],
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "kunyomi": [
+      "いろ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-139",
+    "character": "走",
+    "meanings": [
+      {
+        "en": "Run"
+      }
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はし(る)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-140",
+    "character": "秋",
+    "meanings": [
+      {
+        "en": "autumn, fall"
+      }
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あき"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-141",
+    "character": "夏",
+    "meanings": [
+      {
+        "en": "summer"
+      }
+    ],
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-142",
+    "character": "習",
+    "meanings": [
+      {
+        "en": "learn"
+      }
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "なら(う)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-143",
+    "character": "駅",
+    "meanings": [
+      {
+        "en": "station"
+      }
+    ],
+    "onyomi": [
+      "エキ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-144",
+    "character": "洋",
+    "meanings": [
+      {
+        "en": "ocean, sea, foreign, Western style"
+      }
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-145",
+    "character": "旅",
+    "meanings": [
+      {
+        "en": "trip, travel"
+      }
+    ],
+    "onyomi": [
+      "リョ"
+    ],
+    "kunyomi": [
+      "たび"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-146",
+    "character": "服",
+    "meanings": [
+      {
+        "en": "clothing, admit, obey"
+      }
+    ],
+    "onyomi": [
+      "フク"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-147",
+    "character": "夕",
+    "meanings": [
+      {
+        "en": "evening"
+      }
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "ゆう"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-148",
+    "character": "借",
+    "meanings": [
+      {
+        "en": "borrow, rent"
+      }
+    ],
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [
+      "か(りる)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-149",
+    "character": "曜",
+    "meanings": [
+      {
+        "en": "weekday"
+      }
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-150",
+    "character": "飲",
+    "meanings": [
+      {
+        "en": "drink"
+      }
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "の(む)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-151",
+    "character": "肉",
+    "meanings": [
+      {
+        "en": "meat"
+      }
+    ],
+    "onyomi": [
+      "ニク"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-152",
+    "character": "貸",
+    "meanings": [
+      {
+        "en": "lend"
+      }
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "か(す)",
+      "かし"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-153",
+    "character": "堂",
+    "meanings": [
+      {
+        "en": "public chamber, hall"
+      }
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-154",
+    "character": "鳥",
+    "meanings": [
+      {
+        "en": "bird, chicken"
+      }
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "とり"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-155",
+    "character": "飯",
+    "meanings": [
+      {
+        "en": "meal, rice"
+      }
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "めし"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-156",
+    "character": "勉",
+    "meanings": [
+      {
+        "en": "exertion, endeavor, effort"
+      }
+    ],
+    "onyomi": [
+      "ベン"
+    ],
+    "kunyomi": [
+      "つと(める)"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-157",
+    "character": "冬",
+    "meanings": [
+      {
+        "en": "winter"
+      }
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-158",
+    "character": "昼",
+    "meanings": [
+      {
+        "en": "daytime, noon"
+      }
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "ひる"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-159",
+    "character": "茶",
+    "meanings": [
+      {
+        "en": "tea"
+      }
+    ],
+    "onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-160",
+    "character": "弟",
+    "meanings": [
+      {
+        "en": "younger brother"
+      }
+    ],
+    "onyomi": [
+      "テイ",
+      "ダイ",
+      "デ"
+    ],
+    "kunyomi": [
+      "おとうと"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-161",
+    "character": "牛",
+    "meanings": [
+      {
+        "en": "cow"
+      }
+    ],
+    "onyomi": [
+      "ギュウ"
+    ],
+    "kunyomi": [
+      "うし"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-162",
+    "character": "魚",
+    "meanings": [
+      {
+        "en": "fish"
+      }
+    ],
+    "onyomi": [
+      "ギョ"
+    ],
+    "kunyomi": [
+      "うお",
+      "さかな"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-163",
+    "character": "兄",
+    "meanings": [
+      {
+        "en": "elder brother"
+      }
+    ],
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "あに"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-164",
+    "character": "犬",
+    "meanings": [
+      {
+        "en": "dog"
+      }
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "いぬ"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-165",
+    "character": "妹",
+    "meanings": [
+      {
+        "en": "younger sister"
+      }
+    ],
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-166",
+    "character": "姉",
+    "meanings": [
+      {
+        "en": "elder sister"
+      }
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "あね"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-kanji-167",
+    "character": "漢",
+    "meanings": [
+      {
+        "en": "China Study more kanji ● N5 kanji - https://jlptsensei.com/jlpt-n5-kanji-list/ ● N4 kanji - https://jlptsensei.com/jlpt-n4-kanji-list/ ● N3 kanji - https://jlptsensei.com/jlpt-n3-kanji-list/ ● N2 kanji - https://jlptsensei.com/jlpt-n2-kanji-list/ *NOTE* Officially, there are no kanji, vocabulary, or grammar lists for the JLPT. As a result, it is not possible to be certain which kanji, words, or grammar will or will not appear in a given test. Our study lists are based on prior test data and comparisons with other available lists of JLPT kanji, vocabulary, grammar, etc."
+      }
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N4 Kanji List - JLPTsensei.com.pdf"
+      }
+    ]
+  }
+]

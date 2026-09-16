@@ -1,0 +1,172 @@
+[
+  {
+    "id": "class-08-dialogue-001",
+    "title": "動物園 (The zoo) — comprehensible input reading passage",
+    "lines": [
+      {
+        "japanese": "動物園の前で、家族は二つ会った。",
+        "reading": "どうぶつえんのまえで、ふたつのかぞくがあった。",
+        "meanings": [
+          {
+            "en": "Two families met in front of the zoo."
+          }
+        ]
+      },
+      {
+        "japanese": "上野動物園を選んだ。",
+        "reading": "うえのどうぶつえんをえらんだ。",
+        "meanings": [
+          {
+            "en": "They chose Ueno Zoo."
+          }
+        ]
+      },
+      {
+        "japanese": "そして、動物を見た。",
+        "reading": "そして、どうぶつをみた。",
+        "meanings": [
+          {
+            "en": "And then, they saw the animals."
+          }
+        ]
+      },
+      {
+        "japanese": "猿を見た。",
+        "reading": "さるをみた。",
+        "meanings": [
+          {
+            "en": "They saw a monkey."
+          }
+        ]
+      },
+      {
+        "japanese": "猿は速かった。",
+        "reading": "さるははやかった。",
+        "meanings": [
+          {
+            "en": "The monkey was fast."
+          }
+        ]
+      },
+      {
+        "japanese": "その後で、カメを見た。",
+        "reading": "そのあとで、カメをみた。",
+        "meanings": [
+          {
+            "en": "After that, they saw a turtle."
+          }
+        ]
+      },
+      {
+        "japanese": "カメは遅かった。",
+        "reading": "カメはおそかった。",
+        "meanings": [
+          {
+            "en": "The turtle was slow."
+          }
+        ]
+      },
+      {
+        "japanese": "ネズミも見た。",
+        "reading": "ネズミもみた。",
+        "meanings": [
+          {
+            "en": "They also saw a mouse."
+          }
+        ]
+      },
+      {
+        "japanese": "ネズミは弱かった。",
+        "reading": "ネズミはよわかった。",
+        "meanings": [
+          {
+            "en": "The mouse was weak."
+          }
+        ]
+      },
+      {
+        "japanese": "その後で、ワニを見た。",
+        "reading": "そのあとで、ワニをみた。",
+        "meanings": [
+          {
+            "en": "After that, they saw a crocodile."
+          }
+        ]
+      },
+      {
+        "japanese": "ワニは強かった。",
+        "reading": "ワニはつよかった。",
+        "meanings": [
+          {
+            "en": "The crocodile was strong."
+          }
+        ]
+      },
+      {
+        "japanese": "男の子が女の子を押した。",
+        "reading": "おとこのこがおんなのこをおした。",
+        "meanings": [
+          {
+            "en": "The boy pushed the girl."
+          }
+        ]
+      },
+      {
+        "japanese": "女の子は転んで、泣いた。",
+        "reading": "おんなのこはころんで、ないた。",
+        "meanings": [
+          {
+            "en": "The girl fell down and cried."
+          }
+        ]
+      },
+      {
+        "japanese": "女の子は悲しかった。",
+        "reading": "おんなのこはかなしかった。",
+        "meanings": [
+          {
+            "en": "The girl was sad."
+          }
+        ]
+      },
+      {
+        "japanese": "お母さんも嬉しくなかった。",
+        "reading": "おかあさんもうれしくなかった。",
+        "meanings": [
+          {
+            "en": "The mother wasn't happy either."
+          }
+        ]
+      },
+      {
+        "japanese": "女の子は立って、ジャンプした。",
+        "reading": "おんなのこはたって、ジャンプした。",
+        "meanings": [
+          {
+            "en": "The girl stood up and jumped."
+          }
+        ]
+      },
+      {
+        "japanese": "そして、男の子を水の中に押した。",
+        "reading": "そして、おとこのこをみずのなかにおした。",
+        "meanings": [
+          {
+            "en": "And then, she pushed the boy into the water."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-08"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°08 - synthesis & assignments.pdf",
+        "page": 5,
+        "note": "Reading passage spans pages 5-6"
+      }
+    ]
+  }
+]

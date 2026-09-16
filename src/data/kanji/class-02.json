@@ -1,0 +1,710 @@
+[
+  {
+    "id": "class-02-kanji-001",
+    "character": "大",
+    "meanings": [
+      {
+        "en": "large, big"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 5
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"大きい\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-02-vocab-001",
+      "class-02-vocab-002"
+    ]
+  },
+  {
+    "id": "class-02-kanji-002",
+    "character": "小",
+    "meanings": [
+      {
+        "en": "little, small"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 6
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"小さい\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-02-vocab-003"
+    ]
+  },
+  {
+    "id": "class-02-kanji-003",
+    "character": "中",
+    "meanings": [
+      {
+        "en": "inside, among, middle, in"
+      }
+    ],
+    "readings": [
+      "なか"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 7
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-004",
+      "class-02-vocab-005"
+    ]
+  },
+  {
+    "id": "class-02-kanji-004",
+    "character": "風",
+    "meanings": [
+      {
+        "en": "wind"
+      }
+    ],
+    "readings": [
+      "かぜ"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-02-kanji-005",
+    "character": "雨",
+    "meanings": [
+      {
+        "en": "rain"
+      }
+    ],
+    "readings": [
+      "あめ"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-02-kanji-006",
+    "character": "下",
+    "meanings": [
+      {
+        "en": "down, below, lower"
+      }
+    ],
+    "readings": [
+      "した"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 13
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-006",
+      "class-02-vocab-007"
+    ]
+  },
+  {
+    "id": "class-02-kanji-007",
+    "character": "上",
+    "meanings": [
+      {
+        "en": "up, above, on, upper"
+      }
+    ],
+    "readings": [
+      "うえ"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 14
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-008",
+      "class-02-vocab-009"
+    ]
+  },
+  {
+    "id": "class-02-kanji-008",
+    "character": "川",
+    "meanings": [
+      {
+        "en": "river"
+      }
+    ],
+    "readings": [
+      "かわ"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "class-02-kanji-009",
+    "character": "山",
+    "meanings": [
+      {
+        "en": "mountain"
+      }
+    ],
+    "readings": [
+      "やま"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 16
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-010",
+      "class-02-vocab-011"
+    ]
+  },
+  {
+    "id": "class-02-kanji-010",
+    "character": "田",
+    "meanings": [
+      {
+        "en": "rice field"
+      }
+    ],
+    "readings": [
+      "た"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "class-02-kanji-011",
+    "character": "門",
+    "meanings": [
+      {
+        "en": "gate"
+      }
+    ],
+    "readings": [
+      "もん"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 21
+      }
+    ]
+  },
+  {
+    "id": "class-02-kanji-012",
+    "character": "刀",
+    "meanings": [
+      {
+        "en": "sword, saber, knife"
+      }
+    ],
+    "readings": [
+      "かたな"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 22
+      }
+    ]
+  },
+  {
+    "id": "class-02-kanji-013",
+    "character": "分",
+    "meanings": [
+      {
+        "en": "minute, part"
+      }
+    ],
+    "readings": [
+      "ふん"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 23
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-012",
+      "class-02-vocab-013"
+    ]
+  },
+  {
+    "id": "class-02-kanji-014",
+    "character": "切",
+    "meanings": [
+      {
+        "en": "to cut"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 24
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"切る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-02-vocab-014"
+    ]
+  },
+  {
+    "id": "class-02-kanji-015",
+    "character": "国",
+    "meanings": [
+      {
+        "en": "country"
+      }
+    ],
+    "readings": [
+      "くに"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 25
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-015"
+    ]
+  },
+  {
+    "id": "class-02-kanji-016",
+    "character": "寺",
+    "meanings": [
+      {
+        "en": "temple"
+      }
+    ],
+    "readings": [
+      "てら"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 29
+      }
+    ]
+  },
+  {
+    "id": "class-02-kanji-017",
+    "character": "時",
+    "meanings": [
+      {
+        "en": "time, hour, moment"
+      }
+    ],
+    "readings": [
+      "とき"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 30
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-016"
+    ]
+  },
+  {
+    "id": "class-02-kanji-018",
+    "character": "間",
+    "meanings": [
+      {
+        "en": "interval, between"
+      }
+    ],
+    "readings": [
+      "あいだ"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 31
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-017",
+      "class-02-vocab-018"
+    ]
+  },
+  {
+    "id": "class-02-kanji-019",
+    "character": "生",
+    "meanings": [
+      {
+        "en": "life, birth"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 32
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"生きる\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-02-vocab-019",
+      "class-02-vocab-020",
+      "class-02-vocab-021",
+      "class-02-vocab-022",
+      "class-02-vocab-042"
+    ]
+  },
+  {
+    "id": "class-02-kanji-020",
+    "character": "年",
+    "meanings": [
+      {
+        "en": "year"
+      }
+    ],
+    "readings": [
+      "とし"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 33
+      }
+    ]
+  },
+  {
+    "id": "class-02-kanji-021",
+    "character": "以",
+    "meanings": [
+      {
+        "en": "by means of, because, in view of, compared with"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 37
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"以上\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-02-vocab-023",
+      "class-02-vocab-024",
+      "class-02-vocab-025",
+      "class-02-vocab-026"
+    ]
+  },
+  {
+    "id": "class-02-kanji-022",
+    "character": "前",
+    "meanings": [
+      {
+        "en": "in front of, before, previous"
+      }
+    ],
+    "readings": [
+      "まえ"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 38
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-027",
+      "class-02-vocab-028",
+      "class-02-vocab-029"
+    ]
+  },
+  {
+    "id": "class-02-kanji-023",
+    "character": "後",
+    "meanings": [
+      {
+        "en": "behind, back, later"
+      }
+    ],
+    "readings": [
+      "あと"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 39
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-030",
+      "class-02-vocab-031",
+      "class-02-vocab-032",
+      "class-02-vocab-033"
+    ]
+  },
+  {
+    "id": "class-02-kanji-024",
+    "character": "午",
+    "meanings": [
+      {
+        "en": "noon"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 40
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"午前\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-02-vocab-034",
+      "class-02-vocab-035",
+      "class-02-vocab-036",
+      "class-02-vocab-037"
+    ]
+  },
+  {
+    "id": "class-02-kanji-025",
+    "character": "先",
+    "meanings": [
+      {
+        "en": "earlier, previous"
+      }
+    ],
+    "readings": [
+      "さき"
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°02.pdf",
+        "page": 41
+      }
+    ],
+    "vocabularyIds": [
+      "class-02-vocab-038",
+      "class-02-vocab-039",
+      "class-02-vocab-040",
+      "class-02-vocab-041"
+    ]
+  }
+]

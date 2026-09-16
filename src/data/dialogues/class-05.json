@@ -1,0 +1,172 @@
+[
+  {
+    "id": "class-05-dialogue-001",
+    "title": "レオさん (Leo the butcher) — comprehensible input reading passage",
+    "lines": [
+      {
+        "japanese": "彼はレオさんです。",
+        "reading": "かれ は レオさん です。",
+        "meanings": [
+          {
+            "en": "He is Leo."
+          }
+        ]
+      },
+      {
+        "japanese": "レオさんは肉屋です。",
+        "reading": "レオさん は にくや です。",
+        "meanings": [
+          {
+            "en": "Leo is a butcher."
+          }
+        ]
+      },
+      {
+        "japanese": "若いです。でも、悲しくて貧しいです。",
+        "reading": "わかい です。でも、かなしくて まずしい です。",
+        "meanings": [
+          {
+            "en": "He is young. But he is sad and poor."
+          }
+        ]
+      },
+      {
+        "japanese": "毎日起きて、立ちます。",
+        "reading": "まいにち おきて、たちます。",
+        "meanings": [
+          {
+            "en": "Every day, he wakes up and gets up."
+          }
+        ]
+      },
+      {
+        "japanese": "そのあとで、朝ご飯を食べます。",
+        "reading": "そのあとで、あさごはん を たべます。",
+        "meanings": [
+          {
+            "en": "After that, he eats breakfast."
+          }
+        ]
+      },
+      {
+        "japanese": "りんごとチーズを食べて、お茶を飲みます。",
+        "reading": "りんご と チーズ を たべて、おちゃ を のみます。",
+        "meanings": [
+          {
+            "en": "He eats an apple and cheese, then drinks tea."
+          }
+        ]
+      },
+      {
+        "japanese": "お茶は熱いです。でも、りんごは冷たいです。",
+        "reading": "おちゃ は あつい です。でも、りんご は つめたい です。",
+        "meanings": [
+          {
+            "en": "The tea is hot. But the apple is cold."
+          }
+        ]
+      },
+      {
+        "japanese": "食べたあとで、出て、走ります。仕事に行きます。",
+        "reading": "たべた あとで、でて、はしります。しごと に いきます。",
+        "meanings": [
+          {
+            "en": "After eating, he goes out, runs, and goes to work."
+          }
+        ]
+      },
+      {
+        "japanese": "暑いです。",
+        "reading": "あつい です。",
+        "meanings": [
+          {
+            "en": "It is hot."
+          }
+        ]
+      },
+      {
+        "japanese": "そのあとで、駅に着きます。電車に乗ります。",
+        "reading": "そのあとで、えき に つきます。でんしゃ に のります。",
+        "meanings": [
+          {
+            "en": "After that, he arrives at the station. He gets on the train."
+          }
+        ]
+      },
+      {
+        "japanese": "今、レオさんは電車にいます。仕事へ行っています。",
+        "reading": "いま、レオさん は でんしゃ に います。しごと へ いっています。",
+        "meanings": [
+          {
+            "en": "Now, Leo is on the train. He is going to work."
+          }
+        ]
+      },
+      {
+        "japanese": "そのあとで、電車を降ります。肉屋に着きます。",
+        "reading": "そのあとで、でんしゃ を おります。にくや に つきます。",
+        "meanings": [
+          {
+            "en": "After that, he gets off the train. He arrives at the butcher shop."
+          }
+        ]
+      },
+      {
+        "japanese": "肉屋に入って、彼の友達を見ます。「おはようございます」と言います。",
+        "reading": "にくや に はいって、かれ の ともだち を みます。「おはようございます」と いいます。",
+        "meanings": [
+          {
+            "en": "He enters the butcher shop, sees his friend, and says, \"Good morning.\""
+          }
+        ]
+      },
+      {
+        "japanese": "友達は年を取った人です。でも、うれしくてお金持ちです。",
+        "reading": "ともだち は とし を とった ひと です。でも、うれしくて おかねもち です。",
+        "meanings": [
+          {
+            "en": "His friend is an elderly person. But he is happy and rich."
+          }
+        ]
+      },
+      {
+        "japanese": "そのあとで、レオさんは玉ねぎを切って、料理します。",
+        "reading": "そのあとで、レオさん は たまねぎ を きって、りょうり します。",
+        "meanings": [
+          {
+            "en": "After that, Leo cuts onions and cooks."
+          }
+        ]
+      },
+      {
+        "japanese": "玉ねぎを切るのは難しいです。しかし、肉を料理するのはやさしいです。",
+        "reading": "たまねぎ を きる の は むずかしい です。しかし、にく を りょうり する の は やさしい です。",
+        "meanings": [
+          {
+            "en": "Cutting onions is difficult. However, cooking meat is easy."
+          }
+        ]
+      },
+      {
+        "japanese": "そのあとで、家に帰ります。寒いです。",
+        "reading": "そのあとで、いえ に かえります。さむい です。",
+        "meanings": [
+          {
+            "en": "After that, he goes home. It is cold."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "class-05"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°05 - synthesis & assignments.pdf",
+        "page": 5,
+        "note": "Reading passage spans pages 5-6"
+      }
+    ]
+  }
+]

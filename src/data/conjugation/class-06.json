@@ -1,0 +1,272 @@
+[
+  {
+    "id": "class-06-conjugation-001",
+    "appliesTo": "verb-godan",
+    "form": "imperative",
+    "explanation": [
+      {
+        "en": "Rude imperative: godan verbs use the -e stem alone (飲む→飲め, 話す→話せ)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "imperative",
+        "surface": "飲め",
+        "reading": "のめ"
+      },
+      {
+        "form": "imperative",
+        "surface": "話せ",
+        "reading": "はなせ"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-06-conjugation-002",
+    "appliesTo": "verb-ichidan",
+    "form": "imperative",
+    "explanation": [
+      {
+        "en": "Rude imperative: ichidan verbs use the -e stem + ろ (食べる→食べろ, 見る→見ろ). Irregular: 来る→来い(こい), する→しろ."
+      }
+    ],
+    "examples": [
+      {
+        "form": "imperative",
+        "surface": "食べろ",
+        "reading": "たべろ"
+      },
+      {
+        "form": "imperative",
+        "surface": "見ろ",
+        "reading": "みろ"
+      },
+      {
+        "form": "imperative",
+        "surface": "来い",
+        "reading": "こい"
+      },
+      {
+        "form": "imperative",
+        "surface": "しろ"
+      }
+    ],
+    "exceptions": [
+      "来る → 来い (こい), する → しろ — irregular, not -e+ろ"
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-06-conjugation-003",
+    "appliesTo": "verb-godan",
+    "form": "imperative-negative",
+    "explanation": [
+      {
+        "en": "Rude negative imperative (\"don't [verb]\"): dictionary (-u) form + な, for both godan and ichidan verbs, no exceptions. 飲む→飲むな, 話す→話すな, 食べる→食べるな, 見る→見るな."
+      }
+    ],
+    "examples": [
+      {
+        "form": "imperative-negative",
+        "surface": "飲むな",
+        "reading": "のむな"
+      },
+      {
+        "form": "imperative-negative",
+        "surface": "話すな",
+        "reading": "はなすな"
+      },
+      {
+        "form": "imperative-negative",
+        "surface": "食べるな",
+        "reading": "たべるな"
+      },
+      {
+        "form": "imperative-negative",
+        "surface": "見るな",
+        "reading": "みるな"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "class-06-conjugation-004",
+    "appliesTo": "verb-godan",
+    "form": "imperative-te",
+    "explanation": [
+      {
+        "en": "The polite/neutral imperative is just the te-form, optionally + ください for politeness: 飲む→飲んで(ください), 話す→話して(ください), 食べる→食べて(ください), 見る→見て(ください). Irregular verbs use their normal te-forms: 来る→来て, 行く→行って, する→して."
+      }
+    ],
+    "examples": [
+      {
+        "form": "imperative-te",
+        "surface": "飲んでください",
+        "reading": "のんでください"
+      },
+      {
+        "form": "imperative-te",
+        "surface": "食べてください",
+        "reading": "たべてください"
+      },
+      {
+        "form": "imperative-te",
+        "surface": "来てください",
+        "reading": "きてください"
+      },
+      {
+        "form": "imperative-te",
+        "surface": "行ってください",
+        "reading": "いってください"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-06-conjugation-005",
+    "appliesTo": "verb-godan",
+    "form": "imperative-negative-polite",
+    "explanation": [
+      {
+        "en": "Polite negative imperative (\"please don't [verb]\"): -a stem + ないで, optionally + ください. 飲む→飲ま→飲まないで(ください), 話す→話さ→話さないで(ください), 食べる→食べ→食べないで(ください), 見る→見→見ないで(ください). Irregular: 来る→来(こ)→来ないで, する→し→しないで."
+      }
+    ],
+    "examples": [
+      {
+        "form": "imperative-negative-polite",
+        "surface": "飲まないでください",
+        "reading": "のまないでください"
+      },
+      {
+        "form": "imperative-negative-polite",
+        "surface": "食べないでください",
+        "reading": "たべないでください"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-06-conjugation-006",
+    "appliesTo": "verb-godan",
+    "form": "volitional-casual",
+    "explanation": [
+      {
+        "en": "Casual \"let's...\": godan -o stem + う (飲む→飲も→飲もう, 話す→話そ→話そう); ichidan -o stem (i.e. plain stem) + よう (食べる→食べ→食べよう, 見る→見→見よう). Irregular: 来る→来(こ)→来よう, する→し→しよう."
+      }
+    ],
+    "examples": [
+      {
+        "form": "volitional-casual",
+        "surface": "飲もう",
+        "reading": "のもう"
+      },
+      {
+        "form": "volitional-casual",
+        "surface": "食べよう",
+        "reading": "たべよう"
+      },
+      {
+        "form": "volitional-casual",
+        "surface": "来よう",
+        "reading": "こよう"
+      },
+      {
+        "form": "volitional-casual",
+        "surface": "しよう"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-06-conjugation-007",
+    "appliesTo": "verb-godan",
+    "form": "volitional-polite",
+    "explanation": [
+      {
+        "en": "Polite \"let's...\": -i (masu) stem + ましょう, for both godan and ichidan. 飲む→飲み→飲みましょう, 話す→話し→話しましょう, 食べる→食べ→食べましょう, 見る→見→見ましょう. Irregular: 来る→来(き)→来ましょう, する→し→しましょう."
+      }
+    ],
+    "examples": [
+      {
+        "form": "volitional-polite",
+        "surface": "飲みましょう",
+        "reading": "のみましょう"
+      },
+      {
+        "form": "volitional-polite",
+        "surface": "食べましょう",
+        "reading": "たべましょう"
+      },
+      {
+        "form": "volitional-polite",
+        "surface": "来ましょう",
+        "reading": "きましょう"
+      }
+    ],
+    "lessonIds": [
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  }
+]

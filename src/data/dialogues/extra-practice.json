@@ -1,0 +1,1360 @@
+[
+  {
+    "id": "extra-practice-dialogue-001",
+    "title": "1. At school",
+    "lines": [
+      {
+        "speaker": "A",
+        "japanese": "おはよう。",
+        "reading": "おはよう。",
+        "meanings": [
+          {
+            "en": "Good morning."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "おはよう。",
+        "reading": "おはよう。",
+        "meanings": [
+          {
+            "en": "Good morning."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "今日はテストがありますか。",
+        "reading": "きょうはテストがありますか。",
+        "meanings": [
+          {
+            "en": "Is there a test today?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、あります。",
+        "reading": "はい、あります。",
+        "meanings": [
+          {
+            "en": "Yes, there is."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "何時からですか。",
+        "reading": "なんじからですか。",
+        "meanings": [
+          {
+            "en": "What time does it start?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "九時からです。",
+        "reading": "くじからです。",
+        "meanings": [
+          {
+            "en": "It starts at nine o'clock."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "難しいですか。",
+        "reading": "むずかしいですか。",
+        "meanings": [
+          {
+            "en": "Is it difficult?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "たぶん。",
+        "reading": "たぶん。",
+        "meanings": [
+          {
+            "en": "Probably."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "がんばって。",
+        "reading": "がんばって。",
+        "meanings": [
+          {
+            "en": "Good luck. / Do your best."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、がんばります。",
+        "reading": "はい、がんばります。",
+        "meanings": [
+          {
+            "en": "Yes, I'll do my best."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "じゃあ、行きませんか。",
+        "reading": "じゃあ、いきませんか。",
+        "meanings": [
+          {
+            "en": "Well then, shall we go?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、行きましょう。",
+        "reading": "はい、いきましょう。",
+        "meanings": [
+          {
+            "en": "Yes, let's go."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Dialogues-Reading.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-dialogue-002",
+    "title": "2. At the restaurant",
+    "lines": [
+      {
+        "speaker": "A",
+        "japanese": "こんにちは。",
+        "reading": "こんにちは。",
+        "meanings": [
+          {
+            "en": "Hello."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "いらっしゃいませ。",
+        "reading": "いらっしゃいませ。",
+        "meanings": [
+          {
+            "en": "Welcome."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "メニューをください。",
+        "reading": "メニューをください。",
+        "meanings": [
+          {
+            "en": "May I have the menu, please?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、どうぞ。",
+        "reading": "はい、どうぞ。",
+        "meanings": [
+          {
+            "en": "Yes, here you are."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "ラーメンを一つお願いします。",
+        "reading": "ラーメンをひとつおねがいします。",
+        "meanings": [
+          {
+            "en": "One ramen, please."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい。飲み物は？",
+        "reading": "はい。のみものは？",
+        "meanings": [
+          {
+            "en": "Certainly. What would you like to drink?"
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "水をお願いします。",
+        "reading": "みずをおねがいします。",
+        "meanings": [
+          {
+            "en": "Water, please."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "わかりました。",
+        "reading": "わかりました。",
+        "meanings": [
+          {
+            "en": "Understood."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "いくらですか。",
+        "reading": "いくらですか。",
+        "meanings": [
+          {
+            "en": "How much is it?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "八百円です。",
+        "reading": "はっぴゃくえんです。",
+        "meanings": [
+          {
+            "en": "It's 800 yen."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "はい、どうぞ。",
+        "reading": "はい、どうぞ。",
+        "meanings": [
+          {
+            "en": "Here you are."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "ありがとうございます。",
+        "reading": "ありがとうございます。",
+        "meanings": [
+          {
+            "en": "Thank you very much."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Dialogues-Reading.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-dialogue-003",
+    "title": "3. At the train station",
+    "lines": [
+      {
+        "speaker": "A",
+        "japanese": "すみません。",
+        "reading": "すみません。",
+        "meanings": [
+          {
+            "en": "Excuse me."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい。",
+        "reading": "はい。",
+        "meanings": [
+          {
+            "en": "Yes?"
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "東京駅はどこですか。",
+        "reading": "とうきょうえきはどこですか。",
+        "meanings": [
+          {
+            "en": "Where is Tokyo Station?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "あの電車です。",
+        "reading": "あのでんしゃです。",
+        "meanings": [
+          {
+            "en": "It's that train."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "何番ホームですか。",
+        "reading": "なんばんホームですか。",
+        "meanings": [
+          {
+            "en": "Which platform is it?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "三番ホームです。",
+        "reading": "さんばんホームです。",
+        "meanings": [
+          {
+            "en": "It's Platform 3."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "ありがとうございます。",
+        "reading": "ありがとうございます。",
+        "meanings": [
+          {
+            "en": "Thank you."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "どういたしまして。",
+        "reading": "どういたしまして。",
+        "meanings": [
+          {
+            "en": "You're welcome."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "電車は何時ですか。",
+        "reading": "でんしゃはなんじですか。",
+        "meanings": [
+          {
+            "en": "What time does the train leave?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "十時十分です。",
+        "reading": "じゅうじじゅっぷんです。",
+        "meanings": [
+          {
+            "en": "At 10:10."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "まだ時間がありますね。",
+        "reading": "まだじかんがありますね。",
+        "meanings": [
+          {
+            "en": "We still have time, don't we?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、あります。",
+        "reading": "はい、あります。",
+        "meanings": [
+          {
+            "en": "Yes, we do."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Dialogues-Reading.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-dialogue-004",
+    "title": "4. At the supermarket",
+    "lines": [
+      {
+        "speaker": "A",
+        "japanese": "このりんごはいくらですか。",
+        "reading": "このりんごはいくらですか。",
+        "meanings": [
+          {
+            "en": "How much is this apple?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "一つ百五十円です。",
+        "reading": "ひとつひゃくごじゅうえんです。",
+        "meanings": [
+          {
+            "en": "It's 150 yen each."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "三つください。",
+        "reading": "みっつください。",
+        "meanings": [
+          {
+            "en": "Three, please."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、三つですね。",
+        "reading": "はい、みっつですね。",
+        "meanings": [
+          {
+            "en": "Certainly, three apples."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "バナナもありますか。",
+        "reading": "バナナもありますか。",
+        "meanings": [
+          {
+            "en": "Do you also have bananas?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、あります。",
+        "reading": "はい、あります。",
+        "meanings": [
+          {
+            "en": "Yes, we do."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "じゃあ、一つお願いします。",
+        "reading": "じゃあ、ひとつおねがいします。",
+        "meanings": [
+          {
+            "en": "Then, one, please."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "わかりました。",
+        "reading": "わかりました。",
+        "meanings": [
+          {
+            "en": "Certainly."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "全部でいくらですか。",
+        "reading": "ぜんぶでいくらですか。",
+        "meanings": [
+          {
+            "en": "How much is it altogether?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "六百円です。",
+        "reading": "ろっぴゃくえんです。",
+        "meanings": [
+          {
+            "en": "It's 600 yen."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "はい。",
+        "reading": "はい。",
+        "meanings": [
+          {
+            "en": "Here you are."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "ありがとうございました。",
+        "reading": "ありがとうございました。",
+        "meanings": [
+          {
+            "en": "Thank you very much."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Dialogues-Reading.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-dialogue-005",
+    "title": "5. Phone call",
+    "lines": [
+      {
+        "speaker": "A",
+        "japanese": "もしもし。",
+        "reading": "もしもし。",
+        "meanings": [
+          {
+            "en": "Hello?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "もしもし、山田です。",
+        "reading": "もしもし、やまだです。",
+        "meanings": [
+          {
+            "en": "Hello, this is Yamada speaking."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "こんにちは。元気ですか。",
+        "reading": "こんにちは。げんきですか。",
+        "meanings": [
+          {
+            "en": "Hello. How are you?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、元気です。",
+        "reading": "はい、げんきです。",
+        "meanings": [
+          {
+            "en": "I'm fine, thank you."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "明日、時間がありますか。",
+        "reading": "あした、じかんがありますか。",
+        "meanings": [
+          {
+            "en": "Are you free tomorrow?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、あります。",
+        "reading": "はい、あります。",
+        "meanings": [
+          {
+            "en": "Yes, I am."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "一緒に昼ご飯を食べませんか。",
+        "reading": "いっしょにひるごはんをたべませんか。",
+        "meanings": [
+          {
+            "en": "Would you like to have lunch together?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "いいですよ。",
+        "reading": "いいですよ。",
+        "meanings": [
+          {
+            "en": "Sure. / I'd love to."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "十二時はどうですか。",
+        "reading": "じゅうにじはどうですか。",
+        "meanings": [
+          {
+            "en": "How about twelve o'clock?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "大丈夫です。",
+        "reading": "だいじょうぶです。",
+        "meanings": [
+          {
+            "en": "That works for me. / That's fine."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "じゃあ、また明日。",
+        "reading": "じゃあ、またあした。",
+        "meanings": [
+          {
+            "en": "Well then, see you tomorrow."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、また明日。",
+        "reading": "はい、またあした。",
+        "meanings": [
+          {
+            "en": "Yes, see you tomorrow."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Dialogues-Reading.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-dialogue-006",
+    "title": "6. At the supermarket",
+    "lines": [
+      {
+        "speaker": "A",
+        "japanese": "すみません。",
+        "reading": "すみません。",
+        "meanings": [
+          {
+            "en": "Excuse me."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい。",
+        "reading": "はい。",
+        "meanings": [
+          {
+            "en": "Yes?"
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "牛乳はどこですか。",
+        "reading": "ぎゅうにゅうはどこですか。",
+        "meanings": [
+          {
+            "en": "Where is the milk?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "あそこです。",
+        "reading": "あそこです。",
+        "meanings": [
+          {
+            "en": "It's over there."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "パンもありますか。",
+        "reading": "パンもありますか。",
+        "meanings": [
+          {
+            "en": "Do you also have bread?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "はい、となりです。",
+        "reading": "はい、となりです。",
+        "meanings": [
+          {
+            "en": "Yes, it's next to it."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "ありがとうございます。",
+        "reading": "ありがとうございます。",
+        "meanings": [
+          {
+            "en": "Thank you."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "どういたしまして。",
+        "reading": "どういたしまして。",
+        "meanings": [
+          {
+            "en": "You're welcome."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "レジはどこですか。",
+        "reading": "レジはどこですか。",
+        "meanings": [
+          {
+            "en": "Where is the checkout?"
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "あちらです。",
+        "reading": "あちらです。",
+        "meanings": [
+          {
+            "en": "It's over there."
+          }
+        ]
+      },
+      {
+        "speaker": "A",
+        "japanese": "わかりました。",
+        "reading": "わかりました。",
+        "meanings": [
+          {
+            "en": "I understand. / Got it."
+          }
+        ]
+      },
+      {
+        "speaker": "B",
+        "japanese": "ありがとうございました。",
+        "reading": "ありがとうございました。",
+        "meanings": [
+          {
+            "en": "Thank you very much."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Dialogues-Reading.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-dialogue-007",
+    "title": "Dictation 1 — Takumi's self-introduction",
+    "lines": [
+      {
+        "speaker": "Takumi",
+        "japanese": "こんにちは。",
+        "reading": "こんにちは。",
+        "meanings": [
+          {
+            "en": "Hello."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "たくみだ。",
+        "reading": "たくみだ。",
+        "meanings": [
+          {
+            "en": "I'm Takumi."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "日本人だ。",
+        "reading": "にほんじんだ。",
+        "meanings": [
+          {
+            "en": "I'm Japanese."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "二十二歳だ。",
+        "reading": "にじゅうにさいだ。",
+        "meanings": [
+          {
+            "en": "I'm twenty-two years old."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "日本から来た。",
+        "reading": "にほんからきた。",
+        "meanings": [
+          {
+            "en": "I come from Japan."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "これは私の家族だ。",
+        "reading": "これはわたしのかぞくだ。",
+        "meanings": [
+          {
+            "en": "This is my family."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "母はみのりだ。",
+        "reading": "はははみのりだ。",
+        "meanings": [
+          {
+            "en": "My mother's name is Minori."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "中国から来た。",
+        "reading": "ちゅうごくからきた。",
+        "meanings": [
+          {
+            "en": "She comes from China."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "父はりゅうだ。",
+        "reading": "ちちはりゅうだ。",
+        "meanings": [
+          {
+            "en": "My father's name is Ryū."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "韓国人だ。",
+        "reading": "かんこくじんだ。",
+        "meanings": [
+          {
+            "en": "He is Korean."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "弟が二人いる。",
+        "reading": "おとうとがふたりいる。",
+        "meanings": [
+          {
+            "en": "I have two younger brothers."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "あきらとやまとだ。",
+        "reading": "あきらとやまとだ。",
+        "meanings": [
+          {
+            "en": "Their names are Akira and Yamato."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "あきらは学校へ行く。",
+        "reading": "あきらはがっこうへいく。",
+        "meanings": [
+          {
+            "en": "Akira goes to school."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "でも、やまとは大学へ行く。",
+        "reading": "でも、やまとはだいがくへいく。",
+        "meanings": [
+          {
+            "en": "But Yamato goes to university."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "私は日本語と中国語と韓国語を話す。",
+        "reading": "わたしはにほんごとちゅうごくごとかんこくごをはなす。",
+        "meanings": [
+          {
+            "en": "I speak Japanese, Chinese, and Korean."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "土曜日に働いて、本を読んで、フランス語を勉強する。",
+        "reading": "どようびにはたらいて、ほんをよんで、フランスごをべんきょうする。",
+        "meanings": [
+          {
+            "en": "On Saturdays, I work, read books, and study French."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "フランスで働きたい。",
+        "reading": "フランスではたらきたい。",
+        "meanings": [
+          {
+            "en": "I want to work in France."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "弟はフランス語を話さない。",
+        "reading": "おとうとはフランスごをはなさない。",
+        "meanings": [
+          {
+            "en": "My younger brothers don't speak French."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "英語を勉強する。",
+        "reading": "えいごをべんきょうする。",
+        "meanings": [
+          {
+            "en": "They study English."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "家に犬が一匹と猫が三匹いる。",
+        "reading": "いえにいぬがいっぴきとねこがさんびきいる。",
+        "meanings": [
+          {
+            "en": "At home, I have one dog and three cats."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "でも、魚がいない。",
+        "reading": "でも、さかながいない。",
+        "meanings": [
+          {
+            "en": "But I don't have any fish."
+          }
+        ]
+      },
+      {
+        "speaker": "Takumi",
+        "japanese": "またね。",
+        "reading": "またね。",
+        "meanings": [
+          {
+            "en": "See you."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Dictation 1.pdf",
+        "page": 1,
+        "note": "Japanese text is an image with furigana; read visually"
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-dialogue-008",
+    "title": "Reading Session 1",
+    "lines": [
+      {
+        "japanese": "私は日本人です。",
+        "reading": "わたしはにほんじんです。",
+        "meanings": [
+          {
+            "en": "I am Japanese."
+          }
+        ]
+      },
+      {
+        "japanese": "家に父と母と兄と妹と犬がいます。",
+        "reading": "いえにちちとははとあにといもうといぬがいます。",
+        "meanings": [
+          {
+            "en": "At home, I have my father, mother, older brother, younger sister, and a dog."
+          }
+        ]
+      },
+      {
+        "japanese": "父は先生です。",
+        "reading": "ちちはせんせいです。",
+        "meanings": [
+          {
+            "en": "My father is a teacher."
+          }
+        ]
+      },
+      {
+        "japanese": "兄は大学へ行きます。",
+        "reading": "あにはだいがくへいきます。",
+        "meanings": [
+          {
+            "en": "My older brother goes to university."
+          }
+        ]
+      },
+      {
+        "japanese": "妹は学校へ行きます。",
+        "reading": "いもうとはがっこうへいきます。",
+        "meanings": [
+          {
+            "en": "My younger sister goes to school."
+          }
+        ]
+      },
+      {
+        "japanese": "私は学生です。",
+        "reading": "わたしはがくせいです。",
+        "meanings": [
+          {
+            "en": "I am a student."
+          }
+        ]
+      },
+      {
+        "japanese": "朝、パンとチーズを食べます。",
+        "reading": "あさ、パンとチーズをたべます。",
+        "meanings": [
+          {
+            "en": "In the morning, I eat bread and cheese."
+          }
+        ]
+      },
+      {
+        "japanese": "お茶を飲みます。",
+        "reading": "おちゃをのみます。",
+        "meanings": [
+          {
+            "en": "I drink tea."
+          }
+        ]
+      },
+      {
+        "japanese": "学校へ行きます。",
+        "reading": "がっこうへいきます。",
+        "meanings": [
+          {
+            "en": "I go to school."
+          }
+        ]
+      },
+      {
+        "japanese": "先生は日本語を話します。",
+        "reading": "せんせいはにほんごをはなします。",
+        "meanings": [
+          {
+            "en": "My teacher speaks Japanese."
+          }
+        ]
+      },
+      {
+        "japanese": "私は日本語を聞きます。",
+        "reading": "わたしはにほんごをききます。",
+        "meanings": [
+          {
+            "en": "I listen to Japanese."
+          }
+        ]
+      },
+      {
+        "japanese": "日本語を読みます。",
+        "reading": "にほんごをよみます。",
+        "meanings": [
+          {
+            "en": "I read Japanese."
+          }
+        ]
+      },
+      {
+        "japanese": "友だちはフランス人です。",
+        "reading": "ともだちはフランスじんです。",
+        "meanings": [
+          {
+            "en": "My friend is French."
+          }
+        ]
+      },
+      {
+        "japanese": "英語とフランス語を話します。",
+        "reading": "えいごとフランスごをはなします。",
+        "meanings": [
+          {
+            "en": "They speak English and French."
+          }
+        ]
+      },
+      {
+        "japanese": "私は英語も話します。",
+        "reading": "わたしはえいごもはなします。",
+        "meanings": [
+          {
+            "en": "I also speak English."
+          }
+        ]
+      },
+      {
+        "japanese": "家に本と辞書があります。",
+        "reading": "いえにほんとじしょがあります。",
+        "meanings": [
+          {
+            "en": "There are books and a dictionary at home."
+          }
+        ]
+      },
+      {
+        "japanese": "ノートもあります。",
+        "reading": "ノートもあります。",
+        "meanings": [
+          {
+            "en": "There is also a notebook."
+          }
+        ]
+      },
+      {
+        "japanese": "私は本を読みます。",
+        "reading": "わたしはほんをよみます。",
+        "meanings": [
+          {
+            "en": "I read books."
+          }
+        ]
+      },
+      {
+        "japanese": "今日は日曜日です。",
+        "reading": "きょうはにちようびです。",
+        "meanings": [
+          {
+            "en": "Today is Sunday."
+          }
+        ]
+      },
+      {
+        "japanese": "私は先生を待ちます。",
+        "reading": "わたしはせんせいをまちます。",
+        "meanings": [
+          {
+            "en": "I wait for my teacher."
+          }
+        ]
+      },
+      {
+        "japanese": "家へ来ます。",
+        "reading": "いえへきます。",
+        "meanings": [
+          {
+            "en": "I come home."
+          }
+        ]
+      },
+      {
+        "japanese": "家で日本語を読みます。",
+        "reading": "いえでにほんごをよみます。",
+        "meanings": [
+          {
+            "en": "I read Japanese at home."
+          }
+        ]
+      },
+      {
+        "japanese": "山の上に雪があります。",
+        "reading": "やまのうえにゆきがあります。",
+        "meanings": [
+          {
+            "en": "There is snow on the mountain."
+          }
+        ]
+      },
+      {
+        "japanese": "山の下に土があります。",
+        "reading": "やまのしたにつちがあります。",
+        "meanings": [
+          {
+            "en": "There is soil below the mountain."
+          }
+        ]
+      },
+      {
+        "japanese": "自然があります。",
+        "reading": "しぜんがあります。",
+        "meanings": [
+          {
+            "en": "There is nature."
+          }
+        ]
+      },
+      {
+        "japanese": "父は新聞を読みます。",
+        "reading": "ちちはしんぶんをよみます。",
+        "meanings": [
+          {
+            "en": "My father reads the newspaper."
+          }
+        ]
+      },
+      {
+        "japanese": "母は音楽を聞きます。",
+        "reading": "はははおんがくをききます。",
+        "meanings": [
+          {
+            "en": "My mother listens to music."
+          }
+        ]
+      },
+      {
+        "japanese": "兄はゲームをします。",
+        "reading": "あにはゲームをします。",
+        "meanings": [
+          {
+            "en": "My older brother plays games."
+          }
+        ]
+      },
+      {
+        "japanese": "犬は庭にいます。",
+        "reading": "いぬはにわにいます。",
+        "meanings": [
+          {
+            "en": "The dog is in the garden."
+          }
+        ]
+      },
+      {
+        "japanese": "庭に花があります。",
+        "reading": "にわにはながあります。",
+        "meanings": [
+          {
+            "en": "There are flowers in the garden."
+          }
+        ]
+      },
+      {
+        "japanese": "空は青いです。",
+        "reading": "そらはあおいです。",
+        "meanings": [
+          {
+            "en": "The sky is blue."
+          }
+        ]
+      },
+      {
+        "japanese": "山もあります。",
+        "reading": "やまもあります。",
+        "meanings": [
+          {
+            "en": "There is also a mountain."
+          }
+        ]
+      }
+    ],
+    "lessonIds": [
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Reading Session 1.pdf",
+        "page": 1,
+        "note": "10-part reading passage, pages 1-10"
+      }
+    ]
+  }
+]

@@ -1,0 +1,236 @@
+{
+  "id": "class-03",
+  "order": 4,
+  "title": [
+    {
+      "en": "Class N°03"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "file": "KANJI - SET N°03 - synthesis & assignments.pdf"
+    },
+    {
+      "file": "Class N°03 - synthesis & assignments.pdf"
+    }
+  ],
+  "sections": [
+    {
+      "id": "class-03-section-kanji",
+      "title": [
+        {
+          "en": "Kanji"
+        }
+      ],
+      "kind": "kanji",
+      "itemIds": [
+        "class-03-kanji-001",
+        "class-03-kanji-002",
+        "class-03-kanji-003",
+        "class-03-kanji-004",
+        "class-03-kanji-005",
+        "class-03-kanji-006",
+        "class-03-kanji-007",
+        "class-03-kanji-008",
+        "class-03-kanji-009",
+        "class-03-kanji-010",
+        "class-03-kanji-011",
+        "class-03-kanji-012",
+        "class-03-kanji-013",
+        "class-03-kanji-014",
+        "class-03-kanji-015",
+        "class-03-kanji-016",
+        "class-03-kanji-017",
+        "class-03-kanji-018",
+        "class-03-kanji-019",
+        "class-03-kanji-020",
+        "class-03-kanji-021",
+        "class-03-kanji-022",
+        "class-03-kanji-023",
+        "class-03-kanji-024",
+        "class-03-kanji-025"
+      ]
+    },
+    {
+      "id": "class-03-section-vocabulary",
+      "title": [
+        {
+          "en": "Vocabulary"
+        }
+      ],
+      "kind": "vocabulary",
+      "itemIds": [
+        "class-03-vocab-001",
+        "class-03-vocab-002",
+        "class-03-vocab-003",
+        "class-03-vocab-004",
+        "class-03-vocab-005",
+        "class-03-vocab-006",
+        "class-03-vocab-007",
+        "class-03-vocab-008",
+        "class-03-vocab-009",
+        "class-03-vocab-010",
+        "class-03-vocab-011",
+        "class-03-vocab-012",
+        "class-03-vocab-013",
+        "class-03-vocab-014",
+        "class-03-vocab-015",
+        "class-03-vocab-016",
+        "class-03-vocab-017",
+        "class-03-vocab-018",
+        "class-03-vocab-019",
+        "class-03-vocab-020",
+        "class-03-vocab-021",
+        "class-03-vocab-022",
+        "class-03-vocab-023",
+        "class-03-vocab-024",
+        "class-03-vocab-025",
+        "class-03-vocab-026",
+        "class-03-vocab-027",
+        "class-03-vocab-028",
+        "class-03-vocab-029",
+        "class-03-vocab-030",
+        "class-03-vocab-031",
+        "class-03-vocab-032",
+        "class-03-vocab-033",
+        "class-03-vocab-034",
+        "class-03-vocab-035",
+        "class-03-vocab-036",
+        "class-03-vocab-037",
+        "class-03-vocab-038",
+        "class-03-vocab-039",
+        "class-03-vocab-040",
+        "class-03-vocab-041",
+        "class-03-vocab-042",
+        "class-03-vocab-043",
+        "class-03-vocab-044",
+        "class-03-vocab-045",
+        "class-03-vocab-046",
+        "class-03-vocab-047",
+        "class-03-vocab-048",
+        "class-03-vocab-049",
+        "class-03-vocab-050",
+        "class-03-vocab-051",
+        "class-03-vocab-052",
+        "class-03-vocab-053",
+        "class-03-vocab-054",
+        "class-03-vocab-055",
+        "class-03-vocab-056",
+        "class-03-vocab-057",
+        "class-03-vocab-058",
+        "class-03-vocab-059",
+        "class-03-vocab-060",
+        "class-03-vocab-061",
+        "class-03-vocab-062",
+        "class-03-vocab-063",
+        "class-03-vocab-064",
+        "class-03-vocab-065",
+        "class-03-vocab-066",
+        "class-03-vocab-067",
+        "class-03-vocab-068",
+        "class-03-vocab-069",
+        "class-03-vocab-070",
+        "class-03-vocab-071",
+        "class-03-vocab-072",
+        "class-03-vocab-073",
+        "class-03-vocab-074",
+        "class-03-vocab-075",
+        "class-03-vocab-076"
+      ]
+    },
+    {
+      "id": "class-03-section-examples",
+      "title": [
+        {
+          "en": "Example sentences"
+        }
+      ],
+      "kind": "examples",
+      "itemIds": [
+        "class-03-example-001",
+        "class-03-example-002",
+        "class-03-example-003",
+        "class-03-example-004",
+        "class-03-example-005",
+        "class-03-example-006",
+        "class-03-example-007",
+        "class-03-example-008",
+        "class-03-example-009",
+        "class-03-example-010",
+        "class-03-example-011",
+        "class-03-example-012",
+        "class-03-example-013",
+        "class-03-example-014",
+        "class-03-example-015",
+        "class-03-example-016",
+        "class-03-example-017",
+        "class-03-example-018",
+        "class-03-example-019",
+        "class-03-example-020",
+        "class-03-example-021",
+        "class-03-example-022",
+        "class-03-example-023",
+        "class-03-example-024",
+        "class-03-example-025",
+        "class-03-example-026",
+        "class-03-example-027",
+        "class-03-example-028",
+        "class-03-example-029",
+        "class-03-example-030",
+        "class-03-example-031",
+        "class-03-example-032",
+        "class-03-example-033",
+        "class-03-example-034",
+        "class-03-example-035",
+        "class-03-example-036",
+        "class-03-example-037",
+        "class-03-example-038",
+        "class-03-example-039",
+        "class-03-example-040",
+        "class-03-example-041",
+        "class-03-example-042",
+        "class-03-example-043",
+        "class-03-example-044",
+        "class-03-example-045",
+        "class-03-example-046",
+        "class-03-example-047",
+        "class-03-example-048",
+        "class-03-example-049",
+        "class-03-example-050",
+        "class-03-example-051",
+        "class-03-example-052",
+        "class-03-example-053",
+        "class-03-example-054",
+        "class-03-example-055",
+        "class-03-example-056",
+        "class-03-example-057",
+        "class-03-example-058",
+        "class-03-example-059",
+        "class-03-example-060",
+        "class-03-example-061",
+        "class-03-example-062",
+        "class-03-example-063",
+        "class-03-example-064",
+        "class-03-example-065",
+        "class-03-example-066",
+        "class-03-example-067",
+        "class-03-example-068",
+        "class-03-example-069"
+      ]
+    },
+    {
+      "id": "class-03-section-grammar",
+      "title": [
+        {
+          "en": "Grammar"
+        }
+      ],
+      "kind": "grammar",
+      "itemIds": [
+        "class-03-grammar-001",
+        "class-03-grammar-002",
+        "class-03-grammar-003"
+      ]
+    }
+  ]
+}

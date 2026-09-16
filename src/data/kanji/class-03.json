@@ -1,0 +1,691 @@
+[
+  {
+    "id": "class-03-kanji-001",
+    "character": "今",
+    "meanings": [
+      {
+        "en": "now"
+      }
+    ],
+    "readings": [
+      "いま"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 5
+      }
+    ],
+    "vocabularyIds": [
+      "class-03-vocab-001",
+      "class-03-vocab-002",
+      "class-03-vocab-003"
+    ]
+  },
+  {
+    "id": "class-03-kanji-002",
+    "character": "入",
+    "meanings": [
+      {
+        "en": "to enter, to put in"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 6
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"入る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-004",
+      "class-03-vocab-005",
+      "class-03-vocab-006"
+    ]
+  },
+  {
+    "id": "class-03-kanji-003",
+    "character": "出",
+    "meanings": [
+      {
+        "en": "to go out"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 7
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"出る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-007",
+      "class-03-vocab-008",
+      "class-03-vocab-009"
+    ]
+  },
+  {
+    "id": "class-03-kanji-004",
+    "character": "口",
+    "meanings": [
+      {
+        "en": "mouth"
+      }
+    ],
+    "readings": [
+      "くち"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 8
+      }
+    ],
+    "vocabularyIds": [
+      "class-03-vocab-010",
+      "class-03-vocab-011"
+    ]
+  },
+  {
+    "id": "class-03-kanji-005",
+    "character": "目",
+    "meanings": [
+      {
+        "en": "eye"
+      }
+    ],
+    "readings": [
+      "め"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-03-kanji-006",
+    "character": "耳",
+    "meanings": [
+      {
+        "en": "ear"
+      }
+    ],
+    "readings": [
+      "みみ"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "class-03-kanji-007",
+    "character": "手",
+    "meanings": [
+      {
+        "en": "hand"
+      }
+    ],
+    "readings": [
+      "て"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 14
+      }
+    ],
+    "vocabularyIds": [
+      "class-03-vocab-012",
+      "class-03-vocab-013"
+    ]
+  },
+  {
+    "id": "class-03-kanji-008",
+    "character": "足",
+    "meanings": [
+      {
+        "en": "foot, leg"
+      }
+    ],
+    "readings": [
+      "あし"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 15
+      }
+    ],
+    "vocabularyIds": [
+      "class-03-vocab-014",
+      "class-03-vocab-015"
+    ]
+  },
+  {
+    "id": "class-03-kanji-009",
+    "character": "身",
+    "meanings": [
+      {
+        "en": "somebody, person"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 16
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "This kanji is listed in the slide deck's kanji-of-the-week pages but never appears (standalone or in a compound) in the synthesis doc's vocabulary list, so no reading or example word is available from course material for it yet."
+    }
+  },
+  {
+    "id": "class-03-kanji-010",
+    "character": "休",
+    "meanings": [
+      {
+        "en": "to rest"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 17
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"休む\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-016",
+      "class-03-vocab-017"
+    ]
+  },
+  {
+    "id": "class-03-kanji-011",
+    "character": "体",
+    "meanings": [
+      {
+        "en": "body"
+      }
+    ],
+    "readings": [
+      "からだ"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 21
+      }
+    ],
+    "vocabularyIds": [
+      "class-03-vocab-018"
+    ]
+  },
+  {
+    "id": "class-03-kanji-012",
+    "character": "自",
+    "meanings": [
+      {
+        "en": "oneself"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 22
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"自分\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-019"
+    ]
+  },
+  {
+    "id": "class-03-kanji-013",
+    "character": "見",
+    "meanings": [
+      {
+        "en": "to see, to watch, to look"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 23
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"見る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-020",
+      "class-03-vocab-021"
+    ]
+  },
+  {
+    "id": "class-03-kanji-014",
+    "character": "聞",
+    "meanings": [
+      {
+        "en": "to listen, to hear, to ask"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 24
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"聞く\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-022"
+    ]
+  },
+  {
+    "id": "class-03-kanji-015",
+    "character": "言",
+    "meanings": [
+      {
+        "en": "to say, word"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 25
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"言う\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-023"
+    ]
+  },
+  {
+    "id": "class-03-kanji-016",
+    "character": "語",
+    "meanings": [
+      {
+        "en": "word, language, to tell"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 29
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"語る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-024",
+      "class-03-vocab-025",
+      "class-03-vocab-026",
+      "class-03-vocab-027"
+    ]
+  },
+  {
+    "id": "class-03-kanji-017",
+    "character": "行",
+    "meanings": [
+      {
+        "en": "to go"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 30
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"行く\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-028",
+      "class-03-vocab-029"
+    ]
+  },
+  {
+    "id": "class-03-kanji-018",
+    "character": "来",
+    "meanings": [
+      {
+        "en": "to come"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 31
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"来る\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-03-vocab-030",
+      "class-03-vocab-031",
+      "class-03-vocab-032",
+      "class-03-vocab-033"
+    ]
+  },
+  {
+    "id": "class-03-kanji-019",
+    "character": "方",
+    "meanings": [
+      {
+        "en": "the way of [+ verb]"
+      }
+    ],
+    "readings": [
+      "かた"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 32
+      }
+    ],
+    "vocabularyIds": [
+      "class-03-vocab-034"
+    ]
+  },
+  {
+    "id": "class-03-kanji-020",
+    "character": "東",
+    "meanings": [
+      {
+        "en": "East"
+      }
+    ],
+    "readings": [
+      "ひがし"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 33
+      }
+    ],
+    "vocabularyIds": [
+      "class-03-vocab-035"
+    ]
+  },
+  {
+    "id": "class-03-kanji-021",
+    "character": "西",
+    "meanings": [
+      {
+        "en": "West"
+      }
+    ],
+    "readings": [
+      "にし"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 37
+      }
+    ],
+    "vocabularyIds": [
+      "class-03-vocab-036"
+    ]
+  },
+  {
+    "id": "class-03-kanji-022",
+    "character": "北",
+    "meanings": [
+      {
+        "en": "North"
+      }
+    ],
+    "readings": [
+      "きた"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "id": "class-03-kanji-023",
+    "character": "南",
+    "meanings": [
+      {
+        "en": "South"
+      }
+    ],
+    "readings": [
+      "みなみ"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 39
+      }
+    ]
+  },
+  {
+    "id": "class-03-kanji-024",
+    "character": "左",
+    "meanings": [
+      {
+        "en": "left"
+      }
+    ],
+    "readings": [
+      "ひだり"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 40
+      }
+    ]
+  },
+  {
+    "id": "class-03-kanji-025",
+    "character": "右",
+    "meanings": [
+      {
+        "en": "right"
+      }
+    ],
+    "readings": [
+      "みぎ"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°03 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°03.pdf",
+        "page": 41
+      }
+    ]
+  }
+]

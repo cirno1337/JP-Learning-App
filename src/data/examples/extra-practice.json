@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "extra-practice-example-001",
+    "japanese": "これは猫だ。",
+    "reading": "これはねこだ。",
+    "meanings": [
+      {
+        "en": "This is a cat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-002",
+    "japanese": "私は日本人だ。",
+    "reading": "わたしはにほんじんだ。",
+    "meanings": [
+      {
+        "en": "I am Japanese."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-003",
+    "japanese": "私が日本人だ。",
+    "reading": "わたしがにほんじんだ。",
+    "meanings": [
+      {
+        "en": "I am the one who is Japanese. / I am Japanese."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-004",
+    "japanese": "これは私の猫だ。",
+    "reading": "これはわたしのねこだ。",
+    "meanings": [
+      {
+        "en": "This is my cat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-005",
+    "japanese": "猫は黒い。",
+    "reading": "ねこはくろい。",
+    "meanings": [
+      {
+        "en": "Cats are black. / The cat is black."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-006",
+    "japanese": "黒い猫を見る。",
+    "reading": "くろいねこをみる。",
+    "meanings": [
+      {
+        "en": "I see a black cat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-007",
+    "japanese": "りんごは緑。",
+    "reading": "りんごはみどり。",
+    "meanings": [
+      {
+        "en": "Apples are green. / The apple is green."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-008",
+    "japanese": "緑のりんごを食べる。",
+    "reading": "みどりのりんごをたべる。",
+    "meanings": [
+      {
+        "en": "I eat a green apple."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-009",
+    "japanese": "黒い猫に緑のりんごをあげる。",
+    "reading": "くろいねこにみどりのりんごをあげる。",
+    "meanings": [
+      {
+        "en": "I give a green apple to a black cat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-010",
+    "japanese": "猫は水と牛乳を飲む。",
+    "reading": "ねこはみずとぎゅうにゅうをのむ。",
+    "meanings": [
+      {
+        "en": "The cat drinks water and milk."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-011",
+    "japanese": "猫と遊びたい。",
+    "reading": "ねことあそびたい。",
+    "meanings": [
+      {
+        "en": "I want to play with the cat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-012",
+    "japanese": "日曜日に母とお茶を飲む。",
+    "reading": "にちようびにははとおちゃをのむ。",
+    "meanings": [
+      {
+        "en": "On Sunday, I drink tea with my mother."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-013",
+    "japanese": "黒い猫がいる。",
+    "reading": "わたしにはくろいねこがいる。",
+    "meanings": [
+      {
+        "en": "I have a black cat."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-014",
+    "japanese": "お茶がある。",
+    "reading": "おちゃがある。",
+    "meanings": [
+      {
+        "en": "I have tea. / There is tea."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-015",
+    "japanese": "月曜日にサッカーをして、本を読んで、ラーメンを食べる。",
+    "reading": "げつようびにさっかーをして、ほんをよんで、らーめんをたべる。",
+    "meanings": [
+      {
+        "en": "On Monday, I play football, read a book, and eat ramen."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-016",
+    "japanese": "弟も月曜日にお茶を飲む。",
+    "reading": "おとうともげつようびにおちゃをのむ。",
+    "meanings": [
+      {
+        "en": "My younger brother also drinks tea on Monday."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-017",
+    "japanese": "弟は日本から来た。",
+    "reading": "おとうとはにほんからきた。",
+    "meanings": [
+      {
+        "en": "My younger brother comes from Japan."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-018",
+    "japanese": "あなたの弟は日本人だの？",
+    "reading": "あなたのおとうとはにほんじんだの？",
+    "meanings": [
+      {
+        "en": "Is your younger brother Japanese?"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-019",
+    "japanese": "あなたの弟は日本人ですか？",
+    "reading": "あなたのおとうとはにほんじんですか？",
+    "meanings": [
+      {
+        "en": "Is your younger brother Japanese?"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-020",
+    "japanese": "弟は日本人だよ。",
+    "reading": "おとうとはにほんじんだよ。",
+    "meanings": [
+      {
+        "en": "My younger brother is Japanese."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-021",
+    "japanese": "これは友だちの犬だ。",
+    "reading": "これはともだちのいぬだ。",
+    "meanings": [
+      {
+        "en": "This is my friend's dog."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-022",
+    "japanese": "友だちは「こんにちは」と言う。",
+    "reading": "ともだちは「こんにちは」という。",
+    "meanings": [
+      {
+        "en": "My friend says \"hello.\""
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-023",
+    "japanese": "学校に本がある。",
+    "reading": "がっこうにほんがある。",
+    "meanings": [
+      {
+        "en": "There is a book at school."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-024",
+    "japanese": "学校で学生が話す。",
+    "reading": "がっこうでがくせいがはなす。",
+    "meanings": [
+      {
+        "en": "Students talk at school."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-025",
+    "japanese": "山に行きたい。",
+    "reading": "やまにいきたい。",
+    "meanings": [
+      {
+        "en": "I want to go to the mountains."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 3
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-026",
+    "japanese": "山へ行きたい。",
+    "reading": "やまへいきたい。",
+    "meanings": [
+      {
+        "en": "I want to go to the mountains."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-027",
+    "japanese": "山が好き。",
+    "reading": "やまがすき。",
+    "meanings": [
+      {
+        "en": "I like mountains."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-028",
+    "japanese": "山が大好き。",
+    "reading": "やまがだいすき。",
+    "meanings": [
+      {
+        "en": "I love mountains."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-029",
+    "japanese": "パンケーキ。テイータイム。",
+    "meanings": [
+      {
+        "en": "Pancakes. It’s tea time."
+      }
+    ],
+    "notes": "Word/particle analysis: ンケーキ: pancake | テイータイム: tea time",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-030",
+    "japanese": "マミピッグから嬉しいサプライズです。",
+    "meanings": [
+      {
+        "en": "It's a pleasant surprise from Mummy Pig."
+      }
+    ],
+    "notes": "Word/particle analysis: マミピッグ: Mummy Pig | から: particle indicating the source (\"from\") | 嬉しい: pleasant | サプライズ: noun (loanword, \"surprise\") | です: polite copula",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-031",
+    "japanese": "今日はパンケーキを作るわね。",
+    "meanings": [
+      {
+        "en": "Today we’ll make pancakes."
+      }
+    ],
+    "notes": "Word/particle analysis: 今日: today | は: topic particle | パンケーキ: pancake | を: object particle | 作る: to make | わ: feminine sentence-ending particle | ね: sentence-ending particle seeking agreement",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-032",
+    "japanese": "パンケーキか、美味しいんだよな。",
+    "meanings": [
+      {
+        "en": "Pancakes! That’s delicious!"
+      }
+    ],
+    "notes": "Word/particle analysis: パンケーキ: pancake | か: sentence-ending particle expressing realization or reflection | 美味しい: delicious | ん: explanatory の | だ: explanatory copula | よ: sentence-ending particle adding emphasis | な: sentence-ending particle expressing reflection or agreement",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-033",
+    "japanese": "パンケーキ大好き。",
+    "meanings": [
+      {
+        "en": "I love pancakes."
+      }
+    ],
+    "notes": "Word/particle analysis: パンケーキ: pancake | 大好きな: loved",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-034",
+    "japanese": "みんなパンケーキが大好きです。",
+    "meanings": [
+      {
+        "en": "Everyone love pancakes."
+      }
+    ],
+    "notes": "Word/particle analysis: みんな: everyone | パンケーキ: pancake | が: subject particle | 大好きな: loved | です: polite suffix",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-035",
+    "japanese": "パンケーキをひっくり返すのは得意なんだ。",
+    "meanings": [
+      {
+        "en": "I'm good at flipping pancakes."
+      }
+    ],
+    "notes": "Word/particle analysis: パンケーキ: pancake | を: object particle | ひっくり返す: to flip over | の: nominalizer | は: topic particle | 得意な: good at, skilled | な: verb “だ” | んだ: explanatory の + だ",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-036",
+    "japanese": "任せておいて。",
+    "meanings": [
+      {
+        "en": "Leave it to me."
+      }
+    ],
+    "notes": "Word/particle analysis: 任せて: te-form of 任せる, to leave to someone, to entrust | おいて: te-form of おく, “do in advance” or \"leave it that way\"",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-037",
+    "japanese": "本当に大丈夫？",
+    "meanings": [
+      {
+        "en": "Are you sure about it?"
+      }
+    ],
+    "notes": "Word/particle analysis: 本当に: adverb, really | 大丈夫な: okay, all right",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-038",
+    "japanese": "この前はパンケーキを床に落としてイライラしてたけど。",
+    "meanings": [
+      {
+        "en": "But the other day, you dropped the pancake on the floor and got frustrated."
+      }
+    ],
+    "notes": "Word/particle analysis: この前: the other day | は: topic particle | パンケーキ: pancake | を: object particle | 床: floor | に: particle indicating destination/location | 落として: te-form of 落とす, to drop | イライラしてた: was irritated, was frustrated | けど: conjunction meaning \"but\", often leaving the sentence unfinished",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-039",
+    "japanese": "イライラなんかしてないよ。",
+    "meanings": [
+      {
+        "en": "I wasn't frustrated at all!"
+      }
+    ],
+    "notes": "Word/particle analysis: イライラ: irritation, frustration | なんか: particle adding emphasis, \"or anything like that\", “at all” | してない: contracted form of していない, \"not doing\", \"not being\" | よ: sentence-ending particle adding emphasis",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-040",
+    "japanese": "フライパンの調子が悪かったんだ。",
+    "meanings": [
+      {
+        "en": "It was a bad frying pan."
+      }
+    ],
+    "notes": "Word/particle analysis: フライパン: frying pan | の: possessive particle | 調子: condition, state | が: subject particle | 悪かった: i-adjective (past), was bad | んだ: explanatory の + だ",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-041",
+    "japanese": "マミー、パンケーキ作るのお手伝いしてもいい？",
+    "meanings": [
+      {
+        "en": "Mummy, may I help make the pancakes?"
+      }
+    ],
+    "notes": "Word/particle analysis: マミー: Mummy | パンケーキ: pancake | 作る: to make | の: nominalizer | お: honorific prefix | 手伝いして: te-form of the verb to help: お手伝いする | もいい: is it okay if I do, may I",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-042",
+    "japanese": "それじゃあ、一緒に生地を作りましょう。",
+    "meanings": [
+      {
+        "en": "Well then, let's make the dough together."
+      }
+    ],
+    "notes": "Word/particle analysis: それじゃあ: well then | 一緒: together | に: adverbial particle | 生地: dough | を: object particle | 作りましょう: volitional polite form of 作る, let's make",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-043",
+    "japanese": "まず、ボールに小麦粉を入れるわね。",
+    "meanings": [
+      {
+        "en": "First, we'll put the flour into the bowl."
+      }
+    ],
+    "notes": "Word/particle analysis: まず: first | ボール: bowl | に: particle indicating destination | 小麦粉: flour | を: object particle | 入れる: to put in | わ: feminine sentence-ending particle | ね: sentence-ending particle seeking agreement",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 1_4.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-044",
+    "japanese": "次に卵。",
+    "meanings": [
+      {
+        "en": "Next, the eggs."
+      }
+    ],
+    "notes": "Word/particle analysis: 次に: next | 卵: egg",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-045",
+    "japanese": "牛乳を入れて。",
+    "meanings": [
+      {
+        "en": "We add the milk."
+      }
+    ],
+    "notes": "Word/particle analysis: 牛乳: milk | を: object particle | 入れて: te-form of 入れる, to add, to put in",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-046",
+    "japanese": "よーくかき混ぜるの。",
+    "meanings": [
+      {
+        "en": "We mix it well."
+      }
+    ],
+    "notes": "Word/particle analysis: よーく: thoroughly, well | かき混ぜる: to stir, to mix thoroughly | の: particle giving a soft explanatory/instructional tone",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-047",
+    "japanese": "マミー、かき混ぜていい？",
+    "meanings": [
+      {
+        "en": "Mommy, can I stir it?"
+      }
+    ],
+    "notes": "Word/particle analysis: マミー: Mommy | かき混ぜて: te-form of かき混ぜる, to stir, to mix | いい: i-adjective, good; in ～ていい, \"may / is it okay to\"",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-048",
+    "japanese": "ええ、良いわよ、ペッパ。",
+    "meanings": [
+      {
+        "en": "Yes, you can, Peppa."
+      }
+    ],
+    "notes": "Word/particle analysis: ええ: yes, sure | 良い: i-adjective, good, okay | わ: feminine sentence-ending particle | よ: sentence-ending particle adding emphasis | ペッパ: Peppa",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-049",
+    "japanese": "ペッパはかき混ぜるのが大好き。",
+    "meanings": [
+      {
+        "en": "Peppa loves stirring."
+      }
+    ],
+    "notes": "Word/particle analysis: ペッパ: Peppa | は: topic particle | かき混ぜる: to stir, to mix | の: nominalizer | が: subject particle | 大好き: na-adjective, love, be very fond of",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-050",
+    "japanese": "ジョージもかき混ぜたいようです。",
+    "meanings": [
+      {
+        "en": "It seems George wants to stir too."
+      }
+    ],
+    "notes": "Word/particle analysis: ジョージ: George | も: particle meaning \"also, too\" | かき混ぜたい: want to stir, want to mix | よう: seems, appears | です: polite copula",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-051",
+    "japanese": "ジョージ、こうやるのよ。",
+    "meanings": [
+      {
+        "en": "George, this is how you do it."
+      }
+    ],
+    "notes": "Word/particle analysis: ジョージ: George | こう: like this, this way | やる: to do | の: explanatory sentence-ending particle | よ: sentence-ending particle adding emphasis",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-052",
+    "japanese": "はーい、それぐらいで良いわよ。",
+    "meanings": [
+      {
+        "en": "Okay, that's enough."
+      }
+    ],
+    "notes": "Word/particle analysis: はい: okay, yes | それぐらい: about that much, that's enough | で: particle indicating an acceptable amount/state, \"with that\" | 良い: i-adjective, good, fine | わ: feminine sentence-ending particle | よ: sentence-ending particle adding emphasis",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-053",
+    "japanese": "マミーがパンケーキを焼くから座って待っててね。",
+    "meanings": [
+      {
+        "en": "Mommy will cook the pancakes, so sit down and wait, okay?"
+      }
+    ],
+    "notes": "Word/particle analysis: マミー: Mommy | が: subject particle | パンケーキ: pancake | を: object particle | 焼く: to cook, to fry | から: because, since | 座って: te-form of 座る, to sit | 待ってて: contracted form of 待っていて, wait, keep waiting | ね: sentence-ending particle adding a soft, friendly tone",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-054",
+    "japanese": "マミーピッグがパンケーキをひっくり返します。/// すごーい！",
+    "meanings": [
+      {
+        "en": "Mummy Pig flips the pancake. /// Amazing!"
+      }
+    ],
+    "notes": "Word/particle analysis: マミーピッグ: Mummy Pig | が: subject particle | パンケーキ: pancake | を: object particle | ひっくり返します: to flip over, polite form of ひっくり返す | すごい: i-adjective, amazing, awesome",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-055",
+    "japanese": "もっと高く放りあげなきゃ。",
+    "meanings": [
+      {
+        "en": "You’ve got to toss it higher."
+      }
+    ],
+    "notes": "Word/particle analysis: もっと: more, further | 高く: i-adjective adverbial form of 高い, high → highly | 放りあげなきゃ: contraction of 放り上げなければ, must toss up",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-056",
+    "japanese": "じゃあ、自分の分を焼くときにやって見せて、ダディーピッグ。",
+    "meanings": [
+      {
+        "en": "Then show us when you cook your own, Daddy Pig."
+      }
+    ],
+    "notes": "Word/particle analysis: じゃあ: then, well then | 自分: oneself, one's own | の: possessive particle | 分: share, portion | を: object particle | 焼く: to cook, to fry | とき: when | に: particle indicating the occasion/time | やって: te-form of やる, to do | 見せて: te-form of 見せる, to show | ダディーピッグ: Daddy Pig",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-057",
+    "japanese": "1枚目はジョージの分。",
+    "meanings": [
+      {
+        "en": "The first one is for George."
+      }
+    ],
+    "notes": "Word/particle analysis: 1枚目: the first one | は: topic particle | ジョージ: George | の: possessive particle | 分: share, portion",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-058",
+    "japanese": "マミーピッグがパンケーキにシロップを掛けます。",
+    "meanings": [
+      {
+        "en": "Mummy Pig pours syrup over the pancake."
+      }
+    ],
+    "notes": "Word/particle analysis: マミーピッグ: Mummy Pig | が: subject particle | パンケーキ: pancake | に: particle indicating the target | シロップ: syrup | を: object particle | 掛ける: to pour over, to drizzle",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-059",
+    "japanese": "美味しいね。",
+    "meanings": [
+      {
+        "en": "It's delicious, isn't it?"
+      }
+    ],
+    "notes": "Word/particle analysis: 美味しい: i-adjective, delicious | ね: sentence-ending particle seeking agreement",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 19
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-060",
+    "japanese": "これはペッパの分です。/// すごーい！",
+    "meanings": [
+      {
+        "en": "This one is for Peppa. /// Awesome."
+      }
+    ],
+    "notes": "Word/particle analysis: これ: this | は: topic particle | ペッパ: Peppa | の: possessive particle | 分: share, portion | です: polite copula",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 2_4.pdf",
+        "page": 20
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-061",
+    "japanese": "うーん、もうちょっと高く放り上げないと。",
+    "meanings": [
+      {
+        "en": "Hmm, you need to toss it a little higher."
+      }
+    ],
+    "notes": "Word/particle analysis: うーん: hmm | もうちょっと: a little more | 高く: i-adjective adverbial form of 高い, higher | 放り上げない: negative form of 放り上げる, not toss up | と: conditional particle; ～ないと implies “have to / must”",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-062",
+    "japanese": "だったら、自分の分を焼くときにやって見せてちょうだい、ダディーピッグ。",
+    "meanings": [
+      {
+        "en": "In that case, show us when you cook your own one, Daddy Pig."
+      }
+    ],
+    "notes": "Word/particle analysis: だったら: if so, in that case | 自分: oneself, one's own | の: possessive particle | 分: share, portion | を: object particle | 焼く: to cook, to fry | とき: when | に: particle indicating the occasion | やって: te-form of やる, to do | 見せて: te-form of 見せる, to show | ちょうだい: please, used to make a request | ダディーピッグ: Daddy Pig",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-063",
+    "japanese": "シロップ掛けて。",
+    "meanings": [
+      {
+        "en": "Pour some syrup on it."
+      }
+    ],
+    "notes": "Word/particle analysis: シロップ: syrup | 掛けて: to pour over, to drizzle",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-064",
+    "japanese": "うーん、美味しい。",
+    "meanings": [
+      {
+        "en": "Mmm, delicious."
+      }
+    ],
+    "notes": "Word/particle analysis: うーん: mmm | 美味しい: i-adjective, delicious",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-065",
+    "japanese": "これはマミーピッグの分。/// すごーい！",
+    "meanings": [
+      {
+        "en": "This one Mummy Pig’s pancake. /// Amazing!"
+      }
+    ],
+    "notes": "Word/particle analysis: これ: this | は: topic particle | マミーピッグ: Mummy Pig | の: possessive particle | 分: share, portion | すごい: i-adjective, amazing, awesome",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-066",
+    "japanese": "まだまだ、もうちょっと高く放り上げなきゃ。",
+    "meanings": [
+      {
+        "en": "Not quite, you need to toss it a little higher."
+      }
+    ],
+    "notes": "Word/particle analysis: まだまだ: not yet, still not enough | もうちょっと: a little more | 高く: i-adjective adverbial form of 高い, higher | 放り上げなきゃ: contraction of 放り上げなければ, must toss up",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-067",
+    "japanese": "次はダディーピッグの分だから、どうやれば良いのか、やって見せてちょうだい。",
+    "meanings": [
+      {
+        "en": "The next one is Daddy Pig's, so please show us how to do it."
+      }
+    ],
+    "notes": "Word/particle analysis: 次: next | は: topic particle | ダディーピッグ: Daddy Pig | の: possessive particle | 分: share, portion | だ: plain copula | から: because, since | どう: how | やれば: conditional form of やる, if one does | 良い: i-adjective, good | の: explanatory nominalizer | か: question particle | やって: te-form of やる, to do | 見せて: to show | ちょうだい: please",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-068",
+    "japanese": "うーん、とっても美味しい。",
+    "meanings": [
+      {
+        "en": "Mmm, it’s really delicious."
+      }
+    ],
+    "notes": "Word/particle analysis: うーん: mmm | とっても: very, really | 美味しい: i-adjective, delicious",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-069",
+    "japanese": "みんな良く見てろよ。",
+    "meanings": [
+      {
+        "en": "Everyone, watch carefully!"
+      }
+    ],
+    "notes": "Word/particle analysis: みんな: everyone | 良く: i-adjective adverbial form of 良い, well, carefully | 見てろ: contracted imperative of 見ていろ, watch, keep watching | よ: sentence-ending particle adding emphasis",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-070",
+    "japanese": "パンケーキをひっくり返す時は、高ーく放り上げるのがコツだ。",
+    "meanings": [
+      {
+        "en": "The trick to flipping a pancake is to toss it really high."
+      }
+    ],
+    "notes": "Word/particle analysis: パンケーキ: pancake | を: object particle | ひっくり返す: to flip over | 時: when | は: topic particle | 高ーく: i-adjective adverbial form of 高い, really high | 放り上げる: to toss up | の: nominalizer | が: subject particle | コツ: trick, knack | だ: plain copula",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-071",
+    "japanese": "１、２の３、そーれ！ /// ダディーったら。",
+    "meanings": [
+      {
+        "en": "One, two, three... here we go! /// Oh, Daddy!"
+      }
+    ],
+    "notes": "Word/particle analysis: １: one | ２: two | の: linking particle used in the counting expression | ３: three | そーれ: there we go!, here goes! | ダディー: Daddy | ったら: particle expressing exasperation or affectionate reproach",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-072",
+    "japanese": "あー、ちょっと高すぎたみたいだね。",
+    "meanings": [
+      {
+        "en": "Ah, looks like that was a little too high."
+      }
+    ],
+    "notes": "Word/particle analysis: あー: ah | ちょっと: a little | 高い: i-adjective high | すぎた: was too (much) from すぎる | みたいな: na-adjective, seems, looks like | だ: plain copula | ね: sentence-ending particle seeking agreement",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-073",
+    "japanese": "あらま、大変、最後のパンケーキだったのに。",
+    "meanings": [
+      {
+        "en": "Oh my! Oh no! And that was the last pancake."
+      }
+    ],
+    "notes": "Word/particle analysis: あらま: oh my | 大変な: na-adjective, terrible, serious | 最後の: last | の: linking particle | パンケーキ: pancake | だった: past plain form of だ, was | のに: although, even though; expresses regret or disappointment",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 16
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-074",
+    "japanese": "取れば良いんだろ？ 取ればー。",
+    "meanings": [
+      {
+        "en": "I just have to get it, right? I would get it."
+      }
+    ],
+    "notes": "Word/particle analysis: 取れば: conditional form of 取る, if I get/take it | 良い: i-adjective, good | ん: explanatory の | だろ: contraction of だろう, right?, I suppose | 取ればー: if I get/take it; repeated with emphasis",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 3_4.pdf",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-075",
+    "japanese": "おやおや、パンケーキに手が届きません。",
+    "meanings": [
+      {
+        "en": "Oh dear, he can't reach the pancake."
+      }
+    ],
+    "notes": "Word/particle analysis: おやおや: oh dear | パンケーキ: pancake | に: particle indicating the target | 手: hand | が: subject particle | 届く: to reach",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 4
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-076",
+    "japanese": "大丈夫よ、ダディーピッグ、私たちが取って上げる。",
+    "meanings": [
+      {
+        "en": "It's okay, Daddy Pig. We'll get it for you."
+      }
+    ],
+    "notes": "Word/particle analysis: 大丈夫な: na-adjective, okay, all right | よ: sentence-ending particle adding emphasis | ダディーピッグ: Daddy Pig | 私たち: we, us | が: subject particle | 取って: to get, to take | 上げる: auxiliary meaning to do something for someone",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-077",
+    "japanese": "さあ、２階に行きましょう。/// こっちよ。",
+    "meanings": [
+      {
+        "en": "Come on, let's go upstairs. /// This way."
+      }
+    ],
+    "notes": "Word/particle analysis: さあ: come on, well then | 二階: second floor, upstairs | に: destination particle | 行きましょう: let's go | こっち: this way, over here | よ: sentence-ending particle adding emphasis",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-078",
+    "japanese": "一体何をするつもりなのでしょう？",
+    "meanings": [
+      {
+        "en": "What on earth are they planning to do?"
+      }
+    ],
+    "notes": "Word/particle analysis: 一体: what on earth | 何: what | を: object particle | する: to do | つもり: intention, plan | な: form of だ before の | の: explanatory particle | でしょう: polite form expressing conjecture, “I wonder”",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 7
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-079",
+    "japanese": "じゃあいーい？１、２の３でみんな一緒に飛び跳ねるわよ。",
+    "meanings": [
+      {
+        "en": "Okay, ready? On the count of three, everyone jump together!"
+      }
+    ],
+    "notes": "Word/particle analysis: じゃあ: then, okay then | いい: i-adjective, okay, ready | １、２の３で: on the count of three | みんな: everyone | 一緒に: together | 飛び跳ねる: to jump, to bounce | わ: feminine sentence-ending particle | よ: sentence-ending particle adding emphasis",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-080",
+    "japanese": "１、２の３、ジャンプ。",
+    "meanings": [
+      {
+        "en": "1, 2, 3, jump!"
+      }
+    ],
+    "notes": "Word/particle analysis: １: one | ２: two | の: linking particle used in the counting expression | ３: three | ジャンプ: jump",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-081",
+    "japanese": "何をやってるんだろ？",
+    "meanings": [
+      {
+        "en": "I wonder what they're doing?"
+      }
+    ],
+    "notes": "Word/particle analysis: 何: what | を: object particle | やってる: contracted form of やっている, to be doing | ん: explanatory の | だろ: contraction of だろう, I wonder",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-082",
+    "japanese": "大成功、パンケーキが落ちて来ました。",
+    "meanings": [
+      {
+        "en": "A great success! The pancake fell down."
+      }
+    ],
+    "notes": "Word/particle analysis: 大成功: great success | パンケーキ: pancake | が: subject particle | 落ちる: to fall | きました: auxiliary indicating movement toward the speaker, came",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-083",
+    "japanese": "ダディーの顔に乗ってるよ。",
+    "meanings": [
+      {
+        "en": "It's on Daddy's face!"
+      }
+    ],
+    "notes": "Word/particle analysis: ダディー: Daddy | の: possessive particle | 顔: face | に: particle indicating location | 乗ってる: contracted form of 乗っている, to be on, to be resting on | よ: sentence-ending particle adding emphasis",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 12
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-084",
+    "japanese": "ダディーピッグ、シロップ掛ける？",
+    "meanings": [
+      {
+        "en": "Daddy Pig, do you want some syrup on it?"
+      }
+    ],
+    "notes": "Word/particle analysis: ダディーピッグ: Daddy Pig | シロップ: syrup | 掛ける: to pour over, to drizzle",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 13
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-085",
+    "japanese": "ああ、頼むよ。 /// １、２の３、そーれ！",
+    "meanings": [
+      {
+        "en": "Yeah, please. /// One, two, three... here we go!"
+      }
+    ],
+    "notes": "Word/particle analysis: ああ: yes, yeah | 頼む: to ask, to request; here “please” | よ: sentence-ending particle adding emphasis | １: one | ２: two | の: linking particle used in the counting expression | ３: three | そーれ: here goes!, there we go!",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-086",
+    "japanese": "こりゃあ、美味しいね。",
+    "meanings": [
+      {
+        "en": "This is delicious!"
+      }
+    ],
+    "notes": "Word/particle analysis: こりゃあ: colloquial これは, this | 美味しい: i-adjective, delicious | ね: sentence-ending particle seeking agreement",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 15
+      }
+    ]
+  },
+  {
+    "id": "extra-practice-example-087",
+    "japanese": "ダディーったら。",
+    "meanings": [
+      {
+        "en": "Oh, Daddy!"
+      }
+    ],
+    "notes": "Word/particle analysis: ダディー: Daddy | ったら: particle expressing exasperation or affectionate reproach",
+    "origin": "course",
+    "source": [
+      {
+        "file": "Peppa Pig Analysis 4_4.pdf",
+        "page": 16
+      }
+    ]
+  }
+]

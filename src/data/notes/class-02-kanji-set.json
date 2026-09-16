@@ -1,0 +1,40 @@
+[
+  {
+    "id": "class-02-note-assignments-kanji-set",
+    "kind": "teacher-note",
+    "text": [
+      {
+        "en": "as much as you can. The more you do, better will be the results. / Assignment Kanji Set n°02 (DM for feedback) / Revise the 25 kanji of the day / Revise the vocabulary of the day / Write down the 25 Kanji of the day / Revise previous Kanji & Vocabulary / Keep practicing. If you need any help/support, send me / a private message on Discord (@black.moon_)."
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "note": "Assignments section"
+      }
+    ]
+  },
+  {
+    "id": "class-02-note-bonus-kanji-set",
+    "kind": "useful-link",
+    "text": [
+      {
+        "en": "• Japanese songs played in our classes:\nhttps://open.spotify.com/playlist/2spBd5e0b8EoLKtllVBflg?si=q0UT\nBddTRryR-euMSM7tIQ\nGood luck\n頑張って\nNext Class: Class n°03\nFriday 10th July 2026"
+      }
+    ],
+    "lessonIds": [
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°02 - synthesis & assignments.pdf",
+        "note": "Bonus section"
+      }
+    ]
+  }
+]

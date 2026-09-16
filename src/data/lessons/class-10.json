@@ -1,0 +1,220 @@
+{
+  "id": "class-10",
+  "order": 11,
+  "title": [
+    {
+      "en": "Class N°10"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "file": "KANJI - SET N°10 - synthesis & assignments.pdf"
+    },
+    {
+      "file": "Class N°10 - synthesis & assignments.pdf"
+    }
+  ],
+  "sections": [
+    {
+      "id": "class-10-section-kanji",
+      "title": [
+        {
+          "en": "Kanji"
+        }
+      ],
+      "kind": "kanji",
+      "itemIds": [
+        "class-10-kanji-001",
+        "class-10-kanji-002",
+        "class-10-kanji-003",
+        "class-10-kanji-004",
+        "class-10-kanji-005",
+        "class-10-kanji-006",
+        "class-10-kanji-007",
+        "class-10-kanji-008",
+        "class-10-kanji-009",
+        "class-10-kanji-010",
+        "class-10-kanji-011",
+        "class-10-kanji-012",
+        "class-10-kanji-013",
+        "class-10-kanji-014",
+        "class-10-kanji-015",
+        "class-10-kanji-016",
+        "class-10-kanji-017",
+        "class-10-kanji-018",
+        "class-10-kanji-019",
+        "class-10-kanji-020",
+        "class-10-kanji-021",
+        "class-10-kanji-022",
+        "class-10-kanji-023",
+        "class-10-kanji-024",
+        "class-10-kanji-025"
+      ]
+    },
+    {
+      "id": "class-10-section-vocabulary",
+      "title": [
+        {
+          "en": "Vocabulary"
+        }
+      ],
+      "kind": "vocabulary",
+      "itemIds": [
+        "class-10-vocab-001",
+        "class-10-vocab-002",
+        "class-10-vocab-003",
+        "class-10-vocab-004",
+        "class-10-vocab-005",
+        "class-10-vocab-006",
+        "class-10-vocab-007",
+        "class-10-vocab-008",
+        "class-10-vocab-009",
+        "class-10-vocab-010",
+        "class-10-vocab-011",
+        "class-10-vocab-012",
+        "class-10-vocab-013",
+        "class-10-vocab-014",
+        "class-10-vocab-015",
+        "class-10-vocab-016",
+        "class-10-vocab-017",
+        "class-10-vocab-018",
+        "class-10-vocab-019",
+        "class-10-vocab-020",
+        "class-10-vocab-021",
+        "class-10-vocab-022",
+        "class-10-vocab-023",
+        "class-10-vocab-024",
+        "class-10-vocab-025",
+        "class-10-vocab-026",
+        "class-10-vocab-027",
+        "class-10-vocab-028",
+        "class-10-vocab-029",
+        "class-10-vocab-030",
+        "class-10-vocab-031",
+        "class-10-vocab-032",
+        "class-10-vocab-033",
+        "class-10-vocab-034",
+        "class-10-vocab-035",
+        "class-10-vocab-036",
+        "class-10-vocab-037",
+        "class-10-vocab-038",
+        "class-10-vocab-039",
+        "class-10-vocab-040",
+        "class-10-vocab-041",
+        "class-10-vocab-042",
+        "class-10-vocab-043",
+        "class-10-vocab-044",
+        "class-10-vocab-045",
+        "class-10-vocab-046",
+        "class-10-vocab-047",
+        "class-10-vocab-048",
+        "class-10-vocab-049",
+        "class-10-vocab-050",
+        "class-10-vocab-051",
+        "class-10-vocab-052",
+        "class-10-vocab-053",
+        "class-10-vocab-054",
+        "class-10-vocab-055",
+        "class-10-vocab-056",
+        "class-10-vocab-057",
+        "class-10-vocab-058",
+        "class-10-vocab-059",
+        "class-10-vocab-060",
+        "class-10-vocab-061",
+        "class-10-vocab-062",
+        "class-10-vocab-063",
+        "class-10-vocab-064",
+        "class-10-vocab-065",
+        "class-10-vocab-066",
+        "class-10-vocab-067",
+        "class-10-vocab-068",
+        "class-10-vocab-069",
+        "class-10-vocab-070",
+        "class-10-vocab-071",
+        "class-10-vocab-072",
+        "class-10-vocab-073",
+        "class-10-vocab-074",
+        "class-10-vocab-075",
+        "class-10-vocab-076",
+        "class-10-vocab-077",
+        "class-10-vocab-078",
+        "class-10-vocab-079",
+        "class-10-vocab-080",
+        "class-10-vocab-081",
+        "class-10-vocab-082",
+        "class-10-vocab-083",
+        "class-10-vocab-085",
+        "class-10-vocab-086",
+        "class-10-vocab-087",
+        "class-10-vocab-088",
+        "class-10-vocab-089",
+        "class-10-vocab-090",
+        "class-10-vocab-091",
+        "class-10-vocab-092",
+        "class-10-vocab-093",
+        "class-10-vocab-094",
+        "class-10-vocab-095",
+        "class-10-vocab-096",
+        "class-10-vocab-097",
+        "class-10-vocab-100",
+        "class-10-vocab-101",
+        "class-10-vocab-102"
+      ]
+    },
+    {
+      "id": "class-10-section-examples",
+      "title": [
+        {
+          "en": "Example sentences"
+        }
+      ],
+      "kind": "examples",
+      "itemIds": [
+        "class-10-example-001",
+        "class-10-example-002",
+        "class-10-example-003",
+        "class-10-example-004",
+        "class-10-example-005",
+        "class-10-example-006",
+        "class-10-example-007",
+        "class-10-example-008",
+        "class-10-example-009",
+        "class-10-example-010",
+        "class-10-example-011",
+        "class-10-example-012",
+        "class-10-example-013",
+        "class-10-example-014",
+        "class-10-example-015",
+        "class-10-example-016",
+        "class-10-example-017"
+      ]
+    },
+    {
+      "id": "class-10-section-grammar",
+      "title": [
+        {
+          "en": "Grammar"
+        }
+      ],
+      "kind": "grammar",
+      "itemIds": [
+        "class-10-grammar-001",
+        "class-10-grammar-002",
+        "class-10-grammar-003",
+        "class-10-grammar-004"
+      ]
+    },
+    {
+      "id": "class-10-section-dialogue",
+      "title": [
+        {
+          "en": "Dialogue / reading"
+        }
+      ],
+      "kind": "dialogue",
+      "itemIds": [
+        "class-10-dialogue-001"
+      ]
+    }
+  ]
+}

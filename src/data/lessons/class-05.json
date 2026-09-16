@@ -1,0 +1,272 @@
+{
+  "id": "class-05",
+  "order": 6,
+  "title": [
+    {
+      "en": "Class N°05"
+    }
+  ],
+  "sourceFiles": [
+    {
+      "file": "KANJI - SET N°05 - synthesis & assignments.pdf"
+    },
+    {
+      "file": "Class N°05 - synthesis & assignments.pdf"
+    }
+  ],
+  "sections": [
+    {
+      "id": "class-05-section-kanji",
+      "title": [
+        {
+          "en": "Kanji"
+        }
+      ],
+      "kind": "kanji",
+      "itemIds": [
+        "class-05-kanji-001",
+        "class-05-kanji-002",
+        "class-05-kanji-003",
+        "class-05-kanji-004",
+        "class-05-kanji-005",
+        "class-05-kanji-006",
+        "class-05-kanji-007",
+        "class-05-kanji-008",
+        "class-05-kanji-009",
+        "class-05-kanji-010",
+        "class-05-kanji-011",
+        "class-05-kanji-012",
+        "class-05-kanji-013",
+        "class-05-kanji-014",
+        "class-05-kanji-015",
+        "class-05-kanji-016",
+        "class-05-kanji-017",
+        "class-05-kanji-018",
+        "class-05-kanji-019",
+        "class-05-kanji-020",
+        "class-05-kanji-021",
+        "class-05-kanji-022",
+        "class-05-kanji-023",
+        "class-05-kanji-024",
+        "class-05-kanji-025"
+      ]
+    },
+    {
+      "id": "class-05-section-vocabulary",
+      "title": [
+        {
+          "en": "Vocabulary"
+        }
+      ],
+      "kind": "vocabulary",
+      "itemIds": [
+        "class-05-vocab-001",
+        "class-05-vocab-002",
+        "class-05-vocab-003",
+        "class-05-vocab-004",
+        "class-05-vocab-005",
+        "class-05-vocab-006",
+        "class-05-vocab-007",
+        "class-05-vocab-008",
+        "class-05-vocab-009",
+        "class-05-vocab-010",
+        "class-05-vocab-011",
+        "class-05-vocab-012",
+        "class-05-vocab-013",
+        "class-05-vocab-014",
+        "class-05-vocab-015",
+        "class-05-vocab-016",
+        "class-05-vocab-017",
+        "class-05-vocab-018",
+        "class-05-vocab-019",
+        "class-05-vocab-020",
+        "class-05-vocab-021",
+        "class-05-vocab-022",
+        "class-05-vocab-023",
+        "class-05-vocab-024",
+        "class-05-vocab-025",
+        "class-05-vocab-026",
+        "class-05-vocab-027",
+        "class-05-vocab-028",
+        "class-05-vocab-029",
+        "class-05-vocab-030",
+        "class-05-vocab-031",
+        "class-05-vocab-032",
+        "class-05-vocab-033",
+        "class-05-vocab-034",
+        "class-05-vocab-035",
+        "class-05-vocab-036",
+        "class-05-vocab-037",
+        "class-05-vocab-038",
+        "class-05-vocab-039",
+        "class-05-vocab-040",
+        "class-05-vocab-041",
+        "class-05-vocab-042",
+        "class-05-vocab-043",
+        "class-05-vocab-044",
+        "class-05-vocab-045",
+        "class-05-vocab-046",
+        "class-05-vocab-047",
+        "class-05-vocab-048",
+        "class-05-vocab-049",
+        "class-05-vocab-050",
+        "class-05-vocab-051",
+        "class-05-vocab-052",
+        "class-05-vocab-053",
+        "class-05-vocab-054",
+        "class-05-vocab-055",
+        "class-05-vocab-056",
+        "class-05-vocab-057",
+        "class-05-vocab-058",
+        "class-05-vocab-059",
+        "class-05-vocab-060",
+        "class-05-vocab-061",
+        "class-05-vocab-062",
+        "class-05-vocab-063",
+        "class-05-vocab-064",
+        "class-05-vocab-065",
+        "class-05-vocab-066",
+        "class-05-vocab-067",
+        "class-05-vocab-068",
+        "class-05-vocab-069",
+        "class-05-vocab-070",
+        "class-05-vocab-071",
+        "class-05-vocab-072",
+        "class-05-vocab-073",
+        "class-05-vocab-074",
+        "class-05-vocab-075",
+        "class-05-vocab-076",
+        "class-05-vocab-077",
+        "class-05-vocab-078",
+        "class-05-vocab-079",
+        "class-05-vocab-080",
+        "class-05-vocab-081",
+        "class-05-vocab-082",
+        "class-05-vocab-083",
+        "class-05-vocab-084",
+        "class-05-vocab-085",
+        "class-05-vocab-086",
+        "class-05-vocab-087",
+        "class-05-vocab-088",
+        "class-05-vocab-089",
+        "class-05-vocab-090",
+        "class-05-vocab-091",
+        "class-05-vocab-092",
+        "class-05-vocab-093",
+        "class-05-vocab-094",
+        "class-05-vocab-095",
+        "class-05-vocab-096",
+        "class-05-vocab-097",
+        "class-05-vocab-098",
+        "class-05-vocab-099",
+        "class-05-vocab-100",
+        "class-05-vocab-101",
+        "class-05-vocab-102",
+        "class-05-vocab-103"
+      ]
+    },
+    {
+      "id": "class-05-section-examples",
+      "title": [
+        {
+          "en": "Example sentences"
+        }
+      ],
+      "kind": "examples",
+      "itemIds": [
+        "class-05-example-001",
+        "class-05-example-002",
+        "class-05-example-003",
+        "class-05-example-004",
+        "class-05-example-005",
+        "class-05-example-006",
+        "class-05-example-007",
+        "class-05-example-008",
+        "class-05-example-009",
+        "class-05-example-010",
+        "class-05-example-011",
+        "class-05-example-012",
+        "class-05-example-013",
+        "class-05-example-014",
+        "class-05-example-015",
+        "class-05-example-016",
+        "class-05-example-017",
+        "class-05-example-018",
+        "class-05-example-019",
+        "class-05-example-020",
+        "class-05-example-021",
+        "class-05-example-022",
+        "class-05-example-023",
+        "class-05-example-024",
+        "class-05-example-025",
+        "class-05-example-026",
+        "class-05-example-027",
+        "class-05-example-028",
+        "class-05-example-029",
+        "class-05-example-030",
+        "class-05-example-031",
+        "class-05-example-032",
+        "class-05-example-033",
+        "class-05-example-034",
+        "class-05-example-035",
+        "class-05-example-036",
+        "class-05-example-037",
+        "class-05-example-038",
+        "class-05-example-039",
+        "class-05-example-040",
+        "class-05-example-041",
+        "class-05-example-042",
+        "class-05-example-043",
+        "class-05-example-044",
+        "class-05-example-045",
+        "class-05-example-046",
+        "class-05-example-047",
+        "class-05-example-048",
+        "class-05-example-049",
+        "class-05-example-050",
+        "class-05-example-051",
+        "class-05-example-052",
+        "class-05-example-053",
+        "class-05-example-054",
+        "class-05-example-055",
+        "class-05-example-056",
+        "class-05-example-057",
+        "class-05-example-058",
+        "class-05-example-059",
+        "class-05-example-060",
+        "class-05-example-061",
+        "class-05-example-062",
+        "class-05-example-063",
+        "class-05-example-064"
+      ]
+    },
+    {
+      "id": "class-05-section-grammar",
+      "title": [
+        {
+          "en": "Grammar"
+        }
+      ],
+      "kind": "grammar",
+      "itemIds": [
+        "class-05-grammar-001",
+        "class-05-grammar-002",
+        "class-05-grammar-003",
+        "class-05-grammar-004",
+        "class-05-grammar-005"
+      ]
+    },
+    {
+      "id": "class-05-section-dialogue",
+      "title": [
+        {
+          "en": "Dialogue / reading"
+        }
+      ],
+      "kind": "dialogue",
+      "itemIds": [
+        "class-05-dialogue-001"
+      ]
+    }
+  ]
+}

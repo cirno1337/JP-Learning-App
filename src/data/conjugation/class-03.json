@@ -1,0 +1,89 @@
+[
+  {
+    "id": "class-03-conjugation-001",
+    "appliesTo": "i-adjective",
+    "form": "dictionary",
+    "explanation": [
+      {
+        "en": "I-adjectives split into a root and an ending. The ending is い for present/dictionary form, くない for negative, かった for past, くなかった for past negative. です can be added after any of these to make them polite (the root/ending choice itself doesn't change)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "dictionary",
+        "surface": "大きい",
+        "reading": "おおきい"
+      },
+      {
+        "form": "i-adjective-negative",
+        "surface": "大きくない",
+        "reading": "おおきくない"
+      },
+      {
+        "form": "i-adjective-past",
+        "surface": "大きかった",
+        "reading": "おおきかった"
+      },
+      {
+        "form": "i-adjective-past-negative",
+        "surface": "大きくなかった",
+        "reading": "おおきくなかった"
+      }
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 14
+      }
+    ]
+  },
+  {
+    "id": "class-03-conjugation-002",
+    "appliesTo": "verb-godan",
+    "form": "tai",
+    "explanation": [
+      {
+        "en": "\"Want to [verb]\" is formed from the -i (masu) stem + たい: godan 飲む→飲み→飲みたい, 話す→話し→話したい; ichidan 食べる→食べ→食べたい, 見る→見→見たい, いる→い→いたい. Two exceptions: 来る→来(き)→来たい(きたい), する→し→したい. たい then declines exactly like an i-adjective (たい/たくない/たかった/たくなかった)."
+      }
+    ],
+    "examples": [
+      {
+        "form": "tai",
+        "surface": "飲みたい",
+        "reading": "のみたい"
+      },
+      {
+        "form": "i-adjective-negative",
+        "surface": "飲みたくない",
+        "reading": "のみたくない"
+      },
+      {
+        "form": "i-adjective-past",
+        "surface": "飲みたかった",
+        "reading": "のみたかった"
+      },
+      {
+        "form": "i-adjective-past-negative",
+        "surface": "飲みたくなかった",
+        "reading": "のみたくなかった"
+      }
+    ],
+    "exceptions": [
+      "来る (to come) → 来たい (きたい), not the regular pattern applied to 来"
+    ],
+    "lessonIds": [
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 16
+      }
+    ]
+  }
+]

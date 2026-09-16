@@ -1,0 +1,2229 @@
+[
+  {
+    "id": "supp-n4-grammar-001",
+    "pattern": "間",
+    "explanation": [
+      {
+        "en": "while; during; between"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-002",
+    "pattern": "間に",
+    "explanation": [
+      {
+        "en": "while/during~ something happened"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-003",
+    "pattern": "あまり～ない",
+    "explanation": [
+      {
+        "en": "not very, not much"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-004",
+    "pattern": "後で",
+    "explanation": [
+      {
+        "en": "after ~; later"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-005",
+    "pattern": "ば",
+    "explanation": [
+      {
+        "en": "conditional form; If [A] then [B]"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-006",
+    "pattern": "場合は",
+    "explanation": [
+      {
+        "en": "in the event of; in the case that"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-007",
+    "pattern": "ばかり",
+    "explanation": [
+      {
+        "en": "only; nothing but"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-008",
+    "pattern": "だけで",
+    "explanation": [
+      {
+        "en": "just by; just by doing"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-009",
+    "pattern": "出す",
+    "explanation": [
+      {
+        "en": "to suddenly begin; to suddenly appear"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-010",
+    "pattern": "でございます",
+    "explanation": [
+      {
+        "en": "to be (honorific)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-011",
+    "pattern": "でも",
+    "explanation": [
+      {
+        "en": "... or something"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-012",
+    "pattern": "ではないか",
+    "explanation": [
+      {
+        "en": "right?; isn't it?"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-013",
+    "pattern": "が必要",
+    "explanation": [
+      {
+        "en": "need; necessary"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-014",
+    "pattern": "がする",
+    "explanation": [
+      {
+        "en": "to smell; hear; taste"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-015",
+    "pattern": "がり",
+    "explanation": [
+      {
+        "en": "personality; tend to~; sensitivity towards~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-016",
+    "pattern": "がる・がっている",
+    "explanation": [
+      {
+        "en": "to show signs of; to appear; to feel, to think"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-017",
+    "pattern": "ございます",
+    "explanation": [
+      {
+        "en": "to be, to exist (the polite form of いる/ある)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-018",
+    "pattern": "始める",
+    "explanation": [
+      {
+        "en": "to start; to begin to ~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-019",
+    "pattern": "はずだ",
+    "explanation": [
+      {
+        "en": "it must be; it should be (expectation)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-020",
+    "pattern": "はずがない",
+    "explanation": [
+      {
+        "en": "cannot be (impossible)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-021",
+    "pattern": "必要がある",
+    "explanation": [
+      {
+        "en": "need to; it is necessary to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-022",
+    "pattern": "意向形",
+    "explanation": [
+      {
+        "en": "volitional form​; let's do ~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-023",
+    "pattern": "いらっしゃる",
+    "explanation": [
+      {
+        "en": "to be; to come; to go (polite version)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-024",
+    "pattern": "いたします",
+    "explanation": [
+      {
+        "en": "to do (polite form of する)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-025",
+    "pattern": "じゃないか",
+    "explanation": [
+      {
+        "en": "right? isn't it? let's~; confirmation"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-026",
+    "pattern": "かどうか",
+    "explanation": [
+      {
+        "en": "whether or not"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-027",
+    "pattern": "かしら",
+    "explanation": [
+      {
+        "en": "I wonder"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-028",
+    "pattern": "かい",
+    "explanation": [
+      {
+        "en": "turns a sentence into a yes/no question"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-029",
+    "pattern": "かもしれない",
+    "explanation": [
+      {
+        "en": "might; perhaps; indicates possibility"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-030",
+    "pattern": "かな",
+    "explanation": [
+      {
+        "en": "I wonder; should I?"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-031",
+    "pattern": "から作る",
+    "explanation": [
+      {
+        "en": "made from; made with"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-032",
+    "pattern": "きっと",
+    "explanation": [
+      {
+        "en": "surely; undoubtedly; almost certainly; likely"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-033",
+    "pattern": "頃",
+    "explanation": [
+      {
+        "en": "around; about; when"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-034",
+    "pattern": "こと",
+    "explanation": [
+      {
+        "en": "Verb nominalizer"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-035",
+    "pattern": "ことがある",
+    "explanation": [
+      {
+        "en": "there are times when"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-036",
+    "pattern": "ことができる",
+    "explanation": [
+      {
+        "en": "can; able to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-037",
+    "pattern": "ことになる",
+    "explanation": [
+      {
+        "en": "It has been decided that..; it turns out that.."
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-038",
+    "pattern": "ことにする",
+    "explanation": [
+      {
+        "en": "to decide on"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-039",
+    "pattern": "くする",
+    "explanation": [
+      {
+        "en": "to make something ~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-040",
+    "pattern": "急に",
+    "explanation": [
+      {
+        "en": "suddenly"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-041",
+    "pattern": "までに",
+    "explanation": [
+      {
+        "en": "by; by the time; indicates time limit"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-042",
+    "pattern": "まま",
+    "explanation": [
+      {
+        "en": "as it is; current state; without changing"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-043",
+    "pattern": "または",
+    "explanation": [
+      {
+        "en": "both; or; otherwise​; choice between [A] or [B]"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-044",
+    "pattern": "みたいだ",
+    "explanation": [
+      {
+        "en": "like, similar to, resembling"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-045",
+    "pattern": "みたいな",
+    "explanation": [
+      {
+        "en": "like, similar to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-046",
+    "pattern": "みたいに",
+    "explanation": [
+      {
+        "en": "like, similar to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-047",
+    "pattern": "も",
+    "explanation": [
+      {
+        "en": "as many as; as much as; up to; nearly"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-048",
+    "pattern": "な",
+    "explanation": [
+      {
+        "en": "don’t ~ (order somebody to not do something)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-049",
+    "pattern": "など",
+    "explanation": [
+      {
+        "en": "such as, things like"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-050",
+    "pattern": "ながら",
+    "explanation": [
+      {
+        "en": "while; during; as; simultaneously"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-051",
+    "pattern": "なかなか～ない",
+    "explanation": [
+      {
+        "en": "not easy to; struggling to; not able to~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-052",
+    "pattern": "なければいけない",
+    "explanation": [
+      {
+        "en": "must do something; have to do something"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-053",
+    "pattern": "なければならない",
+    "explanation": [
+      {
+        "en": "must do something; have to do something"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-054",
+    "pattern": "なら",
+    "explanation": [
+      {
+        "en": "if; in the case that ~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-055",
+    "pattern": "なさい",
+    "explanation": [
+      {
+        "en": "do this (soft/firm command)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-056",
+    "pattern": "なさる",
+    "explanation": [
+      {
+        "en": "to do (honorific)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-057",
+    "pattern": "に気がつく",
+    "explanation": [
+      {
+        "en": "to notice; to realize"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-058",
+    "pattern": "にみえる",
+    "explanation": [
+      {
+        "en": "to look; to seem; to appear"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-059",
+    "pattern": "にする",
+    "explanation": [
+      {
+        "en": "to make something ~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-060",
+    "pattern": "にくい",
+    "explanation": [
+      {
+        "en": "difficult to do"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-061",
+    "pattern": "の中で",
+    "explanation": [
+      {
+        "en": "in, among"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-062",
+    "pattern": "のに",
+    "explanation": [
+      {
+        "en": "although, in spite of, even though"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-063",
+    "pattern": "のに",
+    "explanation": [
+      {
+        "en": "to (do something); in order to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-064",
+    "pattern": "のは〜だ",
+    "explanation": [
+      {
+        "en": "[A] is [B]; the reason for [A] is [B]"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-065",
+    "pattern": "お～ください",
+    "explanation": [
+      {
+        "en": "please do (honorific)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-066",
+    "pattern": "お～になる",
+    "explanation": [
+      {
+        "en": "to do (honorific)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-067",
+    "pattern": "おきに",
+    "explanation": [
+      {
+        "en": "repeated at intervals, every"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-068",
+    "pattern": "終わる",
+    "explanation": [
+      {
+        "en": "to finish; to end"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-069",
+    "pattern": "られる",
+    "explanation": [
+      {
+        "en": "potential form; ability/inability to do ~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-070",
+    "pattern": "らしい",
+    "explanation": [
+      {
+        "en": "it seems like; I heard; apparently~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-071",
+    "pattern": "さ",
+    "explanation": [
+      {
+        "en": "-ness​ ; nominalizer for adjective"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-072",
+    "pattern": "さっき",
+    "explanation": [
+      {
+        "en": "some time ago; just now"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-073",
+    "pattern": "させられる",
+    "explanation": [
+      {
+        "en": "causative-passive; to be made to do something"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-074",
+    "pattern": "させる",
+    "explanation": [
+      {
+        "en": "causative form; to make/let somebody do ~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-075",
+    "pattern": "させてください",
+    "explanation": [
+      {
+        "en": "please let me do"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-076",
+    "pattern": "さすが",
+    "explanation": [
+      {
+        "en": "as one would expect; as is to be expected; even"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-077",
+    "pattern": "し",
+    "explanation": [
+      {
+        "en": "and; and what’s more; emphasis"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-078",
+    "pattern": "そんなに",
+    "explanation": [
+      {
+        "en": "so much; so; like that"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-079",
+    "pattern": "それでも",
+    "explanation": [
+      {
+        "en": "but still; and yet; even so"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-080",
+    "pattern": "そうだ",
+    "explanation": [
+      {
+        "en": "I heard that; it is said that"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-081",
+    "pattern": "そうだ",
+    "explanation": [
+      {
+        "en": "looks like; appears like"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-082",
+    "pattern": "そうに・そうな",
+    "explanation": [
+      {
+        "en": "seems like; looks like"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-083",
+    "pattern": "たばかり",
+    "explanation": [
+      {
+        "en": "just finished; something just occurred"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-084",
+    "pattern": "たところ",
+    "explanation": [
+      {
+        "en": "just finished doing, was just doing"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-085",
+    "pattern": "他動詞 & 自動詞",
+    "explanation": [
+      {
+        "en": "Transitive & Intransitive Verbs"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-086",
+    "pattern": "たがる",
+    "explanation": [
+      {
+        "en": "wants to do~ (third person)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-087",
+    "pattern": "たら",
+    "explanation": [
+      {
+        "en": "if, after, when"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-088",
+    "pattern": "たらどう",
+    "explanation": [
+      {
+        "en": "why don't you"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-089",
+    "pattern": "たらいいですか",
+    "explanation": [
+      {
+        "en": "what should I do?; speaker seeking instruction"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-090",
+    "pattern": "て/で",
+    "explanation": [
+      {
+        "en": "conjunctive particle; so; because of [A], [B]..."
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-091",
+    "pattern": "てあげる",
+    "explanation": [
+      {
+        "en": "to do for; to do a favor"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-092",
+    "pattern": "てほしい",
+    "explanation": [
+      {
+        "en": "I want you to; need you to~"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-093",
+    "pattern": "ていく",
+    "explanation": [
+      {
+        "en": "to start; to continue; to go on"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-094",
+    "pattern": "ていた",
+    "explanation": [
+      {
+        "en": "was doing something (past continuous)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-095",
+    "pattern": "ていただけませんか",
+    "explanation": [
+      {
+        "en": "could you please"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-096",
+    "pattern": "てくれる",
+    "explanation": [
+      {
+        "en": "to do a favor; do something for someone"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-097",
+    "pattern": "てくる",
+    "explanation": [
+      {
+        "en": "to do… and come back; to continue"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-098",
+    "pattern": "てみる",
+    "explanation": [
+      {
+        "en": "try doing"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-099",
+    "pattern": "てもらう",
+    "explanation": [
+      {
+        "en": "to get somebody to do something"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-100",
+    "pattern": "ておく",
+    "explanation": [
+      {
+        "en": "to do something in advance"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-101",
+    "pattern": "てしまう / ちゃう",
+    "explanation": [
+      {
+        "en": "to do something by accident, to finish"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-102",
+    "pattern": "てすみません",
+    "explanation": [
+      {
+        "en": "I’m sorry for"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-103",
+    "pattern": "てやる",
+    "explanation": [
+      {
+        "en": "to do for; to do a favor (casual)"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-104",
+    "pattern": "てよかった",
+    "explanation": [
+      {
+        "en": "I’m glad that.."
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-105",
+    "pattern": "ているところ",
+    "explanation": [
+      {
+        "en": "in the process of doing"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-106",
+    "pattern": "ても",
+    "explanation": [
+      {
+        "en": "even; even if; even though"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-107",
+    "pattern": "と",
+    "explanation": [
+      {
+        "en": "whenever [A] happens, [B] also happens"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-108",
+    "pattern": "と言ってもいい",
+    "explanation": [
+      {
+        "en": "you could say; one might say; I'd say"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-109",
+    "pattern": "という",
+    "explanation": [
+      {
+        "en": "called; named; that"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-110",
+    "pattern": "ということ",
+    "explanation": [
+      {
+        "en": "convert phrase into noun"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-111",
+    "pattern": "と言われている",
+    "explanation": [
+      {
+        "en": "it is said that..."
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-112",
+    "pattern": "と聞いた",
+    "explanation": [
+      {
+        "en": "I heard..."
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-113",
+    "pattern": "と思う",
+    "explanation": [
+      {
+        "en": "to think…; I think…; you think…"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-114",
+    "pattern": "とか～とか",
+    "explanation": [
+      {
+        "en": "among other things; such as; like"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-115",
+    "pattern": "ところ",
+    "explanation": [
+      {
+        "en": "just about to; on the verge of doing something"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-116",
+    "pattern": "続ける",
+    "explanation": [
+      {
+        "en": "continue to; keen on"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-117",
+    "pattern": "って",
+    "explanation": [
+      {
+        "en": "named; called"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-118",
+    "pattern": "受身形",
+    "explanation": [
+      {
+        "en": "passive form; passive voice"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-119",
+    "pattern": "は〜が… は",
+    "explanation": [
+      {
+        "en": "[A] but [B]; however; comparison"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-120",
+    "pattern": "やすい",
+    "explanation": [
+      {
+        "en": "easy to; likely to; prone to; have a tendency to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-121",
+    "pattern": "やっと",
+    "explanation": [
+      {
+        "en": "at last; finally; barely; narrowly"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-122",
+    "pattern": "より",
+    "explanation": [
+      {
+        "en": "than; rather than; more than"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-123",
+    "pattern": "予定だ",
+    "explanation": [
+      {
+        "en": "plan to, intend to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-124",
+    "pattern": "ようだ",
+    "explanation": [
+      {
+        "en": "appears; seems; looks as if"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-125",
+    "pattern": "ように / ような",
+    "explanation": [
+      {
+        "en": "like; as; similar to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-126",
+    "pattern": "ようになる",
+    "explanation": [
+      {
+        "en": "to reach the point that; to turn into"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-127",
+    "pattern": "ようにする",
+    "explanation": [
+      {
+        "en": "to try to; to make sure that"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-128",
+    "pattern": "ようと思う",
+    "explanation": [
+      {
+        "en": "thinking of doing; planning to"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-129",
+    "pattern": "ぜひ",
+    "explanation": [
+      {
+        "en": "by all means; certainly; definitely"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-130",
+    "pattern": "全然～ない",
+    "explanation": [
+      {
+        "en": "(not) at all"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n4-grammar-131",
+    "pattern": "づらい",
+    "explanation": [
+      {
+        "en": "difficult to do"
+      }
+    ],
+    "examples": [],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "JLPT SENSEI - N4 Grammar List.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": "class-02-example-001",
+    "japanese": "食べている。",
+    "reading": "たべている。",
+    "meanings": [
+      {
+        "en": "I am eating. [casual]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 91
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-002",
+    "japanese": "食べていない。",
+    "reading": "たべていない。",
+    "meanings": [
+      {
+        "en": "I am not eating. [casual]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 91
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-003",
+    "japanese": "食べています。",
+    "reading": "たべています。",
+    "meanings": [
+      {
+        "en": "I am eating. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 91
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-004",
+    "japanese": "食べていません。",
+    "reading": "たべていません。",
+    "meanings": [
+      {
+        "en": "I am not eating. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 91
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-005",
+    "japanese": "食べて。",
+    "meanings": [
+      {
+        "en": "Eat!"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-006",
+    "japanese": "読んで。",
+    "reading": "よんで。",
+    "meanings": [
+      {
+        "en": "Read!"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-007",
+    "japanese": "聞いて。",
+    "reading": "きいて。",
+    "meanings": [
+      {
+        "en": "Listen!"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-008",
+    "japanese": "食べてください。",
+    "meanings": [
+      {
+        "en": "Eat, please. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-009",
+    "japanese": "読んでください。",
+    "reading": "よんでください。",
+    "meanings": [
+      {
+        "en": "Read, please. [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-010",
+    "japanese": "食べてくれ。",
+    "meanings": [
+      {
+        "en": "Eat! [direct, masculine request]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-011",
+    "japanese": "食べてもいい。",
+    "meanings": [
+      {
+        "en": "May I eat?"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 101
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-012",
+    "japanese": "読んでもいい。",
+    "reading": "よんでもいい。",
+    "meanings": [
+      {
+        "en": "May I read?"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 101
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-013",
+    "japanese": "食べてもいいですか。",
+    "meanings": [
+      {
+        "en": "May I eat? [polite]"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 101
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-014",
+    "japanese": "本を読んで、寝る。",
+    "reading": "ほんをよんで、ねる。",
+    "meanings": [
+      {
+        "en": "I read a book and sleep."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 102
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-015",
+    "japanese": "パンを食べて、水を飲む。",
+    "reading": "パンをたべて、みずをのむ。",
+    "meanings": [
+      {
+        "en": "I eat bread and drink water."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 102
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-016",
+    "japanese": "寿司を食べて、テレビを見ます。",
+    "reading": "すしをたべて、テレビをみます。",
+    "meanings": [
+      {
+        "en": "I eat sushi and watch TV."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 102
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-017",
+    "japanese": "本を読んで、お茶を飲んで、寝ます。",
+    "reading": "ほんをよんで、おちゃをのんで、ねます。",
+    "meanings": [
+      {
+        "en": "I read a book, drink tea, and go to bed."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 102
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-018",
+    "japanese": "百二十三",
+    "reading": "ひゃくにじゅうさん",
+    "meanings": [
+      {
+        "en": "123 (百＋二×十＋三)"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-019",
+    "japanese": "三百六十五",
+    "reading": "さんびゃくろくじゅうご",
+    "meanings": [
+      {
+        "en": "365 (三×百＋六×十＋五)"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-020",
+    "japanese": "千五百八十二",
+    "reading": "せんごひゃくはちじゅうに",
+    "meanings": [
+      {
+        "en": "1582 (千＋五×百＋八×十＋二)"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-021",
+    "japanese": "二千二十六",
+    "reading": "にせんにじゅうろく",
+    "meanings": [
+      {
+        "en": "2026 (二×千＋二×十＋六)"
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 112
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-022",
+    "japanese": "サンドイッチを二つ食べます。",
+    "meanings": [
+      {
+        "en": "I eat two sandwiches."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-023",
+    "japanese": "サンドイッチを一つください。",
+    "meanings": [
+      {
+        "en": "One sandwich, please."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 117
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-024",
+    "japanese": "りんごを二個食べます。",
+    "meanings": [
+      {
+        "en": "I eat two apples."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-025",
+    "japanese": "トマトが七個あります。",
+    "meanings": [
+      {
+        "en": "There are seven tomatoes."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 118
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-026",
+    "japanese": "子どもは八歳です。",
+    "meanings": [
+      {
+        "en": "The child is 8 years old."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-027",
+    "japanese": "妹は五歳です。",
+    "meanings": [
+      {
+        "en": "My younger sister is 5 years old."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 119
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-028",
+    "japanese": "友達が二人います。",
+    "meanings": [
+      {
+        "en": "I have two friends."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-029",
+    "japanese": "日本人が一人います。",
+    "meanings": [
+      {
+        "en": "There is one Japanese person."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 120
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-030",
+    "japanese": "猫が二匹います。",
+    "meanings": [
+      {
+        "en": "There are two cats."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  },
+  {
+    "id": "class-02-example-031",
+    "japanese": "犬を五匹見ます。",
+    "meanings": [
+      {
+        "en": "I see five dogs."
+      }
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 121
+      }
+    ]
+  }
+]

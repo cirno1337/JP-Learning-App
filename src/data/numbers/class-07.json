@@ -1,0 +1,382 @@
+[
+  {
+    "id": "class-07-number-001",
+    "category": "time",
+    "value": 1,
+    "japanese": "一時",
+    "reading": "いちじ",
+    "counter": "時",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-002",
+    "category": "time",
+    "value": 2,
+    "japanese": "二時",
+    "reading": "にじ",
+    "counter": "時",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-003",
+    "category": "time",
+    "value": 3,
+    "japanese": "三時",
+    "reading": "さんじ",
+    "counter": "時",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-004",
+    "category": "time",
+    "value": 4,
+    "japanese": "四時",
+    "reading": "よじ",
+    "counter": "時",
+    "irregular": true,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-005",
+    "category": "time",
+    "value": 5,
+    "japanese": "五時",
+    "reading": "ごじ",
+    "counter": "時",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-006",
+    "category": "time",
+    "value": 6,
+    "japanese": "六時",
+    "reading": "ろくじ",
+    "counter": "時",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-007",
+    "category": "time",
+    "value": 7,
+    "japanese": "七時",
+    "reading": "しちじ / ななじ",
+    "counter": "時",
+    "irregular": true,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-008",
+    "category": "time",
+    "value": 8,
+    "japanese": "八時",
+    "reading": "はちじ",
+    "counter": "時",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-009",
+    "category": "time",
+    "value": 9,
+    "japanese": "九時",
+    "reading": "くじ",
+    "counter": "時",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-010",
+    "category": "time",
+    "value": 10,
+    "japanese": "十時",
+    "reading": "じゅうじ",
+    "counter": "時",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-011",
+    "category": "time",
+    "value": 1,
+    "japanese": "一分",
+    "reading": "いっぷん",
+    "counter": "分",
+    "irregular": true,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-012",
+    "category": "time",
+    "value": 2,
+    "japanese": "二分",
+    "reading": "にふん",
+    "counter": "分",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-013",
+    "category": "time",
+    "value": 3,
+    "japanese": "三分",
+    "reading": "さんぷん",
+    "counter": "分",
+    "irregular": true,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-014",
+    "category": "time",
+    "value": 4,
+    "japanese": "四分",
+    "reading": "よんぷん",
+    "counter": "分",
+    "irregular": true,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-015",
+    "category": "time",
+    "value": 5,
+    "japanese": "五分",
+    "reading": "ごふん",
+    "counter": "分",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-016",
+    "category": "time",
+    "value": 6,
+    "japanese": "六分",
+    "reading": "ろっぷん",
+    "counter": "分",
+    "irregular": true,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-017",
+    "category": "time",
+    "value": 7,
+    "japanese": "七分",
+    "reading": "ななふん",
+    "counter": "分",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-018",
+    "category": "time",
+    "value": 8,
+    "japanese": "八分",
+    "reading": "はっぷん",
+    "counter": "分",
+    "irregular": true,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-019",
+    "category": "time",
+    "value": 9,
+    "japanese": "九分",
+    "reading": "きゅうふん",
+    "counter": "分",
+    "irregular": false,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  },
+  {
+    "id": "class-07-number-020",
+    "category": "time",
+    "value": 10,
+    "japanese": "十分",
+    "reading": "じゅっぷん",
+    "counter": "分",
+    "irregular": true,
+    "lessonIds": [
+      "class-07"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class N°07 - synthesis & assignments.pdf",
+        "page": 10
+      }
+    ]
+  }
+]

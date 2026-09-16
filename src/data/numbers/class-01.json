@@ -1,0 +1,188 @@
+[
+  {
+    "id": "class-01-number-001",
+    "category": "cardinal",
+    "value": 0,
+    "japanese": "ゼロ",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-002",
+    "category": "cardinal",
+    "value": 1,
+    "japanese": "一",
+    "reading": "いち",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-003",
+    "category": "cardinal",
+    "value": 2,
+    "japanese": "二",
+    "reading": "に",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-004",
+    "category": "cardinal",
+    "value": 3,
+    "japanese": "三",
+    "reading": "さん",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-005",
+    "category": "cardinal",
+    "value": 4,
+    "japanese": "四",
+    "reading": "よん",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-006",
+    "category": "cardinal",
+    "value": 5,
+    "japanese": "五",
+    "reading": "ご",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-007",
+    "category": "cardinal",
+    "value": 6,
+    "japanese": "六",
+    "reading": "ろく",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-008",
+    "category": "cardinal",
+    "value": 7,
+    "japanese": "七",
+    "reading": "なな",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-009",
+    "category": "cardinal",
+    "value": 8,
+    "japanese": "八",
+    "reading": "はち",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-010",
+    "category": "cardinal",
+    "value": 9,
+    "japanese": "九",
+    "reading": "きゅう",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "id": "class-01-number-011",
+    "category": "cardinal",
+    "value": 10,
+    "japanese": "十",
+    "reading": "じゅう",
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 132
+      }
+    ]
+  }
+]

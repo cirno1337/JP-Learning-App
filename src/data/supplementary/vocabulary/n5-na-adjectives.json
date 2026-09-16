@@ -1,0 +1,482 @@
+[
+  {
+    "id": "supp-n5-na-adjectives-001",
+    "kanji": "便利",
+    "kana": "べんり",
+    "meanings": [
+      {
+        "en": "convenient; handy; useful"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-002",
+    "kanji": "大丈夫",
+    "kana": "だいじょうぶ",
+    "meanings": [
+      {
+        "en": "OK; alright"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-003",
+    "kanji": "大好き",
+    "kana": "だいすき",
+    "meanings": [
+      {
+        "en": "love; like; like very much"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-004",
+    "kanji": "元気",
+    "kana": "げんき",
+    "meanings": [
+      {
+        "en": "lively; energetic; healthy"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-005",
+    "kanji": "下手",
+    "kana": "へた",
+    "meanings": [
+      {
+        "en": "unskillful; poor; awkward"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-006",
+    "kanji": "暇",
+    "kana": "ひま",
+    "meanings": [
+      {
+        "en": "free time"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-007",
+    "kanji": "本当",
+    "kana": "ほんとう",
+    "meanings": [
+      {
+        "en": "truth; reality; fact"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-008",
+    "kanji": "色々",
+    "kana": "いろいろ",
+    "meanings": [
+      {
+        "en": "various"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-009",
+    "kanji": "嫌",
+    "kana": "いや",
+    "meanings": [
+      {
+        "en": "unpleasant"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-010",
+    "kanji": "丈夫",
+    "kana": "じょうぶ",
+    "meanings": [
+      {
+        "en": "strong, durable"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-011",
+    "kanji": "上手",
+    "kana": "じょうず",
+    "meanings": [
+      {
+        "en": "skillful; skilled; good (at)"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-012",
+    "kanji": "結構",
+    "kana": "けっこう",
+    "meanings": [
+      {
+        "en": "splendid, enough"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-013",
+    "kanji": "嫌い",
+    "kana": "きらい",
+    "meanings": [
+      {
+        "en": "hate"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-014",
+    "kanji": "綺麗",
+    "kana": "きれい",
+    "meanings": [
+      {
+        "en": "pretty; lovely; beautiful"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-015",
+    "kanji": "真っ直ぐ",
+    "kana": "まっすぐ",
+    "meanings": [
+      {
+        "en": "straight ahead,direct"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-016",
+    "kanji": "賑やか",
+    "kana": "にぎやか",
+    "meanings": [
+      {
+        "en": "bustling, busy"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-017",
+    "kanji": "立派",
+    "kana": "りっぱ",
+    "meanings": [
+      {
+        "en": "splendid"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-018",
+    "kanji": "静か",
+    "kana": "しずか",
+    "meanings": [
+      {
+        "en": "quiet"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-019",
+    "kanji": "好き",
+    "kana": "すき",
+    "meanings": [
+      {
+        "en": "like"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-020",
+    "kanji": "多分",
+    "kana": "たぶん",
+    "meanings": [
+      {
+        "en": "perhaps; probably"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-021",
+    "kanji": "大変",
+    "kana": "たいへん",
+    "meanings": [
+      {
+        "en": "very; greatly; difficult"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-022",
+    "kanji": "大切",
+    "kana": "たいせつ",
+    "meanings": [
+      {
+        "en": "important; beloved"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-023",
+    "kanji": "沢山",
+    "kana": "たくさん",
+    "meanings": [
+      {
+        "en": "many"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  },
+  {
+    "id": "supp-n5-na-adjectives-024",
+    "kanji": "有名",
+    "kana": "ゆうめい",
+    "meanings": [
+      {
+        "en": "famous"
+      }
+    ],
+    "partOfSpeech": [
+      "na-adjective"
+    ],
+    "lessonIds": [],
+    "origin": "supplementary",
+    "source": [
+      {
+        "file": "N5 Vocabulary - Adjectives (な) List - JLPT Sensei V2.pdf"
+      }
+    ]
+  }
+]

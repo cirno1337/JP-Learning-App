@@ -1,0 +1,706 @@
+[
+  {
+    "id": "class-04-kanji-001",
+    "character": "物",
+    "meanings": [
+      {
+        "en": "thing, object"
+      }
+    ],
+    "readings": [
+      "もの"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 5
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-001"
+    ]
+  },
+  {
+    "id": "class-04-kanji-002",
+    "character": "事",
+    "meanings": [
+      {
+        "en": "matter, thing, fact, nominalisation [often written with kana]"
+      }
+    ],
+    "readings": [
+      "こと"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 6
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-002"
+    ]
+  },
+  {
+    "id": "class-04-kanji-003",
+    "character": "夕",
+    "meanings": [
+      {
+        "en": "evening"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 7
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"夕方\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    }
+  },
+  {
+    "id": "class-04-kanji-004",
+    "character": "名",
+    "meanings": [
+      {
+        "en": "name"
+      }
+    ],
+    "readings": [
+      "な"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 8
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-003"
+    ]
+  },
+  {
+    "id": "class-04-kanji-005",
+    "character": "外",
+    "meanings": [
+      {
+        "en": "outside"
+      }
+    ],
+    "readings": [
+      "そと"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 9
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-004",
+      "class-04-vocab-005",
+      "class-04-vocab-006"
+    ]
+  },
+  {
+    "id": "class-04-kanji-006",
+    "character": "死",
+    "meanings": [
+      {
+        "en": "to die, death"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 13
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"死ぬ\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-007",
+      "class-04-vocab-008"
+    ]
+  },
+  {
+    "id": "class-04-kanji-007",
+    "character": "半",
+    "meanings": [
+      {
+        "en": "half, middle"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 14
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"半分\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-009"
+    ]
+  },
+  {
+    "id": "class-04-kanji-008",
+    "character": "週",
+    "meanings": [
+      {
+        "en": "week"
+      }
+    ],
+    "readings": [
+      "しゅう"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 15
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-010",
+      "class-04-vocab-011",
+      "class-04-vocab-012",
+      "class-04-vocab-013"
+    ]
+  },
+  {
+    "id": "class-04-kanji-009",
+    "character": "無",
+    "meanings": [
+      {
+        "en": "nothingness, none, ain't, nothing, not"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 16
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"無い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-014",
+      "class-04-vocab-015"
+    ]
+  },
+  {
+    "id": "class-04-kanji-010",
+    "character": "不",
+    "meanings": [
+      {
+        "en": "negative, non-, bad"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 17
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"不足\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-016"
+    ]
+  },
+  {
+    "id": "class-04-kanji-011",
+    "character": "長",
+    "meanings": [
+      {
+        "en": "long, leader, superior"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 21
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"長い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-017",
+      "class-04-vocab-018",
+      "class-04-vocab-019"
+    ]
+  },
+  {
+    "id": "class-04-kanji-012",
+    "character": "発",
+    "meanings": [
+      {
+        "en": "departure, discharge, publish"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 22
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"出発\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-020",
+      "class-04-vocab-021",
+      "class-04-vocab-022"
+    ]
+  },
+  {
+    "id": "class-04-kanji-013",
+    "character": "思",
+    "meanings": [
+      {
+        "en": "to think"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 23
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"思う\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-023",
+      "class-04-vocab-024",
+      "class-04-vocab-025"
+    ]
+  },
+  {
+    "id": "class-04-kanji-014",
+    "character": "力",
+    "meanings": [
+      {
+        "en": "power, strength"
+      }
+    ],
+    "readings": [
+      "ちから"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 24
+      }
+    ]
+  },
+  {
+    "id": "class-04-kanji-015",
+    "character": "男",
+    "meanings": [
+      {
+        "en": "male, man"
+      }
+    ],
+    "readings": [
+      "おとこ"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 25
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-026"
+    ]
+  },
+  {
+    "id": "class-04-kanji-016",
+    "character": "女",
+    "meanings": [
+      {
+        "en": "woman, female"
+      }
+    ],
+    "readings": [
+      "おんな"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 29
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-027"
+    ]
+  },
+  {
+    "id": "class-04-kanji-017",
+    "character": "子",
+    "meanings": [
+      {
+        "en": "child, kid"
+      }
+    ],
+    "readings": [
+      "こ"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 30
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-028",
+      "class-04-vocab-029",
+      "class-04-vocab-030"
+    ]
+  },
+  {
+    "id": "class-04-kanji-018",
+    "character": "安",
+    "meanings": [
+      {
+        "en": "relax, cheap, low, quiet"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 31
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"安い\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-031",
+      "class-04-vocab-032"
+    ]
+  },
+  {
+    "id": "class-04-kanji-019",
+    "character": "用",
+    "meanings": [
+      {
+        "en": "utilize, business, service, use"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 32
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"用いる\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-033",
+      "class-04-vocab-034"
+    ]
+  },
+  {
+    "id": "class-04-kanji-020",
+    "character": "電",
+    "meanings": [
+      {
+        "en": "electricity"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 33
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"電子\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-035",
+      "class-04-vocab-036"
+    ]
+  },
+  {
+    "id": "class-04-kanji-021",
+    "character": "学",
+    "meanings": [
+      {
+        "en": "study, learning, science"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 37
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"学ぶ\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-037",
+      "class-04-vocab-038",
+      "class-04-vocab-039",
+      "class-04-vocab-040"
+    ]
+  },
+  {
+    "id": "class-04-kanji-022",
+    "character": "字",
+    "meanings": [
+      {
+        "en": "character, letter, written text"
+      }
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 38
+      }
+    ],
+    "uncertainty": {
+      "level": "medium",
+      "reason": "No standalone reading is given in either source for this kanji; it is only ever taught inflected/in compounds (e.g. \"ローマ字\"). Meaning is from the slide deck's \"— Meaning —\" page."
+    },
+    "vocabularyIds": [
+      "class-04-vocab-041"
+    ]
+  },
+  {
+    "id": "class-04-kanji-023",
+    "character": "文",
+    "meanings": [
+      {
+        "en": "sentence, writing"
+      }
+    ],
+    "readings": [
+      "ぶん"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 39
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-042",
+      "class-04-vocab-043",
+      "class-04-vocab-044"
+    ]
+  },
+  {
+    "id": "class-04-kanji-024",
+    "character": "母",
+    "meanings": [
+      {
+        "en": "mother [casual]"
+      }
+    ],
+    "readings": [
+      "はは"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 40
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-045",
+      "class-04-vocab-046"
+    ]
+  },
+  {
+    "id": "class-04-kanji-025",
+    "character": "父",
+    "meanings": [
+      {
+        "en": "father [casual]"
+      }
+    ],
+    "readings": [
+      "ちち"
+    ],
+    "lessonIds": [
+      "class-04"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°04 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "ACTIVE KANJI  — Set n°04.pdf",
+        "page": 41
+      }
+    ],
+    "vocabularyIds": [
+      "class-04-vocab-047"
+    ]
+  }
+]

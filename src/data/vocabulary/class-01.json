@@ -1,0 +1,1614 @@
+[
+  {
+    "id": "class-01-vocab-001",
+    "kanji": "フランス人",
+    "kana": "フランスじん",
+    "meanings": [
+      {
+        "en": "French (person)"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Example vocabulary for kanji 人."
+  },
+  {
+    "id": "class-01-vocab-002",
+    "kanji": "あの人",
+    "kana": "あのひと",
+    "meanings": [
+      {
+        "en": "he, she (polite, formal)"
+      },
+      {
+        "en": "he or she [formal; +たち for plural]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ],
+    "notes": "Example vocabulary for kanji 人."
+  },
+  {
+    "id": "class-01-vocab-003",
+    "kanji": "人々",
+    "kana": "ひとびと",
+    "meanings": [
+      {
+        "en": "people"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 人."
+  },
+  {
+    "id": "class-01-vocab-004",
+    "kanji": "一人",
+    "kana": "ひとり",
+    "meanings": [
+      {
+        "en": "alone, one person"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 一."
+  },
+  {
+    "id": "class-01-vocab-005",
+    "kanji": "一つ",
+    "kana": "ひとつ",
+    "meanings": [
+      {
+        "en": "one [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 一."
+  },
+  {
+    "id": "class-01-vocab-006",
+    "kanji": "二つ",
+    "kana": "ふたつ",
+    "meanings": [
+      {
+        "en": "two [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 二."
+  },
+  {
+    "id": "class-01-vocab-007",
+    "kanji": "三つ",
+    "kana": "みっつ",
+    "meanings": [
+      {
+        "en": "three [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 三."
+  },
+  {
+    "id": "class-01-vocab-008",
+    "kanji": "四つ",
+    "kana": "よっつ",
+    "meanings": [
+      {
+        "en": "four [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 四."
+  },
+  {
+    "id": "class-01-vocab-009",
+    "kanji": "五つ",
+    "kana": "いつつ",
+    "meanings": [
+      {
+        "en": "five [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 五."
+  },
+  {
+    "id": "class-01-vocab-010",
+    "kanji": "六つ",
+    "kana": "むっつ",
+    "meanings": [
+      {
+        "en": "six [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 六."
+  },
+  {
+    "id": "class-01-vocab-011",
+    "kanji": "七つ",
+    "kana": "ななつ",
+    "meanings": [
+      {
+        "en": "seven [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 七."
+  },
+  {
+    "id": "class-01-vocab-012",
+    "kanji": "八つ",
+    "kana": "やっつ",
+    "meanings": [
+      {
+        "en": "eight [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 八."
+  },
+  {
+    "id": "class-01-vocab-013",
+    "kanji": "九つ",
+    "kana": "ここのつ",
+    "meanings": [
+      {
+        "en": "nine [counter]"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 4
+      }
+    ],
+    "notes": "Example vocabulary for kanji 九."
+  },
+  {
+    "id": "class-01-vocab-014",
+    "kanji": "1月・一月",
+    "kana": "いちがつ",
+    "meanings": [
+      {
+        "en": "January"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 月."
+  },
+  {
+    "id": "class-01-vocab-015",
+    "kanji": "明るい",
+    "kana": "あかるい",
+    "meanings": [
+      {
+        "en": "bright"
+      },
+      {
+        "en": "bright; clear"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-06"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°06 - synthesis & assignments.pdf",
+        "page": 11
+      }
+    ],
+    "notes": "Example vocabulary for kanji 明."
+  },
+  {
+    "id": "class-01-vocab-016",
+    "kanji": "明日",
+    "kana": "あした・あす",
+    "meanings": [
+      {
+        "en": "tomorrow"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      }
+    ],
+    "notes": "Example vocabulary for kanji 明."
+  },
+  {
+    "id": "class-01-vocab-017",
+    "kanji": "日曜日",
+    "kana": "にちようび",
+    "meanings": [
+      {
+        "en": "Sunday"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-03",
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      }
+    ],
+    "notes": "Example vocabulary for kanji 曜."
+  },
+  {
+    "id": "class-01-vocab-018",
+    "kanji": "月曜日",
+    "kana": "げつようび",
+    "meanings": [
+      {
+        "en": "Monday"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-03",
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 3
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      }
+    ],
+    "notes": "Example vocabulary for kanji 曜."
+  },
+  {
+    "id": "class-01-vocab-019",
+    "kanji": "火曜日",
+    "kana": "かようび",
+    "meanings": [
+      {
+        "en": "Tuesday"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 火."
+  },
+  {
+    "id": "class-01-vocab-020",
+    "kanji": "水曜日",
+    "kana": "すいようび",
+    "meanings": [
+      {
+        "en": "Wednesday"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 水."
+  },
+  {
+    "id": "class-01-vocab-021",
+    "kanji": "木曜日",
+    "kana": "もくようび",
+    "meanings": [
+      {
+        "en": "Thursday"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 木."
+  },
+  {
+    "id": "class-01-vocab-022",
+    "kanji": "お金",
+    "kana": "おかね",
+    "meanings": [
+      {
+        "en": "money"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-02"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "CLASS N°02 — The Japanese Summer Challenge.pdf",
+        "page": 30
+      }
+    ],
+    "notes": "Example vocabulary for kanji 金."
+  },
+  {
+    "id": "class-01-vocab-023",
+    "kanji": "金曜日",
+    "kana": "きんようび",
+    "meanings": [
+      {
+        "en": "Friday"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 金."
+  },
+  {
+    "id": "class-01-vocab-024",
+    "kanji": "土曜日",
+    "kana": "どようび",
+    "meanings": [
+      {
+        "en": "Saturday"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "class-03"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 5
+      },
+      {
+        "file": "Class N°03 - synthesis & assignments.pdf",
+        "page": 3
+      }
+    ],
+    "notes": "Example vocabulary for kanji 土."
+  },
+  {
+    "id": "class-01-vocab-025",
+    "kanji": "日本",
+    "kana": "にほん・にっぽん",
+    "meanings": [
+      {
+        "en": "Japan"
+      }
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 6
+      }
+    ],
+    "notes": "Example vocabulary for kanji 本."
+  },
+  {
+    "id": "class-01-vocab-026",
+    "kanji": "日本人",
+    "kana": "にほんじん",
+    "meanings": [
+      {
+        "en": "Japanese (person)"
+      },
+      {
+        "en": "Japanese [person]"
+      }
+    ],
+    "lessonIds": [
+      "class-01",
+      "extra-practice"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "KANJI - SET N°01 - synthesis & assignments.pdf",
+        "page": 6
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ],
+    "notes": "Example vocabulary for kanji 本."
+  },
+  {
+    "id": "class-01-vocab-028",
+    "kanji": "中国人",
+    "kana": "ちゅうごくじん",
+    "meanings": [
+      {
+        "en": "Chinese (person)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-029",
+    "kanji": "中国語",
+    "kana": "ちゅうごくご",
+    "meanings": [
+      {
+        "en": "Chinese (language)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-030",
+    "kanji": "韓国",
+    "kana": "かんこく",
+    "meanings": [
+      {
+        "en": "South Korea"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-031",
+    "kanji": "韓国人",
+    "kana": "かんこくじん",
+    "meanings": [
+      {
+        "en": "Korean (person)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-032",
+    "kanji": "韓国語",
+    "kana": "かんこくご",
+    "meanings": [
+      {
+        "en": "Korean (language)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-033",
+    "kana": "アメリカ",
+    "meanings": [
+      {
+        "en": "America (USA)"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-034",
+    "kanji": "アメリカ人",
+    "kana": "アメリカじん",
+    "meanings": [
+      {
+        "en": "American (person)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-035",
+    "kanji": "日本",
+    "kana": "にほん",
+    "meanings": [
+      {
+        "en": "Japan"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-038",
+    "kana": "ロシア",
+    "meanings": [
+      {
+        "en": "Russia"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-039",
+    "kanji": "ロシア人",
+    "kana": "ロシアじん",
+    "meanings": [
+      {
+        "en": "Russian (person)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-040",
+    "kanji": "ロシア語",
+    "kana": "ロシアご",
+    "meanings": [
+      {
+        "en": "Russian (language)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-041",
+    "kana": "フランス",
+    "meanings": [
+      {
+        "en": "France"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-044",
+    "kana": "イギリス",
+    "meanings": [
+      {
+        "en": "United Kingdom"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-045",
+    "kanji": "イギリス人",
+    "kana": "イギリスじん",
+    "meanings": [
+      {
+        "en": "British (person)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-047",
+    "kana": "スペイン",
+    "meanings": [
+      {
+        "en": "Spain"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-048",
+    "kanji": "スペイン人",
+    "kana": "スペインじん",
+    "meanings": [
+      {
+        "en": "Spanish (person)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-049",
+    "kanji": "スペイン語",
+    "kana": "スペインご",
+    "meanings": [
+      {
+        "en": "Spanish (language)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-050",
+    "kana": "ドイツ",
+    "meanings": [
+      {
+        "en": "Germany"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-051",
+    "kanji": "ドイツ人",
+    "kana": "ドイツじん",
+    "meanings": [
+      {
+        "en": "German (person)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-052",
+    "kanji": "ドイツ語",
+    "kana": "ドイツご",
+    "meanings": [
+      {
+        "en": "German (language)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-053",
+    "kana": "ベルギー",
+    "meanings": [
+      {
+        "en": "Belgium"
+      }
+    ],
+    "partOfSpeech": [
+      "proper-noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-054",
+    "kanji": "ベルギー人",
+    "kana": "ベルギーじん",
+    "meanings": [
+      {
+        "en": "Belgian (person)"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-056",
+    "kanji": "父",
+    "kana": "ちち",
+    "meanings": [
+      {
+        "en": "father [own family, casual]"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-057",
+    "kanji": "姉",
+    "kana": "あね",
+    "meanings": [
+      {
+        "en": "older sister [own family, casual]"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 31
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-068",
+    "kanji": "家",
+    "kana": "いえ・うち",
+    "meanings": [
+      {
+        "en": "house, home"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 47
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-073",
+    "kana": "テーブル",
+    "meanings": [
+      {
+        "en": "table"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 47
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-076",
+    "kanji": "馬",
+    "kana": "うま",
+    "meanings": [
+      {
+        "en": "horse"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-077",
+    "kanji": "牛",
+    "kana": "うし",
+    "meanings": [
+      {
+        "en": "cow"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-078",
+    "kanji": "魚",
+    "kana": "さかな",
+    "meanings": [
+      {
+        "en": "fish"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 56
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-079",
+    "kana": "ピザ",
+    "meanings": [
+      {
+        "en": "pizza"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-081",
+    "kanji": "寿司",
+    "kana": "すし",
+    "meanings": [
+      {
+        "en": "sushi"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-084",
+    "kana": "コーヒー",
+    "meanings": [
+      {
+        "en": "coffee"
+      }
+    ],
+    "partOfSpeech": [
+      "noun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 68
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-088",
+    "kanji": "私",
+    "kana": "わたし",
+    "meanings": [
+      {
+        "en": "I / me [standard or feminine formal; +たち for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-089",
+    "kanji": "私",
+    "kana": "あたし",
+    "meanings": [
+      {
+        "en": "I / me [feminine; +たち for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-090",
+    "kanji": "私",
+    "kana": "わたくし",
+    "meanings": [
+      {
+        "en": "I / me [formal; +たち for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-091",
+    "kanji": "僕",
+    "kana": "ぼく",
+    "meanings": [
+      {
+        "en": "I / me [humble, masculine; +たち for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-092",
+    "kanji": "俺",
+    "kana": "おれ",
+    "meanings": [
+      {
+        "en": "I / me [virile, masculine; +たち for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-094",
+    "kana": "あなた",
+    "meanings": [
+      {
+        "en": "you [standard but too direct; +たち for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-095",
+    "kanji": "君",
+    "kana": "きみ",
+    "meanings": [
+      {
+        "en": "you [casual; +たち for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-096",
+    "kanji": "お前",
+    "kana": "おまえ",
+    "meanings": [
+      {
+        "en": "you [too direct, rude or provocative; +たち for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-097",
+    "kanji": "皆さん",
+    "kana": "みなさん",
+    "meanings": [
+      {
+        "en": "everyone / you all [very common]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-098",
+    "kanji": "彼",
+    "kana": "かれ",
+    "meanings": [
+      {
+        "en": "he [+ら for plural]"
+      }
+    ],
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 75
+      }
+    ]
+  },
+  {
+    "id": "class-01-vocab-109",
+    "kana": "だ",
+    "meanings": [
+      {
+        "en": "to be [description, irregular]"
+      }
+    ],
+    "partOfSpeech": [
+      "verb-irregular"
+    ],
+    "lessonIds": [
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 101
+      }
+    ]
+  }
+]

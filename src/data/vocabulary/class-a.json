@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "class-a-vocab-001",
+    "kana": "あおい",
+    "meanings": [
+      {
+        "en": "blue"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-002",
+    "kana": "いえ",
+    "meanings": [
+      {
+        "en": "house"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-003",
+    "kana": "うえ",
+    "meanings": [
+      {
+        "en": "up, above"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-004",
+    "kana": "かお",
+    "meanings": [
+      {
+        "en": "face"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-005",
+    "kana": "きく",
+    "meanings": [
+      {
+        "en": "to hear, to listen"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-006",
+    "kana": "おおきい",
+    "meanings": [
+      {
+        "en": "big"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-007",
+    "kana": "すし",
+    "meanings": [
+      {
+        "en": "sushi"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-008",
+    "kana": "かぞく",
+    "meanings": [
+      {
+        "en": "family"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-009",
+    "kana": "さけ",
+    "meanings": [
+      {
+        "en": "alcohol"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-010",
+    "kana": "した",
+    "meanings": [
+      {
+        "en": "below, under"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-011",
+    "kana": "つち",
+    "meanings": [
+      {
+        "en": "earth, soil"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-012",
+    "kana": "だいがく",
+    "meanings": [
+      {
+        "en": "university"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-013",
+    "kana": "なに",
+    "meanings": [
+      {
+        "en": "what"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-014",
+    "kana": "いぬ",
+    "meanings": [
+      {
+        "en": "dog"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-015",
+    "kana": "おかね",
+    "meanings": [
+      {
+        "en": "money"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-016",
+    "kana": "はな",
+    "meanings": [
+      {
+        "en": "flower"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-017",
+    "kana": "ひと",
+    "meanings": [
+      {
+        "en": "person"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-018",
+    "kana": "ぶた",
+    "meanings": [
+      {
+        "en": "pig"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-019",
+    "kana": "みず",
+    "meanings": [
+      {
+        "en": "water"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-020",
+    "kana": "むすめ",
+    "meanings": [
+      {
+        "en": "daughter"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-021",
+    "kana": "にわ",
+    "meanings": [
+      {
+        "en": "garden"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-022",
+    "kana": "まつ",
+    "meanings": [
+      {
+        "en": "to wait"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-023",
+    "kana": "やま",
+    "meanings": [
+      {
+        "en": "mountain"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-024",
+    "kana": "よむ",
+    "meanings": [
+      {
+        "en": "to read"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-025",
+    "kana": "ゆき",
+    "meanings": [
+      {
+        "en": "snow"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-026",
+    "kana": "そら",
+    "meanings": [
+      {
+        "en": "sky"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-027",
+    "kana": "する",
+    "meanings": [
+      {
+        "en": "to do"
+      },
+      {
+        "en": "to play [sport] / to do"
+      },
+      {
+        "en": "to do [irregular]"
+      }
+    ],
+    "lessonIds": [
+      "class-a",
+      "extra-practice",
+      "class-01"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      },
+      {
+        "file": "Extra Activity - Building Sentences 1.pdf",
+        "page": 5,
+        "note": "Vocabulary table image"
+      },
+      {
+        "file": "CLASS N°01 — The Japanese Summer Challenge.pdf",
+        "page": 100
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-028",
+    "kana": "だれ",
+    "meanings": [
+      {
+        "en": "who"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-029",
+    "kana": "わかる",
+    "meanings": [
+      {
+        "en": "to understand"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-030",
+    "kana": "わたし",
+    "meanings": [
+      {
+        "en": "I"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-032",
+    "kana": "よん",
+    "meanings": [
+      {
+        "en": "four"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-033",
+    "kana": "にほんご",
+    "meanings": [
+      {
+        "en": "Japanese [language]"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-034",
+    "kana": "おちゃ",
+    "meanings": [
+      {
+        "en": "tea"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-035",
+    "kana": "ひゃく",
+    "meanings": [
+      {
+        "en": "hundred"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-036",
+    "kana": "じしょ",
+    "meanings": [
+      {
+        "en": "dictionary"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-037",
+    "kana": "かのじょ",
+    "meanings": [
+      {
+        "en": "she"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-038",
+    "kana": "ちょっと",
+    "meanings": [
+      {
+        "en": "a bit"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-039",
+    "kana": "がっこう",
+    "meanings": [
+      {
+        "en": "school"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-040",
+    "kana": "せんせい",
+    "meanings": [
+      {
+        "en": "teacher"
+      }
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-041",
+    "kana": "こんにちは",
+    "meanings": [
+      {
+        "en": "hello"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-042",
+    "kana": "おはよう（ございます）",
+    "meanings": [
+      {
+        "en": "good morning [formal]"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-043",
+    "kana": "こんばんは",
+    "meanings": [
+      {
+        "en": "good evening"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-044",
+    "kana": "おやすみ（なさい）",
+    "meanings": [
+      {
+        "en": "good night [formal]"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-045",
+    "kana": "さようなら",
+    "meanings": [
+      {
+        "en": "goodbye"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-046",
+    "kanji": "また明日",
+    "kana": "またあした",
+    "meanings": [
+      {
+        "en": "see you tomorrow"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-047",
+    "kana": "またね",
+    "meanings": [
+      {
+        "en": "see you"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-048",
+    "kanji": "お疲れ様（でした）",
+    "kana": "おつかれさま（でした）",
+    "meanings": [
+      {
+        "en": "goodbye [you've done a great job]"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-049",
+    "kana": "はじめまして",
+    "meanings": [
+      {
+        "en": "nice to meet you"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-050",
+    "kanji": "よろしく（お願いします）",
+    "kana": "よろしく（おねがいします）",
+    "meanings": [
+      {
+        "en": "nice to meet you [formal]"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-051",
+    "kanji": "お元気ですか",
+    "kana": "おげんきですか",
+    "meanings": [
+      {
+        "en": "how are you?"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-052",
+    "kanji": "元気です",
+    "kana": "げんきです",
+    "meanings": [
+      {
+        "en": "I'm doing well"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-053",
+    "kana": "ください",
+    "meanings": [
+      {
+        "en": "please [used with verbs]"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-054",
+    "kanji": "お願いします",
+    "kana": "おねがいします",
+    "meanings": [
+      {
+        "en": "please [used with nouns, formal]"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-055",
+    "kana": "ありがとう（ございます）",
+    "meanings": [
+      {
+        "en": "thank you"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-056",
+    "kana": "どういたしまして",
+    "meanings": [
+      {
+        "en": "you're welcome"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-057",
+    "kana": "すみません",
+    "meanings": [
+      {
+        "en": "excuse me"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-058",
+    "kana": "ごめん（なさい）",
+    "meanings": [
+      {
+        "en": "I'm sorry [formal]"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-059",
+    "kana": "はい",
+    "meanings": [
+      {
+        "en": "yes"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-060",
+    "kana": "いいえ",
+    "meanings": [
+      {
+        "en": "no"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-061",
+    "kanji": "行ってきます",
+    "kana": "いってきます",
+    "meanings": [
+      {
+        "en": "[said when leaving] I'm leaving"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "id": "class-a-vocab-062",
+    "kanji": "行ってらっしゃい",
+    "kana": "いってらっしゃい",
+    "meanings": [
+      {
+        "en": "[said to see someone off] take care"
+      }
+    ],
+    "partOfSpeech": [
+      "expression"
+    ],
+    "lessonIds": [
+      "class-a"
+    ],
+    "origin": "course",
+    "source": [
+      {
+        "file": "Class A - synthesis & assignments.pdf",
+        "page": 1
+      }
+    ]
+  }
+]
