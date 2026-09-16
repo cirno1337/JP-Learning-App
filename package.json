@@ -10,7 +10,9 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "validate-content": "tsx scripts/validate/validate-content.ts"
+    "validate-content": "tsx scripts/validate/validate-content.ts",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.2.8",
@@ -24,6 +26,7 @@
     "@types/react": "^19.2.18",
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "jsdom": "^30.0.1",
     "oxlint": "^1.81.0",
     "tsx": "^4.23.13",
